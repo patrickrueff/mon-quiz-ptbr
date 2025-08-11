@@ -1,0 +1,1342 @@
+[
+  {
+    "pt": "Olá",
+    "fr": "Bonjour / Salut",
+    "phon": "ola"
+  },
+  {
+    "pt": "Oi",
+    "fr": "Salut (informel)",
+    "phon": "oï"
+  },
+  {
+    "pt": "Bom dia",
+    "fr": "Bonjour (matin)",
+    "phon": "bohm djia"
+  },
+  {
+    "pt": "Boa tarde",
+    "fr": "Bon après-midi",
+    "phon": "boa tardj"
+  },
+  {
+    "pt": "Boa noite",
+    "fr": "Bonsoir / Bonne nuit",
+    "phon": "boa noïtchi"
+  },
+  {
+    "pt": "Tchau",
+    "fr": "Au revoir",
+    "phon": "tcha-ou"
+  },
+  {
+    "pt": "Eu me chamo...",
+    "fr": "Je m'appelle...",
+    "phon": "éou mé chammou"
+  },
+  {
+    "pt": "Meu nome é...",
+    "fr": "Mon nom est...",
+    "phon": "méou nomé é"
+  },
+  {
+    "pt": "De onde você é?",
+    "fr": "D'où êtes-vous ?",
+    "phon": "djé onde vosé é"
+  },
+  {
+    "pt": "Eu sou da França",
+    "fr": "Je viens de France",
+    "phon": "éou sou da fransa"
+  },
+  {
+    "pt": "Quantos anos você tem?",
+    "fr": "Quel âge avez-vous ?",
+    "phon": "couantos annous vosé tẽï"
+  },
+  {
+    "pt": "Eu tenho 30 anos",
+    "fr": "J'ai 30 ans",
+    "phon": "éou tẽïngno trente annous"
+  },
+  {
+    "pt": "zero",
+    "fr": "zéro",
+    "phon": "zè-ro"
+  },
+  {
+    "pt": "um",
+    "fr": "un",
+    "phon": "oum"
+  },
+  {
+    "pt": "dois",
+    "fr": "deux",
+    "phon": "doïss"
+  },
+  {
+    "pt": "três",
+    "fr": "trois",
+    "phon": "trèïss"
+  },
+  {
+    "pt": "quatro",
+    "fr": "quatre",
+    "phon": "kouatro"
+  },
+  {
+    "pt": "cinco",
+    "fr": "cinq",
+    "phon": "cingcou"
+  },
+  {
+    "pt": "onze",
+    "fr": "onze",
+    "phon": "onzé"
+  },
+  {
+    "pt": "doze",
+    "fr": "douze",
+    "phon": "dozé"
+  },
+  {
+    "pt": "treze",
+    "fr": "treize",
+    "phon": "trèzé"
+  },
+  {
+    "pt": "quatorze",
+    "fr": "quatorze",
+    "phon": "catôrzi"
+  },
+  {
+    "pt": "quinze",
+    "fr": "quinze",
+    "phon": "kinzi"
+  },
+  {
+    "pt": "dezesseis",
+    "fr": "seize",
+    "phon": "dèzéssèïss"
+  },
+  {
+    "pt": "segunda-feira",
+    "fr": "lundi",
+    "phon": "sègounda fèïra"
+  },
+  {
+    "pt": "terça-feira",
+    "fr": "mardi",
+    "phon": "tèrssa fèïra"
+  },
+  {
+    "pt": "quarta-feira",
+    "fr": "mercredi",
+    "phon": "kouarta fèïra"
+  },
+  {
+    "pt": "quinta-feira",
+    "fr": "jeudi",
+    "phon": "quïnta fèïra"
+  },
+  {
+    "pt": "sexta-feira",
+    "fr": "vendredi",
+    "phon": "sèïsta fèïra"
+  },
+  {
+    "pt": "sábado",
+    "fr": "samedi",
+    "phon": "sabbadou"
+  },
+  {
+    "pt": "janeiro",
+    "fr": "janvier",
+    "phon": "janèïro"
+  },
+  {
+    "pt": "fevereiro",
+    "fr": "février",
+    "phon": "févrèïro"
+  },
+  {
+    "pt": "março",
+    "fr": "mars",
+    "phon": "marssou"
+  },
+  {
+    "pt": "abril",
+    "fr": "avril",
+    "phon": "abril"
+  },
+  {
+    "pt": "maio",
+    "fr": "mai",
+    "phon": "maïo"
+  },
+  {
+    "pt": "junho",
+    "fr": "juin",
+    "phon": "jouño"
+  },
+  {
+    "pt": "julho",
+    "fr": "juillet",
+    "phon": "joulio"
+  },
+  {
+    "pt": "agosto",
+    "fr": "août",
+    "phon": "agôstou"
+  },
+  {
+    "pt": "setembro",
+    "fr": "septembre",
+    "phon": "sèttembro"
+  },
+  {
+    "pt": "outubro",
+    "fr": "octobre",
+    "phon": "oûtoubro"
+  },
+  {
+    "pt": "novembro",
+    "fr": "novembre",
+    "phon": "novembro"
+  },
+  {
+    "pt": "dezembro",
+    "fr": "décembre",
+    "phon": "dèzembro"
+  },
+  {
+    "pt": "vermelho",
+    "fr": "rouge",
+    "phon": "vermè-lio"
+  },
+  {
+    "pt": "azul",
+    "fr": "bleu",
+    "phon": "azoul"
+  },
+  {
+    "pt": "amarelo",
+    "fr": "jaune",
+    "phon": "amarè-lo"
+  },
+  {
+    "pt": "verde",
+    "fr": "vert",
+    "phon": "vèrdi"
+  },
+  {
+    "pt": "preto",
+    "fr": "noir",
+    "phon": "prétou"
+  },
+  {
+    "pt": "branco",
+    "fr": "blanc",
+    "phon": "bran-co"
+  },
+  {
+    "pt": "cinza",
+    "fr": "gris",
+    "phon": "cinza"
+  },
+  {
+    "pt": "rosa",
+    "fr": "rose",
+    "phon": "roza"
+  },
+  {
+    "pt": "roxo",
+    "fr": "violet",
+    "phon": "rocho"
+  },
+  {
+    "pt": "marrom",
+    "fr": "marron",
+    "phon": "marron"
+  },
+  {
+    "pt": "bege",
+    "fr": "beige",
+    "phon": "bèjé"
+  },
+  {
+    "pt": "laranja",
+    "fr": "orange",
+    "phon": "laranja"
+  },
+  {
+    "pt": "mãe",
+    "fr": "mère",
+    "phon": "mãe (mai~)"
+  },
+  {
+    "pt": "pai",
+    "fr": "père",
+    "phon": "paï"
+  },
+  {
+    "pt": "filho",
+    "fr": "fils",
+    "phon": "filiou"
+  },
+  {
+    "pt": "filha",
+    "fr": "fille",
+    "phon": "filia"
+  },
+  {
+    "pt": "irmão",
+    "fr": "frère",
+    "phon": "irmão (irma-oun)"
+  },
+  {
+    "pt": "irmã",
+    "fr": "soeur",
+    "phon": "irmã (irm-ã)"
+  },
+  {
+    "pt": "esposo",
+    "fr": "mari",
+    "phon": "èspôzo"
+  },
+  {
+    "pt": "esposa",
+    "fr": "femme (épouse)",
+    "phon": "èspôza"
+  },
+  {
+    "pt": "avô",
+    "fr": "grand-père",
+    "phon": "avô (avô)"
+  },
+  {
+    "pt": "avó",
+    "fr": "grand-mère",
+    "phon": "avó (avó)"
+  },
+  {
+    "pt": "tio",
+    "fr": "oncle",
+    "phon": "tchi-ô"
+  },
+  {
+    "pt": "tia",
+    "fr": "tante",
+    "phon": "tchi-a"
+  },
+  {
+    "pt": "casa",
+    "fr": "maison",
+    "phon": "caza"
+  },
+  {
+    "pt": "apartamento",
+    "fr": "appartement",
+    "phon": "apartamèntou"
+  },
+  {
+    "pt": "sala",
+    "fr": "salon",
+    "phon": "sala"
+  },
+  {
+    "pt": "quarto",
+    "fr": "chambre",
+    "phon": "kouarto"
+  },
+  {
+    "pt": "cozinha",
+    "fr": "cuisine",
+    "phon": "couzinha"
+  },
+  {
+    "pt": "banheiro",
+    "fr": "salle de bain",
+    "phon": "banhèïrou"
+  },
+  {
+    "pt": "mesa",
+    "fr": "table",
+    "phon": "méza"
+  },
+  {
+    "pt": "cadeira",
+    "fr": "chaise",
+    "phon": "cadaïra"
+  },
+  {
+    "pt": "cama",
+    "fr": "lit",
+    "phon": "cama"
+  },
+  {
+    "pt": "sofá",
+    "fr": "canapé",
+    "phon": "sofá"
+  },
+  {
+    "pt": "prato",
+    "fr": "assiette",
+    "phon": "pratou"
+  },
+  {
+    "pt": "copo",
+    "fr": "verre",
+    "phon": "copou"
+  },
+  {
+    "pt": "geladeira",
+    "fr": "réfrigérateur",
+    "phon": "jéladèïra"
+  },
+  {
+    "pt": "fogão",
+    "fr": "cuisinière",
+    "phon": "fogão (foga-oun)"
+  },
+  {
+    "pt": "forno",
+    "fr": "four",
+    "phon": "forno"
+  },
+  {
+    "pt": "micro-ondas",
+    "fr": "micro-ondes",
+    "phon": "micro-ondas"
+  },
+  {
+    "pt": "panela",
+    "fr": "casserole",
+    "phon": "panèla"
+  },
+  {
+    "pt": "colher",
+    "fr": "cuillère",
+    "phon": "coulyèr"
+  },
+  {
+    "pt": "pão",
+    "fr": "pain",
+    "phon": "pã-oun"
+  },
+  {
+    "pt": "manteiga",
+    "fr": "beurre",
+    "phon": "mantèïga"
+  },
+  {
+    "pt": "queijo",
+    "fr": "fromage",
+    "phon": "kéïjou"
+  },
+  {
+    "pt": "leite",
+    "fr": "lait",
+    "phon": "leïtchi"
+  },
+  {
+    "pt": "arroz",
+    "fr": "riz",
+    "phon": "arroz"
+  },
+  {
+    "pt": "feijão",
+    "fr": "haricots (noirs)",
+    "phon": "feij-ã-oun"
+  },
+  {
+    "pt": "fruta",
+    "fr": "fruit",
+    "phon": "frouta"
+  },
+  {
+    "pt": "maçã",
+    "fr": "pomme",
+    "phon": "mâssã"
+  },
+  {
+    "pt": "banana",
+    "fr": "banane",
+    "phon": "banana"
+  },
+  {
+    "pt": "laranja (fruta)",
+    "fr": "orange (fruit)",
+    "phon": "laranja"
+  },
+  {
+    "pt": "uva",
+    "fr": "raisin",
+    "phon": "ouva"
+  },
+  {
+    "pt": "tomate",
+    "fr": "tomate",
+    "phon": "tomatchi"
+  },
+  {
+    "pt": "café",
+    "fr": "café",
+    "phon": "cafè"
+  },
+  {
+    "pt": "chá",
+    "fr": "thé",
+    "phon": "cha"
+  },
+  {
+    "pt": "água",
+    "fr": "eau",
+    "phon": "agoua"
+  },
+  {
+    "pt": "suco",
+    "fr": "jus",
+    "phon": "souco"
+  },
+  {
+    "pt": "sal",
+    "fr": "sel",
+    "phon": "sal"
+  },
+  {
+    "pt": "açúcar",
+    "fr": "sucre",
+    "phon": "assoucar"
+  },
+  {
+    "pt": "camisa",
+    "fr": "chemise",
+    "phon": "camiza"
+  },
+  {
+    "pt": "camiseta",
+    "fr": "t-shirt",
+    "phon": "camizéta"
+  },
+  {
+    "pt": "calça",
+    "fr": "pantalon",
+    "phon": "calsa"
+  },
+  {
+    "pt": "saia",
+    "fr": "jupe",
+    "phon": "sa-ïa"
+  },
+  {
+    "pt": "vestido",
+    "fr": "robe",
+    "phon": "vestidou"
+  },
+  {
+    "pt": "casaco",
+    "fr": "manteau",
+    "phon": "casaco"
+  },
+  {
+    "pt": "sapato",
+    "fr": "chaussure",
+    "phon": "sapato"
+  },
+  {
+    "pt": "tênis",
+    "fr": "baskets",
+    "phon": "tèniss"
+  },
+  {
+    "pt": "meia",
+    "fr": "chaussette",
+    "phon": "méïa"
+  },
+  {
+    "pt": "boné",
+    "fr": "casquette",
+    "phon": "bonè"
+  },
+  {
+    "pt": "chapéu",
+    "fr": "chapeau",
+    "phon": "chapé-oun"
+  },
+  {
+    "pt": "cinto",
+    "fr": "ceinture",
+    "phon": "cinto"
+  },
+  {
+    "pt": "ônibus",
+    "fr": "bus",
+    "phon": "ônibous"
+  },
+  {
+    "pt": "metrô",
+    "fr": "métro",
+    "phon": "métrô"
+  },
+  {
+    "pt": "trem",
+    "fr": "train",
+    "phon": "trẽï"
+  },
+  {
+    "pt": "táxi",
+    "fr": "taxi",
+    "phon": "tacssi"
+  },
+  {
+    "pt": "carro",
+    "fr": "voiture",
+    "phon": "carro"
+  },
+  {
+    "pt": "a pé",
+    "fr": "à pied",
+    "phon": "a pé"
+  },
+  {
+    "pt": "aeroporto",
+    "fr": "aéroport",
+    "phon": "aéropôrto"
+  },
+  {
+    "pt": "estação",
+    "fr": "gare / station",
+    "phon": "estass-ã-oun"
+  },
+  {
+    "pt": "direita",
+    "fr": "droite",
+    "phon": "dirèïta"
+  },
+  {
+    "pt": "esquerda",
+    "fr": "gauche",
+    "phon": "èssquèrda"
+  },
+  {
+    "pt": "em frente",
+    "fr": "tout droit",
+    "phon": "ẽï frènti"
+  },
+  {
+    "pt": "perto",
+    "fr": "près",
+    "phon": "pèrto"
+  },
+  {
+    "pt": "cabeça",
+    "fr": "tête",
+    "phon": "cabéssa"
+  },
+  {
+    "pt": "olho",
+    "fr": "œil",
+    "phon": "olho"
+  },
+  {
+    "pt": "boca",
+    "fr": "bouche",
+    "phon": "boca"
+  },
+  {
+    "pt": "dente",
+    "fr": "dent",
+    "phon": "dènchi"
+  },
+  {
+    "pt": "mão",
+    "fr": "main",
+    "phon": "mã-oun"
+  },
+  {
+    "pt": "braço",
+    "fr": "bras",
+    "phon": "brasso"
+  },
+  {
+    "pt": "perna",
+    "fr": "jambe",
+    "phon": "pèrna"
+  },
+  {
+    "pt": "pé",
+    "fr": "pied",
+    "phon": "pé"
+  },
+  {
+    "pt": "estômago",
+    "fr": "estomac",
+    "phon": "estômago"
+  },
+  {
+    "pt": "dor",
+    "fr": "douleur",
+    "phon": "dôr"
+  },
+  {
+    "pt": "remédio",
+    "fr": "médicament",
+    "phon": "rémédio"
+  },
+  {
+    "pt": "hospital",
+    "fr": "hôpital",
+    "phon": "ospital"
+  },
+  {
+    "pt": "tempo",
+    "fr": "temps (météo)",
+    "phon": "tẽïmpou"
+  },
+  {
+    "pt": "calor",
+    "fr": "chaleur",
+    "phon": "calôr"
+  },
+  {
+    "pt": "frio",
+    "fr": "froid",
+    "phon": "frrio"
+  },
+  {
+    "pt": "chuva",
+    "fr": "pluie",
+    "phon": "chouva"
+  },
+  {
+    "pt": "sol",
+    "fr": "soleil",
+    "phon": "sol"
+  },
+  {
+    "pt": "nublado",
+    "fr": "nuageux",
+    "phon": "noublado"
+  },
+  {
+    "pt": "trabalho",
+    "fr": "travail",
+    "phon": "trabailo"
+  },
+  {
+    "pt": "emprego",
+    "fr": "emploi",
+    "phon": "èmprègo"
+  },
+  {
+    "pt": "empresa",
+    "fr": "entreprise",
+    "phon": "èmprésa"
+  },
+  {
+    "pt": "colega",
+    "fr": "collègue",
+    "phon": "coléga"
+  },
+  {
+    "pt": "reunião",
+    "fr": "réunion",
+    "phon": "réouni-ã-oun"
+  },
+  {
+    "pt": "projeto",
+    "fr": "projet",
+    "phon": "projéto"
+  },
+  {
+    "pt": "estudar",
+    "fr": "étudier",
+    "phon": "èstoudar"
+  },
+  {
+    "pt": "aprender",
+    "fr": "apprendre",
+    "phon": "aprrendèr"
+  },
+  {
+    "pt": "ensinar",
+    "fr": "enseigner",
+    "phon": "ènsinar"
+  },
+  {
+    "pt": "ler",
+    "fr": "lire",
+    "phon": "lèr"
+  },
+  {
+    "pt": "escrever",
+    "fr": "écrire",
+    "phon": "èsscrèvèr"
+  },
+  {
+    "pt": "falar",
+    "fr": "parler",
+    "phon": "falar"
+  },
+  {
+    "pt": "gostar de",
+    "fr": "aimer",
+    "phon": "gostarr dé"
+  },
+  {
+    "pt": "querer",
+    "fr": "vouloir",
+    "phon": "quèrrèr"
+  },
+  {
+    "pt": "precisar de",
+    "fr": "avoir besoin de",
+    "phon": "précizar dé"
+  },
+  {
+    "pt": "comprar",
+    "fr": "acheter",
+    "phon": "comprarr"
+  },
+  {
+    "pt": "vender",
+    "fr": "vendre",
+    "phon": "vendèr"
+  },
+  {
+    "pt": "ir",
+    "fr": "aller",
+    "phon": "ir"
+  },
+  {
+    "pt": "Eu gostaria de café",
+    "fr": "Je voudrais Eu gostaria de café",
+    "phon": "eu gostaria de cafè"
+  },
+  {
+    "pt": "Eu gostaria de chá",
+    "fr": "Je voudrais Eu gostaria de thé",
+    "phon": "eu gostaria de cha"
+  },
+  {
+    "pt": "Eu gostaria de água",
+    "fr": "Je voudrais Eu gostaria de eau",
+    "phon": "eu gostaria de agoua"
+  },
+  {
+    "pt": "Eu gostaria de suco",
+    "fr": "Je voudrais Eu gostaria de jus",
+    "phon": "eu gostaria de souco"
+  },
+  {
+    "pt": "Eu gostaria de arroz",
+    "fr": "Je voudrais Eu gostaria de riz",
+    "phon": "eu gostaria de arroz"
+  },
+  {
+    "pt": "Eu gostaria de feijão",
+    "fr": "Je voudrais Eu gostaria de haricots (noirs)",
+    "phon": "eu gostaria de feij-ã-oun"
+  },
+  {
+    "pt": "Onde fica o aeroporto?",
+    "fr": "Où se trouve Onde fica o aéroport",
+    "phon": "onde fica o aéropôrto"
+  },
+  {
+    "pt": "Onde fica a estação?",
+    "fr": "Où se trouve Onde fica a gare / station",
+    "phon": "onde fica a estass-ã-oun"
+  },
+  {
+    "pt": "Onde fica o hotel?",
+    "fr": "Où se trouve Onde fica o hotel",
+    "phon": "onde fica o hotel"
+  },
+  {
+    "pt": "Onde fica o restaurante?",
+    "fr": "Où se trouve Onde fica o restaurante",
+    "phon": "onde fica o restaurante"
+  },
+  {
+    "pt": "Onde fica o hospital?",
+    "fr": "Où se trouve Onde fica o hôpital",
+    "phon": "onde fica o ospital"
+  },
+  {
+    "pt": "Onde fica o centro?",
+    "fr": "Où se trouve Onde fica o centro",
+    "phon": "onde fica o centro"
+  },
+  {
+    "pt": "Eu gosto de açúcar",
+    "fr": "J'aime Eu gosto de sucre",
+    "phon": "eu gosto de assoucar"
+  },
+  {
+    "pt": "Eu gosto de sal",
+    "fr": "J'aime Eu gosto de sel",
+    "phon": "eu gosto de sal"
+  },
+  {
+    "pt": "Eu gosto de glúten",
+    "fr": "J'aime Eu gosto de gluten",
+    "phon": "eu gosto de gloutèn"
+  },
+  {
+    "pt": "Eu gosto de lactose",
+    "fr": "J'aime Eu gosto de lactose",
+    "phon": "eu gosto de lactôzi"
+  },
+  {
+    "pt": "Eu preciso de açúcar",
+    "fr": "J'ai besoin de Eu preciso de sucre",
+    "phon": "eu preciso de assoucar"
+  },
+  {
+    "pt": "Eu preciso de sal",
+    "fr": "J'ai besoin de Eu preciso de sel",
+    "phon": "eu preciso de sal"
+  },
+  {
+    "pt": "Por favor",
+    "fr": "S'il vous plaît",
+    "phon": "pôr favôr"
+  },
+  {
+    "pt": "Obrigado",
+    "fr": "Merci (dit par un homme)",
+    "phon": "obrigado"
+  },
+  {
+    "pt": "Obrigada",
+    "fr": "Merci (dit par une femme)",
+    "phon": "obrigada"
+  },
+  {
+    "pt": "Desculpa",
+    "fr": "Pardon / Désolé(e)",
+    "phon": "dèsscoupa"
+  },
+  {
+    "pt": "Com licença",
+    "fr": "Excusez-moi (pour passer)",
+    "phon": "con lissènssa"
+  },
+  {
+    "pt": "Tudo bem?",
+    "fr": "Ça va ?",
+    "phon": "toudou bẽï"
+  },
+  {
+    "pt": "Onde você mora?",
+    "fr": "Où habitez-vous ?",
+    "phon": "ondjé vosé mora"
+  },
+  {
+    "pt": "Eu moro em Paris",
+    "fr": "J'habite à Paris",
+    "phon": "éou móro ẽï Paris"
+  },
+  {
+    "pt": "seis",
+    "fr": "six",
+    "phon": "seïss"
+  },
+  {
+    "pt": "sete",
+    "fr": "sept",
+    "phon": "sètchi"
+  },
+  {
+    "pt": "oito",
+    "fr": "huit",
+    "phon": "oïto"
+  },
+  {
+    "pt": "nove",
+    "fr": "neuf",
+    "phon": "nové"
+  },
+  {
+    "pt": "dez",
+    "fr": "dix",
+    "phon": "dèïss"
+  },
+  {
+    "pt": "dezessete",
+    "fr": "dix-sept",
+    "phon": "dèzéssètchi"
+  },
+  {
+    "pt": "dezoito",
+    "fr": "dix-huit",
+    "phon": "dèzoïto"
+  },
+  {
+    "pt": "dezenove",
+    "fr": "dix-neuf",
+    "phon": "dèzenové"
+  },
+  {
+    "pt": "vinte",
+    "fr": "vingt",
+    "phon": "vinté"
+  },
+  {
+    "pt": "domingo",
+    "fr": "dimanche",
+    "phon": "doumingou"
+  },
+  {
+    "pt": "amigo",
+    "fr": "ami",
+    "phon": "amigo"
+  },
+  {
+    "pt": "amiga",
+    "fr": "amie",
+    "phon": "amiga"
+  },
+  {
+    "pt": "varanda",
+    "fr": "balcon",
+    "phon": "varanda"
+  },
+  {
+    "pt": "jardim",
+    "fr": "jardin",
+    "phon": "jardim"
+  },
+  {
+    "pt": "garagem",
+    "fr": "garage",
+    "phon": "garajèïm"
+  },
+  {
+    "pt": "escritório",
+    "fr": "bureau",
+    "phon": "escritoriou"
+  },
+  {
+    "pt": "garfo",
+    "fr": "fourchette",
+    "phon": "garfou"
+  },
+  {
+    "pt": "faca",
+    "fr": "couteau",
+    "phon": "faca"
+  },
+  {
+    "pt": "carne",
+    "fr": "viande",
+    "phon": "carné"
+  },
+  {
+    "pt": "frango",
+    "fr": "poulet",
+    "phon": "frango"
+  },
+  {
+    "pt": "peixe",
+    "fr": "poisson",
+    "phon": "péïché"
+  },
+  {
+    "pt": "salada",
+    "fr": "salade",
+    "phon": "salada"
+  },
+  {
+    "pt": "batata",
+    "fr": "pomme de terre",
+    "phon": "batata"
+  },
+  {
+    "pt": "cenoura",
+    "fr": "carotte",
+    "phon": "cénoura"
+  },
+  {
+    "pt": "cebola",
+    "fr": "oignon",
+    "phon": "cébola"
+  },
+  {
+    "pt": "pimenta",
+    "fr": "piment/poivre",
+    "phon": "pimenta"
+  },
+  {
+    "pt": "óleo",
+    "fr": "huile",
+    "phon": "olio"
+  },
+  {
+    "pt": "azeite",
+    "fr": "huile d'olive",
+    "phon": "azéïtchi"
+  },
+  {
+    "pt": "tamanho",
+    "fr": "taille",
+    "phon": "tamagno"
+  },
+  {
+    "pt": "provador",
+    "fr": "cabine d'essayage",
+    "phon": "provador"
+  },
+  {
+    "pt": "barato",
+    "fr": "pas cher",
+    "phon": "barato"
+  },
+  {
+    "pt": "caro",
+    "fr": "cher",
+    "phon": "caro"
+  },
+  {
+    "pt": "longe",
+    "fr": "loin",
+    "phon": "lonjé"
+  },
+  {
+    "pt": "farmácia",
+    "fr": "pharmacie",
+    "phon": "farmassia"
+  },
+  {
+    "pt": "alergia",
+    "fr": "allergie",
+    "phon": "alergia"
+  },
+  {
+    "pt": "febre",
+    "fr": "fièvre",
+    "phon": "fèbré"
+  },
+  {
+    "pt": "gripe",
+    "fr": "grippe",
+    "phon": "gripé"
+  },
+  {
+    "pt": "vento",
+    "fr": "vent",
+    "phon": "vèntou"
+  },
+  {
+    "pt": "neve",
+    "fr": "neige",
+    "phon": "nèvé"
+  },
+  {
+    "pt": "hoje",
+    "fr": "aujourd'hui",
+    "phon": "ôjé"
+  },
+  {
+    "pt": "amanhã",
+    "fr": "demain",
+    "phon": "ama-gnã"
+  },
+  {
+    "pt": "ontem",
+    "fr": "hier",
+    "phon": "ontèm"
+  },
+  {
+    "pt": "ouvir",
+    "fr": "écouter",
+    "phon": "ovirr"
+  },
+  {
+    "pt": "ver",
+    "fr": "voir",
+    "phon": "vèr"
+  },
+  {
+    "pt": "vir",
+    "fr": "venir",
+    "phon": "virr"
+  },
+  {
+    "pt": "chegar",
+    "fr": "arriver",
+    "phon": "chégar"
+  },
+  {
+    "pt": "sair",
+    "fr": "sortir",
+    "phon": "saïr"
+  },
+  {
+    "pt": "abrir",
+    "fr": "ouvrir",
+    "phon": "abrirr"
+  },
+  {
+    "pt": "fechar",
+    "fr": "fermer",
+    "phon": "féchar"
+  },
+  {
+    "pt": "Eu gostaria de carne",
+    "fr": "Je voudrais Eu gostaria de viande",
+    "phon": "eu gostaria de carné"
+  },
+  {
+    "pt": "Eu gostaria de frango",
+    "fr": "Je voudrais Eu gostaria de poulet",
+    "phon": "eu gostaria de frango"
+  },
+  {
+    "pt": "Eu gostaria de peixe",
+    "fr": "Je voudrais Eu gostaria de poisson",
+    "phon": "eu gostaria de péïché"
+  },
+  {
+    "pt": "Eu gostaria de salada",
+    "fr": "Je voudrais Eu gostaria de salade",
+    "phon": "eu gostaria de salada"
+  },
+  {
+    "pt": "Eu quero café",
+    "fr": "Je veux Eu quero café",
+    "phon": "eu quero cafè"
+  },
+  {
+    "pt": "Eu quero chá",
+    "fr": "Je veux Eu quero thé",
+    "phon": "eu quero cha"
+  },
+  {
+    "pt": "É perto",
+    "fr": "É perto",
+    "phon": "é perto"
+  },
+  {
+    "pt": "É longe",
+    "fr": "É longe",
+    "phon": "é longe"
+  },
+  {
+    "pt": "Vire à direita",
+    "fr": "Vire à direita",
+    "phon": "vire à direita"
+  },
+  {
+    "pt": "Vire à esquerda",
+    "fr": "Vire à esquerda",
+    "phon": "vire à esquerda"
+  },
+  {
+    "pt": "Siga em frente",
+    "fr": "Siga em frente",
+    "phon": "siga em frente"
+  },
+  {
+    "pt": "Eu preciso de glúten",
+    "fr": "J'ai besoin de Eu preciso de gluten",
+    "phon": "eu preciso de gloutèn"
+  },
+  {
+    "pt": "Eu preciso de lactose",
+    "fr": "J'ai besoin de Eu preciso de lactose",
+    "phon": "eu preciso de lactôzi"
+  },
+  {
+    "pt": "Eu trabalho em o aeroporto",
+    "fr": "Je travaille à Eu travail em o aéroport",
+    "phon": "eu trabailo em o aéropôrto"
+  },
+  {
+    "pt": "Eu trabalho em a estação",
+    "fr": "Je travaille à Eu travail em a gare / station",
+    "phon": "eu trabailo em a estass-ã-oun"
+  },
+  {
+    "pt": "Eu trabalho em o hotel",
+    "fr": "Je travaille à Eu travail em o hotel",
+    "phon": "eu trabailo em o hotel"
+  },
+  {
+    "pt": "Eu trabalho em o restaurante",
+    "fr": "Je travaille à Eu travail em o restaurante",
+    "phon": "eu trabailo em o restaurante"
+  },
+  {
+    "pt": "Tudo bem",
+    "fr": "Ça va",
+    "phon": "toudou bẽï"
+  },
+  {
+    "pt": "Prazer",
+    "fr": "Enchanté(e)",
+    "phon": "prazèr"
+  },
+  {
+    "pt": "Eu quero água",
+    "fr": "Je veux Eu quero eau",
+    "phon": "eu quero agoua"
+  },
+  {
+    "pt": "Eu quero suco",
+    "fr": "Je veux Eu quero jus",
+    "phon": "eu quero souco"
+  },
+  {
+    "pt": "Eu quero arroz",
+    "fr": "Je veux Eu quero riz",
+    "phon": "eu quero arroz"
+  },
+  {
+    "pt": "Eu quero feijão",
+    "fr": "Je veux Eu quero haricots (noirs)",
+    "phon": "eu quero feij-ã-oun"
+  },
+  {
+    "pt": "Eu quero carne",
+    "fr": "Je veux Eu quero viande",
+    "phon": "eu quero carné"
+  },
+  {
+    "pt": "Eu quero frango",
+    "fr": "Je veux Eu quero poulet",
+    "phon": "eu quero frango"
+  },
+  {
+    "pt": "Eu trabalho em o hospital",
+    "fr": "Je travaille à Eu travail em o hôpital",
+    "phon": "eu trabailo em o ospital"
+  },
+  {
+    "pt": "Eu trabalho em o centro",
+    "fr": "Je travaille à Eu travail em o centro",
+    "phon": "eu trabailo em o centro"
+  },
+  {
+    "pt": "Eu estudo açúcar",
+    "fr": "J'étudie Eu estudo sucre",
+    "phon": "eu estudo assoucar"
+  },
+  {
+    "pt": "Eu estudo sal",
+    "fr": "J'étudie Eu estudo sel",
+    "phon": "eu estudo sal"
+  },
+  {
+    "pt": "Eu estudo glúten",
+    "fr": "J'étudie Eu estudo gluten",
+    "phon": "eu estudo gloutèn"
+  },
+  {
+    "pt": "Eu estudo lactose",
+    "fr": "J'étudie Eu estudo lactose",
+    "phon": "eu estudo lactôzi"
+  }
+]

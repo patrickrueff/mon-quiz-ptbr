@@ -1,0 +1,2418 @@
+{
+  "version": 2,
+  "count": 268,
+  "words": [
+    {
+      "id": "ola-528e3850",
+      "pt": "Olá",
+      "fr": "Bonjour / Salut",
+      "phon": "ola",
+      "files": {
+        "normal": "audio/0001-ola-528e3850.mp3"
+      }
+    },
+    {
+      "id": "oi-3c89984c",
+      "pt": "Oi",
+      "fr": "Salut (informel)",
+      "phon": "oï",
+      "files": {
+        "normal": "audio/0002-oi-3c89984c.mp3"
+      }
+    },
+    {
+      "id": "bom-dia-8f97792d",
+      "pt": "Bom dia",
+      "fr": "Bonjour (matin)",
+      "phon": "bohm djia",
+      "files": {
+        "normal": "audio/0003-bom-dia-8f97792d.mp3"
+      }
+    },
+    {
+      "id": "boa-tarde-6278b644",
+      "pt": "Boa tarde",
+      "fr": "Bon après-midi",
+      "phon": "boa tardj",
+      "files": {
+        "normal": "audio/0004-boa-tarde-6278b644.mp3"
+      }
+    },
+    {
+      "id": "boa-noite-06124de2",
+      "pt": "Boa noite",
+      "fr": "Bonsoir / Bonne nuit",
+      "phon": "boa noïtchi",
+      "files": {
+        "normal": "audio/0005-boa-noite-06124de2.mp3"
+      }
+    },
+    {
+      "id": "tchau-a1228837",
+      "pt": "Tchau",
+      "fr": "Au revoir",
+      "phon": "tcha-ou",
+      "files": {
+        "normal": "audio/0006-tchau-a1228837.mp3"
+      }
+    },
+    {
+      "id": "eu-me-chamo-82d1f38a",
+      "pt": "Eu me chamo...",
+      "fr": "Je m'appelle...",
+      "phon": "éou mé chammou",
+      "files": {
+        "normal": "audio/0007-eu-me-chamo-82d1f38a.mp3"
+      }
+    },
+    {
+      "id": "meu-nome-e-bbaa48dc",
+      "pt": "Meu nome é...",
+      "fr": "Mon nom est...",
+      "phon": "méou nomé é",
+      "files": {
+        "normal": "audio/0008-meu-nome-e-bbaa48dc.mp3"
+      }
+    },
+    {
+      "id": "de-onde-voce-e-43fd44e3",
+      "pt": "De onde você é?",
+      "fr": "D'où êtes-vous ?",
+      "phon": "djé onde vosé é",
+      "files": {
+        "normal": "audio/0009-de-onde-voce-e-43fd44e3.mp3"
+      }
+    },
+    {
+      "id": "eu-sou-da-franca-5a4175a3",
+      "pt": "Eu sou da França",
+      "fr": "Je viens de France",
+      "phon": "éou sou da fransa",
+      "files": {
+        "normal": "audio/0010-eu-sou-da-franca-5a4175a3.mp3"
+      }
+    },
+    {
+      "id": "quantos-anos-voce-tem-884cc3af",
+      "pt": "Quantos anos você tem?",
+      "fr": "Quel âge avez-vous ?",
+      "phon": "couantos annous vosé tẽï",
+      "files": {
+        "normal": "audio/0011-quantos-anos-voce-tem-884cc3af.mp3"
+      }
+    },
+    {
+      "id": "eu-tenho-30-anos-e547640c",
+      "pt": "Eu tenho 30 anos",
+      "fr": "J'ai 30 ans",
+      "phon": "éou tẽïngno trente annous",
+      "files": {
+        "normal": "audio/0012-eu-tenho-30-anos-e547640c.mp3"
+      }
+    },
+    {
+      "id": "zero-aa8c4133",
+      "pt": "zero",
+      "fr": "zéro",
+      "phon": "zè-ro",
+      "files": {
+        "normal": "audio/0013-zero-aa8c4133.mp3"
+      }
+    },
+    {
+      "id": "um-ec92b743",
+      "pt": "um",
+      "fr": "un",
+      "phon": "oum",
+      "files": {
+        "normal": "audio/0014-um-ec92b743.mp3"
+      }
+    },
+    {
+      "id": "dois-7b426791",
+      "pt": "dois",
+      "fr": "deux",
+      "phon": "doïss",
+      "files": {
+        "normal": "audio/0015-dois-7b426791.mp3"
+      }
+    },
+    {
+      "id": "tres-a4316f31",
+      "pt": "três",
+      "fr": "trois",
+      "phon": "trèïss",
+      "files": {
+        "normal": "audio/0016-tres-a4316f31.mp3"
+      }
+    },
+    {
+      "id": "quatro-a7943ca9",
+      "pt": "quatro",
+      "fr": "quatre",
+      "phon": "kouatro",
+      "files": {
+        "normal": "audio/0017-quatro-a7943ca9.mp3"
+      }
+    },
+    {
+      "id": "cinco-a097b33b",
+      "pt": "cinco",
+      "fr": "cinq",
+      "phon": "cingcou",
+      "files": {
+        "normal": "audio/0018-cinco-a097b33b.mp3"
+      }
+    },
+    {
+      "id": "onze-9fd8fa2d",
+      "pt": "onze",
+      "fr": "onze",
+      "phon": "onzé",
+      "files": {
+        "normal": "audio/0019-onze-9fd8fa2d.mp3"
+      }
+    },
+    {
+      "id": "doze-b4bd4cbd",
+      "pt": "doze",
+      "fr": "douze",
+      "phon": "dozé",
+      "files": {
+        "normal": "audio/0020-doze-b4bd4cbd.mp3"
+      }
+    },
+    {
+      "id": "treze-153619dd",
+      "pt": "treze",
+      "fr": "treize",
+      "phon": "trèzé",
+      "files": {
+        "normal": "audio/0021-treze-153619dd.mp3"
+      }
+    },
+    {
+      "id": "quatorze-ae9c35e7",
+      "pt": "quatorze",
+      "fr": "quatorze",
+      "phon": "catôrzi",
+      "files": {
+        "normal": "audio/0022-quatorze-ae9c35e7.mp3"
+      }
+    },
+    {
+      "id": "quinze-6c00d38d",
+      "pt": "quinze",
+      "fr": "quinze",
+      "phon": "kinzi",
+      "files": {
+        "normal": "audio/0023-quinze-6c00d38d.mp3"
+      }
+    },
+    {
+      "id": "dezesseis-78423d69",
+      "pt": "dezesseis",
+      "fr": "seize",
+      "phon": "dèzéssèïss",
+      "files": {
+        "normal": "audio/0024-dezesseis-78423d69.mp3"
+      }
+    },
+    {
+      "id": "segunda-feira-f362171c",
+      "pt": "segunda-feira",
+      "fr": "lundi",
+      "phon": "sègounda fèïra",
+      "files": {
+        "normal": "audio/0025-segunda-feira-f362171c.mp3"
+      }
+    },
+    {
+      "id": "terca-feira-5e0e7781",
+      "pt": "terça-feira",
+      "fr": "mardi",
+      "phon": "tèrssa fèïra",
+      "files": {
+        "normal": "audio/0026-terca-feira-5e0e7781.mp3"
+      }
+    },
+    {
+      "id": "quarta-feira-60b1473c",
+      "pt": "quarta-feira",
+      "fr": "mercredi",
+      "phon": "kouarta fèïra",
+      "files": {
+        "normal": "audio/0027-quarta-feira-60b1473c.mp3"
+      }
+    },
+    {
+      "id": "quinta-feira-48f8d2fa",
+      "pt": "quinta-feira",
+      "fr": "jeudi",
+      "phon": "quïnta fèïra",
+      "files": {
+        "normal": "audio/0028-quinta-feira-48f8d2fa.mp3"
+      }
+    },
+    {
+      "id": "sexta-feira-b5a183f5",
+      "pt": "sexta-feira",
+      "fr": "vendredi",
+      "phon": "sèïsta fèïra",
+      "files": {
+        "normal": "audio/0029-sexta-feira-b5a183f5.mp3"
+      }
+    },
+    {
+      "id": "sabado-1e73aa8e",
+      "pt": "sábado",
+      "fr": "samedi",
+      "phon": "sabbadou",
+      "files": {
+        "normal": "audio/0030-sabado-1e73aa8e.mp3"
+      }
+    },
+    {
+      "id": "janeiro-3fbb4496",
+      "pt": "janeiro",
+      "fr": "janvier",
+      "phon": "janèïro",
+      "files": {
+        "normal": "audio/0031-janeiro-3fbb4496.mp3"
+      }
+    },
+    {
+      "id": "fevereiro-f804fc02",
+      "pt": "fevereiro",
+      "fr": "février",
+      "phon": "févrèïro",
+      "files": {
+        "normal": "audio/0032-fevereiro-f804fc02.mp3"
+      }
+    },
+    {
+      "id": "marco-f9943b23",
+      "pt": "março",
+      "fr": "mars",
+      "phon": "marssou",
+      "files": {
+        "normal": "audio/0033-marco-f9943b23.mp3"
+      }
+    },
+    {
+      "id": "abril-2fae6710",
+      "pt": "abril",
+      "fr": "avril",
+      "phon": "abril",
+      "files": {
+        "normal": "audio/0034-abril-2fae6710.mp3"
+      }
+    },
+    {
+      "id": "maio-20780f2f",
+      "pt": "maio",
+      "fr": "mai",
+      "phon": "maïo",
+      "files": {
+        "normal": "audio/0035-maio-20780f2f.mp3"
+      }
+    },
+    {
+      "id": "junho-879dbd60",
+      "pt": "junho",
+      "fr": "juin",
+      "phon": "jouño",
+      "files": {
+        "normal": "audio/0036-junho-879dbd60.mp3"
+      }
+    },
+    {
+      "id": "julho-ae4e35ec",
+      "pt": "julho",
+      "fr": "juillet",
+      "phon": "joulio",
+      "files": {
+        "normal": "audio/0037-julho-ae4e35ec.mp3"
+      }
+    },
+    {
+      "id": "agosto-5a3c84cb",
+      "pt": "agosto",
+      "fr": "août",
+      "phon": "agôstou",
+      "files": {
+        "normal": "audio/0038-agosto-5a3c84cb.mp3"
+      }
+    },
+    {
+      "id": "setembro-c4ed4198",
+      "pt": "setembro",
+      "fr": "septembre",
+      "phon": "sèttembro",
+      "files": {
+        "normal": "audio/0039-setembro-c4ed4198.mp3"
+      }
+    },
+    {
+      "id": "outubro-53ba38ce",
+      "pt": "outubro",
+      "fr": "octobre",
+      "phon": "oûtoubro",
+      "files": {
+        "normal": "audio/0040-outubro-53ba38ce.mp3"
+      }
+    },
+    {
+      "id": "novembro-7f3147a9",
+      "pt": "novembro",
+      "fr": "novembre",
+      "phon": "novembro",
+      "files": {
+        "normal": "audio/0041-novembro-7f3147a9.mp3"
+      }
+    },
+    {
+      "id": "dezembro-71f217b1",
+      "pt": "dezembro",
+      "fr": "décembre",
+      "phon": "dèzembro",
+      "files": {
+        "normal": "audio/0042-dezembro-71f217b1.mp3"
+      }
+    },
+    {
+      "id": "vermelho-79f2b39a",
+      "pt": "vermelho",
+      "fr": "rouge",
+      "phon": "vermè-lio",
+      "files": {
+        "normal": "audio/0043-vermelho-79f2b39a.mp3"
+      }
+    },
+    {
+      "id": "azul-1768d39c",
+      "pt": "azul",
+      "fr": "bleu",
+      "phon": "azoul",
+      "files": {
+        "normal": "audio/0044-azul-1768d39c.mp3"
+      }
+    },
+    {
+      "id": "amarelo-985037bf",
+      "pt": "amarelo",
+      "fr": "jaune",
+      "phon": "amarè-lo",
+      "files": {
+        "normal": "audio/0045-amarelo-985037bf.mp3"
+      }
+    },
+    {
+      "id": "verde-2030abee",
+      "pt": "verde",
+      "fr": "vert",
+      "phon": "vèrdi",
+      "files": {
+        "normal": "audio/0046-verde-2030abee.mp3"
+      }
+    },
+    {
+      "id": "preto-eb60d10d",
+      "pt": "preto",
+      "fr": "noir",
+      "phon": "prétou",
+      "files": {
+        "normal": "audio/0047-preto-eb60d10d.mp3"
+      }
+    },
+    {
+      "id": "branco-e6c28d71",
+      "pt": "branco",
+      "fr": "blanc",
+      "phon": "bran-co",
+      "files": {
+        "normal": "audio/0048-branco-e6c28d71.mp3"
+      }
+    },
+    {
+      "id": "cinza-32a05be7",
+      "pt": "cinza",
+      "fr": "gris",
+      "phon": "cinza",
+      "files": {
+        "normal": "audio/0049-cinza-32a05be7.mp3"
+      }
+    },
+    {
+      "id": "rosa-5efc86ca",
+      "pt": "rosa",
+      "fr": "rose",
+      "phon": "roza",
+      "files": {
+        "normal": "audio/0050-rosa-5efc86ca.mp3"
+      }
+    },
+    {
+      "id": "roxo-4bf83285",
+      "pt": "roxo",
+      "fr": "violet",
+      "phon": "rocho",
+      "files": {
+        "normal": "audio/0051-roxo-4bf83285.mp3"
+      }
+    },
+    {
+      "id": "marrom-b6e9af8a",
+      "pt": "marrom",
+      "fr": "marron",
+      "phon": "marron",
+      "files": {
+        "normal": "audio/0052-marrom-b6e9af8a.mp3"
+      }
+    },
+    {
+      "id": "bege-f630b0b9",
+      "pt": "bege",
+      "fr": "beige",
+      "phon": "bèjé",
+      "files": {
+        "normal": "audio/0053-bege-f630b0b9.mp3"
+      }
+    },
+    {
+      "id": "laranja-4571e3d8",
+      "pt": "laranja",
+      "fr": "orange",
+      "phon": "laranja",
+      "files": {
+        "normal": "audio/0054-laranja-4571e3d8.mp3"
+      }
+    },
+    {
+      "id": "mae-c936707e",
+      "pt": "mãe",
+      "fr": "mère",
+      "phon": "mãe (mai~)",
+      "files": {
+        "normal": "audio/0055-mae-c936707e.mp3"
+      }
+    },
+    {
+      "id": "pai-7525a436",
+      "pt": "pai",
+      "fr": "père",
+      "phon": "paï",
+      "files": {
+        "normal": "audio/0056-pai-7525a436.mp3"
+      }
+    },
+    {
+      "id": "filho-b85520b6",
+      "pt": "filho",
+      "fr": "fils",
+      "phon": "filiou",
+      "files": {
+        "normal": "audio/0057-filho-b85520b6.mp3"
+      }
+    },
+    {
+      "id": "filha-ecc0f8f2",
+      "pt": "filha",
+      "fr": "fille",
+      "phon": "filia",
+      "files": {
+        "normal": "audio/0058-filha-ecc0f8f2.mp3"
+      }
+    },
+    {
+      "id": "irmao-1fa174dc",
+      "pt": "irmão",
+      "fr": "frère",
+      "phon": "irmão (irma-oun)",
+      "files": {
+        "normal": "audio/0059-irmao-1fa174dc.mp3"
+      }
+    },
+    {
+      "id": "irma-2aec3dfc",
+      "pt": "irmã",
+      "fr": "soeur",
+      "phon": "irmã (irm-ã)",
+      "files": {
+        "normal": "audio/0060-irma-2aec3dfc.mp3"
+      }
+    },
+    {
+      "id": "esposo-04c75626",
+      "pt": "esposo",
+      "fr": "mari",
+      "phon": "èspôzo",
+      "files": {
+        "normal": "audio/0061-esposo-04c75626.mp3"
+      }
+    },
+    {
+      "id": "esposa-39dea479",
+      "pt": "esposa",
+      "fr": "femme (épouse)",
+      "phon": "èspôza",
+      "files": {
+        "normal": "audio/0062-esposa-39dea479.mp3"
+      }
+    },
+    {
+      "id": "avo-eaaed76b",
+      "pt": "avô",
+      "fr": "grand-père",
+      "phon": "avô (avô)",
+      "files": {
+        "normal": "audio/0063-avo-eaaed76b.mp3"
+      }
+    },
+    {
+      "id": "avo-8786e742",
+      "pt": "avó",
+      "fr": "grand-mère",
+      "phon": "avó (avó)",
+      "files": {
+        "normal": "audio/0064-avo-8786e742.mp3"
+      }
+    },
+    {
+      "id": "tio-589f98f8",
+      "pt": "tio",
+      "fr": "oncle",
+      "phon": "tchi-ô",
+      "files": {
+        "normal": "audio/0065-tio-589f98f8.mp3"
+      }
+    },
+    {
+      "id": "tia-8a60f563",
+      "pt": "tia",
+      "fr": "tante",
+      "phon": "tchi-a",
+      "files": {
+        "normal": "audio/0066-tia-8a60f563.mp3"
+      }
+    },
+    {
+      "id": "casa-81bce1f3",
+      "pt": "casa",
+      "fr": "maison",
+      "phon": "caza",
+      "files": {
+        "normal": "audio/0067-casa-81bce1f3.mp3"
+      }
+    },
+    {
+      "id": "apartamento-af51e888",
+      "pt": "apartamento",
+      "fr": "appartement",
+      "phon": "apartamèntou",
+      "files": {
+        "normal": "audio/0068-apartamento-af51e888.mp3"
+      }
+    },
+    {
+      "id": "sala-9a2505d5",
+      "pt": "sala",
+      "fr": "salon",
+      "phon": "sala",
+      "files": {
+        "normal": "audio/0069-sala-9a2505d5.mp3"
+      }
+    },
+    {
+      "id": "quarto-ad25d1cf",
+      "pt": "quarto",
+      "fr": "chambre",
+      "phon": "kouarto",
+      "files": {
+        "normal": "audio/0070-quarto-ad25d1cf.mp3"
+      }
+    },
+    {
+      "id": "cozinha-d4ca9c86",
+      "pt": "cozinha",
+      "fr": "cuisine",
+      "phon": "couzinha",
+      "files": {
+        "normal": "audio/0071-cozinha-d4ca9c86.mp3"
+      }
+    },
+    {
+      "id": "banheiro-ab24c5bf",
+      "pt": "banheiro",
+      "fr": "salle de bain",
+      "phon": "banhèïrou",
+      "files": {
+        "normal": "audio/0072-banheiro-ab24c5bf.mp3"
+      }
+    },
+    {
+      "id": "mesa-f04cc316",
+      "pt": "mesa",
+      "fr": "table",
+      "phon": "méza",
+      "files": {
+        "normal": "audio/0073-mesa-f04cc316.mp3"
+      }
+    },
+    {
+      "id": "cadeira-644a93ee",
+      "pt": "cadeira",
+      "fr": "chaise",
+      "phon": "cadaïra",
+      "files": {
+        "normal": "audio/0074-cadeira-644a93ee.mp3"
+      }
+    },
+    {
+      "id": "cama-1bef95ab",
+      "pt": "cama",
+      "fr": "lit",
+      "phon": "cama",
+      "files": {
+        "normal": "audio/0075-cama-1bef95ab.mp3"
+      }
+    },
+    {
+      "id": "sofa-b6190998",
+      "pt": "sofá",
+      "fr": "canapé",
+      "phon": "sofá",
+      "files": {
+        "normal": "audio/0076-sofa-b6190998.mp3"
+      }
+    },
+    {
+      "id": "prato-460a2215",
+      "pt": "prato",
+      "fr": "assiette",
+      "phon": "pratou",
+      "files": {
+        "normal": "audio/0077-prato-460a2215.mp3"
+      }
+    },
+    {
+      "id": "copo-8effcb86",
+      "pt": "copo",
+      "fr": "verre",
+      "phon": "copou",
+      "files": {
+        "normal": "audio/0078-copo-8effcb86.mp3"
+      }
+    },
+    {
+      "id": "geladeira-000689c8",
+      "pt": "geladeira",
+      "fr": "réfrigérateur",
+      "phon": "jéladèïra",
+      "files": {
+        "normal": "audio/0079-geladeira-000689c8.mp3"
+      }
+    },
+    {
+      "id": "fogao-7aa9a045",
+      "pt": "fogão",
+      "fr": "cuisinière",
+      "phon": "fogão (foga-oun)",
+      "files": {
+        "normal": "audio/0080-fogao-7aa9a045.mp3"
+      }
+    },
+    {
+      "id": "forno-1912344a",
+      "pt": "forno",
+      "fr": "four",
+      "phon": "forno",
+      "files": {
+        "normal": "audio/0081-forno-1912344a.mp3"
+      }
+    },
+    {
+      "id": "micro-ondas-4a22e6ad",
+      "pt": "micro-ondas",
+      "fr": "micro-ondes",
+      "phon": "micro-ondas",
+      "files": {
+        "normal": "audio/0082-micro-ondas-4a22e6ad.mp3"
+      }
+    },
+    {
+      "id": "panela-79c60280",
+      "pt": "panela",
+      "fr": "casserole",
+      "phon": "panèla",
+      "files": {
+        "normal": "audio/0083-panela-79c60280.mp3"
+      }
+    },
+    {
+      "id": "colher-799a3987",
+      "pt": "colher",
+      "fr": "cuillère",
+      "phon": "coulyèr",
+      "files": {
+        "normal": "audio/0084-colher-799a3987.mp3"
+      }
+    },
+    {
+      "id": "pao-3464c04f",
+      "pt": "pão",
+      "fr": "pain",
+      "phon": "pã-oun",
+      "files": {
+        "normal": "audio/0085-pao-3464c04f.mp3"
+      }
+    },
+    {
+      "id": "manteiga-25d1fa69",
+      "pt": "manteiga",
+      "fr": "beurre",
+      "phon": "mantèïga",
+      "files": {
+        "normal": "audio/0086-manteiga-25d1fa69.mp3"
+      }
+    },
+    {
+      "id": "queijo-fc42828b",
+      "pt": "queijo",
+      "fr": "fromage",
+      "phon": "kéïjou",
+      "files": {
+        "normal": "audio/0087-queijo-fc42828b.mp3"
+      }
+    },
+    {
+      "id": "leite-beb967c0",
+      "pt": "leite",
+      "fr": "lait",
+      "phon": "leïtchi",
+      "files": {
+        "normal": "audio/0088-leite-beb967c0.mp3"
+      }
+    },
+    {
+      "id": "arroz-fa9db510",
+      "pt": "arroz",
+      "fr": "riz",
+      "phon": "arroz",
+      "files": {
+        "normal": "audio/0089-arroz-fa9db510.mp3"
+      }
+    },
+    {
+      "id": "feijao-182821d3",
+      "pt": "feijão",
+      "fr": "haricots (noirs)",
+      "phon": "feij-ã-oun",
+      "files": {
+        "normal": "audio/0090-feijao-182821d3.mp3"
+      }
+    },
+    {
+      "id": "fruta-1ea8c03f",
+      "pt": "fruta",
+      "fr": "fruit",
+      "phon": "frouta",
+      "files": {
+        "normal": "audio/0091-fruta-1ea8c03f.mp3"
+      }
+    },
+    {
+      "id": "maca-b0c51b47",
+      "pt": "maçã",
+      "fr": "pomme",
+      "phon": "mâssã",
+      "files": {
+        "normal": "audio/0092-maca-b0c51b47.mp3"
+      }
+    },
+    {
+      "id": "banana-250e77f1",
+      "pt": "banana",
+      "fr": "banane",
+      "phon": "banana",
+      "files": {
+        "normal": "audio/0093-banana-250e77f1.mp3"
+      }
+    },
+    {
+      "id": "laranja-fruta-c676317c",
+      "pt": "laranja (fruta)",
+      "fr": "orange (fruit)",
+      "phon": "laranja",
+      "files": {
+        "normal": "audio/0094-laranja-fruta-c676317c.mp3"
+      }
+    },
+    {
+      "id": "uva-2d2c2a14",
+      "pt": "uva",
+      "fr": "raisin",
+      "phon": "ouva",
+      "files": {
+        "normal": "audio/0095-uva-2d2c2a14.mp3"
+      }
+    },
+    {
+      "id": "tomate-13f20098",
+      "pt": "tomate",
+      "fr": "tomate",
+      "phon": "tomatchi",
+      "files": {
+        "normal": "audio/0096-tomate-13f20098.mp3"
+      }
+    },
+    {
+      "id": "cafe-f424452a",
+      "pt": "café",
+      "fr": "café",
+      "phon": "cafè",
+      "files": {
+        "normal": "audio/0097-cafe-f424452a.mp3"
+      }
+    },
+    {
+      "id": "cha-a1f7a686",
+      "pt": "chá",
+      "fr": "thé",
+      "phon": "cha",
+      "files": {
+        "normal": "audio/0098-cha-a1f7a686.mp3"
+      }
+    },
+    {
+      "id": "agua-513cba58",
+      "pt": "água",
+      "fr": "eau",
+      "phon": "agoua",
+      "files": {
+        "normal": "audio/0099-agua-513cba58.mp3"
+      }
+    },
+    {
+      "id": "suco-034af408",
+      "pt": "suco",
+      "fr": "jus",
+      "phon": "souco",
+      "files": {
+        "normal": "audio/0100-suco-034af408.mp3"
+      }
+    },
+    {
+      "id": "sal-caf8dae1",
+      "pt": "sal",
+      "fr": "sel",
+      "phon": "sal",
+      "files": {
+        "normal": "audio/0101-sal-caf8dae1.mp3"
+      }
+    },
+    {
+      "id": "acucar-ca7d10cb",
+      "pt": "açúcar",
+      "fr": "sucre",
+      "phon": "assoucar",
+      "files": {
+        "normal": "audio/0102-acucar-ca7d10cb.mp3"
+      }
+    },
+    {
+      "id": "camisa-90db2a49",
+      "pt": "camisa",
+      "fr": "chemise",
+      "phon": "camiza",
+      "files": {
+        "normal": "audio/0103-camisa-90db2a49.mp3"
+      }
+    },
+    {
+      "id": "camiseta-a269b5db",
+      "pt": "camiseta",
+      "fr": "t-shirt",
+      "phon": "camizéta",
+      "files": {
+        "normal": "audio/0104-camiseta-a269b5db.mp3"
+      }
+    },
+    {
+      "id": "calca-f78c303c",
+      "pt": "calça",
+      "fr": "pantalon",
+      "phon": "calsa",
+      "files": {
+        "normal": "audio/0105-calca-f78c303c.mp3"
+      }
+    },
+    {
+      "id": "saia-9c8f19d9",
+      "pt": "saia",
+      "fr": "jupe",
+      "phon": "sa-ïa",
+      "files": {
+        "normal": "audio/0106-saia-9c8f19d9.mp3"
+      }
+    },
+    {
+      "id": "vestido-f50e2745",
+      "pt": "vestido",
+      "fr": "robe",
+      "phon": "vestidou",
+      "files": {
+        "normal": "audio/0107-vestido-f50e2745.mp3"
+      }
+    },
+    {
+      "id": "casaco-60d277de",
+      "pt": "casaco",
+      "fr": "manteau",
+      "phon": "casaco",
+      "files": {
+        "normal": "audio/0108-casaco-60d277de.mp3"
+      }
+    },
+    {
+      "id": "sapato-056bd783",
+      "pt": "sapato",
+      "fr": "chaussure",
+      "phon": "sapato",
+      "files": {
+        "normal": "audio/0109-sapato-056bd783.mp3"
+      }
+    },
+    {
+      "id": "tenis-773dd050",
+      "pt": "tênis",
+      "fr": "baskets",
+      "phon": "tèniss",
+      "files": {
+        "normal": "audio/0110-tenis-773dd050.mp3"
+      }
+    },
+    {
+      "id": "meia-fb289770",
+      "pt": "meia",
+      "fr": "chaussette",
+      "phon": "méïa",
+      "files": {
+        "normal": "audio/0111-meia-fb289770.mp3"
+      }
+    },
+    {
+      "id": "bone-d2f447d5",
+      "pt": "boné",
+      "fr": "casquette",
+      "phon": "bonè",
+      "files": {
+        "normal": "audio/0112-bone-d2f447d5.mp3"
+      }
+    },
+    {
+      "id": "chapeu-a2dd12f9",
+      "pt": "chapéu",
+      "fr": "chapeau",
+      "phon": "chapé-oun",
+      "files": {
+        "normal": "audio/0113-chapeu-a2dd12f9.mp3"
+      }
+    },
+    {
+      "id": "cinto-fdfe92cf",
+      "pt": "cinto",
+      "fr": "ceinture",
+      "phon": "cinto",
+      "files": {
+        "normal": "audio/0114-cinto-fdfe92cf.mp3"
+      }
+    },
+    {
+      "id": "onibus-5d9a02c3",
+      "pt": "ônibus",
+      "fr": "bus",
+      "phon": "ônibous",
+      "files": {
+        "normal": "audio/0115-onibus-5d9a02c3.mp3"
+      }
+    },
+    {
+      "id": "metro-f3aca16b",
+      "pt": "metrô",
+      "fr": "métro",
+      "phon": "métrô",
+      "files": {
+        "normal": "audio/0116-metro-f3aca16b.mp3"
+      }
+    },
+    {
+      "id": "trem-b727f035",
+      "pt": "trem",
+      "fr": "train",
+      "phon": "trẽï",
+      "files": {
+        "normal": "audio/0117-trem-b727f035.mp3"
+      }
+    },
+    {
+      "id": "taxi-902ec012",
+      "pt": "táxi",
+      "fr": "taxi",
+      "phon": "tacssi",
+      "files": {
+        "normal": "audio/0118-taxi-902ec012.mp3"
+      }
+    },
+    {
+      "id": "carro-3959fc61",
+      "pt": "carro",
+      "fr": "voiture",
+      "phon": "carro",
+      "files": {
+        "normal": "audio/0119-carro-3959fc61.mp3"
+      }
+    },
+    {
+      "id": "a-pe-35118c9c",
+      "pt": "a pé",
+      "fr": "à pied",
+      "phon": "a pé",
+      "files": {
+        "normal": "audio/0120-a-pe-35118c9c.mp3"
+      }
+    },
+    {
+      "id": "aeroporto-886813d6",
+      "pt": "aeroporto",
+      "fr": "aéroport",
+      "phon": "aéropôrto",
+      "files": {
+        "normal": "audio/0121-aeroporto-886813d6.mp3"
+      }
+    },
+    {
+      "id": "estacao-86effe87",
+      "pt": "estação",
+      "fr": "gare / station",
+      "phon": "estass-ã-oun",
+      "files": {
+        "normal": "audio/0122-estacao-86effe87.mp3"
+      }
+    },
+    {
+      "id": "direita-ba6a1047",
+      "pt": "direita",
+      "fr": "droite",
+      "phon": "dirèïta",
+      "files": {
+        "normal": "audio/0123-direita-ba6a1047.mp3"
+      }
+    },
+    {
+      "id": "esquerda-3d2a0394",
+      "pt": "esquerda",
+      "fr": "gauche",
+      "phon": "èssquèrda",
+      "files": {
+        "normal": "audio/0124-esquerda-3d2a0394.mp3"
+      }
+    },
+    {
+      "id": "em-frente-76c10f40",
+      "pt": "em frente",
+      "fr": "tout droit",
+      "phon": "ẽï frènti",
+      "files": {
+        "normal": "audio/0125-em-frente-76c10f40.mp3"
+      }
+    },
+    {
+      "id": "perto-fe333e3d",
+      "pt": "perto",
+      "fr": "près",
+      "phon": "pèrto",
+      "files": {
+        "normal": "audio/0126-perto-fe333e3d.mp3"
+      }
+    },
+    {
+      "id": "cabeca-a172c0d6",
+      "pt": "cabeça",
+      "fr": "tête",
+      "phon": "cabéssa",
+      "files": {
+        "normal": "audio/0127-cabeca-a172c0d6.mp3"
+      }
+    },
+    {
+      "id": "olho-9d12fc46",
+      "pt": "olho",
+      "fr": "œil",
+      "phon": "olho",
+      "files": {
+        "normal": "audio/0128-olho-9d12fc46.mp3"
+      }
+    },
+    {
+      "id": "boca-42a50539",
+      "pt": "boca",
+      "fr": "bouche",
+      "phon": "boca",
+      "files": {
+        "normal": "audio/0129-boca-42a50539.mp3"
+      }
+    },
+    {
+      "id": "dente-6cca05c1",
+      "pt": "dente",
+      "fr": "dent",
+      "phon": "dènchi",
+      "files": {
+        "normal": "audio/0130-dente-6cca05c1.mp3"
+      }
+    },
+    {
+      "id": "mao-e7a8963d",
+      "pt": "mão",
+      "fr": "main",
+      "phon": "mã-oun",
+      "files": {
+        "normal": "audio/0131-mao-e7a8963d.mp3"
+      }
+    },
+    {
+      "id": "braco-6fa6dd9e",
+      "pt": "braço",
+      "fr": "bras",
+      "phon": "brasso",
+      "files": {
+        "normal": "audio/0132-braco-6fa6dd9e.mp3"
+      }
+    },
+    {
+      "id": "perna-42a09241",
+      "pt": "perna",
+      "fr": "jambe",
+      "phon": "pèrna",
+      "files": {
+        "normal": "audio/0133-perna-42a09241.mp3"
+      }
+    },
+    {
+      "id": "pe-69a11c46",
+      "pt": "pé",
+      "fr": "pied",
+      "phon": "pé",
+      "files": {
+        "normal": "audio/0134-pe-69a11c46.mp3"
+      }
+    },
+    {
+      "id": "estomago-b4a90e9d",
+      "pt": "estômago",
+      "fr": "estomac",
+      "phon": "estômago",
+      "files": {
+        "normal": "audio/0135-estomago-b4a90e9d.mp3"
+      }
+    },
+    {
+      "id": "dor-4a353c3e",
+      "pt": "dor",
+      "fr": "douleur",
+      "phon": "dôr",
+      "files": {
+        "normal": "audio/0136-dor-4a353c3e.mp3"
+      }
+    },
+    {
+      "id": "remedio-65bd3539",
+      "pt": "remédio",
+      "fr": "médicament",
+      "phon": "rémédio",
+      "files": {
+        "normal": "audio/0137-remedio-65bd3539.mp3"
+      }
+    },
+    {
+      "id": "hospital-2b2d005e",
+      "pt": "hospital",
+      "fr": "hôpital",
+      "phon": "ospital",
+      "files": {
+        "normal": "audio/0138-hospital-2b2d005e.mp3"
+      }
+    },
+    {
+      "id": "tempo-65e336e2",
+      "pt": "tempo",
+      "fr": "temps (météo)",
+      "phon": "tẽïmpou",
+      "files": {
+        "normal": "audio/0139-tempo-65e336e2.mp3"
+      }
+    },
+    {
+      "id": "calor-58216156",
+      "pt": "calor",
+      "fr": "chaleur",
+      "phon": "calôr",
+      "files": {
+        "normal": "audio/0140-calor-58216156.mp3"
+      }
+    },
+    {
+      "id": "frio-13e27737",
+      "pt": "frio",
+      "fr": "froid",
+      "phon": "frrio",
+      "files": {
+        "normal": "audio/0141-frio-13e27737.mp3"
+      }
+    },
+    {
+      "id": "chuva-77ffa3e0",
+      "pt": "chuva",
+      "fr": "pluie",
+      "phon": "chouva",
+      "files": {
+        "normal": "audio/0142-chuva-77ffa3e0.mp3"
+      }
+    },
+    {
+      "id": "sol-fbb93bb9",
+      "pt": "sol",
+      "fr": "soleil",
+      "phon": "sol",
+      "files": {
+        "normal": "audio/0143-sol-fbb93bb9.mp3"
+      }
+    },
+    {
+      "id": "nublado-b5dc1388",
+      "pt": "nublado",
+      "fr": "nuageux",
+      "phon": "noublado",
+      "files": {
+        "normal": "audio/0144-nublado-b5dc1388.mp3"
+      }
+    },
+    {
+      "id": "trabalho-ec599dac",
+      "pt": "trabalho",
+      "fr": "travail",
+      "phon": "trabailo",
+      "files": {
+        "normal": "audio/0145-trabalho-ec599dac.mp3"
+      }
+    },
+    {
+      "id": "emprego-182a6eb1",
+      "pt": "emprego",
+      "fr": "emploi",
+      "phon": "èmprègo",
+      "files": {
+        "normal": "audio/0146-emprego-182a6eb1.mp3"
+      }
+    },
+    {
+      "id": "empresa-9403f4c8",
+      "pt": "empresa",
+      "fr": "entreprise",
+      "phon": "èmprésa",
+      "files": {
+        "normal": "audio/0147-empresa-9403f4c8.mp3"
+      }
+    },
+    {
+      "id": "colega-bda39488",
+      "pt": "colega",
+      "fr": "collègue",
+      "phon": "coléga",
+      "files": {
+        "normal": "audio/0148-colega-bda39488.mp3"
+      }
+    },
+    {
+      "id": "reuniao-c249c931",
+      "pt": "reunião",
+      "fr": "réunion",
+      "phon": "réouni-ã-oun",
+      "files": {
+        "normal": "audio/0149-reuniao-c249c931.mp3"
+      }
+    },
+    {
+      "id": "projeto-cf5f9f0a",
+      "pt": "projeto",
+      "fr": "projet",
+      "phon": "projéto",
+      "files": {
+        "normal": "audio/0150-projeto-cf5f9f0a.mp3"
+      }
+    },
+    {
+      "id": "estudar-47556859",
+      "pt": "estudar",
+      "fr": "étudier",
+      "phon": "èstoudar",
+      "files": {
+        "normal": "audio/0151-estudar-47556859.mp3"
+      }
+    },
+    {
+      "id": "aprender-3fcde0df",
+      "pt": "aprender",
+      "fr": "apprendre",
+      "phon": "aprrendèr",
+      "files": {
+        "normal": "audio/0152-aprender-3fcde0df.mp3"
+      }
+    },
+    {
+      "id": "ensinar-106687a9",
+      "pt": "ensinar",
+      "fr": "enseigner",
+      "phon": "ènsinar",
+      "files": {
+        "normal": "audio/0153-ensinar-106687a9.mp3"
+      }
+    },
+    {
+      "id": "ler-40d748da",
+      "pt": "ler",
+      "fr": "lire",
+      "phon": "lèr",
+      "files": {
+        "normal": "audio/0154-ler-40d748da.mp3"
+      }
+    },
+    {
+      "id": "escrever-db2017ed",
+      "pt": "escrever",
+      "fr": "écrire",
+      "phon": "èsscrèvèr",
+      "files": {
+        "normal": "audio/0155-escrever-db2017ed.mp3"
+      }
+    },
+    {
+      "id": "falar-713a1504",
+      "pt": "falar",
+      "fr": "parler",
+      "phon": "falar",
+      "files": {
+        "normal": "audio/0156-falar-713a1504.mp3"
+      }
+    },
+    {
+      "id": "gostar-de-3036f62d",
+      "pt": "gostar de",
+      "fr": "aimer",
+      "phon": "gostarr dé",
+      "files": {
+        "normal": "audio/0157-gostar-de-3036f62d.mp3"
+      }
+    },
+    {
+      "id": "querer-e4fc0cb8",
+      "pt": "querer",
+      "fr": "vouloir",
+      "phon": "quèrrèr",
+      "files": {
+        "normal": "audio/0158-querer-e4fc0cb8.mp3"
+      }
+    },
+    {
+      "id": "precisar-de-57a31058",
+      "pt": "precisar de",
+      "fr": "avoir besoin de",
+      "phon": "précizar dé",
+      "files": {
+        "normal": "audio/0159-precisar-de-57a31058.mp3"
+      }
+    },
+    {
+      "id": "comprar-a2039cb4",
+      "pt": "comprar",
+      "fr": "acheter",
+      "phon": "comprarr",
+      "files": {
+        "normal": "audio/0160-comprar-a2039cb4.mp3"
+      }
+    },
+    {
+      "id": "vender-9c25bd58",
+      "pt": "vender",
+      "fr": "vendre",
+      "phon": "vendèr",
+      "files": {
+        "normal": "audio/0161-vender-9c25bd58.mp3"
+      }
+    },
+    {
+      "id": "ir-aa1553be",
+      "pt": "ir",
+      "fr": "aller",
+      "phon": "ir",
+      "files": {
+        "normal": "audio/0162-ir-aa1553be.mp3"
+      }
+    },
+    {
+      "id": "eu-gostaria-de-cafe-4ce72d75",
+      "pt": "Eu gostaria de café",
+      "fr": "Je voudrais Eu gostaria de café",
+      "phon": "eu gostaria de cafè",
+      "files": {
+        "normal": "audio/0163-eu-gostaria-de-cafe-4ce72d75.mp3"
+      }
+    },
+    {
+      "id": "eu-gostaria-de-cha-fb3fc2ac",
+      "pt": "Eu gostaria de chá",
+      "fr": "Je voudrais Eu gostaria de thé",
+      "phon": "eu gostaria de cha",
+      "files": {
+        "normal": "audio/0164-eu-gostaria-de-cha-fb3fc2ac.mp3"
+      }
+    },
+    {
+      "id": "eu-gostaria-de-agua-6efcb008",
+      "pt": "Eu gostaria de água",
+      "fr": "Je voudrais Eu gostaria de eau",
+      "phon": "eu gostaria de agoua",
+      "files": {
+        "normal": "audio/0165-eu-gostaria-de-agua-6efcb008.mp3"
+      }
+    },
+    {
+      "id": "eu-gostaria-de-suco-0a3b1828",
+      "pt": "Eu gostaria de suco",
+      "fr": "Je voudrais Eu gostaria de jus",
+      "phon": "eu gostaria de souco",
+      "files": {
+        "normal": "audio/0166-eu-gostaria-de-suco-0a3b1828.mp3"
+      }
+    },
+    {
+      "id": "eu-gostaria-de-arroz-1450d362",
+      "pt": "Eu gostaria de arroz",
+      "fr": "Je voudrais Eu gostaria de riz",
+      "phon": "eu gostaria de arroz",
+      "files": {
+        "normal": "audio/0167-eu-gostaria-de-arroz-1450d362.mp3"
+      }
+    },
+    {
+      "id": "eu-gostaria-de-feijao-9cef4617",
+      "pt": "Eu gostaria de feijão",
+      "fr": "Je voudrais Eu gostaria de haricots (noirs)",
+      "phon": "eu gostaria de feij-ã-oun",
+      "files": {
+        "normal": "audio/0168-eu-gostaria-de-feijao-9cef4617.mp3"
+      }
+    },
+    {
+      "id": "onde-fica-o-aeroporto-2c1b27e8",
+      "pt": "Onde fica o aeroporto?",
+      "fr": "Où se trouve Onde fica o aéroport",
+      "phon": "onde fica o aéropôrto",
+      "files": {
+        "normal": "audio/0169-onde-fica-o-aeroporto-2c1b27e8.mp3"
+      }
+    },
+    {
+      "id": "onde-fica-a-estacao-efe1839d",
+      "pt": "Onde fica a estação?",
+      "fr": "Où se trouve Onde fica a gare / station",
+      "phon": "onde fica a estass-ã-oun",
+      "files": {
+        "normal": "audio/0170-onde-fica-a-estacao-efe1839d.mp3"
+      }
+    },
+    {
+      "id": "onde-fica-o-hotel-5bd48d18",
+      "pt": "Onde fica o hotel?",
+      "fr": "Où se trouve Onde fica o hotel",
+      "phon": "onde fica o hotel",
+      "files": {
+        "normal": "audio/0171-onde-fica-o-hotel-5bd48d18.mp3"
+      }
+    },
+    {
+      "id": "onde-fica-o-restaurante-1c2d5510",
+      "pt": "Onde fica o restaurante?",
+      "fr": "Où se trouve Onde fica o restaurante",
+      "phon": "onde fica o restaurante",
+      "files": {
+        "normal": "audio/0172-onde-fica-o-restaurante-1c2d5510.mp3"
+      }
+    },
+    {
+      "id": "onde-fica-o-hospital-f74f7e54",
+      "pt": "Onde fica o hospital?",
+      "fr": "Où se trouve Onde fica o hôpital",
+      "phon": "onde fica o ospital",
+      "files": {
+        "normal": "audio/0173-onde-fica-o-hospital-f74f7e54.mp3"
+      }
+    },
+    {
+      "id": "onde-fica-o-centro-0816794e",
+      "pt": "Onde fica o centro?",
+      "fr": "Où se trouve Onde fica o centro",
+      "phon": "onde fica o centro",
+      "files": {
+        "normal": "audio/0174-onde-fica-o-centro-0816794e.mp3"
+      }
+    },
+    {
+      "id": "eu-gosto-de-acucar-1536adbf",
+      "pt": "Eu gosto de açúcar",
+      "fr": "J'aime Eu gosto de sucre",
+      "phon": "eu gosto de assoucar",
+      "files": {
+        "normal": "audio/0175-eu-gosto-de-acucar-1536adbf.mp3"
+      }
+    },
+    {
+      "id": "eu-gosto-de-sal-d5cb4dec",
+      "pt": "Eu gosto de sal",
+      "fr": "J'aime Eu gosto de sel",
+      "phon": "eu gosto de sal",
+      "files": {
+        "normal": "audio/0176-eu-gosto-de-sal-d5cb4dec.mp3"
+      }
+    },
+    {
+      "id": "eu-gosto-de-gluten-da90dc4e",
+      "pt": "Eu gosto de glúten",
+      "fr": "J'aime Eu gosto de gluten",
+      "phon": "eu gosto de gloutèn",
+      "files": {
+        "normal": "audio/0177-eu-gosto-de-gluten-da90dc4e.mp3"
+      }
+    },
+    {
+      "id": "eu-gosto-de-lactose-26d3d959",
+      "pt": "Eu gosto de lactose",
+      "fr": "J'aime Eu gosto de lactose",
+      "phon": "eu gosto de lactôzi",
+      "files": {
+        "normal": "audio/0178-eu-gosto-de-lactose-26d3d959.mp3"
+      }
+    },
+    {
+      "id": "eu-preciso-de-acucar-a7c4bd38",
+      "pt": "Eu preciso de açúcar",
+      "fr": "J'ai besoin de Eu preciso de sucre",
+      "phon": "eu preciso de assoucar",
+      "files": {
+        "normal": "audio/0179-eu-preciso-de-acucar-a7c4bd38.mp3"
+      }
+    },
+    {
+      "id": "eu-preciso-de-sal-581f622a",
+      "pt": "Eu preciso de sal",
+      "fr": "J'ai besoin de Eu preciso de sel",
+      "phon": "eu preciso de sal",
+      "files": {
+        "normal": "audio/0180-eu-preciso-de-sal-581f622a.mp3"
+      }
+    },
+    {
+      "id": "por-favor-f2dbb03a",
+      "pt": "Por favor",
+      "fr": "S'il vous plaît",
+      "phon": "pôr favôr",
+      "files": {
+        "normal": "audio/0181-por-favor-f2dbb03a.mp3"
+      }
+    },
+    {
+      "id": "obrigado-34cfc76f",
+      "pt": "Obrigado",
+      "fr": "Merci (dit par un homme)",
+      "phon": "obrigado",
+      "files": {
+        "normal": "audio/0182-obrigado-34cfc76f.mp3"
+      }
+    },
+    {
+      "id": "obrigada-cbebca25",
+      "pt": "Obrigada",
+      "fr": "Merci (dit par une femme)",
+      "phon": "obrigada",
+      "files": {
+        "normal": "audio/0183-obrigada-cbebca25.mp3"
+      }
+    },
+    {
+      "id": "desculpa-abdb77ac",
+      "pt": "Desculpa",
+      "fr": "Pardon / Désolé(e)",
+      "phon": "dèsscoupa",
+      "files": {
+        "normal": "audio/0184-desculpa-abdb77ac.mp3"
+      }
+    },
+    {
+      "id": "com-licenca-b5075943",
+      "pt": "Com licença",
+      "fr": "Excusez-moi (pour passer)",
+      "phon": "con lissènssa",
+      "files": {
+        "normal": "audio/0185-com-licenca-b5075943.mp3"
+      }
+    },
+    {
+      "id": "tudo-bem-03e5de8e",
+      "pt": "Tudo bem?",
+      "fr": "Ça va ?",
+      "phon": "toudou bẽï",
+      "files": {
+        "normal": "audio/0186-tudo-bem-03e5de8e.mp3"
+      }
+    },
+    {
+      "id": "onde-voce-mora-83cb1363",
+      "pt": "Onde você mora?",
+      "fr": "Où habitez-vous ?",
+      "phon": "ondjé vosé mora",
+      "files": {
+        "normal": "audio/0187-onde-voce-mora-83cb1363.mp3"
+      }
+    },
+    {
+      "id": "eu-moro-em-paris-8951938f",
+      "pt": "Eu moro em Paris",
+      "fr": "J'habite à Paris",
+      "phon": "éou móro ẽï Paris",
+      "files": {
+        "normal": "audio/0188-eu-moro-em-paris-8951938f.mp3"
+      }
+    },
+    {
+      "id": "seis-ba157934",
+      "pt": "seis",
+      "fr": "six",
+      "phon": "seïss",
+      "files": {
+        "normal": "audio/0189-seis-ba157934.mp3"
+      }
+    },
+    {
+      "id": "sete-0f961cd8",
+      "pt": "sete",
+      "fr": "sept",
+      "phon": "sètchi",
+      "files": {
+        "normal": "audio/0190-sete-0f961cd8.mp3"
+      }
+    },
+    {
+      "id": "oito-2a67c257",
+      "pt": "oito",
+      "fr": "huit",
+      "phon": "oïto",
+      "files": {
+        "normal": "audio/0191-oito-2a67c257.mp3"
+      }
+    },
+    {
+      "id": "nove-7f52fd19",
+      "pt": "nove",
+      "fr": "neuf",
+      "phon": "nové",
+      "files": {
+        "normal": "audio/0192-nove-7f52fd19.mp3"
+      }
+    },
+    {
+      "id": "dez-b5ab4a29",
+      "pt": "dez",
+      "fr": "dix",
+      "phon": "dèïss",
+      "files": {
+        "normal": "audio/0193-dez-b5ab4a29.mp3"
+      }
+    },
+    {
+      "id": "dezessete-2f452a74",
+      "pt": "dezessete",
+      "fr": "dix-sept",
+      "phon": "dèzéssètchi",
+      "files": {
+        "normal": "audio/0194-dezessete-2f452a74.mp3"
+      }
+    },
+    {
+      "id": "dezoito-c5d18ab4",
+      "pt": "dezoito",
+      "fr": "dix-huit",
+      "phon": "dèzoïto",
+      "files": {
+        "normal": "audio/0195-dezoito-c5d18ab4.mp3"
+      }
+    },
+    {
+      "id": "dezenove-c0fd8b9e",
+      "pt": "dezenove",
+      "fr": "dix-neuf",
+      "phon": "dèzenové",
+      "files": {
+        "normal": "audio/0196-dezenove-c0fd8b9e.mp3"
+      }
+    },
+    {
+      "id": "vinte-d6b8c826",
+      "pt": "vinte",
+      "fr": "vingt",
+      "phon": "vinté",
+      "files": {
+        "normal": "audio/0197-vinte-d6b8c826.mp3"
+      }
+    },
+    {
+      "id": "domingo-da416310",
+      "pt": "domingo",
+      "fr": "dimanche",
+      "phon": "doumingou",
+      "files": {
+        "normal": "audio/0198-domingo-da416310.mp3"
+      }
+    },
+    {
+      "id": "amigo-01f07beb",
+      "pt": "amigo",
+      "fr": "ami",
+      "phon": "amigo",
+      "files": {
+        "normal": "audio/0199-amigo-01f07beb.mp3"
+      }
+    },
+    {
+      "id": "amiga-11c67d63",
+      "pt": "amiga",
+      "fr": "amie",
+      "phon": "amiga",
+      "files": {
+        "normal": "audio/0200-amiga-11c67d63.mp3"
+      }
+    },
+    {
+      "id": "varanda-8c0a1c42",
+      "pt": "varanda",
+      "fr": "balcon",
+      "phon": "varanda",
+      "files": {
+        "normal": "audio/0201-varanda-8c0a1c42.mp3"
+      }
+    },
+    {
+      "id": "jardim-14fff1ac",
+      "pt": "jardim",
+      "fr": "jardin",
+      "phon": "jardim",
+      "files": {
+        "normal": "audio/0202-jardim-14fff1ac.mp3"
+      }
+    },
+    {
+      "id": "garagem-d7f7f011",
+      "pt": "garagem",
+      "fr": "garage",
+      "phon": "garajèïm",
+      "files": {
+        "normal": "audio/0203-garagem-d7f7f011.mp3"
+      }
+    },
+    {
+      "id": "escritorio-a52b9ed6",
+      "pt": "escritório",
+      "fr": "bureau",
+      "phon": "escritoriou",
+      "files": {
+        "normal": "audio/0204-escritorio-a52b9ed6.mp3"
+      }
+    },
+    {
+      "id": "garfo-7d3ac037",
+      "pt": "garfo",
+      "fr": "fourchette",
+      "phon": "garfou",
+      "files": {
+        "normal": "audio/0205-garfo-7d3ac037.mp3"
+      }
+    },
+    {
+      "id": "faca-6afc729d",
+      "pt": "faca",
+      "fr": "couteau",
+      "phon": "faca",
+      "files": {
+        "normal": "audio/0206-faca-6afc729d.mp3"
+      }
+    },
+    {
+      "id": "carne-8ecc854e",
+      "pt": "carne",
+      "fr": "viande",
+      "phon": "carné",
+      "files": {
+        "normal": "audio/0207-carne-8ecc854e.mp3"
+      }
+    },
+    {
+      "id": "frango-07dd38db",
+      "pt": "frango",
+      "fr": "poulet",
+      "phon": "frango",
+      "files": {
+        "normal": "audio/0208-frango-07dd38db.mp3"
+      }
+    },
+    {
+      "id": "peixe-45620bd6",
+      "pt": "peixe",
+      "fr": "poisson",
+      "phon": "péïché",
+      "files": {
+        "normal": "audio/0209-peixe-45620bd6.mp3"
+      }
+    },
+    {
+      "id": "salada-e7c54bfd",
+      "pt": "salada",
+      "fr": "salade",
+      "phon": "salada",
+      "files": {
+        "normal": "audio/0210-salada-e7c54bfd.mp3"
+      }
+    },
+    {
+      "id": "batata-8467b174",
+      "pt": "batata",
+      "fr": "pomme de terre",
+      "phon": "batata",
+      "files": {
+        "normal": "audio/0211-batata-8467b174.mp3"
+      }
+    },
+    {
+      "id": "cenoura-62358800",
+      "pt": "cenoura",
+      "fr": "carotte",
+      "phon": "cénoura",
+      "files": {
+        "normal": "audio/0212-cenoura-62358800.mp3"
+      }
+    },
+    {
+      "id": "cebola-1247a068",
+      "pt": "cebola",
+      "fr": "oignon",
+      "phon": "cébola",
+      "files": {
+        "normal": "audio/0213-cebola-1247a068.mp3"
+      }
+    },
+    {
+      "id": "pimenta-2194c68b",
+      "pt": "pimenta",
+      "fr": "piment/poivre",
+      "phon": "pimenta",
+      "files": {
+        "normal": "audio/0214-pimenta-2194c68b.mp3"
+      }
+    },
+    {
+      "id": "oleo-7b3fb2ba",
+      "pt": "óleo",
+      "fr": "huile",
+      "phon": "olio",
+      "files": {
+        "normal": "audio/0215-oleo-7b3fb2ba.mp3"
+      }
+    },
+    {
+      "id": "azeite-77f3ba58",
+      "pt": "azeite",
+      "fr": "huile d'olive",
+      "phon": "azéïtchi",
+      "files": {
+        "normal": "audio/0216-azeite-77f3ba58.mp3"
+      }
+    },
+    {
+      "id": "tamanho-581176c7",
+      "pt": "tamanho",
+      "fr": "taille",
+      "phon": "tamagno",
+      "files": {
+        "normal": "audio/0217-tamanho-581176c7.mp3"
+      }
+    },
+    {
+      "id": "provador-13faa81e",
+      "pt": "provador",
+      "fr": "cabine d'essayage",
+      "phon": "provador",
+      "files": {
+        "normal": "audio/0218-provador-13faa81e.mp3"
+      }
+    },
+    {
+      "id": "barato-33e8c86f",
+      "pt": "barato",
+      "fr": "pas cher",
+      "phon": "barato",
+      "files": {
+        "normal": "audio/0219-barato-33e8c86f.mp3"
+      }
+    },
+    {
+      "id": "caro-732849d5",
+      "pt": "caro",
+      "fr": "cher",
+      "phon": "caro",
+      "files": {
+        "normal": "audio/0220-caro-732849d5.mp3"
+      }
+    },
+    {
+      "id": "longe-3fd57249",
+      "pt": "longe",
+      "fr": "loin",
+      "phon": "lonjé",
+      "files": {
+        "normal": "audio/0221-longe-3fd57249.mp3"
+      }
+    },
+    {
+      "id": "farmacia-b36a4b1f",
+      "pt": "farmácia",
+      "fr": "pharmacie",
+      "phon": "farmassia",
+      "files": {
+        "normal": "audio/0222-farmacia-b36a4b1f.mp3"
+      }
+    },
+    {
+      "id": "alergia-661fca89",
+      "pt": "alergia",
+      "fr": "allergie",
+      "phon": "alergia",
+      "files": {
+        "normal": "audio/0223-alergia-661fca89.mp3"
+      }
+    },
+    {
+      "id": "febre-8a5bba8c",
+      "pt": "febre",
+      "fr": "fièvre",
+      "phon": "fèbré",
+      "files": {
+        "normal": "audio/0224-febre-8a5bba8c.mp3"
+      }
+    },
+    {
+      "id": "gripe-b8fa752b",
+      "pt": "gripe",
+      "fr": "grippe",
+      "phon": "gripé",
+      "files": {
+        "normal": "audio/0225-gripe-b8fa752b.mp3"
+      }
+    },
+    {
+      "id": "vento-59c478b4",
+      "pt": "vento",
+      "fr": "vent",
+      "phon": "vèntou",
+      "files": {
+        "normal": "audio/0226-vento-59c478b4.mp3"
+      }
+    },
+    {
+      "id": "neve-394104b4",
+      "pt": "neve",
+      "fr": "neige",
+      "phon": "nèvé",
+      "files": {
+        "normal": "audio/0227-neve-394104b4.mp3"
+      }
+    },
+    {
+      "id": "hoje-b5364edb",
+      "pt": "hoje",
+      "fr": "aujourd'hui",
+      "phon": "ôjé",
+      "files": {
+        "normal": "audio/0228-hoje-b5364edb.mp3"
+      }
+    },
+    {
+      "id": "amanha-8a87dcb0",
+      "pt": "amanhã",
+      "fr": "demain",
+      "phon": "ama-gnã",
+      "files": {
+        "normal": "audio/0229-amanha-8a87dcb0.mp3"
+      }
+    },
+    {
+      "id": "ontem-4a127553",
+      "pt": "ontem",
+      "fr": "hier",
+      "phon": "ontèm",
+      "files": {
+        "normal": "audio/0230-ontem-4a127553.mp3"
+      }
+    },
+    {
+      "id": "ouvir-cc9785ea",
+      "pt": "ouvir",
+      "fr": "écouter",
+      "phon": "ovirr",
+      "files": {
+        "normal": "audio/0231-ouvir-cc9785ea.mp3"
+      }
+    },
+    {
+      "id": "ver-5e0b8aa1",
+      "pt": "ver",
+      "fr": "voir",
+      "phon": "vèr",
+      "files": {
+        "normal": "audio/0232-ver-5e0b8aa1.mp3"
+      }
+    },
+    {
+      "id": "vir-ce1a88f3",
+      "pt": "vir",
+      "fr": "venir",
+      "phon": "virr",
+      "files": {
+        "normal": "audio/0233-vir-ce1a88f3.mp3"
+      }
+    },
+    {
+      "id": "chegar-39831b34",
+      "pt": "chegar",
+      "fr": "arriver",
+      "phon": "chégar",
+      "files": {
+        "normal": "audio/0234-chegar-39831b34.mp3"
+      }
+    },
+    {
+      "id": "sair-e00104f8",
+      "pt": "sair",
+      "fr": "sortir",
+      "phon": "saïr",
+      "files": {
+        "normal": "audio/0235-sair-e00104f8.mp3"
+      }
+    },
+    {
+      "id": "abrir-50d3cb21",
+      "pt": "abrir",
+      "fr": "ouvrir",
+      "phon": "abrirr",
+      "files": {
+        "normal": "audio/0236-abrir-50d3cb21.mp3"
+      }
+    },
+    {
+      "id": "fechar-5749fbf8",
+      "pt": "fechar",
+      "fr": "fermer",
+      "phon": "féchar",
+      "files": {
+        "normal": "audio/0237-fechar-5749fbf8.mp3"
+      }
+    },
+    {
+      "id": "eu-gostaria-de-carne-994f5c6d",
+      "pt": "Eu gostaria de carne",
+      "fr": "Je voudrais Eu gostaria de viande",
+      "phon": "eu gostaria de carné",
+      "files": {
+        "normal": "audio/0238-eu-gostaria-de-carne-994f5c6d.mp3"
+      }
+    },
+    {
+      "id": "eu-gostaria-de-frango-d10cf0e5",
+      "pt": "Eu gostaria de frango",
+      "fr": "Je voudrais Eu gostaria de poulet",
+      "phon": "eu gostaria de frango",
+      "files": {
+        "normal": "audio/0239-eu-gostaria-de-frango-d10cf0e5.mp3"
+      }
+    },
+    {
+      "id": "eu-gostaria-de-peixe-d95359a4",
+      "pt": "Eu gostaria de peixe",
+      "fr": "Je voudrais Eu gostaria de poisson",
+      "phon": "eu gostaria de péïché",
+      "files": {
+        "normal": "audio/0240-eu-gostaria-de-peixe-d95359a4.mp3"
+      }
+    },
+    {
+      "id": "eu-gostaria-de-salada-54c09919",
+      "pt": "Eu gostaria de salada",
+      "fr": "Je voudrais Eu gostaria de salade",
+      "phon": "eu gostaria de salada",
+      "files": {
+        "normal": "audio/0241-eu-gostaria-de-salada-54c09919.mp3"
+      }
+    },
+    {
+      "id": "eu-quero-cafe-6d9e99ca",
+      "pt": "Eu quero café",
+      "fr": "Je veux Eu quero café",
+      "phon": "eu quero cafè",
+      "files": {
+        "normal": "audio/0242-eu-quero-cafe-6d9e99ca.mp3"
+      }
+    },
+    {
+      "id": "eu-quero-cha-3f738ab6",
+      "pt": "Eu quero chá",
+      "fr": "Je veux Eu quero thé",
+      "phon": "eu quero cha",
+      "files": {
+        "normal": "audio/0243-eu-quero-cha-3f738ab6.mp3"
+      }
+    },
+    {
+      "id": "e-perto-3aa07ba3",
+      "pt": "É perto",
+      "fr": "É perto",
+      "phon": "é perto",
+      "files": {
+        "normal": "audio/0244-e-perto-3aa07ba3.mp3"
+      }
+    },
+    {
+      "id": "e-longe-9a6fc484",
+      "pt": "É longe",
+      "fr": "É longe",
+      "phon": "é longe",
+      "files": {
+        "normal": "audio/0245-e-longe-9a6fc484.mp3"
+      }
+    },
+    {
+      "id": "vire-a-direita-3dcc29e7",
+      "pt": "Vire à direita",
+      "fr": "Vire à direita",
+      "phon": "vire à direita",
+      "files": {
+        "normal": "audio/0246-vire-a-direita-3dcc29e7.mp3"
+      }
+    },
+    {
+      "id": "vire-a-esquerda-39407a21",
+      "pt": "Vire à esquerda",
+      "fr": "Vire à esquerda",
+      "phon": "vire à esquerda",
+      "files": {
+        "normal": "audio/0247-vire-a-esquerda-39407a21.mp3"
+      }
+    },
+    {
+      "id": "siga-em-frente-70bdc31b",
+      "pt": "Siga em frente",
+      "fr": "Siga em frente",
+      "phon": "siga em frente",
+      "files": {
+        "normal": "audio/0248-siga-em-frente-70bdc31b.mp3"
+      }
+    },
+    {
+      "id": "eu-preciso-de-gluten-d56171a9",
+      "pt": "Eu preciso de glúten",
+      "fr": "J'ai besoin de Eu preciso de gluten",
+      "phon": "eu preciso de gloutèn",
+      "files": {
+        "normal": "audio/0249-eu-preciso-de-gluten-d56171a9.mp3"
+      }
+    },
+    {
+      "id": "eu-preciso-de-lactose-ba885651",
+      "pt": "Eu preciso de lactose",
+      "fr": "J'ai besoin de Eu preciso de lactose",
+      "phon": "eu preciso de lactôzi",
+      "files": {
+        "normal": "audio/0250-eu-preciso-de-lactose-ba885651.mp3"
+      }
+    },
+    {
+      "id": "eu-trabalho-em-o-aeroporto-6e77353a",
+      "pt": "Eu trabalho em o aeroporto",
+      "fr": "Je travaille à Eu travail em o aéroport",
+      "phon": "eu trabailo em o aéropôrto",
+      "files": {
+        "normal": "audio/0251-eu-trabalho-em-o-aeroporto-6e77353a.mp3"
+      }
+    },
+    {
+      "id": "eu-trabalho-em-a-estacao-12d7afe9",
+      "pt": "Eu trabalho em a estação",
+      "fr": "Je travaille à Eu travail em a gare / station",
+      "phon": "eu trabailo em a estass-ã-oun",
+      "files": {
+        "normal": "audio/0252-eu-trabalho-em-a-estacao-12d7afe9.mp3"
+      }
+    },
+    {
+      "id": "eu-trabalho-em-o-hotel-543ca020",
+      "pt": "Eu trabalho em o hotel",
+      "fr": "Je travaille à Eu travail em o hotel",
+      "phon": "eu trabailo em o hotel",
+      "files": {
+        "normal": "audio/0253-eu-trabalho-em-o-hotel-543ca020.mp3"
+      }
+    },
+    {
+      "id": "eu-trabalho-em-o-restaurante-fdab6da0",
+      "pt": "Eu trabalho em o restaurante",
+      "fr": "Je travaille à Eu travail em o restaurante",
+      "phon": "eu trabailo em o restaurante",
+      "files": {
+        "normal": "audio/0254-eu-trabalho-em-o-restaurante-fdab6da0.mp3"
+      }
+    },
+    {
+      "id": "tudo-bem-734b6471",
+      "pt": "Tudo bem",
+      "fr": "Ça va",
+      "phon": "toudou bẽï",
+      "files": {
+        "normal": "audio/0255-tudo-bem-734b6471.mp3"
+      }
+    },
+    {
+      "id": "prazer-e32ecf63",
+      "pt": "Prazer",
+      "fr": "Enchanté(e)",
+      "phon": "prazèr",
+      "files": {
+        "normal": "audio/0256-prazer-e32ecf63.mp3"
+      }
+    },
+    {
+      "id": "eu-quero-agua-36d9b05b",
+      "pt": "Eu quero água",
+      "fr": "Je veux Eu quero eau",
+      "phon": "eu quero agoua",
+      "files": {
+        "normal": "audio/0257-eu-quero-agua-36d9b05b.mp3"
+      }
+    },
+    {
+      "id": "eu-quero-suco-bae13aa7",
+      "pt": "Eu quero suco",
+      "fr": "Je veux Eu quero jus",
+      "phon": "eu quero souco",
+      "files": {
+        "normal": "audio/0258-eu-quero-suco-bae13aa7.mp3"
+      }
+    },
+    {
+      "id": "eu-quero-arroz-b65c8ffe",
+      "pt": "Eu quero arroz",
+      "fr": "Je veux Eu quero riz",
+      "phon": "eu quero arroz",
+      "files": {
+        "normal": "audio/0259-eu-quero-arroz-b65c8ffe.mp3"
+      }
+    },
+    {
+      "id": "eu-quero-feijao-a271ff4a",
+      "pt": "Eu quero feijão",
+      "fr": "Je veux Eu quero haricots (noirs)",
+      "phon": "eu quero feij-ã-oun",
+      "files": {
+        "normal": "audio/0260-eu-quero-feijao-a271ff4a.mp3"
+      }
+    },
+    {
+      "id": "eu-quero-carne-6fbf53be",
+      "pt": "Eu quero carne",
+      "fr": "Je veux Eu quero viande",
+      "phon": "eu quero carné",
+      "files": {
+        "normal": "audio/0261-eu-quero-carne-6fbf53be.mp3"
+      }
+    },
+    {
+      "id": "eu-quero-frango-09a86855",
+      "pt": "Eu quero frango",
+      "fr": "Je veux Eu quero poulet",
+      "phon": "eu quero frango",
+      "files": {
+        "normal": "audio/0262-eu-quero-frango-09a86855.mp3"
+      }
+    },
+    {
+      "id": "eu-trabalho-em-o-hospital-dba85d46",
+      "pt": "Eu trabalho em o hospital",
+      "fr": "Je travaille à Eu travail em o hôpital",
+      "phon": "eu trabailo em o ospital",
+      "files": {
+        "normal": "audio/0263-eu-trabalho-em-o-hospital-dba85d46.mp3"
+      }
+    },
+    {
+      "id": "eu-trabalho-em-o-centro-8030f637",
+      "pt": "Eu trabalho em o centro",
+      "fr": "Je travaille à Eu travail em o centro",
+      "phon": "eu trabailo em o centro",
+      "files": {
+        "normal": "audio/0264-eu-trabalho-em-o-centro-8030f637.mp3"
+      }
+    },
+    {
+      "id": "eu-estudo-acucar-5bb30418",
+      "pt": "Eu estudo açúcar",
+      "fr": "J'étudie Eu estudo sucre",
+      "phon": "eu estudo assoucar",
+      "files": {
+        "normal": "audio/0265-eu-estudo-acucar-5bb30418.mp3"
+      }
+    },
+    {
+      "id": "eu-estudo-sal-554a378b",
+      "pt": "Eu estudo sal",
+      "fr": "J'étudie Eu estudo sel",
+      "phon": "eu estudo sal",
+      "files": {
+        "normal": "audio/0266-eu-estudo-sal-554a378b.mp3"
+      }
+    },
+    {
+      "id": "eu-estudo-gluten-ce283203",
+      "pt": "Eu estudo glúten",
+      "fr": "J'étudie Eu estudo gluten",
+      "phon": "eu estudo gloutèn",
+      "files": {
+        "normal": "audio/0267-eu-estudo-gluten-ce283203.mp3"
+      }
+    },
+    {
+      "id": "eu-estudo-lactose-080156ae",
+      "pt": "Eu estudo lactose",
+      "fr": "J'étudie Eu estudo lactose",
+      "phon": "eu estudo lactôzi",
+      "files": {
+        "normal": "audio/0268-eu-estudo-lactose-080156ae.mp3"
+      }
+    }
+  ]
+}

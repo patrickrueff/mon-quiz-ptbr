@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <title>Quiz — Maison &amp; pièces — L072</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>:root{
+  --bg:#0b0f14;--card:#121821;--text:#eef3fb;--muted:#b8c0cc;--accent:#5aa0ff;--accent2:#8ad1ff;--border:#1e2632
+}
+*{box-sizing:border-box}
+body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+  background:radial-gradient(1000px 600px at 20% -10%,#16202d 0%,#0b0f14 60%) no-repeat fixed,var(--bg);
+  color:var(--text);padding:32px 16px 80px}
+.container{max-width:1000px;margin:0 auto}
+h1{margin:0 0 8px} h2{margin:22px 0 12px} .sub{color:var(--muted);margin:0 0 24px}
+.card{background:linear-gradient(180deg,rgba(255,255,255,.02),transparent),var(--card);
+  border:1px solid var(--border);border-radius:16px;padding:16px;display:grid;grid-template-columns:1fr auto;gap:12px;align-items:center}
+.badge{min-width:36px;height:36px;border-radius:10px;display:grid;place-items:center;
+  background:linear-gradient(135deg,var(--accent),var(--accent2));color:#0b0f14;font-weight:700;border:1px solid rgba(255,255,255,.2);
+  box-shadow:0 6px 14px rgba(90,160,255,.35)}
+.row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.texts{display:flex;gap:12px;align-items:center}
+.texts .label{display:grid;place-items:center}
+.pt{font-size:18px;font-weight:700;line-height:1.2}
+.phon{color:#9fb4cc;font-size:13px;margin-top:2px}
+.fr{color:var(--muted);margin-top:2px;font-size:14px}
+.actions{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px}
+button,a.btn{border:1px solid var(--border);background:#0e141d;color:#eef3fb;border-radius:10px;padding:8px 12px;cursor:pointer;font-weight:600;
+  transition:transform .05s ease,border-color .2s ease;text-decoration:none;display:inline-flex;align-items:center;gap:6px}
+button:hover,a.btn:hover{border-color:var(--accent)} button:active,a.btn:active{transform:translateY(1px)}
+.small{font-size:12px;color:var(--muted)}
+.footer{position:fixed;left:0;right:0;bottom:0;background:linear-gradient(180deg,rgba(255,255,255,.02),transparent),var(--card);
+  border-top:1px solid var(--border);padding:10px 16px;color:var(--muted);font-size:12px;display:flex;justify-content:center}
+.toolbar{display:flex;gap:10px;align-items:center;margin:16px 0 20px;flex-wrap:wrap}
+.toolbar input,.toolbar select{flex:1;min-width:220px;padding:10px 12px;border-radius:10px;border:1px solid var(--border);background:#0e141d;color:#eef3fb;outline:none}
+.quiz-wrap{max-width:720px;margin:0 auto}
+.quiz-card{background:linear-gradient(180deg,rgba(255,255,255,.02),transparent),var(--card);border:1px solid var(--border);border-radius:16px;padding:16px;display:flex;flex-direction:column;gap:14px}
+.choice{border:1px solid var(--border);border-radius:10px;padding:10px 12px;cursor:pointer;background:#0e141d}
+.choice.correct{border-color:#3ddc97} .choice.wrong{border-color:#ff6b6b}
+.kpi{display:flex;gap:12px;flex-wrap:wrap}
+.kpi .pill{padding:6px 10px;border:1px solid var(--border);border-radius:999px;background:#0e141d;color:#eef3fb}
+.timer{font-weight:700}
+@media (max-width:640px){.card{grid-template-columns:1fr}.actions{justify-content:flex-start}}
+</style>
+</head>
+<body>
+  <div class="container">
+    <div class="row" style="justify-content:space-between;align-items:baseline">
+      <h1>Quiz — Maison &amp; pièces — L072</h1>
+      <div class="row"><a class="btn" href="index.html">🏠 Accueil</a></div>
+    </div>
+    <p class="sub">Leçon : S072</p>
+        <div class="quiz-wrap">
+      <div id="config" class="quiz-card">
+        <div class="pt">Paramètres du quiz</div>
+        <div class="row">
+          <label for="qcount">Nombre de questions</label>
+          <select id="qcount">
+            <option value="10" selected>10</option>
+            <option value="5">5</option>
+            <option value="15">15</option>
+            <option value="20">20</option>
+          </select>
+          <button id="btn-start">▶️ Démarrer</button>
+        </div>
+        <div class="small">Le quiz joue automatiquement l’audio. Réponds avant la fin du <b>compte à rebours</b>.</div>
+      </div>
+
+      <div id="stage" class="quiz-card" style="display:none">
+        <div class="row kpi">
+          <div class="pill">Question : <span id="qnum">1</span></div>
+          <div class="pill">Score : <span id="score">0</span></div>
+          <div class="pill">⏱️ Temps : <span id="timer" class="timer">8</span>s</div>
+        </div>
+        <div id="choices" class="grid" style="grid-template-columns:repeat(auto-fill,minmax(180px,1fr));"></div>
+        <div class="row" style="gap:8px">
+          <button id="btn-pause" style="display:none">⏸️ Pause</button>
+          <button id="btn-resume" style="display:none">▶️ Reprendre</button>
+          <button id="btn-restart" style="display:none">🔄 Recommencer</button>
+          <span id="result"></span>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+  <div class="footer">Pages statiques — ouvrez localement sans serveur.</div>
+  <audio id="player" preload="auto"></audio>
+  <script>const player = document.getElementById('player');
+function play(src){ player.src = src; player.play(); }
+function stopAudio(){ try{ player.pause(); player.currentTime = 0; }catch(e){} }
+function filterCards(){
+  const q=(document.getElementById('search')?.value||'').trim().toLowerCase();
+  const cards=document.querySelectorAll('#list .card');
+  if(!q){ cards.forEach(c=>c.style.display=''); return; }
+  cards.forEach(c=>{
+    const pt=c.getAttribute('data-pt'), fr=c.getAttribute('data-fr');
+    c.style.display = (pt.includes(q) || fr.includes(q)) ? '' : 'none';
+  });
+}
+function toggleQuiz(){
+  const chk=document.getElementById('quiz');
+  const frs=document.querySelectorAll('.fr');
+  frs.forEach(el=>{ el.style.visibility = chk.checked ? 'hidden' : 'visible'; });
+}
+</script>
+  <script>const POOL = [{"pt": "sala", "fr": "salon", "phon": "sala", "normal": "audio/0069-sala-9a2505d5.mp3"}, {"pt": "quarto", "fr": "chambre", "phon": "kouarto", "normal": "audio/0070-quarto-ad25d1cf.mp3"}, {"pt": "cozinha", "fr": "cuisine", "phon": "couzinha", "normal": "audio/0071-cozinha-d4ca9c86.mp3"}, {"pt": "banheiro", "fr": "salle de bain", "phon": "banhèïrou", "normal": "audio/0072-banheiro-ab24c5bf.mp3"}, {"pt": "varanda", "fr": "balcon", "phon": "varanda", "normal": "audio/0201-varanda-8c0a1c42.mp3"}, {"pt": "jardim", "fr": "jardin", "phon": "jardim", "normal": "audio/0202-jardim-14fff1ac.mp3"}];
+function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; }
+function makeQuiz(POOL, limit){ const items=[...POOL]; shuffle(items); if(limit&&limit>0){ items.length=Math.min(limit,items.length);} return items; }
+function buildChoices(pool, answer, n=4){
+  const others = pool.filter(x => x.pt !== answer.pt);
+  shuffle(others);
+  const picks = others.slice(0, Math.max(0, n-1));
+  return shuffle([...picks, answer]);
+}
+// --- Accès direct comme les leçons : la phonétique est dans item.phon ---
+function getPhon(x){ return (x && typeof x.phon === 'string') ? x.phon : ''; }
+function getFr(x){ return (x && typeof x.fr   === 'string') ? x.fr   : (x && x.fr) || ''; }
+
+function QuizApp(config){
+  const AUTO_DELAY_MS = 900;
+  const EXTRA_FEEDBACK_MS = 3000; // +3s d'affichage de la réponse
+  const TIMER_LIMIT_S = 8;
+  const state = { pool:config.pool, idx:0, score:0, total:config.total, optionsCount:4,
+                  started:false, paused:false, timerNext:null, countdown:TIMER_LIMIT_S,
+                  countdownInterval:null, answered:false, history:[] };
+  const elBtnStart   = document.getElementById('btn-start');
+  const elBtnPause   = document.getElementById('btn-pause');
+  const elBtnResume  = document.getElementById('btn-resume');
+  const elBtnRestart = document.getElementById('btn-restart');
+  const elQuestion = document.getElementById('qnum');
+  const elScore    = document.getElementById('score');
+  const elTimer    = document.getElementById('timer');
+  const elChoices  = document.getElementById('choices');
+  const elResult   = document.getElementById('result');
+  const elConfig   = document.getElementById('config');
+  const elStage    = document.getElementById('stage');
+
+  function setButtons(){
+    elBtnStart.style.display   = state.started ? 'none' : 'inline-flex';
+    elBtnPause.style.display   = (state.started && !state.paused) ? 'inline-flex' : 'none';
+    elBtnResume.style.display  = (state.started && state.paused) ? 'inline-flex' : 'none';
+    elBtnRestart.style.display = state.started ? 'inline-flex' : 'none';
+  }
+  function clearTimers(){
+    if (state.timerNext){ clearTimeout(state.timerNext); state.timerNext = null; }
+    if (state.countdownInterval){ clearInterval(state.countdownInterval); state.countdownInterval = null; }
+  }
+  function scheduleNext(){
+    if(state.paused) return;
+    if(state.timerNext){clearTimeout(state.timerNext);} 
+    state.timerNext = setTimeout(nextQuestion, AUTO_DELAY_MS + EXTRA_FEEDBACK_MS);
+  }
+  function startCountdown(){
+    if (state.countdownInterval){ clearInterval(state.countdownInterval); }
+    state.countdown = TIMER_LIMIT_S;
+    elTimer.textContent = state.countdown.toString();
+    state.countdownInterval = setInterval(() => {
+      if (state.paused) return;
+      state.countdown -= 1;
+      elTimer.textContent = Math.max(0, state.countdown).toString();
+      if (state.countdown <= 0){
+        clearInterval(state.countdownInterval);
+        onTimeout();
+      }
+    }, 1000);
+  }
+  function stopCountdown(){ if(state.countdownInterval){ clearInterval(state.countdownInterval); state.countdownInterval=null; }}
+  function render(){
+    const cur = state.pool[state.idx];
+    state.answered = false;
+    elQuestion.textContent = (state.idx + 1) + " / " + state.total;
+    elScore.textContent = state.score;
+    elResult.textContent = "";
+    elChoices.innerHTML = "";
+    const opts = buildChoices(state.pool, cur, state.optionsCount);
+    opts.forEach(opt => {
+      const btn = document.createElement('button');
+      btn.className = 'choice';
+      btn.textContent = opt.pt;
+      btn.onclick = () => onAnswer(opt.pt === cur.pt, btn);
+      elChoices.appendChild(btn);
+    });
+    if (!state.paused) {
+      stopAudio();
+      play(cur.normal);
+      startCountdown();
+    }
+  }
+  function lockChoices(){ elChoices.querySelectorAll('.choice').forEach(b => b.disabled = true); }
+  function markCorrect(){
+    elChoices.querySelectorAll('.choice').forEach(b => {
+      if (b.textContent === state.pool[state.idx].pt) b.classList.add('correct');
+    });
+  }
+  function showFeedback(item, isCorrect){
+    const phon = getPhon(item);
+    const fr   = getFr(item);
+    const icon = isCorrect ? '✅' : '❌';
+    const title = isCorrect ? 'Correct !' : 'Mauvaise réponse.';
+    elResult.innerHTML = "<div class=\"feedback\">"+
+      `<div class="fb-title">${icon} ${title}</div>`+
+      `<div class="fb-pt"><strong>Portugais :</strong> ${item.pt || ''}</div>`+
+      `<div class="fb-phon"><strong>Phonétique :</strong> ${phon || '—'}</div>`+
+      `<div class="fb-fr"><strong>Français :</strong> ${fr || '—'}</div>`+
+    "</div>";
+  }
+  function onAnswer(isCorrect, btn){
+    if (state.answered) return;
+    state.answered = true;
+    stopCountdown();
+    lockChoices();
+    if (isCorrect){ btn.classList.add('correct'); state.score += 1; }
+    else { btn.classList.add('wrong'); markCorrect(); }
+    elScore.textContent = state.score;
+    const item = state.pool[state.idx];
+    showFeedback(item, isCorrect);
+    state.history.push({ pt: item.pt || '', phon: getPhon(item), fr: getFr(item), correct: !!isCorrect });
+    scheduleNext();
+  }
+  function onTimeout(){
+    if (state.answered) return;
+    state.answered = true;
+    lockChoices(); markCorrect();
+    const item = state.pool[state.idx];
+    showFeedback(item, false);
+    state.history.push({ pt: item.pt || '', phon: getPhon(item), fr: getFr(item), correct: false });
+    scheduleNext();
+  }
+  function buildSummary(entries){
+    const rows = entries.map((e,i)=>{
+      const status = e.correct ? '✅' : '❌';
+      return `<tr class="row-${e.correct?'ok':'ko'}">`
+           + `<td>${i+1}</td>`
+           + `<td>${status}</td>`
+           + `<td>${e.pt || ''}</td>`
+           + `<td>${e.phon || '—'}</td>`
+           + `<td>${e.fr || '—'}</td>`
+           + `</tr>`;
+    }).join('');
+    const score = `${state.score} / ${state.total}`;
+    return (
+      `<div class="summary">`
+      + `<div class="summary-title">🎉 Terminé ! Score : ${score}</div>`
+      + `<table class="summary-table">`
+      + `<thead><tr><th>#</th><th>OK</th><th>Portugais</th><th>Phonétique</th><th>Français</th></tr></thead>`
+      + `<tbody>${rows}</tbody>`
+      + `</table>`
+      + `</div>`
+    );
+  }
+  function nextQuestion(){
+    clearTimers();
+    if (state.idx + 1 >= state.total){
+      elChoices.innerHTML = "";
+      elResult.innerHTML = buildSummary(state.history);
+      setButtons();
+      return;
+    }
+    state.idx += 1; render();
+  }
+  // Controls
+  elBtnStart.onclick = () => {
+    const sel = document.getElementById('qcount');
+    const total = parseInt(sel.value, 10) || 10;
+    state.history = [];
+    state.pool = makeQuiz(state.pool, total);
+    state.total = state.pool.length;
+    state.idx = 0; state.score = 0; state.started = true; state.paused = false;
+    clearTimers(); stopAudio(); elConfig.style.display = 'none'; elStage.style.display = 'block';
+    render(); setButtons();
+  };
+  elBtnPause.onclick = () => { state.paused = true; clearTimers(); stopAudio(); setButtons(); };
+  elBtnResume.onclick = () => { state.paused = false; setButtons(); render(); };
+  elBtnRestart.onclick = () => { clearTimers(); state.started=false; state.paused=false; state.idx=0; state.score=0; stopAudio(); elStage.style.display='none'; elConfig.style.display='block'; setButtons(); };
+  setButtons();
+}
+function startQuiz(POOL){ QuizApp({ pool: POOL, total: POOL.length }); }
+
+/* CSS suggéré (optionnel)
+  .feedback { margin-top: .5rem; line-height:1.4; }
+  .fb-title { font-weight:600; margin-bottom:.25rem; }
+  .summary { margin-top: .75rem; }
+  .summary-title { font-weight:700; margin-bottom:.5rem; }
+  .summary-table { width:100%; border-collapse: collapse; }
+  .summary-table th, .summary-table td { border:1px solid #ddd; padding:.35rem .5rem; text-align:left; }
+  .row-ok td { background: #f2fbf4; }
+  .row-ko td { background: #fff5f5; }
+*/
+
+startQuiz(POOL);</script>
+</body>
+</html>

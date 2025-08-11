@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <title>Dictée — Couleurs (2) — L099</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>:root{
+  --bg:#0b0f14;--card:#121821;--text:#eef3fb;--muted:#b8c0cc;--accent:#5aa0ff;--accent2:#8ad1ff;--border:#1e2632
+}
+*{box-sizing:border-box}
+body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+  background:radial-gradient(1000px 600px at 20% -10%,#16202d 0%,#0b0f14 60%) no-repeat fixed,var(--bg);
+  color:var(--text);padding:32px 16px 80px}
+.container{max-width:1000px;margin:0 auto}
+h1{margin:0 0 8px} h2{margin:22px 0 12px} .sub{color:var(--muted);margin:0 0 24px}
+.card{background:linear-gradient(180deg,rgba(255,255,255,.02),transparent),var(--card);
+  border:1px solid var(--border);border-radius:16px;padding:16px;display:grid;grid-template-columns:1fr auto;gap:12px;align-items:center}
+.badge{min-width:36px;height:36px;border-radius:10px;display:grid;place-items:center;
+  background:linear-gradient(135deg,var(--accent),var(--accent2));color:#0b0f14;font-weight:700;border:1px solid rgba(255,255,255,.2);
+  box-shadow:0 6px 14px rgba(90,160,255,.35)}
+.row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.texts{display:flex;gap:12px;align-items:center}
+.texts .label{display:grid;place-items:center}
+.pt{font-size:18px;font-weight:700;line-height:1.2}
+.phon{color:#9fb4cc;font-size:13px;margin-top:2px}
+.fr{color:var(--muted);margin-top:2px;font-size:14px}
+.actions{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px}
+button,a.btn{border:1px solid var(--border);background:#0e141d;color:#eef3fb;border-radius:10px;padding:8px 12px;cursor:pointer;font-weight:600;
+  transition:transform .05s ease,border-color .2s ease;text-decoration:none;display:inline-flex;align-items:center;gap:6px}
+button:hover,a.btn:hover{border-color:var(--accent)} button:active,a.btn:active{transform:translateY(1px)}
+.small{font-size:12px;color:var(--muted)}
+.footer{position:fixed;left:0;right:0;bottom:0;background:linear-gradient(180deg,rgba(255,255,255,.02),transparent),var(--card);
+  border-top:1px solid var(--border);padding:10px 16px;color:var(--muted);font-size:12px;display:flex;justify-content:center}
+.toolbar{display:flex;gap:10px;align-items:center;margin:16px 0 20px;flex-wrap:wrap}
+.toolbar input,.toolbar select{flex:1;min-width:220px;padding:10px 12px;border-radius:10px;border:1px solid var(--border);background:#0e141d;color:#eef3fb;outline:none}
+.quiz-wrap{max-width:720px;margin:0 auto}
+.quiz-card{background:linear-gradient(180deg,rgba(255,255,255,.02),transparent),var(--card);border:1px solid var(--border);border-radius:16px;padding:16px;display:flex;flex-direction:column;gap:14px}
+.choice{border:1px solid var(--border);border-radius:10px;padding:10px 12px;cursor:pointer;background:#0e141d}
+.choice.correct{border-color:#3ddc97} .choice.wrong{border-color:#ff6b6b}
+.kpi{display:flex;gap:12px;flex-wrap:wrap}
+.kpi .pill{padding:6px 10px;border:1px solid var(--border);border-radius:999px;background:#0e141d;color:#eef3fb}
+.timer{font-weight:700}
+@media (max-width:640px){.card{grid-template-columns:1fr}.actions{justify-content:flex-start}}
+</style>
+</head>
+<body>
+  <div class="container">
+    <div class="row" style="justify-content:space-between;align-items:baseline">
+      <h1>Dictée — Couleurs (2) — L099</h1>
+      <div class="row"><a class="btn" href="index.html">🏠 Accueil</a></div>
+    </div>
+    <p class="sub">Leçon : S099</p>
+        <div class="quiz-wrap">
+      <div id="config" class="quiz-card">
+        <div class="pt">Paramètres dictée</div>
+        <div class="row">
+          <button id="btn-start">▶️ Démarrer</button>
+        </div>
+        <div class="small">Écoute l’audio puis <b>saisis exactement</b> ce que tu entends.</div>
+      </div>
+
+      <div id="stage" class="quiz-card" style="display:none">
+        <div class="row kpi">
+          <div class="pill">Question : <span id="qnum">1</span></div>
+          <div class="pill">Score : <span id="score">0</span></div>
+          <div class="pill">⏱️ Temps : <span id="timer" class="timer">12</span>s</div>
+        </div>
+        <input id="answer" type="text" placeholder="Tape ici..." style="padding:10px;border-radius:10px;border:1px solid var(--border);background:#0e141d;color:#eef3fb;outline:none" />
+        <div class="row" style="gap:8px">
+          <button id="btn-check">✔️ Vérifier</button>
+          <button id="btn-next" style="display:none">➡️ Suivant</button>
+          <button id="btn-restart" style="display:none">🔄 Recommencer</button>
+          <span id="result"></span>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+  <div class="footer">Pages statiques — ouvrez localement sans serveur.</div>
+  <audio id="player" preload="auto"></audio>
+  <script>const player = document.getElementById('player');
+function play(src){ player.src = src; player.play(); }
+function stopAudio(){ try{ player.pause(); player.currentTime = 0; }catch(e){} }
+function filterCards(){
+  const q=(document.getElementById('search')?.value||'').trim().toLowerCase();
+  const cards=document.querySelectorAll('#list .card');
+  if(!q){ cards.forEach(c=>c.style.display=''); return; }
+  cards.forEach(c=>{
+    const pt=c.getAttribute('data-pt'), fr=c.getAttribute('data-fr');
+    c.style.display = (pt.includes(q) || fr.includes(q)) ? '' : 'none';
+  });
+}
+function toggleQuiz(){
+  const chk=document.getElementById('quiz');
+  const frs=document.querySelectorAll('.fr');
+  frs.forEach(el=>{ el.style.visibility = chk.checked ? 'hidden' : 'visible'; });
+}
+</script>
+  <script>const POOL = [{"pt": "cinza", "fr": "gris", "phon": "cinza", "normal": "audio/0049-cinza-32a05be7.mp3"}, {"pt": "rosa", "fr": "rose", "phon": "roza", "normal": "audio/0050-rosa-5efc86ca.mp3"}, {"pt": "roxo", "fr": "violet", "phon": "rocho", "normal": "audio/0051-roxo-4bf83285.mp3"}, {"pt": "marrom", "fr": "marron", "phon": "marron", "normal": "audio/0052-marrom-b6e9af8a.mp3"}, {"pt": "bege", "fr": "beige", "phon": "bèjé", "normal": "audio/0053-bege-f630b0b9.mp3"}, {"pt": "laranja", "fr": "orange", "phon": "laranja", "normal": "audio/0054-laranja-4571e3d8.mp3"}];
+function normalize(s){
+  if(!s) return '';
+  return s
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g,'')    // accents
+    .replace(/[^\w\s]/g,' ')           // ponctuation -> espace
+    .replace(/\s+/g,' ')                // espaces multiples
+    .trim()
+    .toLowerCase();
+}
+function DictationApp(config){
+  const TIMER_LIMIT_S = 12;
+  const REVEAL_DELAY_MS = 1500;
+  const state={ pool:config.pool, idx:0, score:0, total:config.total, started:false, paused:false,
+                countdown:TIMER_LIMIT_S, countdownInterval:null, answered:false, history:[] };
+  const elBtnStart=document.getElementById('btn-start');
+  const elBtnCheck=document.getElementById('btn-check');
+  const elBtnNext=document.getElementById('btn-next');
+  const elBtnRestart=document.getElementById('btn-restart');
+  const elQ=document.getElementById('qnum');
+  const elScore=document.getElementById('score');
+  const elTimer=document.getElementById('timer');
+  const elInput=document.getElementById('answer');
+  const elResult=document.getElementById('result');
+  const elConfig=document.getElementById('config');
+  const elStage=document.getElementById('stage');
+
+  function setButtons(){
+    elBtnStart.style.display = state.started ? 'none' : 'inline-flex';
+    elBtnCheck.style.display = (state.started && !state.answered) ? 'inline-flex' : 'none';
+    elBtnNext.style.display  = (state.started && state.answered) ? 'inline-flex' : 'none';
+    elBtnRestart.style.display = state.started ? 'inline-flex' : 'none';
+  }
+  function startCountdown(){
+    clearInterval(state.countdownInterval);
+    state.countdown = TIMER_LIMIT_S;
+    elTimer.textContent = state.countdown.toString();
+    state.countdownInterval = setInterval(()=>{
+      if(state.paused) return;
+      state.countdown -= 1;
+      elTimer.textContent = Math.max(0,state.countdown).toString();
+      if(state.countdown<=0){ clearInterval(state.countdownInterval); onTimeout(); }
+    },1000);
+  }
+  function render(){
+    const cur=state.pool[state.idx];
+    state.answered=false; elInput.disabled=false; elInput.value=''; elInput.focus();
+    elResult.innerHTML=''; elQ.textContent=(state.idx+1)+' / '+state.total; elScore.textContent=state.score;
+    stopAudio(); play(cur.normal); startCountdown(); setButtons();
+  }
+  function showFeedback(cur, isCorrect, userText){
+    const fr = (cur.fr||''); const phon = (cur.phon||'');
+    const icon = isCorrect ? '✅' : '❌';
+    const title = isCorrect ? 'Correct !' : 'Mauvaise réponse.';
+    elResult.innerHTML = `<div class="feedback">
+      <div class="fb-title">${icon} ${title}</div>
+      <div class="fb-pt"><strong>Attendu (PT) :</strong> ${cur.pt||''}</div>
+      <div class="fb-phon"><strong>Phonétique :</strong> ${phon||'—'}</div>
+      <div class="fb-fr"><strong>Français :</strong> ${fr||'—'}</div>
+      <div class="fb-user small"><strong>Votre saisie :</strong> ${userText?userText:'(vide)'} </div>
+    </div>`;
+  }
+  function check(){
+    if(state.answered) return;
+    state.answered=true; clearInterval(state.countdownInterval);
+    const cur=state.pool[state.idx];
+    const user=elInput.value||''; elInput.disabled=true;
+    const ok = normalize(user)===normalize(cur.pt||'');
+    if(ok) state.score+=1; elScore.textContent=state.score;
+    showFeedback(cur, ok, user);
+    state.history.push({pt:cur.pt||'', phon:cur.phon||'', fr:cur.fr||'', user:user, correct:ok});
+    setButtons();
+    setTimeout(()=>{ /* auto-next visuelle mais on garde le bouton */ }, REVEAL_DELAY_MS);
+  }
+  function onTimeout(){
+    if(state.answered) return; state.answered=true; elInput.disabled=true;
+    const cur=state.pool[state.idx];
+    showFeedback(cur, false, elInput.value||'');
+    state.history.push({pt:cur.pt||'', phon:cur.phon||'', fr:cur.fr||'', user:elInput.value||'', correct:false});
+    setButtons();
+  }
+  function next(){
+    if(state.idx+1>=state.total){
+      // Summary
+      const rows = state.history.map((e,i)=>{
+        const st = e.correct?'✅':'❌';
+        return `<tr class="row-${e.correct?'ok':'ko'}"><td>${i+1}</td><td>${st}</td><td>${e.pt}</td><td>${e.phon||'—'}</td><td>${e.fr||'—'}</td><td>${e.user||''}</td></tr>`;
+      }).join('');
+      elResult.innerHTML = `<div class="summary">
+        <div class="summary-title">🎉 Terminé ! Score : ${state.score} / ${state.total}</div>
+        <table class="summary-table"><thead><tr><th>#</th><th>OK</th><th>Portugais</th><th>Phonétique</th><th>Français</th><th>Votre saisie</th></tr></thead><tbody>${rows}</tbody></table>
+      </div>`;
+      elBtnCheck.style.display='none'; elBtnNext.style.display='none';
+      return;
+    }
+    state.idx+=1; render();
+  }
+
+  // Wire UI
+  elBtnStart.onclick=()=>{
+    state.started=true; state.score=0; state.idx=0; state.history=[]; elConfig.style.display='none'; elStage.style.display='block';
+    render();
+  };
+  elBtnCheck.onclick=check;
+  elBtnNext.onclick=next;
+  elBtnRestart.onclick=()=>{ clearInterval(state.countdownInterval); state.started=false; elStage.style.display='none'; elConfig.style.display='block'; setButtons(); };
+  setButtons();
+}
+function startDictationQuiz(POOL){ DictationApp({ pool: POOL, total: POOL.length }); }
+
+startDictationQuiz(POOL);</script>
+</body>
+</html>

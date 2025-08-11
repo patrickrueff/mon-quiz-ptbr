@@ -1,0 +1,314 @@
+
+# Documentation du Projet Quiz Portugais Brésilien
+
+## 1. Vue d'ensemble
+
+Ce projet génère un ensemble de pages HTML permettant :
+- La navigation dans un dictionnaire / ensemble de leçons (pages leçons)
+- L'accès à un quiz global ou spécifique à une leçon
+- La visualisation des mots avec audio, phonétique et traduction
+- Le lancement d'un quiz interactif avec suivi du score
+
+Les données sources sont stockées en JSON et incluent :
+- La liste des mots (`pt`, `fr`, `phon`, fichiers audio)
+- L'index des leçons et leurs contenus (références aux mots)
+
+Les scripts Python produisent **des pages HTML statiques** avec CSS et JS embarqués,
+utilisables sans serveur web.
+
+---
+
+## 2. Structure des fichiers Python
+
+### 01_main.py
+- Point d'entrée principal.
+- Charge dynamiquement tous les modules nécessaires (`assets`, `utils`, `pages_*`).
+- Construit les pages :
+  - Index
+  - Pages leçons
+  - Pages quiz global et par leçon
+- Utilise `global_manifest` (liste des mots) et `lessons_index` (liste des leçons).
+
+### 02_assets_base_css.py
+- Fournit le CSS de base via `get_base_css()`.
+- Style commun à toutes les pages (mise en page, boutons, cartes...)
+
+### 03_assets_base_js_common.py
+- Fournit le JavaScript commun via `get_base_js_common()`.
+- Fonctions utilitaires JS : gestion audio, filtrage des cartes, mode quiz visuel.
+
+### 04_assets_quiz_js.py
+- Génère le code JavaScript du quiz avec `make_quiz_js(timer_seconds, auto_delay_ms)`.
+- Gère :
+  - Démarrage / pause / reprise
+  - Tirage aléatoire des questions (`makeQuiz` et `shuffle`)
+  - Construction des choix (`buildChoices`)
+  - Affichage du compte à rebours
+  - Évaluation des réponses et score
+  - Passage automatique à la question suivante
+- Paramètres :
+  - `timer_seconds` : durée limite par question
+  - `auto_delay_ms` : délai avant question suivante
+
+### 05_utils_load_json.py
+- Fournit `load_json(path)` pour lire un fichier JSON avec encodage UTF-8.
+
+### 06_utils_write_html.py
+- Fournit `write_html(out_path, title, subtitle, body_html, extra_js="", home_link=True)`.
+- Assemble une page HTML complète :
+  - En-tête HTML avec CSS de base
+  - Corps fourni (`body_html`)
+  - JavaScript commun et spécifique (`extra_js`)
+  - Pied de page et lecteur audio
+
+### 07_utils_build_word_card.py
+- Fournit `build_word_card(idx, pt, fr, phon, file_normal, file_slow="")`.
+- Construit une carte HTML pour un mot :
+  - Affiche portugais (`pt`), phonétique (`phon`), français (`fr`)
+  - Boutons audio (normal, lent)
+
+### 08_pages_build_index.py
+- Construit la page `index.html` :
+  - Carte "Résumé" avec nombre de leçons et mots
+  - Liste des leçons avec liens vers leçon et quiz
+  - Liste complète de tous les mots (cartes)
+- Utilise `build_word_card` et `write_html`.
+
+### 09_pages_build_lesson_pages.py
+- Génère une page HTML par leçon.
+- Chargement robuste des utilitaires (gestion de noms de fichiers avec chiffre initial).
+- Intègre la phonétique via la clé `"phon"` comme les leçons.
+- Structure :
+  - Titre, barre de recherche, bascule "mode quiz"
+  - Grille de cartes de mots de la leçon
+  - Lien vers le quiz de la leçon
+
+### 10_pages_to_quiz_pool_js.py
+- Fournit `to_quiz_pool_js(words_list)` :
+  - Transforme une liste de mots en tableau JSON utilisable par le quiz JS (`POOL`).
+  - Garde : `pt`, `fr`, `phon`, `normal` (fichier audio).
+  - Exclut les mots sans audio normal.
+
+### 11_pages_build_quiz_page.py
+- Fournit `build_quiz_page(out_path, title, subtitle, pool_js_array, quiz_js, timer_seconds)`.
+- Génère la structure HTML d'un quiz :
+  - Paramètres (nombre de questions)
+  - Zone de jeu avec score, timer, boutons, choix
+- Intègre le tableau `POOL` et le JS du quiz.
+
+### 12_pages_build_quiz_pages.py
+- Fournit `build_quiz_pages(root, out_dir, lessons_index, global_manifest, quiz_js, timer_seconds=8)`.
+- Génère :
+  - Quiz global (`quiz.html`) avec tous les mots
+  - Quiz par leçon (`quiz-<id>.html`)
+- Utilise `to_quiz_pool_js` et `build_quiz_page`.
+
+---
+
+## 3. Flux de génération
+
+1. **Chargement des données** (`global_manifest.json`, `lessons_index.json`).
+2. **Génération CSS & JS communs** via `get_base_css()` et `get_base_js_common()`.
+3. **Pages générées** :
+   - `index.html` → avec `build_index`
+   - `lesson-<id>.html` → avec `build_lesson_pages`
+   - `quiz.html` et `quiz-<id>.html` → avec `build_quiz_pages`
+4. **Inclusion du JS du quiz** construit par `make_quiz_js()`.
+
+---
+
+## 4. Gestion de la phonétique
+- La clé `"phon"` est lue dans `global_manifest["words"]`.
+- Les leçons (`build_lesson_pages`) et le quiz (`to_quiz_pool_js`) passent cette valeur aux pages HTML.
+- Affichée entre crochets `[...]` si disponible.
+
+---
+
+## 5. Points personnalisables
+- Durée du timer (`timer_seconds`)
+- Délai avant prochaine question (`auto_delay_ms`)
+- Présence ou non de la phonétique
+- Sélection aléatoire des questions
+- Mode global ou par leçon
+
+---
+
+
+## 6. Détails des fonctions et variables importantes
+
+### 01_main.py
+**Fonctions / Logique :**
+- `_load(alias, fname)` : charge un module Python par chemin de fichier.
+- Crée un dictionnaire `mods` associant chaque alias à son module.
+- Charge :
+  - assets (CSS, JS commun, JS quiz)
+  - utils (load_json, write_html, build_word_card)
+  - pages (index, leçons, quiz)
+
+**Variables clés :**
+- `root` : chemin racine des données sources
+- `out` : dossier de sortie HTML
+- `global_manifest` : dictionnaire contenant tous les mots
+- `lessons_index` : dictionnaire indexant les leçons
+
+---
+
+### 02_assets_base_css.py
+**Fonctions :**
+- `get_base_css()` : retourne une chaîne CSS complète.
+
+**Variables internes :**
+- Chaînes multi-lignes contenant le style de `.grid`, `.card`, `.btn`, etc.
+
+---
+
+### 03_assets_base_js_common.py
+**Fonctions :**
+- `get_base_js_common()` : retourne du JS commun.
+- Fonctions internes JS :
+  - `play(file)` : joue un fichier audio
+  - `stopAudio()` : arrête l’audio
+  - `filterCards()` : filtre les cartes selon recherche
+  - `toggleQuiz()` : masque/affiche traduction en mode quiz
+
+**Variables JS :**
+- `currentAudio` : objet `Audio` en cours de lecture
+
+---
+
+### 04_assets_quiz_js.py
+**Fonctions :**
+- `make_quiz_js(timer_seconds, auto_delay_ms)` :
+  - Retourne une chaîne JS définissant :
+    - `shuffle(a)` : mélange un tableau
+    - `makeQuiz(POOL, limit)` : sélectionne un sous-ensemble aléatoire
+    - `buildChoices(pool, answer, n)` : crée les choix avec 1 bonne réponse
+    - `QuizApp(config)` : gère le cycle de vie du quiz
+      - Variables d’état `state` : `idx`, `score`, `optionsCount`, `started`, `paused`, `countdown`, etc.
+      - Fonctions internes :
+        - `setButtons()` : met à jour affichage boutons
+        - `clearTimers()`, `startCountdown()`, `stopCountdown()`
+        - `render()` : affiche question et choix
+        - `onAnswer(isCorrect, btn)` : traite réponse
+        - `onTimeout()` : gère fin de timer
+        - `nextQuestion()` : question suivante
+    - Boutons HTML reliés via `getElementById` : `btn-start`, `btn-pause`, `btn-resume`, `btn-restart`
+    - `startQuiz(POOL)` : point d’entrée
+
+**Variables JS :**
+- `AUTO_DELAY_MS`, `TIMER_LIMIT_S`
+- `state` : structure centrale contenant tout l’état du quiz
+- `POOL` : tableau d’objets `{ pt, fr, phon, normal }` injecté depuis Python
+
+---
+
+### 05_utils_load_json.py
+**Fonctions :**
+- `load_json(path)` :
+  - Lit le fichier
+  - Parse le contenu avec `json.loads`
+
+**Variables :**
+- `path` : chemin du fichier JSON
+
+---
+
+### 06_utils_write_html.py
+**Fonctions :**
+- `write_html(out_path, title, subtitle, body_html, extra_js="", home_link=True)` :
+  - Construit un HTML complet en insérant :
+    - CSS via `get_base_css()`
+    - JS commun via `get_base_js_common()`
+    - JS spécifique via `extra_js`
+    - Contenu de `body_html`
+    - Bouton retour accueil si `home_link=True`
+
+**Variables :**
+- `page` : chaîne HTML finale
+- `out_path` : fichier de sortie
+
+---
+
+### 07_utils_build_word_card.py
+**Fonctions :**
+- `build_word_card(idx, pt, fr, phon, file_normal, file_slow="")` :
+  - Retourne HTML d’une carte :
+    - Numéro (`idx`)
+    - Texte portugais (`pt`)
+    - Phonétique (`phon`) entre crochets
+    - Traduction (`fr`)
+    - Boutons audio normal et lent
+
+**Variables HTML :**
+- `audio_normal`, `audio_slow` : chemins vers mp3
+
+---
+
+### 08_pages_build_index.py
+**Fonctions :**
+- `build_index(root, out_dir, lessons_index, global_manifest)` :
+  - Charge tous les mots
+  - Construit résumé (nb leçons, nb mots)
+  - Liste les leçons avec liens
+  - Liste tous les mots via `build_word_card`
+  - Écrit dans `index.html` via `write_html`
+
+**Variables :**
+- `cards_html` : liste des cartes HTML
+- `body` : corps HTML final
+
+---
+
+### 09_pages_build_lesson_pages.py
+**Fonctions :**
+- `build_lesson_pages(root, out_dir, lessons_index, global_manifest)` :
+  - Pour chaque leçon :
+    - Charge le JSON de la leçon
+    - Récupère infos (`pt`, `fr`, `phon`, fichiers audio) depuis `global_manifest`
+    - Construit cartes avec `build_word_card`
+    - Ajoute lien vers quiz de la leçon
+    - Écrit page via `write_html`
+
+**Variables :**
+- `by_id` : dictionnaire id_mot → objet mot complet
+- `cards_html` : cartes de la leçon
+
+---
+
+### 10_pages_to_quiz_pool_js.py
+**Fonctions :**
+- `to_quiz_pool_js(words_list)` :
+  - Transforme une liste de mots en JSON JS utilisable pour `POOL`
+
+**Variables :**
+- `arr` : liste d’objets `{ pt, fr, phon, normal }`
+
+---
+
+### 11_pages_build_quiz_page.py
+**Fonctions :**
+- `build_quiz_page(out_path, title, subtitle, pool_js_array, quiz_js, timer_seconds)` :
+  - Écrit page HTML du quiz :
+    - Injecte tableau `POOL` (`pool_js_array`)
+    - Injecte JS quiz (`quiz_js`)
+    - Structure HTML du quiz
+
+**Variables :**
+- `config_html` : zone de paramétrage nombre questions
+- `stage_html` : zone du quiz
+- `body` : corps HTML complet
+
+---
+
+### 12_pages_build_quiz_pages.py
+**Fonctions :**
+- `build_quiz_pages(root, out_dir, lessons_index, global_manifest, quiz_js, timer_seconds=8)` :
+  - Génère quiz global et par leçon :
+    - Sélectionne mots
+    - Transforme en `POOL` JS via `to_quiz_pool_js`
+    - Écrit HTML via `build_quiz_page`
+
+**Variables :**
+- `all_words` : liste complète des mots
+- `words` : liste des mots d’une leçon
+- `pool_js` : JSON pour JS

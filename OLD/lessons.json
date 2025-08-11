@@ -1,0 +1,65 @@
+[
+  {
+    "id": "01-salutations",
+    "title": "Salutations & politesses",
+    "words": [
+      "Oi", "Tchau", "Por favor", "Com licença", "Desculpe",
+      "Obrigado", "Obrigada", "Sim", "Não",
+      "Tudo bem?", "Tudo bem", "Como vai?", "E você?"
+    ]
+  },
+  {
+    "id": "02-apresentar-se",
+    "title": "Se présenter",
+    "words": [
+      "Oi", "Como vai?", "Tudo bem?", "Tudo bem", "E você?",
+      "Meu nome é …", "Eu me chamo …", "Eu sou …",
+      "Prazer", "Muito prazer",
+      "De onde você é?", "Eu sou da França",
+      "Moro em …", "Trabalho como …", "Sou estudante",
+      "Qual é o seu nome?", "Tchau"
+    ]
+  },
+  {
+    "id": "03-numeros-basicos",
+    "title": "Chiffres 0–10 et numéros",
+    "words": [
+      "Zero", "Um", "Dois", "Três", "Quatro", "Cinco",
+      "Seis", "Sete", "Oito", "Nove", "Dez",
+      "Número", "Qual é o seu número?",
+      "Por favor", "Obrigado", "Obrigada"
+    ]
+  },
+  {
+    "id": "04-cores-objetos",
+    "title": "Couleurs et objets du quotidien",
+    "words": [
+      "Vermelho", "Azul", "Verde", "Amarelo", "Preto", "Branco",
+      "Cinza", "Rosa", "Marrom",
+      "Livro", "Telefone", "Chave", "Mesa", "Cadeira", "Garrafa", "Óculos",
+      "De que cor é …?", "Onde fica …?"
+    ]
+  },
+  {
+    "id": "05-perguntas-simples",
+    "title": "Poser des questions simples",
+    "words": [
+      "Quem?", "O que?", "Onde?", "Quando?", "Como?", "Por quê?", "Qual?", "Quanto?",
+      "Onde fica …?", "Que horas são?", "Quanto custa?",
+      "Sim", "Não", "Por favor", "Desculpe", "Com licença"
+    ]
+  },
+  {
+    "id": "06-verbos-basicos",
+    "title": "Verbes de base : ser/estar/ter/ir",
+    "words": [
+      "Ser", "Estar", "Ter", "Ir",
+      "Eu sou", "Você é",
+      "Eu estou", "Você está",
+      "Eu tenho", "Você tem",
+      "Eu vou", "Você vai",
+      "Aqui", "Lá", "Agora", "Hoje", "Amanhã",
+      "Tudo bem?", "E você?"
+    ]
+  }
+]

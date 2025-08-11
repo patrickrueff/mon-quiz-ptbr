@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <title>Leçon — Poser des questions simples</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>:root{
+  --bg:#0b0f14;--card:#121821;--text:#eef3fb;--muted:#b8c0cc;--accent:#5aa0ff;--accent2:#8ad1ff;--border:#1e2632
+}
+*{box-sizing:border-box}
+body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+  background:radial-gradient(1000px 600px at 20% -10%,#16202d 0%,#0b0f14 60%) no-repeat fixed,var(--bg);
+  color:var(--text);padding:32px 16px 80px}
+.container{max-width:1000px;margin:0 auto}
+h1{margin:0 0 8px} h2{margin:22px 0 12px} .sub{color:var(--muted);margin:0 0 24px}
+.card{background:linear-gradient(180deg,rgba(255,255,255,.02),transparent),var(--card);
+  border:1px solid var(--border);border-radius:16px;padding:16px;display:grid;grid-template-columns:1fr auto;gap:12px;align-items:center}
+.badge{min-width:36px;height:36px;border-radius:10px;display:grid;place-items:center;
+  background:linear-gradient(135deg,var(--accent),var(--accent2));color:#0b0f14;font-weight:700;border:1px solid rgba(255,255,255,.2);
+  box-shadow:0 6px 14px rgba(90,160,255,.35)}
+.row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.texts{display:flex;gap:12px;align-items:center}
+.texts .label{display:grid;place-items:center}
+.pt{font-size:18px;font-weight:700;line-height:1.2}
+.phon{color:#9fb4cc;font-size:13px;margin-top:2px}
+.fr{color:var(--muted);margin-top:2px;font-size:14px}
+.actions{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px}
+button,a.btn{border:1px solid var(--border);background:#0e141d;color:#eef3fb;border-radius:10px;padding:8px 12px;cursor:pointer;font-weight:600;
+  transition:transform .05s ease,border-color .2s ease;text-decoration:none;display:inline-flex;align-items:center;gap:6px}
+button:hover,a.btn:hover{border-color:var(--accent)} button:active,a.btn:active{transform:translateY(1px)}
+.small{font-size:12px;color:var(--muted)}
+.footer{position:fixed;left:0;right:0;bottom:0;background:linear-gradient(180deg,rgba(255,255,255,.02),transparent),var(--card);
+  border-top:1px solid var(--border);padding:10px 16px;color:var(--muted);font-size:12px;display:flex;justify-content:center}
+.toolbar{display:flex;gap:10px;align-items:center;margin:16px 0 20px;flex-wrap:wrap}
+.toolbar input,.toolbar select{flex:1;min-width:220px;padding:10px 12px;border-radius:10px;border:1px solid var(--border);background:#0e141d;color:#eef3fb;outline:none}
+.quiz-wrap{max-width:720px;margin:0 auto}
+.quiz-card{background:linear-gradient(180deg,rgba(255,255,255,.02),transparent),var(--card);border:1px solid var(--border);border-radius:16px;padding:16px;display:flex;flex-direction:column;gap:14px}
+.choice{border:1px solid var(--border);border-radius:10px;padding:10px 12px;cursor:pointer;background:#0e141d}
+.choice.correct{border-color:#3ddc97} .choice.wrong{border-color:#ff6b6b}
+.kpi{display:flex;gap:12px;flex-wrap:wrap}
+.kpi .pill{padding:6px 10px;border:1px solid var(--border);border-radius:999px;background:#0e141d;color:#eef3fb}
+.timer{font-weight:700}
+@media (max-width:640px){.card{grid-template-columns:1fr}.actions{justify-content:flex-start}}
+</style>
+</head>
+<body>
+  <div class="container">
+    <div class="row" style="justify-content:space-between;align-items:baseline">
+      <h1>Leçon — Poser des questions simples</h1>
+      <div class="row"><a class="btn" href="index.html">🏠 Accueil</a></div>
+    </div>
+    <p class="sub">ID : 05-perguntas-simples</p>
+    <div class="actions" style="margin-bottom:12px">  <a class="btn" href="quiz-05-perguntas-simples.html">🎧 Quiz de cette leçon</a>  <a class="btn" href="dictation-05-perguntas-simples.html">⌨️ Dictée</a></div><div class="toolbar">  <input id="search" type="text" placeholder="Rechercher (PT ou FR)..." oninput="filterCards()" />  <label><input id="quiz" type="checkbox" onchange="toggleQuiz()"> Mode Quiz (cacher FR)</label></div><div id="list" class="grid">    <div class="card" data-pt="quem?" data-fr="qui ?">
+      <div class="texts">
+        <div class="label badge">1</div>
+        <div>
+          <div class="pt">Quem?</div>
+          <div class="phon">[kẽïng (nasal)]</div>
+          <div class="fr">Qui ?</div>
+        </div>
+      </div>
+      <div class="actions">
+        <button onclick="play('audio/0056-quem-0f284fd8.mp3')">▶️ Écouter</button>
+        
+      </div>
+    </div>
+        <div class="card" data-pt="o que?" data-fr="quoi ?">
+      <div class="texts">
+        <div class="label badge">2</div>
+        <div>
+          <div class="pt">O que?</div>
+          <div class="phon">[ô ké ?]</div>
+          <div class="fr">Quoi ?</div>
+        </div>
+      </div>
+      <div class="actions">
+        <button onclick="play('audio/0057-o-que-88fbdd4b.mp3')">▶️ Écouter</button>
+        
+      </div>
+    </div>
+        <div class="card" data-pt="onde?" data-fr="où ?">
+      <div class="texts">
+        <div class="label badge">3</div>
+        <div>
+          <div class="pt">Onde?</div>
+          <div class="phon">[ôn-dji ?]</div>
+          <div class="fr">Où ?</div>
+        </div>
+      </div>
+      <div class="actions">
+        <button onclick="play('audio/0058-onde-907fc12b.mp3')">▶️ Écouter</button>
+        
+      </div>
+    </div>
+        <div class="card" data-pt="quando?" data-fr="quand ?">
+      <div class="texts">
+        <div class="label badge">4</div>
+        <div>
+          <div class="pt">Quando?</div>
+          <div class="phon">[kouan-dou ?]</div>
+          <div class="fr">Quand ?</div>
+        </div>
+      </div>
+      <div class="actions">
+        <button onclick="play('audio/0059-quando-fc98404e.mp3')">▶️ Écouter</button>
+        
+      </div>
+    </div>
+        <div class="card" data-pt="como?" data-fr="comment ?">
+      <div class="texts">
+        <div class="label badge">5</div>
+        <div>
+          <div class="pt">Como?</div>
+          <div class="phon">[kô-mou ?]</div>
+          <div class="fr">Comment ?</div>
+        </div>
+      </div>
+      <div class="actions">
+        <button onclick="play('audio/0060-como-d023df23.mp3')">▶️ Écouter</button>
+        
+      </div>
+    </div>
+        <div class="card" data-pt="por quê?" data-fr="pourquoi ?">
+      <div class="texts">
+        <div class="label badge">6</div>
+        <div>
+          <div class="pt">Por quê?</div>
+          <div class="phon">[pour ké ?]</div>
+          <div class="fr">Pourquoi ?</div>
+        </div>
+      </div>
+      <div class="actions">
+        <button onclick="play('audio/0061-por-que-e28b045a.mp3')">▶️ Écouter</button>
+        
+      </div>
+    </div>
+        <div class="card" data-pt="qual?" data-fr="quel / quelle ?">
+      <div class="texts">
+        <div class="label badge">7</div>
+        <div>
+          <div class="pt">Qual?</div>
+          <div class="phon">[koual ?]</div>
+          <div class="fr">Quel / Quelle ?</div>
+        </div>
+      </div>
+      <div class="actions">
+        <button onclick="play('audio/0062-qual-60efa34c.mp3')">▶️ Écouter</button>
+        
+      </div>
+    </div>
+        <div class="card" data-pt="quanto?" data-fr="combien ?">
+      <div class="texts">
+        <div class="label badge">8</div>
+        <div>
+          <div class="pt">Quanto?</div>
+          <div class="phon">[kouan-tou ?]</div>
+          <div class="fr">Combien ?</div>
+        </div>
+      </div>
+      <div class="actions">
+        <button onclick="play('audio/0063-quanto-d98dd270.mp3')">▶️ Écouter</button>
+        
+      </div>
+    </div>
+        <div class="card" data-pt="onde fica …?" data-fr="où se trouve … ?">
+      <div class="texts">
+        <div class="label badge">9</div>
+        <div>
+          <div class="pt">Onde fica …?</div>
+          <div class="phon">[ôn-dji fî-ka … ?]</div>
+          <div class="fr">Où se trouve … ?</div>
+        </div>
+      </div>
+      <div class="actions">
+        <button onclick="play('audio/0055-onde-fica-e0cf9c0e.mp3')">▶️ Écouter</button>
+        
+      </div>
+    </div>
+        <div class="card" data-pt="que horas são?" data-fr="quelle heure est-il ?">
+      <div class="texts">
+        <div class="label badge">10</div>
+        <div>
+          <div class="pt">Que horas são?</div>
+          <div class="phon">[ké ô-ras saõ ?]</div>
+          <div class="fr">Quelle heure est-il ?</div>
+        </div>
+      </div>
+      <div class="actions">
+        <button onclick="play('audio/0064-que-horas-sao-5e668bfe.mp3')">▶️ Écouter</button>
+        
+      </div>
+    </div>
+        <div class="card" data-pt="quanto custa?" data-fr="combien ça coûte ?">
+      <div class="texts">
+        <div class="label badge">11</div>
+        <div>
+          <div class="pt">Quanto custa?</div>
+          <div class="phon">[kouan-tou cou-sta ?]</div>
+          <div class="fr">Combien ça coûte ?</div>
+        </div>
+      </div>
+      <div class="actions">
+        <button onclick="play('audio/0065-quanto-custa-746ada28.mp3')">▶️ Écouter</button>
+        
+      </div>
+    </div>
+        <div class="card" data-pt="sim" data-fr="oui">
+      <div class="texts">
+        <div class="label badge">12</div>
+        <div>
+          <div class="pt">Sim</div>
+          <div class="phon">[ssing (nasal léger)]</div>
+          <div class="fr">Oui</div>
+        </div>
+      </div>
+      <div class="actions">
+        <button onclick="play('audio/0008-sim-84fb9bfc.mp3')">▶️ Écouter</button>
+        
+      </div>
+    </div>
+        <div class="card" data-pt="não" data-fr="non">
+      <div class="texts">
+        <div class="label badge">13</div>
+        <div>
+          <div class="pt">Não</div>
+          <div class="phon">[na-on (nasal)]</div>
+          <div class="fr">Non</div>
+        </div>
+      </div>
+      <div class="actions">
+        <button onclick="play('audio/0009-nao-72534bbb.mp3')">▶️ Écouter</button>
+        
+      </div>
+    </div>
+        <div class="card" data-pt="por favor" data-fr="s&#x27;il vous plaît">
+      <div class="texts">
+        <div class="label badge">14</div>
+        <div>
+          <div class="pt">Por favor</div>
+          <div class="phon">[pour favoir]</div>
+          <div class="fr">S&#x27;il vous plaît</div>
+        </div>
+      </div>
+      <div class="actions">
+        <button onclick="play('audio/0003-por-favor-f2dbb03a.mp3')">▶️ Écouter</button>
+        
+      </div>
+    </div>
+        <div class="card" data-pt="desculpe" data-fr="désolé(e)">
+      <div class="texts">
+        <div class="label badge">15</div>
+        <div>
+          <div class="pt">Desculpe</div>
+          <div class="phon">[dèch-coul-pé]</div>
+          <div class="fr">Désolé(e)</div>
+        </div>
+      </div>
+      <div class="actions">
+        <button onclick="play('audio/0005-desculpe-65694b76.mp3')">▶️ Écouter</button>
+        
+      </div>
+    </div>
+        <div class="card" data-pt="com licença" data-fr="pardon / excusez-moi">
+      <div class="texts">
+        <div class="label badge">16</div>
+        <div>
+          <div class="pt">Com licença</div>
+          <div class="phon">[kõ li-ssèns-sa (nasal)]</div>
+          <div class="fr">Pardon / Excusez-moi</div>
+        </div>
+      </div>
+      <div class="actions">
+        <button onclick="play('audio/0004-com-licenca-b5075943.mp3')">▶️ Écouter</button>
+        
+      </div>
+    </div>
+    </div>
+  </div>
+  <div class="footer">Pages statiques — ouvrez localement sans serveur.</div>
+  <audio id="player" preload="auto"></audio>
+  <script>const player = document.getElementById('player');
+function play(src){ player.src = src; player.play(); }
+function stopAudio(){ try{ player.pause(); player.currentTime = 0; }catch(e){} }
+function filterCards(){
+  const q=(document.getElementById('search')?.value||'').trim().toLowerCase();
+  const cards=document.querySelectorAll('#list .card');
+  if(!q){ cards.forEach(c=>c.style.display=''); return; }
+  cards.forEach(c=>{
+    const pt=c.getAttribute('data-pt'), fr=c.getAttribute('data-fr');
+    c.style.display = (pt.includes(q) || fr.includes(q)) ? '' : 'none';
+  });
+}
+function toggleQuiz(){
+  const chk=document.getElementById('quiz');
+  const frs=document.querySelectorAll('.fr');
+  frs.forEach(el=>{ el.style.visibility = chk.checked ? 'hidden' : 'visible'; });
+}
+</script>
+  <script></script>
+</body>
+</html>

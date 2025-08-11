@@ -1,0 +1,2690 @@
+{
+  "S001": {
+    "id": "S001",
+    "title": "Salutations & Bases — L001",
+    "words": [
+      {
+        "id": "ola-528e3850"
+      },
+      {
+        "id": "oi-3c89984c"
+      },
+      {
+        "id": "bom-dia-8f97792d"
+      },
+      {
+        "id": "boa-tarde-6278b644"
+      },
+      {
+        "id": "boa-noite-06124de2"
+      },
+      {
+        "id": "tchau-a1228837"
+      }
+    ]
+  },
+  "S002": {
+    "id": "S002",
+    "title": "Infos personnelles — L002",
+    "words": [
+      {
+        "id": "eu-me-chamo-82d1f38a"
+      },
+      {
+        "id": "meu-nome-e-bbaa48dc"
+      },
+      {
+        "id": "de-onde-voce-e-43fd44e3"
+      },
+      {
+        "id": "eu-sou-da-franca-5a4175a3"
+      },
+      {
+        "id": "quantos-anos-voce-tem-884cc3af"
+      },
+      {
+        "id": "eu-tenho-30-anos-e547640c"
+      }
+    ]
+  },
+  "S003": {
+    "id": "S003",
+    "title": "Chiffres 0-10 — L003",
+    "words": [
+      {
+        "id": "zero-aa8c4133"
+      },
+      {
+        "id": "um-ec92b743"
+      },
+      {
+        "id": "dois-7b426791"
+      },
+      {
+        "id": "tres-a4316f31"
+      },
+      {
+        "id": "quatro-a7943ca9"
+      },
+      {
+        "id": "cinco-a097b33b"
+      }
+    ]
+  },
+  "S004": {
+    "id": "S004",
+    "title": "Chiffres 11-20 — L004",
+    "words": [
+      {
+        "id": "onze-9fd8fa2d"
+      },
+      {
+        "id": "doze-b4bd4cbd"
+      },
+      {
+        "id": "treze-153619dd"
+      },
+      {
+        "id": "quatorze-ae9c35e7"
+      },
+      {
+        "id": "quinze-6c00d38d"
+      },
+      {
+        "id": "dezesseis-78423d69"
+      }
+    ]
+  },
+  "S005": {
+    "id": "S005",
+    "title": "Jours de la semaine — L005",
+    "words": [
+      {
+        "id": "segunda-feira-f362171c"
+      },
+      {
+        "id": "terca-feira-5e0e7781"
+      },
+      {
+        "id": "quarta-feira-60b1473c"
+      },
+      {
+        "id": "quinta-feira-48f8d2fa"
+      },
+      {
+        "id": "sexta-feira-b5a183f5"
+      },
+      {
+        "id": "sabado-1e73aa8e"
+      }
+    ]
+  },
+  "S006": {
+    "id": "S006",
+    "title": "Mois (1) — L006",
+    "words": [
+      {
+        "id": "janeiro-3fbb4496"
+      },
+      {
+        "id": "fevereiro-f804fc02"
+      },
+      {
+        "id": "marco-f9943b23"
+      },
+      {
+        "id": "abril-2fae6710"
+      },
+      {
+        "id": "maio-20780f2f"
+      },
+      {
+        "id": "junho-879dbd60"
+      }
+    ]
+  },
+  "S007": {
+    "id": "S007",
+    "title": "Mois (2) — L007",
+    "words": [
+      {
+        "id": "julho-ae4e35ec"
+      },
+      {
+        "id": "agosto-5a3c84cb"
+      },
+      {
+        "id": "setembro-c4ed4198"
+      },
+      {
+        "id": "outubro-53ba38ce"
+      },
+      {
+        "id": "novembro-7f3147a9"
+      },
+      {
+        "id": "dezembro-71f217b1"
+      }
+    ]
+  },
+  "S008": {
+    "id": "S008",
+    "title": "Couleurs (1) — L008",
+    "words": [
+      {
+        "id": "vermelho-79f2b39a"
+      },
+      {
+        "id": "azul-1768d39c"
+      },
+      {
+        "id": "amarelo-985037bf"
+      },
+      {
+        "id": "verde-2030abee"
+      },
+      {
+        "id": "preto-eb60d10d"
+      },
+      {
+        "id": "branco-e6c28d71"
+      }
+    ]
+  },
+  "S009": {
+    "id": "S009",
+    "title": "Couleurs (2) — L009",
+    "words": [
+      {
+        "id": "cinza-32a05be7"
+      },
+      {
+        "id": "rosa-5efc86ca"
+      },
+      {
+        "id": "roxo-4bf83285"
+      },
+      {
+        "id": "marrom-b6e9af8a"
+      },
+      {
+        "id": "bege-f630b0b9"
+      },
+      {
+        "id": "laranja-4571e3d8"
+      }
+    ]
+  },
+  "S010": {
+    "id": "S010",
+    "title": "Famille (1) — L010",
+    "words": [
+      {
+        "id": "mae-c936707e"
+      },
+      {
+        "id": "pai-7525a436"
+      },
+      {
+        "id": "filho-b85520b6"
+      },
+      {
+        "id": "filha-ecc0f8f2"
+      },
+      {
+        "id": "irmao-1fa174dc"
+      },
+      {
+        "id": "irma-2aec3dfc"
+      }
+    ]
+  },
+  "S011": {
+    "id": "S011",
+    "title": "Famille (2) — L011",
+    "words": [
+      {
+        "id": "esposo-04c75626"
+      },
+      {
+        "id": "esposa-39dea479"
+      },
+      {
+        "id": "avo-eaaed76b"
+      },
+      {
+        "id": "avo-8786e742"
+      },
+      {
+        "id": "tio-589f98f8"
+      },
+      {
+        "id": "tia-8a60f563"
+      }
+    ]
+  },
+  "S012": {
+    "id": "S012",
+    "title": "Maison & pièces — L012",
+    "words": [
+      {
+        "id": "casa-81bce1f3"
+      },
+      {
+        "id": "apartamento-af51e888"
+      },
+      {
+        "id": "sala-9a2505d5"
+      },
+      {
+        "id": "quarto-ad25d1cf"
+      },
+      {
+        "id": "cozinha-d4ca9c86"
+      },
+      {
+        "id": "banheiro-ab24c5bf"
+      }
+    ]
+  },
+  "S013": {
+    "id": "S013",
+    "title": "Meubles (1) — L013",
+    "words": [
+      {
+        "id": "mesa-f04cc316"
+      },
+      {
+        "id": "cadeira-644a93ee"
+      },
+      {
+        "id": "cama-1bef95ab"
+      },
+      {
+        "id": "sofa-b6190998"
+      },
+      {
+        "id": "prato-460a2215"
+      },
+      {
+        "id": "copo-8effcb86"
+      }
+    ]
+  },
+  "S014": {
+    "id": "S014",
+    "title": "Cuisine & électro — L014",
+    "words": [
+      {
+        "id": "geladeira-000689c8"
+      },
+      {
+        "id": "fogao-7aa9a045"
+      },
+      {
+        "id": "forno-1912344a"
+      },
+      {
+        "id": "micro-ondas-4a22e6ad"
+      },
+      {
+        "id": "panela-79c60280"
+      },
+      {
+        "id": "colher-799a3987"
+      }
+    ]
+  },
+  "S015": {
+    "id": "S015",
+    "title": "Nourriture (1) — L015",
+    "words": [
+      {
+        "id": "pao-3464c04f"
+      },
+      {
+        "id": "manteiga-25d1fa69"
+      },
+      {
+        "id": "queijo-fc42828b"
+      },
+      {
+        "id": "leite-beb967c0"
+      },
+      {
+        "id": "arroz-fa9db510"
+      },
+      {
+        "id": "feijao-182821d3"
+      }
+    ]
+  },
+  "S016": {
+    "id": "S016",
+    "title": "Fruits & légumes — L016",
+    "words": [
+      {
+        "id": "fruta-1ea8c03f"
+      },
+      {
+        "id": "maca-b0c51b47"
+      },
+      {
+        "id": "banana-250e77f1"
+      },
+      {
+        "id": "laranja-fruta-c676317c"
+      },
+      {
+        "id": "uva-2d2c2a14"
+      },
+      {
+        "id": "tomate-13f20098"
+      }
+    ]
+  },
+  "S017": {
+    "id": "S017",
+    "title": "Boissons & condiments — L017",
+    "words": [
+      {
+        "id": "cafe-f424452a"
+      },
+      {
+        "id": "cha-a1f7a686"
+      },
+      {
+        "id": "agua-513cba58"
+      },
+      {
+        "id": "suco-034af408"
+      },
+      {
+        "id": "sal-caf8dae1"
+      },
+      {
+        "id": "acucar-ca7d10cb"
+      }
+    ]
+  },
+  "S018": {
+    "id": "S018",
+    "title": "Vêtements (1) — L018",
+    "words": [
+      {
+        "id": "camisa-90db2a49"
+      },
+      {
+        "id": "camiseta-a269b5db"
+      },
+      {
+        "id": "calca-f78c303c"
+      },
+      {
+        "id": "saia-9c8f19d9"
+      },
+      {
+        "id": "vestido-f50e2745"
+      },
+      {
+        "id": "casaco-60d277de"
+      }
+    ]
+  },
+  "S019": {
+    "id": "S019",
+    "title": "Vêtements (2) — L019",
+    "words": [
+      {
+        "id": "sapato-056bd783"
+      },
+      {
+        "id": "tenis-773dd050"
+      },
+      {
+        "id": "meia-fb289770"
+      },
+      {
+        "id": "bone-d2f447d5"
+      },
+      {
+        "id": "chapeu-a2dd12f9"
+      },
+      {
+        "id": "cinto-fdfe92cf"
+      }
+    ]
+  },
+  "S020": {
+    "id": "S020",
+    "title": "Transports (1) — L020",
+    "words": [
+      {
+        "id": "onibus-5d9a02c3"
+      },
+      {
+        "id": "metro-f3aca16b"
+      },
+      {
+        "id": "trem-b727f035"
+      },
+      {
+        "id": "taxi-902ec012"
+      },
+      {
+        "id": "carro-3959fc61"
+      },
+      {
+        "id": "a-pe-35118c9c"
+      }
+    ]
+  },
+  "S021": {
+    "id": "S021",
+    "title": "Directions (mots) — L021",
+    "words": [
+      {
+        "id": "aeroporto-886813d6"
+      },
+      {
+        "id": "estacao-86effe87"
+      },
+      {
+        "id": "direita-ba6a1047"
+      },
+      {
+        "id": "esquerda-3d2a0394"
+      },
+      {
+        "id": "em-frente-76c10f40"
+      },
+      {
+        "id": "perto-fe333e3d"
+      }
+    ]
+  },
+  "S022": {
+    "id": "S022",
+    "title": "Corps (1) — L022",
+    "words": [
+      {
+        "id": "cabeca-a172c0d6"
+      },
+      {
+        "id": "olho-9d12fc46"
+      },
+      {
+        "id": "boca-42a50539"
+      },
+      {
+        "id": "dente-6cca05c1"
+      },
+      {
+        "id": "mao-e7a8963d"
+      },
+      {
+        "id": "braco-6fa6dd9e"
+      }
+    ]
+  },
+  "S023": {
+    "id": "S023",
+    "title": "Corps (2) — L023",
+    "words": [
+      {
+        "id": "perna-42a09241"
+      },
+      {
+        "id": "pe-69a11c46"
+      },
+      {
+        "id": "estomago-b4a90e9d"
+      },
+      {
+        "id": "dor-4a353c3e"
+      },
+      {
+        "id": "remedio-65bd3539"
+      },
+      {
+        "id": "hospital-2b2d005e"
+      }
+    ]
+  },
+  "S024": {
+    "id": "S024",
+    "title": "Météo & temps — L024",
+    "words": [
+      {
+        "id": "tempo-65e336e2"
+      },
+      {
+        "id": "calor-58216156"
+      },
+      {
+        "id": "frio-13e27737"
+      },
+      {
+        "id": "chuva-77ffa3e0"
+      },
+      {
+        "id": "sol-fbb93bb9"
+      },
+      {
+        "id": "nublado-b5dc1388"
+      }
+    ]
+  },
+  "S025": {
+    "id": "S025",
+    "title": "Travail (noms) — L025",
+    "words": [
+      {
+        "id": "trabalho-ec599dac"
+      },
+      {
+        "id": "emprego-182a6eb1"
+      },
+      {
+        "id": "empresa-9403f4c8"
+      },
+      {
+        "id": "colega-bda39488"
+      },
+      {
+        "id": "reuniao-c249c931"
+      },
+      {
+        "id": "projeto-cf5f9f0a"
+      }
+    ]
+  },
+  "S026": {
+    "id": "S026",
+    "title": "Étude & compétences — L026",
+    "words": [
+      {
+        "id": "estudar-47556859"
+      },
+      {
+        "id": "aprender-3fcde0df"
+      },
+      {
+        "id": "ensinar-106687a9"
+      },
+      {
+        "id": "ler-40d748da"
+      },
+      {
+        "id": "escrever-db2017ed"
+      },
+      {
+        "id": "falar-713a1504"
+      }
+    ]
+  },
+  "S027": {
+    "id": "S027",
+    "title": "Verbes usuels (1) — L027",
+    "words": [
+      {
+        "id": "gostar-de-3036f62d"
+      },
+      {
+        "id": "querer-e4fc0cb8"
+      },
+      {
+        "id": "precisar-de-57a31058"
+      },
+      {
+        "id": "comprar-a2039cb4"
+      },
+      {
+        "id": "vender-9c25bd58"
+      },
+      {
+        "id": "ir-aa1553be"
+      }
+    ]
+  },
+  "S028": {
+    "id": "S028",
+    "title": "Restaurant (phrases 1) — L028",
+    "words": [
+      {
+        "id": "eu-gostaria-de-cafe-4ce72d75"
+      },
+      {
+        "id": "eu-gostaria-de-cha-fb3fc2ac"
+      },
+      {
+        "id": "eu-gostaria-de-agua-6efcb008"
+      },
+      {
+        "id": "eu-gostaria-de-suco-0a3b1828"
+      },
+      {
+        "id": "eu-gostaria-de-arroz-1450d362"
+      },
+      {
+        "id": "eu-gostaria-de-feijao-9cef4617"
+      }
+    ]
+  },
+  "S029": {
+    "id": "S029",
+    "title": "Directions (phrases) — L029",
+    "words": [
+      {
+        "id": "onde-fica-o-aeroporto-2c1b27e8"
+      },
+      {
+        "id": "onde-fica-a-estacao-efe1839d"
+      },
+      {
+        "id": "onde-fica-o-hotel-5bd48d18"
+      },
+      {
+        "id": "onde-fica-o-restaurante-1c2d5510"
+      },
+      {
+        "id": "onde-fica-o-hospital-f74f7e54"
+      },
+      {
+        "id": "onde-fica-o-centro-0816794e"
+      }
+    ]
+  },
+  "S030": {
+    "id": "S030",
+    "title": "Quotidien (phrases 1) — L030",
+    "words": [
+      {
+        "id": "eu-gosto-de-acucar-1536adbf"
+      },
+      {
+        "id": "eu-gosto-de-sal-d5cb4dec"
+      },
+      {
+        "id": "eu-gosto-de-gluten-da90dc4e"
+      },
+      {
+        "id": "eu-gosto-de-lactose-26d3d959"
+      },
+      {
+        "id": "eu-preciso-de-acucar-a7c4bd38"
+      },
+      {
+        "id": "eu-preciso-de-sal-581f622a"
+      }
+    ]
+  },
+  "S031": {
+    "id": "S031",
+    "title": "Salutations & Bases — L031",
+    "words": [
+      {
+        "id": "por-favor-f2dbb03a"
+      },
+      {
+        "id": "obrigado-34cfc76f"
+      },
+      {
+        "id": "obrigada-cbebca25"
+      },
+      {
+        "id": "desculpa-abdb77ac"
+      },
+      {
+        "id": "com-licenca-b5075943"
+      },
+      {
+        "id": "tudo-bem-03e5de8e"
+      }
+    ]
+  },
+  "S032": {
+    "id": "S032",
+    "title": "Infos personnelles — L032",
+    "words": [
+      {
+        "id": "onde-voce-mora-83cb1363"
+      },
+      {
+        "id": "eu-moro-em-paris-8951938f"
+      },
+      {
+        "id": "eu-me-chamo-82d1f38a"
+      },
+      {
+        "id": "meu-nome-e-bbaa48dc"
+      },
+      {
+        "id": "de-onde-voce-e-43fd44e3"
+      },
+      {
+        "id": "eu-sou-da-franca-5a4175a3"
+      }
+    ]
+  },
+  "S033": {
+    "id": "S033",
+    "title": "Chiffres 0-10 — L033",
+    "words": [
+      {
+        "id": "seis-ba157934"
+      },
+      {
+        "id": "sete-0f961cd8"
+      },
+      {
+        "id": "oito-2a67c257"
+      },
+      {
+        "id": "nove-7f52fd19"
+      },
+      {
+        "id": "dez-b5ab4a29"
+      },
+      {
+        "id": "zero-aa8c4133"
+      }
+    ]
+  },
+  "S034": {
+    "id": "S034",
+    "title": "Chiffres 11-20 — L034",
+    "words": [
+      {
+        "id": "dezessete-2f452a74"
+      },
+      {
+        "id": "dezoito-c5d18ab4"
+      },
+      {
+        "id": "dezenove-c0fd8b9e"
+      },
+      {
+        "id": "vinte-d6b8c826"
+      },
+      {
+        "id": "onze-9fd8fa2d"
+      },
+      {
+        "id": "doze-b4bd4cbd"
+      }
+    ]
+  },
+  "S035": {
+    "id": "S035",
+    "title": "Jours de la semaine — L035",
+    "words": [
+      {
+        "id": "domingo-da416310"
+      },
+      {
+        "id": "segunda-feira-f362171c"
+      },
+      {
+        "id": "terca-feira-5e0e7781"
+      },
+      {
+        "id": "quarta-feira-60b1473c"
+      },
+      {
+        "id": "quinta-feira-48f8d2fa"
+      },
+      {
+        "id": "sexta-feira-b5a183f5"
+      }
+    ]
+  },
+  "S036": {
+    "id": "S036",
+    "title": "Mois (1) — L036",
+    "words": [
+      {
+        "id": "janeiro-3fbb4496"
+      },
+      {
+        "id": "fevereiro-f804fc02"
+      },
+      {
+        "id": "marco-f9943b23"
+      },
+      {
+        "id": "abril-2fae6710"
+      },
+      {
+        "id": "maio-20780f2f"
+      },
+      {
+        "id": "junho-879dbd60"
+      }
+    ]
+  },
+  "S037": {
+    "id": "S037",
+    "title": "Mois (2) — L037",
+    "words": [
+      {
+        "id": "julho-ae4e35ec"
+      },
+      {
+        "id": "agosto-5a3c84cb"
+      },
+      {
+        "id": "setembro-c4ed4198"
+      },
+      {
+        "id": "outubro-53ba38ce"
+      },
+      {
+        "id": "novembro-7f3147a9"
+      },
+      {
+        "id": "dezembro-71f217b1"
+      }
+    ]
+  },
+  "S038": {
+    "id": "S038",
+    "title": "Couleurs (1) — L038",
+    "words": [
+      {
+        "id": "vermelho-79f2b39a"
+      },
+      {
+        "id": "azul-1768d39c"
+      },
+      {
+        "id": "amarelo-985037bf"
+      },
+      {
+        "id": "verde-2030abee"
+      },
+      {
+        "id": "preto-eb60d10d"
+      },
+      {
+        "id": "branco-e6c28d71"
+      }
+    ]
+  },
+  "S039": {
+    "id": "S039",
+    "title": "Couleurs (2) — L039",
+    "words": [
+      {
+        "id": "cinza-32a05be7"
+      },
+      {
+        "id": "rosa-5efc86ca"
+      },
+      {
+        "id": "roxo-4bf83285"
+      },
+      {
+        "id": "marrom-b6e9af8a"
+      },
+      {
+        "id": "bege-f630b0b9"
+      },
+      {
+        "id": "laranja-4571e3d8"
+      }
+    ]
+  },
+  "S040": {
+    "id": "S040",
+    "title": "Famille (1) — L040",
+    "words": [
+      {
+        "id": "mae-c936707e"
+      },
+      {
+        "id": "pai-7525a436"
+      },
+      {
+        "id": "filho-b85520b6"
+      },
+      {
+        "id": "filha-ecc0f8f2"
+      },
+      {
+        "id": "irmao-1fa174dc"
+      },
+      {
+        "id": "irma-2aec3dfc"
+      }
+    ]
+  },
+  "S041": {
+    "id": "S041",
+    "title": "Famille (2) — L041",
+    "words": [
+      {
+        "id": "amigo-01f07beb"
+      },
+      {
+        "id": "amiga-11c67d63"
+      },
+      {
+        "id": "esposo-04c75626"
+      },
+      {
+        "id": "esposa-39dea479"
+      },
+      {
+        "id": "avo-eaaed76b"
+      },
+      {
+        "id": "avo-8786e742"
+      }
+    ]
+  },
+  "S042": {
+    "id": "S042",
+    "title": "Maison & pièces — L042",
+    "words": [
+      {
+        "id": "varanda-8c0a1c42"
+      },
+      {
+        "id": "jardim-14fff1ac"
+      },
+      {
+        "id": "garagem-d7f7f011"
+      },
+      {
+        "id": "escritorio-a52b9ed6"
+      },
+      {
+        "id": "casa-81bce1f3"
+      },
+      {
+        "id": "apartamento-af51e888"
+      }
+    ]
+  },
+  "S043": {
+    "id": "S043",
+    "title": "Meubles (1) — L043",
+    "words": [
+      {
+        "id": "mesa-f04cc316"
+      },
+      {
+        "id": "cadeira-644a93ee"
+      },
+      {
+        "id": "cama-1bef95ab"
+      },
+      {
+        "id": "sofa-b6190998"
+      },
+      {
+        "id": "prato-460a2215"
+      },
+      {
+        "id": "copo-8effcb86"
+      }
+    ]
+  },
+  "S044": {
+    "id": "S044",
+    "title": "Cuisine & électro — L044",
+    "words": [
+      {
+        "id": "garfo-7d3ac037"
+      },
+      {
+        "id": "faca-6afc729d"
+      },
+      {
+        "id": "geladeira-000689c8"
+      },
+      {
+        "id": "fogao-7aa9a045"
+      },
+      {
+        "id": "forno-1912344a"
+      },
+      {
+        "id": "micro-ondas-4a22e6ad"
+      }
+    ]
+  },
+  "S045": {
+    "id": "S045",
+    "title": "Nourriture (1) — L045",
+    "words": [
+      {
+        "id": "carne-8ecc854e"
+      },
+      {
+        "id": "frango-07dd38db"
+      },
+      {
+        "id": "peixe-45620bd6"
+      },
+      {
+        "id": "salada-e7c54bfd"
+      },
+      {
+        "id": "pao-3464c04f"
+      },
+      {
+        "id": "manteiga-25d1fa69"
+      }
+    ]
+  },
+  "S046": {
+    "id": "S046",
+    "title": "Fruits & légumes — L046",
+    "words": [
+      {
+        "id": "batata-8467b174"
+      },
+      {
+        "id": "cenoura-62358800"
+      },
+      {
+        "id": "cebola-1247a068"
+      },
+      {
+        "id": "fruta-1ea8c03f"
+      },
+      {
+        "id": "maca-b0c51b47"
+      },
+      {
+        "id": "banana-250e77f1"
+      }
+    ]
+  },
+  "S047": {
+    "id": "S047",
+    "title": "Boissons & condiments — L047",
+    "words": [
+      {
+        "id": "pimenta-2194c68b"
+      },
+      {
+        "id": "oleo-7b3fb2ba"
+      },
+      {
+        "id": "azeite-77f3ba58"
+      },
+      {
+        "id": "cafe-f424452a"
+      },
+      {
+        "id": "cha-a1f7a686"
+      },
+      {
+        "id": "agua-513cba58"
+      }
+    ]
+  },
+  "S048": {
+    "id": "S048",
+    "title": "Vêtements (1) — L048",
+    "words": [
+      {
+        "id": "camisa-90db2a49"
+      },
+      {
+        "id": "camiseta-a269b5db"
+      },
+      {
+        "id": "calca-f78c303c"
+      },
+      {
+        "id": "saia-9c8f19d9"
+      },
+      {
+        "id": "vestido-f50e2745"
+      },
+      {
+        "id": "casaco-60d277de"
+      }
+    ]
+  },
+  "S049": {
+    "id": "S049",
+    "title": "Vêtements (2) — L049",
+    "words": [
+      {
+        "id": "tamanho-581176c7"
+      },
+      {
+        "id": "provador-13faa81e"
+      },
+      {
+        "id": "barato-33e8c86f"
+      },
+      {
+        "id": "caro-732849d5"
+      },
+      {
+        "id": "sapato-056bd783"
+      },
+      {
+        "id": "tenis-773dd050"
+      }
+    ]
+  },
+  "S050": {
+    "id": "S050",
+    "title": "Transports (1) — L050",
+    "words": [
+      {
+        "id": "onibus-5d9a02c3"
+      },
+      {
+        "id": "metro-f3aca16b"
+      },
+      {
+        "id": "trem-b727f035"
+      },
+      {
+        "id": "taxi-902ec012"
+      },
+      {
+        "id": "carro-3959fc61"
+      },
+      {
+        "id": "a-pe-35118c9c"
+      }
+    ]
+  },
+  "S051": {
+    "id": "S051",
+    "title": "Directions (mots) — L051",
+    "words": [
+      {
+        "id": "longe-3fd57249"
+      },
+      {
+        "id": "aeroporto-886813d6"
+      },
+      {
+        "id": "estacao-86effe87"
+      },
+      {
+        "id": "direita-ba6a1047"
+      },
+      {
+        "id": "esquerda-3d2a0394"
+      },
+      {
+        "id": "em-frente-76c10f40"
+      }
+    ]
+  },
+  "S052": {
+    "id": "S052",
+    "title": "Corps (1) — L052",
+    "words": [
+      {
+        "id": "cabeca-a172c0d6"
+      },
+      {
+        "id": "olho-9d12fc46"
+      },
+      {
+        "id": "boca-42a50539"
+      },
+      {
+        "id": "dente-6cca05c1"
+      },
+      {
+        "id": "mao-e7a8963d"
+      },
+      {
+        "id": "braco-6fa6dd9e"
+      }
+    ]
+  },
+  "S053": {
+    "id": "S053",
+    "title": "Corps (2) — L053",
+    "words": [
+      {
+        "id": "farmacia-b36a4b1f"
+      },
+      {
+        "id": "alergia-661fca89"
+      },
+      {
+        "id": "febre-8a5bba8c"
+      },
+      {
+        "id": "gripe-b8fa752b"
+      },
+      {
+        "id": "perna-42a09241"
+      },
+      {
+        "id": "pe-69a11c46"
+      }
+    ]
+  },
+  "S054": {
+    "id": "S054",
+    "title": "Météo & temps — L054",
+    "words": [
+      {
+        "id": "vento-59c478b4"
+      },
+      {
+        "id": "neve-394104b4"
+      },
+      {
+        "id": "hoje-b5364edb"
+      },
+      {
+        "id": "amanha-8a87dcb0"
+      },
+      {
+        "id": "ontem-4a127553"
+      },
+      {
+        "id": "tempo-65e336e2"
+      }
+    ]
+  },
+  "S055": {
+    "id": "S055",
+    "title": "Travail (noms) — L055",
+    "words": [
+      {
+        "id": "trabalho-ec599dac"
+      },
+      {
+        "id": "emprego-182a6eb1"
+      },
+      {
+        "id": "empresa-9403f4c8"
+      },
+      {
+        "id": "colega-bda39488"
+      },
+      {
+        "id": "reuniao-c249c931"
+      },
+      {
+        "id": "projeto-cf5f9f0a"
+      }
+    ]
+  },
+  "S056": {
+    "id": "S056",
+    "title": "Étude & compétences — L056",
+    "words": [
+      {
+        "id": "ouvir-cc9785ea"
+      },
+      {
+        "id": "ver-5e0b8aa1"
+      },
+      {
+        "id": "estudar-47556859"
+      },
+      {
+        "id": "aprender-3fcde0df"
+      },
+      {
+        "id": "ensinar-106687a9"
+      },
+      {
+        "id": "ler-40d748da"
+      }
+    ]
+  },
+  "S057": {
+    "id": "S057",
+    "title": "Verbes usuels (1) — L057",
+    "words": [
+      {
+        "id": "vir-ce1a88f3"
+      },
+      {
+        "id": "chegar-39831b34"
+      },
+      {
+        "id": "sair-e00104f8"
+      },
+      {
+        "id": "abrir-50d3cb21"
+      },
+      {
+        "id": "fechar-5749fbf8"
+      },
+      {
+        "id": "gostar-de-3036f62d"
+      }
+    ]
+  },
+  "S058": {
+    "id": "S058",
+    "title": "Restaurant (phrases 1) — L058",
+    "words": [
+      {
+        "id": "eu-gostaria-de-carne-994f5c6d"
+      },
+      {
+        "id": "eu-gostaria-de-frango-d10cf0e5"
+      },
+      {
+        "id": "eu-gostaria-de-peixe-d95359a4"
+      },
+      {
+        "id": "eu-gostaria-de-salada-54c09919"
+      },
+      {
+        "id": "eu-quero-cafe-6d9e99ca"
+      },
+      {
+        "id": "eu-quero-cha-3f738ab6"
+      }
+    ]
+  },
+  "S059": {
+    "id": "S059",
+    "title": "Directions (phrases) — L059",
+    "words": [
+      {
+        "id": "e-perto-3aa07ba3"
+      },
+      {
+        "id": "e-longe-9a6fc484"
+      },
+      {
+        "id": "vire-a-direita-3dcc29e7"
+      },
+      {
+        "id": "vire-a-esquerda-39407a21"
+      },
+      {
+        "id": "siga-em-frente-70bdc31b"
+      },
+      {
+        "id": "onde-fica-o-aeroporto-2c1b27e8"
+      }
+    ]
+  },
+  "S060": {
+    "id": "S060",
+    "title": "Quotidien (phrases 1) — L060",
+    "words": [
+      {
+        "id": "eu-preciso-de-gluten-d56171a9"
+      },
+      {
+        "id": "eu-preciso-de-lactose-ba885651"
+      },
+      {
+        "id": "eu-trabalho-em-o-aeroporto-6e77353a"
+      },
+      {
+        "id": "eu-trabalho-em-a-estacao-12d7afe9"
+      },
+      {
+        "id": "eu-trabalho-em-o-hotel-543ca020"
+      },
+      {
+        "id": "eu-trabalho-em-o-restaurante-fdab6da0"
+      }
+    ]
+  },
+  "S061": {
+    "id": "S061",
+    "title": "Salutations & Bases — L061",
+    "words": [
+      {
+        "id": "tudo-bem-734b6471"
+      },
+      {
+        "id": "prazer-e32ecf63"
+      },
+      {
+        "id": "ola-528e3850"
+      },
+      {
+        "id": "oi-3c89984c"
+      },
+      {
+        "id": "bom-dia-8f97792d"
+      },
+      {
+        "id": "boa-tarde-6278b644"
+      }
+    ]
+  },
+  "S062": {
+    "id": "S062",
+    "title": "Infos personnelles — L062",
+    "words": [
+      {
+        "id": "quantos-anos-voce-tem-884cc3af"
+      },
+      {
+        "id": "eu-tenho-30-anos-e547640c"
+      },
+      {
+        "id": "onde-voce-mora-83cb1363"
+      },
+      {
+        "id": "eu-moro-em-paris-8951938f"
+      },
+      {
+        "id": "eu-me-chamo-82d1f38a"
+      },
+      {
+        "id": "meu-nome-e-bbaa48dc"
+      }
+    ]
+  },
+  "S063": {
+    "id": "S063",
+    "title": "Chiffres 0-10 — L063",
+    "words": [
+      {
+        "id": "um-ec92b743"
+      },
+      {
+        "id": "dois-7b426791"
+      },
+      {
+        "id": "tres-a4316f31"
+      },
+      {
+        "id": "quatro-a7943ca9"
+      },
+      {
+        "id": "cinco-a097b33b"
+      },
+      {
+        "id": "seis-ba157934"
+      }
+    ]
+  },
+  "S064": {
+    "id": "S064",
+    "title": "Chiffres 11-20 — L064",
+    "words": [
+      {
+        "id": "treze-153619dd"
+      },
+      {
+        "id": "quatorze-ae9c35e7"
+      },
+      {
+        "id": "quinze-6c00d38d"
+      },
+      {
+        "id": "dezesseis-78423d69"
+      },
+      {
+        "id": "dezessete-2f452a74"
+      },
+      {
+        "id": "dezoito-c5d18ab4"
+      }
+    ]
+  },
+  "S065": {
+    "id": "S065",
+    "title": "Jours de la semaine — L065",
+    "words": [
+      {
+        "id": "sabado-1e73aa8e"
+      },
+      {
+        "id": "domingo-da416310"
+      },
+      {
+        "id": "segunda-feira-f362171c"
+      },
+      {
+        "id": "terca-feira-5e0e7781"
+      },
+      {
+        "id": "quarta-feira-60b1473c"
+      },
+      {
+        "id": "quinta-feira-48f8d2fa"
+      }
+    ]
+  },
+  "S066": {
+    "id": "S066",
+    "title": "Mois (1) — L066",
+    "words": [
+      {
+        "id": "janeiro-3fbb4496"
+      },
+      {
+        "id": "fevereiro-f804fc02"
+      },
+      {
+        "id": "marco-f9943b23"
+      },
+      {
+        "id": "abril-2fae6710"
+      },
+      {
+        "id": "maio-20780f2f"
+      },
+      {
+        "id": "junho-879dbd60"
+      }
+    ]
+  },
+  "S067": {
+    "id": "S067",
+    "title": "Mois (2) — L067",
+    "words": [
+      {
+        "id": "julho-ae4e35ec"
+      },
+      {
+        "id": "agosto-5a3c84cb"
+      },
+      {
+        "id": "setembro-c4ed4198"
+      },
+      {
+        "id": "outubro-53ba38ce"
+      },
+      {
+        "id": "novembro-7f3147a9"
+      },
+      {
+        "id": "dezembro-71f217b1"
+      }
+    ]
+  },
+  "S068": {
+    "id": "S068",
+    "title": "Couleurs (1) — L068",
+    "words": [
+      {
+        "id": "vermelho-79f2b39a"
+      },
+      {
+        "id": "azul-1768d39c"
+      },
+      {
+        "id": "amarelo-985037bf"
+      },
+      {
+        "id": "verde-2030abee"
+      },
+      {
+        "id": "preto-eb60d10d"
+      },
+      {
+        "id": "branco-e6c28d71"
+      }
+    ]
+  },
+  "S069": {
+    "id": "S069",
+    "title": "Couleurs (2) — L069",
+    "words": [
+      {
+        "id": "cinza-32a05be7"
+      },
+      {
+        "id": "rosa-5efc86ca"
+      },
+      {
+        "id": "roxo-4bf83285"
+      },
+      {
+        "id": "marrom-b6e9af8a"
+      },
+      {
+        "id": "bege-f630b0b9"
+      },
+      {
+        "id": "laranja-4571e3d8"
+      }
+    ]
+  },
+  "S070": {
+    "id": "S070",
+    "title": "Famille (1) — L070",
+    "words": [
+      {
+        "id": "mae-c936707e"
+      },
+      {
+        "id": "pai-7525a436"
+      },
+      {
+        "id": "filho-b85520b6"
+      },
+      {
+        "id": "filha-ecc0f8f2"
+      },
+      {
+        "id": "irmao-1fa174dc"
+      },
+      {
+        "id": "irma-2aec3dfc"
+      }
+    ]
+  },
+  "S071": {
+    "id": "S071",
+    "title": "Famille (2) — L071",
+    "words": [
+      {
+        "id": "tio-589f98f8"
+      },
+      {
+        "id": "tia-8a60f563"
+      },
+      {
+        "id": "amigo-01f07beb"
+      },
+      {
+        "id": "amiga-11c67d63"
+      },
+      {
+        "id": "esposo-04c75626"
+      },
+      {
+        "id": "esposa-39dea479"
+      }
+    ]
+  },
+  "S072": {
+    "id": "S072",
+    "title": "Maison & pièces — L072",
+    "words": [
+      {
+        "id": "sala-9a2505d5"
+      },
+      {
+        "id": "quarto-ad25d1cf"
+      },
+      {
+        "id": "cozinha-d4ca9c86"
+      },
+      {
+        "id": "banheiro-ab24c5bf"
+      },
+      {
+        "id": "varanda-8c0a1c42"
+      },
+      {
+        "id": "jardim-14fff1ac"
+      }
+    ]
+  },
+  "S073": {
+    "id": "S073",
+    "title": "Meubles (1) — L073",
+    "words": [
+      {
+        "id": "mesa-f04cc316"
+      },
+      {
+        "id": "cadeira-644a93ee"
+      },
+      {
+        "id": "cama-1bef95ab"
+      },
+      {
+        "id": "sofa-b6190998"
+      },
+      {
+        "id": "prato-460a2215"
+      },
+      {
+        "id": "copo-8effcb86"
+      }
+    ]
+  },
+  "S074": {
+    "id": "S074",
+    "title": "Cuisine & électro — L074",
+    "words": [
+      {
+        "id": "panela-79c60280"
+      },
+      {
+        "id": "colher-799a3987"
+      },
+      {
+        "id": "garfo-7d3ac037"
+      },
+      {
+        "id": "faca-6afc729d"
+      },
+      {
+        "id": "geladeira-000689c8"
+      },
+      {
+        "id": "fogao-7aa9a045"
+      }
+    ]
+  },
+  "S075": {
+    "id": "S075",
+    "title": "Nourriture (1) — L075",
+    "words": [
+      {
+        "id": "queijo-fc42828b"
+      },
+      {
+        "id": "leite-beb967c0"
+      },
+      {
+        "id": "arroz-fa9db510"
+      },
+      {
+        "id": "feijao-182821d3"
+      },
+      {
+        "id": "carne-8ecc854e"
+      },
+      {
+        "id": "frango-07dd38db"
+      }
+    ]
+  },
+  "S076": {
+    "id": "S076",
+    "title": "Fruits & légumes — L076",
+    "words": [
+      {
+        "id": "laranja-fruta-c676317c"
+      },
+      {
+        "id": "uva-2d2c2a14"
+      },
+      {
+        "id": "tomate-13f20098"
+      },
+      {
+        "id": "batata-8467b174"
+      },
+      {
+        "id": "cenoura-62358800"
+      },
+      {
+        "id": "cebola-1247a068"
+      }
+    ]
+  },
+  "S077": {
+    "id": "S077",
+    "title": "Boissons & condiments — L077",
+    "words": [
+      {
+        "id": "suco-034af408"
+      },
+      {
+        "id": "sal-caf8dae1"
+      },
+      {
+        "id": "acucar-ca7d10cb"
+      },
+      {
+        "id": "pimenta-2194c68b"
+      },
+      {
+        "id": "oleo-7b3fb2ba"
+      },
+      {
+        "id": "azeite-77f3ba58"
+      }
+    ]
+  },
+  "S078": {
+    "id": "S078",
+    "title": "Vêtements (1) — L078",
+    "words": [
+      {
+        "id": "camisa-90db2a49"
+      },
+      {
+        "id": "camiseta-a269b5db"
+      },
+      {
+        "id": "calca-f78c303c"
+      },
+      {
+        "id": "saia-9c8f19d9"
+      },
+      {
+        "id": "vestido-f50e2745"
+      },
+      {
+        "id": "casaco-60d277de"
+      }
+    ]
+  },
+  "S079": {
+    "id": "S079",
+    "title": "Vêtements (2) — L079",
+    "words": [
+      {
+        "id": "meia-fb289770"
+      },
+      {
+        "id": "bone-d2f447d5"
+      },
+      {
+        "id": "chapeu-a2dd12f9"
+      },
+      {
+        "id": "cinto-fdfe92cf"
+      },
+      {
+        "id": "tamanho-581176c7"
+      },
+      {
+        "id": "provador-13faa81e"
+      }
+    ]
+  },
+  "S080": {
+    "id": "S080",
+    "title": "Transports (1) — L080",
+    "words": [
+      {
+        "id": "onibus-5d9a02c3"
+      },
+      {
+        "id": "metro-f3aca16b"
+      },
+      {
+        "id": "trem-b727f035"
+      },
+      {
+        "id": "taxi-902ec012"
+      },
+      {
+        "id": "carro-3959fc61"
+      },
+      {
+        "id": "a-pe-35118c9c"
+      }
+    ]
+  },
+  "S081": {
+    "id": "S081",
+    "title": "Directions (mots) — L081",
+    "words": [
+      {
+        "id": "perto-fe333e3d"
+      },
+      {
+        "id": "longe-3fd57249"
+      },
+      {
+        "id": "aeroporto-886813d6"
+      },
+      {
+        "id": "estacao-86effe87"
+      },
+      {
+        "id": "direita-ba6a1047"
+      },
+      {
+        "id": "esquerda-3d2a0394"
+      }
+    ]
+  },
+  "S082": {
+    "id": "S082",
+    "title": "Corps (1) — L082",
+    "words": [
+      {
+        "id": "cabeca-a172c0d6"
+      },
+      {
+        "id": "olho-9d12fc46"
+      },
+      {
+        "id": "boca-42a50539"
+      },
+      {
+        "id": "dente-6cca05c1"
+      },
+      {
+        "id": "mao-e7a8963d"
+      },
+      {
+        "id": "braco-6fa6dd9e"
+      }
+    ]
+  },
+  "S083": {
+    "id": "S083",
+    "title": "Corps (2) — L083",
+    "words": [
+      {
+        "id": "estomago-b4a90e9d"
+      },
+      {
+        "id": "dor-4a353c3e"
+      },
+      {
+        "id": "remedio-65bd3539"
+      },
+      {
+        "id": "hospital-2b2d005e"
+      },
+      {
+        "id": "farmacia-b36a4b1f"
+      },
+      {
+        "id": "alergia-661fca89"
+      }
+    ]
+  },
+  "S084": {
+    "id": "S084",
+    "title": "Météo & temps — L084",
+    "words": [
+      {
+        "id": "calor-58216156"
+      },
+      {
+        "id": "frio-13e27737"
+      },
+      {
+        "id": "chuva-77ffa3e0"
+      },
+      {
+        "id": "sol-fbb93bb9"
+      },
+      {
+        "id": "nublado-b5dc1388"
+      },
+      {
+        "id": "vento-59c478b4"
+      }
+    ]
+  },
+  "S085": {
+    "id": "S085",
+    "title": "Travail (noms) — L085",
+    "words": [
+      {
+        "id": "trabalho-ec599dac"
+      },
+      {
+        "id": "emprego-182a6eb1"
+      },
+      {
+        "id": "empresa-9403f4c8"
+      },
+      {
+        "id": "colega-bda39488"
+      },
+      {
+        "id": "reuniao-c249c931"
+      },
+      {
+        "id": "projeto-cf5f9f0a"
+      }
+    ]
+  },
+  "S086": {
+    "id": "S086",
+    "title": "Étude & compétences — L086",
+    "words": [
+      {
+        "id": "escrever-db2017ed"
+      },
+      {
+        "id": "falar-713a1504"
+      },
+      {
+        "id": "ouvir-cc9785ea"
+      },
+      {
+        "id": "ver-5e0b8aa1"
+      },
+      {
+        "id": "estudar-47556859"
+      },
+      {
+        "id": "aprender-3fcde0df"
+      }
+    ]
+  },
+  "S087": {
+    "id": "S087",
+    "title": "Verbes usuels (1) — L087",
+    "words": [
+      {
+        "id": "querer-e4fc0cb8"
+      },
+      {
+        "id": "precisar-de-57a31058"
+      },
+      {
+        "id": "comprar-a2039cb4"
+      },
+      {
+        "id": "vender-9c25bd58"
+      },
+      {
+        "id": "ir-aa1553be"
+      },
+      {
+        "id": "vir-ce1a88f3"
+      }
+    ]
+  },
+  "S088": {
+    "id": "S088",
+    "title": "Restaurant (phrases 1) — L088",
+    "words": [
+      {
+        "id": "eu-quero-agua-36d9b05b"
+      },
+      {
+        "id": "eu-quero-suco-bae13aa7"
+      },
+      {
+        "id": "eu-quero-arroz-b65c8ffe"
+      },
+      {
+        "id": "eu-quero-feijao-a271ff4a"
+      },
+      {
+        "id": "eu-quero-carne-6fbf53be"
+      },
+      {
+        "id": "eu-quero-frango-09a86855"
+      }
+    ]
+  },
+  "S089": {
+    "id": "S089",
+    "title": "Directions (phrases) — L089",
+    "words": [
+      {
+        "id": "onde-fica-a-estacao-efe1839d"
+      },
+      {
+        "id": "onde-fica-o-hotel-5bd48d18"
+      },
+      {
+        "id": "onde-fica-o-restaurante-1c2d5510"
+      },
+      {
+        "id": "onde-fica-o-hospital-f74f7e54"
+      },
+      {
+        "id": "onde-fica-o-centro-0816794e"
+      },
+      {
+        "id": "e-perto-3aa07ba3"
+      }
+    ]
+  },
+  "S090": {
+    "id": "S090",
+    "title": "Quotidien (phrases 1) — L090",
+    "words": [
+      {
+        "id": "eu-trabalho-em-o-hospital-dba85d46"
+      },
+      {
+        "id": "eu-trabalho-em-o-centro-8030f637"
+      },
+      {
+        "id": "eu-estudo-acucar-5bb30418"
+      },
+      {
+        "id": "eu-estudo-sal-554a378b"
+      },
+      {
+        "id": "eu-estudo-gluten-ce283203"
+      },
+      {
+        "id": "eu-estudo-lactose-080156ae"
+      }
+    ]
+  },
+  "S091": {
+    "id": "S091",
+    "title": "Salutations & Bases — L091",
+    "words": [
+      {
+        "id": "boa-noite-06124de2"
+      },
+      {
+        "id": "tchau-a1228837"
+      },
+      {
+        "id": "por-favor-f2dbb03a"
+      },
+      {
+        "id": "obrigado-34cfc76f"
+      },
+      {
+        "id": "obrigada-cbebca25"
+      },
+      {
+        "id": "desculpa-abdb77ac"
+      }
+    ]
+  },
+  "S092": {
+    "id": "S092",
+    "title": "Infos personnelles — L092",
+    "words": [
+      {
+        "id": "de-onde-voce-e-43fd44e3"
+      },
+      {
+        "id": "eu-sou-da-franca-5a4175a3"
+      },
+      {
+        "id": "quantos-anos-voce-tem-884cc3af"
+      },
+      {
+        "id": "eu-tenho-30-anos-e547640c"
+      },
+      {
+        "id": "onde-voce-mora-83cb1363"
+      },
+      {
+        "id": "eu-moro-em-paris-8951938f"
+      }
+    ]
+  },
+  "S093": {
+    "id": "S093",
+    "title": "Chiffres 0-10 — L093",
+    "words": [
+      {
+        "id": "sete-0f961cd8"
+      },
+      {
+        "id": "oito-2a67c257"
+      },
+      {
+        "id": "nove-7f52fd19"
+      },
+      {
+        "id": "dez-b5ab4a29"
+      },
+      {
+        "id": "zero-aa8c4133"
+      },
+      {
+        "id": "um-ec92b743"
+      }
+    ]
+  },
+  "S094": {
+    "id": "S094",
+    "title": "Chiffres 11-20 — L094",
+    "words": [
+      {
+        "id": "dezenove-c0fd8b9e"
+      },
+      {
+        "id": "vinte-d6b8c826"
+      },
+      {
+        "id": "onze-9fd8fa2d"
+      },
+      {
+        "id": "doze-b4bd4cbd"
+      },
+      {
+        "id": "treze-153619dd"
+      },
+      {
+        "id": "quatorze-ae9c35e7"
+      }
+    ]
+  },
+  "S095": {
+    "id": "S095",
+    "title": "Jours de la semaine — L095",
+    "words": [
+      {
+        "id": "sexta-feira-b5a183f5"
+      },
+      {
+        "id": "sabado-1e73aa8e"
+      },
+      {
+        "id": "domingo-da416310"
+      },
+      {
+        "id": "segunda-feira-f362171c"
+      },
+      {
+        "id": "terca-feira-5e0e7781"
+      },
+      {
+        "id": "quarta-feira-60b1473c"
+      }
+    ]
+  },
+  "S096": {
+    "id": "S096",
+    "title": "Mois (1) — L096",
+    "words": [
+      {
+        "id": "janeiro-3fbb4496"
+      },
+      {
+        "id": "fevereiro-f804fc02"
+      },
+      {
+        "id": "marco-f9943b23"
+      },
+      {
+        "id": "abril-2fae6710"
+      },
+      {
+        "id": "maio-20780f2f"
+      },
+      {
+        "id": "junho-879dbd60"
+      }
+    ]
+  },
+  "S097": {
+    "id": "S097",
+    "title": "Mois (2) — L097",
+    "words": [
+      {
+        "id": "julho-ae4e35ec"
+      },
+      {
+        "id": "agosto-5a3c84cb"
+      },
+      {
+        "id": "setembro-c4ed4198"
+      },
+      {
+        "id": "outubro-53ba38ce"
+      },
+      {
+        "id": "novembro-7f3147a9"
+      },
+      {
+        "id": "dezembro-71f217b1"
+      }
+    ]
+  },
+  "S098": {
+    "id": "S098",
+    "title": "Couleurs (1) — L098",
+    "words": [
+      {
+        "id": "vermelho-79f2b39a"
+      },
+      {
+        "id": "azul-1768d39c"
+      },
+      {
+        "id": "amarelo-985037bf"
+      },
+      {
+        "id": "verde-2030abee"
+      },
+      {
+        "id": "preto-eb60d10d"
+      },
+      {
+        "id": "branco-e6c28d71"
+      }
+    ]
+  },
+  "S099": {
+    "id": "S099",
+    "title": "Couleurs (2) — L099",
+    "words": [
+      {
+        "id": "cinza-32a05be7"
+      },
+      {
+        "id": "rosa-5efc86ca"
+      },
+      {
+        "id": "roxo-4bf83285"
+      },
+      {
+        "id": "marrom-b6e9af8a"
+      },
+      {
+        "id": "bege-f630b0b9"
+      },
+      {
+        "id": "laranja-4571e3d8"
+      }
+    ]
+  },
+  "S100": {
+    "id": "S100",
+    "title": "Famille (1) — L100",
+    "words": [
+      {
+        "id": "mae-c936707e"
+      },
+      {
+        "id": "pai-7525a436"
+      },
+      {
+        "id": "filho-b85520b6"
+      },
+      {
+        "id": "filha-ecc0f8f2"
+      },
+      {
+        "id": "irmao-1fa174dc"
+      },
+      {
+        "id": "irma-2aec3dfc"
+      }
+    ]
+  },
+  "S101": {
+    "id": "S101",
+    "title": "Famille (2) — L101",
+    "words": [
+      {
+        "id": "avo-eaaed76b"
+      },
+      {
+        "id": "avo-8786e742"
+      },
+      {
+        "id": "tio-589f98f8"
+      },
+      {
+        "id": "tia-8a60f563"
+      },
+      {
+        "id": "amigo-01f07beb"
+      },
+      {
+        "id": "amiga-11c67d63"
+      }
+    ]
+  },
+  "S102": {
+    "id": "S102",
+    "title": "Maison & pièces — L102",
+    "words": [
+      {
+        "id": "garagem-d7f7f011"
+      },
+      {
+        "id": "escritorio-a52b9ed6"
+      },
+      {
+        "id": "casa-81bce1f3"
+      },
+      {
+        "id": "apartamento-af51e888"
+      },
+      {
+        "id": "sala-9a2505d5"
+      },
+      {
+        "id": "quarto-ad25d1cf"
+      }
+    ]
+  },
+  "S103": {
+    "id": "S103",
+    "title": "Meubles (1) — L103",
+    "words": [
+      {
+        "id": "mesa-f04cc316"
+      },
+      {
+        "id": "cadeira-644a93ee"
+      },
+      {
+        "id": "cama-1bef95ab"
+      },
+      {
+        "id": "sofa-b6190998"
+      },
+      {
+        "id": "prato-460a2215"
+      },
+      {
+        "id": "copo-8effcb86"
+      }
+    ]
+  },
+  "S104": {
+    "id": "S104",
+    "title": "Cuisine & électro — L104",
+    "words": [
+      {
+        "id": "forno-1912344a"
+      },
+      {
+        "id": "micro-ondas-4a22e6ad"
+      },
+      {
+        "id": "panela-79c60280"
+      },
+      {
+        "id": "colher-799a3987"
+      },
+      {
+        "id": "garfo-7d3ac037"
+      },
+      {
+        "id": "faca-6afc729d"
+      }
+    ]
+  },
+  "S105": {
+    "id": "S105",
+    "title": "Nourriture (1) — L105",
+    "words": [
+      {
+        "id": "peixe-45620bd6"
+      },
+      {
+        "id": "salada-e7c54bfd"
+      },
+      {
+        "id": "pao-3464c04f"
+      },
+      {
+        "id": "manteiga-25d1fa69"
+      },
+      {
+        "id": "queijo-fc42828b"
+      },
+      {
+        "id": "leite-beb967c0"
+      }
+    ]
+  },
+  "S106": {
+    "id": "S106",
+    "title": "Fruits & légumes — L106",
+    "words": [
+      {
+        "id": "fruta-1ea8c03f"
+      },
+      {
+        "id": "maca-b0c51b47"
+      },
+      {
+        "id": "banana-250e77f1"
+      },
+      {
+        "id": "laranja-fruta-c676317c"
+      },
+      {
+        "id": "uva-2d2c2a14"
+      },
+      {
+        "id": "tomate-13f20098"
+      }
+    ]
+  },
+  "S107": {
+    "id": "S107",
+    "title": "Boissons & condiments — L107",
+    "words": [
+      {
+        "id": "cafe-f424452a"
+      },
+      {
+        "id": "cha-a1f7a686"
+      },
+      {
+        "id": "agua-513cba58"
+      },
+      {
+        "id": "suco-034af408"
+      },
+      {
+        "id": "sal-caf8dae1"
+      },
+      {
+        "id": "acucar-ca7d10cb"
+      }
+    ]
+  },
+  "S108": {
+    "id": "S108",
+    "title": "Vêtements (1) — L108",
+    "words": [
+      {
+        "id": "camisa-90db2a49"
+      },
+      {
+        "id": "camiseta-a269b5db"
+      },
+      {
+        "id": "calca-f78c303c"
+      },
+      {
+        "id": "saia-9c8f19d9"
+      },
+      {
+        "id": "vestido-f50e2745"
+      },
+      {
+        "id": "casaco-60d277de"
+      }
+    ]
+  },
+  "S109": {
+    "id": "S109",
+    "title": "Vêtements (2) — L109",
+    "words": [
+      {
+        "id": "barato-33e8c86f"
+      },
+      {
+        "id": "caro-732849d5"
+      },
+      {
+        "id": "sapato-056bd783"
+      },
+      {
+        "id": "tenis-773dd050"
+      },
+      {
+        "id": "meia-fb289770"
+      },
+      {
+        "id": "bone-d2f447d5"
+      }
+    ]
+  },
+  "S110": {
+    "id": "S110",
+    "title": "Transports (1) — L110",
+    "words": [
+      {
+        "id": "onibus-5d9a02c3"
+      },
+      {
+        "id": "metro-f3aca16b"
+      },
+      {
+        "id": "trem-b727f035"
+      },
+      {
+        "id": "taxi-902ec012"
+      },
+      {
+        "id": "carro-3959fc61"
+      },
+      {
+        "id": "a-pe-35118c9c"
+      }
+    ]
+  },
+  "S111": {
+    "id": "S111",
+    "title": "Directions (mots) — L111",
+    "words": [
+      {
+        "id": "em-frente-76c10f40"
+      },
+      {
+        "id": "perto-fe333e3d"
+      },
+      {
+        "id": "longe-3fd57249"
+      },
+      {
+        "id": "aeroporto-886813d6"
+      },
+      {
+        "id": "estacao-86effe87"
+      },
+      {
+        "id": "direita-ba6a1047"
+      }
+    ]
+  },
+  "S112": {
+    "id": "S112",
+    "title": "Corps (1) — L112",
+    "words": [
+      {
+        "id": "cabeca-a172c0d6"
+      },
+      {
+        "id": "olho-9d12fc46"
+      },
+      {
+        "id": "boca-42a50539"
+      },
+      {
+        "id": "dente-6cca05c1"
+      },
+      {
+        "id": "mao-e7a8963d"
+      },
+      {
+        "id": "braco-6fa6dd9e"
+      }
+    ]
+  }
+}
