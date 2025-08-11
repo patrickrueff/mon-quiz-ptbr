@@ -26,10 +26,6 @@ jobs:
         with:
           python-version: "3.12"
 
-      # (Optionnel) Installer des dépendances si tu en ajoutes un jour :
-      # - name: Install deps
-      #   run: pip install -r requirements.txt
-
       - name: Generate static site
         run: python 01_main.py
 
