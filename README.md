@@ -2,7 +2,7 @@
 
 
 
-!\[Deploy](https://github.com/patrickrueff/mon-quiz-ptbr/actions/workflows/deploy.yml/badge.svg)
+!\[Deploy](https://patrickrueff.github.io/mon-quiz-ptbr/)
 
 
 
