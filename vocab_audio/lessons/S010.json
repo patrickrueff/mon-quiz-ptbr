@@ -1,24 +1,42 @@
 {
   "id": "S010",
-  "title": "Famille (1) — L010",
+  "title": "En classe",
   "words": [
     {
-      "id": "mae-c936707e"
+      "id": "professor-professora-45c971c3"
     },
     {
-      "id": "pai-7525a436"
+      "id": "aluno-aluna-603cd2c6"
     },
     {
-      "id": "filho-b85520b6"
+      "id": "caderno-ece98ae9"
     },
     {
-      "id": "filha-ecc0f8f2"
+      "id": "lapis-81d05f0e"
     },
     {
-      "id": "irmao-1fa174dc"
+      "id": "caneta-56481346"
     },
     {
-      "id": "irma-2aec3dfc"
+      "id": "borracha-cb9c0b7f"
+    },
+    {
+      "id": "quadro-d5d5d8e1"
+    },
+    {
+      "id": "licao-de-casa-94c71658"
+    },
+    {
+      "id": "eu-estudo-f08d2837"
+    },
+    {
+      "id": "voce-estuda-0f1a73e5"
+    },
+    {
+      "id": "posso-ir-ao-banheiro-406ecef7"
+    },
+    {
+      "id": "repete-por-favor-c7488b52"
     }
   ]
 }

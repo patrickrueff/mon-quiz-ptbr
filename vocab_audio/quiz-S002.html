@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8" />
-  <title>Quiz — Infos personnelles — L002</title>
+  <title>Quiz — La famille</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>:root{
   --bg:#0b0f14;--card:#121821;--text:#eef3fb;--muted:#b8c0cc;--accent:#5aa0ff;--accent2:#8ad1ff;--border:#1e2632
@@ -47,7 +47,7 @@ button:hover,a.btn:hover{border-color:var(--accent)} button:active,a.btn:active{
 <body>
   <div class="container">
     <div class="row" style="justify-content:space-between;align-items:baseline">
-      <h1>Quiz — Infos personnelles — L002</h1>
+      <h1>Quiz — La famille</h1>
       <div class="row"><a class="btn" href="index.html">🏠 Accueil</a></div>
     </div>
     <p class="sub">Leçon : S002</p>
@@ -104,7 +104,7 @@ function toggleQuiz(){
   frs.forEach(el=>{ el.style.visibility = chk.checked ? 'hidden' : 'visible'; });
 }
 </script>
-  <script>const POOL = [{"pt": "Eu me chamo...", "fr": "Je m'appelle...", "phon": "éou mé chammou", "normal": "audio/0007-eu-me-chamo-82d1f38a.mp3"}, {"pt": "Meu nome é...", "fr": "Mon nom est...", "phon": "méou nomé é", "normal": "audio/0008-meu-nome-e-bbaa48dc.mp3"}, {"pt": "De onde você é?", "fr": "D'où êtes-vous ?", "phon": "djé onde vosé é", "normal": "audio/0009-de-onde-voce-e-43fd44e3.mp3"}, {"pt": "Eu sou da França", "fr": "Je viens de France", "phon": "éou sou da fransa", "normal": "audio/0010-eu-sou-da-franca-5a4175a3.mp3"}, {"pt": "Quantos anos você tem?", "fr": "Quel âge avez-vous ?", "phon": "couantos annous vosé tẽï", "normal": "audio/0011-quantos-anos-voce-tem-884cc3af.mp3"}, {"pt": "Eu tenho 30 anos", "fr": "J'ai 30 ans", "phon": "éou tẽïngno trente annous", "normal": "audio/0012-eu-tenho-30-anos-e547640c.mp3"}];
+  <script>const POOL = [{"pt": "mãe", "fr": "maman", "phon": "maɲ", "normal": "audio/0013-mae-c936707e.mp3"}, {"pt": "pai", "fr": "papa", "phon": "paï", "normal": "audio/0014-pai-7525a436.mp3"}, {"pt": "irmão", "fr": "frère", "phon": "irmañõ", "normal": "audio/0015-irmao-1fa174dc.mp3"}, {"pt": "irmã", "fr": "soeur", "phon": "irmañ", "normal": "audio/0016-irma-2aec3dfc.mp3"}, {"pt": "filho", "fr": "fils", "phon": "fi-lyo", "normal": "audio/0017-filho-b85520b6.mp3"}, {"pt": "filha", "fr": "fille", "phon": "fi-lya", "normal": "audio/0018-filha-ecc0f8f2.mp3"}, {"pt": "marido", "fr": "mari", "phon": "maridou", "normal": "audio/0019-marido-e4b88e75.mp3"}, {"pt": "esposa", "fr": "épouse", "phon": "éspôza", "normal": "audio/0020-esposa-39dea479.mp3"}, {"pt": "meu filho tem oito anos", "fr": "mon fils a huit ans", "phon": "méou fi-lyo tẽ oïto anous", "normal": "audio/0021-meu-filho-tem-oito-anos-8a7d2cea.mp3"}, {"pt": "eu tenho", "fr": "j’ai", "phon": "éou tẽ-nyo", "normal": "audio/0022-eu-tenho-5a651b8c.mp3"}, {"pt": "você tem", "fr": "tu as / vous avez (sing.)", "phon": "vosé tẽ", "normal": "audio/0023-voce-tem-069f89ff.mp3"}, {"pt": "nossa família é grande", "fr": "notre famille est grande", "phon": "nossa famil-ya é grandji", "normal": "audio/0024-nossa-familia-e-grande-a6e0cde3.mp3"}];
 function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; }
 function makeQuiz(POOL, limit){ const items=[...POOL]; shuffle(items); if(limit&&limit>0){ items.length=Math.min(limit,items.length);} return items; }
 function buildChoices(pool, answer, n=4){

@@ -1,24 +1,42 @@
 {
   "id": "S001",
-  "title": "Salutations & Bases — L001",
+  "title": "Salutations & présentations",
   "words": [
     {
-      "id": "ola-528e3850"
+      "id": "oi-ef67e086"
     },
     {
-      "id": "oi-3c89984c"
+      "id": "bom-dia-65463ee6"
     },
     {
-      "id": "bom-dia-8f97792d"
+      "id": "boa-tarde-f0a89eea"
     },
     {
-      "id": "boa-tarde-6278b644"
+      "id": "boa-noite-acc42079"
     },
     {
-      "id": "boa-noite-06124de2"
+      "id": "como-vai-0909412f"
     },
     {
-      "id": "tchau-a1228837"
+      "id": "tudo-bem-b11d18dd"
+    },
+    {
+      "id": "meu-nome-e-1dda55b7"
+    },
+    {
+      "id": "eu-sou-a8f404f6"
+    },
+    {
+      "id": "voce-e-987b1559"
+    },
+    {
+      "id": "prazer-9e1874c6"
+    },
+    {
+      "id": "de-onde-voce-e-acd62f48"
+    },
+    {
+      "id": "muito-obrigado-4f77f39b"
     }
   ]
 }

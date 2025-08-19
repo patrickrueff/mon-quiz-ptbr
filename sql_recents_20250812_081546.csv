@@ -1,0 +1,2 @@
+path,size_bytes,created,modified,extension,origin,a_ts_sql,hash_prefix,preview
+C:\Users\ICG332\Downloads\Requte_deplacement_improductifs.sql,5434,2025-07-29 15:18:33.121754,2025-08-01 10:56:52.197242,.sql,normal,True,6ae70587f104,SELECT TOP (100)

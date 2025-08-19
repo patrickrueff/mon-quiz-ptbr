@@ -1,24 +1,42 @@
 {
   "id": "S003",
-  "title": "Chiffres 0-10 — L003",
+  "title": "Les nombres & l’âge",
   "words": [
     {
-      "id": "zero-aa8c4133"
+      "id": "um-dois-tres-4b427721"
     },
     {
-      "id": "um-ec92b743"
+      "id": "quatro-cinco-seis-1a0e1330"
     },
     {
-      "id": "dois-7b426791"
+      "id": "sete-oito-nove-2eda37a3"
     },
     {
-      "id": "tres-a4316f31"
+      "id": "dez-b5ab4a29"
     },
     {
-      "id": "quatro-a7943ca9"
+      "id": "quantos-anos-voce-tem-c7c6c995"
     },
     {
-      "id": "cinco-a097b33b"
+      "id": "eu-tenho-vinte-anos-392909ee"
+    },
+    {
+      "id": "primeiro-26d0c603"
+    },
+    {
+      "id": "segundo-d899f3b9"
+    },
+    {
+      "id": "terceiro-9e4dabac"
+    },
+    {
+      "id": "eu-quero-8d99869f"
+    },
+    {
+      "id": "voce-quer-07754c85"
+    },
+    {
+      "id": "eu-tenho-dois-irmaos-0c0fbc92"
     }
   ]
 }

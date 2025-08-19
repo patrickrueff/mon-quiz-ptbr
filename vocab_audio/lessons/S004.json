@@ -1,24 +1,42 @@
 {
   "id": "S004",
-  "title": "Chiffres 11-20 — L004",
+  "title": "Les jours & les mois",
   "words": [
     {
-      "id": "onze-9fd8fa2d"
+      "id": "segunda-feira-f362171c"
     },
     {
-      "id": "doze-b4bd4cbd"
+      "id": "terca-feira-5e0e7781"
     },
     {
-      "id": "treze-153619dd"
+      "id": "quarta-feira-60b1473c"
     },
     {
-      "id": "quatorze-ae9c35e7"
+      "id": "quinta-feira-48f8d2fa"
     },
     {
-      "id": "quinze-6c00d38d"
+      "id": "sexta-feira-b5a183f5"
     },
     {
-      "id": "dezesseis-78423d69"
+      "id": "sabado-1e73aa8e"
+    },
+    {
+      "id": "domingo-da416310"
+    },
+    {
+      "id": "janeiro-3fbb4496"
+    },
+    {
+      "id": "fevereiro-f804fc02"
+    },
+    {
+      "id": "marco-f9943b23"
+    },
+    {
+      "id": "eu-vou-073bca2e"
+    },
+    {
+      "id": "voce-vai-c02ee935"
     }
   ]
 }

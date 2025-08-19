@@ -1,24 +1,42 @@
 {
   "id": "S009",
-  "title": "Couleurs (2) — L009",
+  "title": "Boissons & cafés",
   "words": [
     {
-      "id": "cinza-32a05be7"
+      "id": "agua-513cba58"
     },
     {
-      "id": "rosa-5efc86ca"
+      "id": "cafe-f424452a"
     },
     {
-      "id": "roxo-4bf83285"
+      "id": "cha-a1f7a686"
     },
     {
-      "id": "marrom-b6e9af8a"
+      "id": "suco-034af408"
     },
     {
-      "id": "bege-f630b0b9"
+      "id": "leite-beb967c0"
     },
     {
-      "id": "laranja-4571e3d8"
+      "id": "cerveja-d7c0bc95"
+    },
+    {
+      "id": "vinho-798a84bb"
+    },
+    {
+      "id": "sem-acucar-3eb694a3"
+    },
+    {
+      "id": "com-gelo-bc0df6bb"
+    },
+    {
+      "id": "eu-bebo-8f162182"
+    },
+    {
+      "id": "voce-bebe-675aaca7"
+    },
+    {
+      "id": "um-cafe-por-favor-036c2b9e"
     }
   ]
 }

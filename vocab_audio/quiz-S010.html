@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8" />
-  <title>Quiz — Famille (1) — L010</title>
+  <title>Quiz — En classe</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>:root{
   --bg:#0b0f14;--card:#121821;--text:#eef3fb;--muted:#b8c0cc;--accent:#5aa0ff;--accent2:#8ad1ff;--border:#1e2632
@@ -47,7 +47,7 @@ button:hover,a.btn:hover{border-color:var(--accent)} button:active,a.btn:active{
 <body>
   <div class="container">
     <div class="row" style="justify-content:space-between;align-items:baseline">
-      <h1>Quiz — Famille (1) — L010</h1>
+      <h1>Quiz — En classe</h1>
       <div class="row"><a class="btn" href="index.html">🏠 Accueil</a></div>
     </div>
     <p class="sub">Leçon : S010</p>
@@ -104,7 +104,7 @@ function toggleQuiz(){
   frs.forEach(el=>{ el.style.visibility = chk.checked ? 'hidden' : 'visible'; });
 }
 </script>
-  <script>const POOL = [{"pt": "mãe", "fr": "mère", "phon": "mãe (mai~)", "normal": "audio/0055-mae-c936707e.mp3"}, {"pt": "pai", "fr": "père", "phon": "paï", "normal": "audio/0056-pai-7525a436.mp3"}, {"pt": "filho", "fr": "fils", "phon": "filiou", "normal": "audio/0057-filho-b85520b6.mp3"}, {"pt": "filha", "fr": "fille", "phon": "filia", "normal": "audio/0058-filha-ecc0f8f2.mp3"}, {"pt": "irmão", "fr": "frère", "phon": "irmão (irma-oun)", "normal": "audio/0059-irmao-1fa174dc.mp3"}, {"pt": "irmã", "fr": "soeur", "phon": "irmã (irm-ã)", "normal": "audio/0060-irma-2aec3dfc.mp3"}];
+  <script>const POOL = [{"pt": "professor / professora", "fr": "professeur / professeure", "phon": "professorr / professora", "normal": "audio/0109-professor-professora-45c971c3.mp3"}, {"pt": "aluno / aluna", "fr": "élève (m/f)", "phon": "alounou / alouna", "normal": "audio/0110-aluno-aluna-603cd2c6.mp3"}, {"pt": "caderno", "fr": "cahier", "phon": "cadernou", "normal": "audio/0111-caderno-ece98ae9.mp3"}, {"pt": "lápis", "fr": "crayon", "phon": "lapiss", "normal": "audio/0112-lapis-81d05f0e.mp3"}, {"pt": "caneta", "fr": "stylo", "phon": "canèta", "normal": "audio/0113-caneta-56481346.mp3"}, {"pt": "borracha", "fr": "gomme", "phon": "borracha", "normal": "audio/0114-borracha-cb9c0b7f.mp3"}, {"pt": "quadro", "fr": "tableau (classe)", "phon": "kouadro", "normal": "audio/0115-quadro-d5d5d8e1.mp3"}, {"pt": "lição de casa", "fr": "devoirs", "phon": "lissãw djé caza", "normal": "audio/0116-licao-de-casa-94c71658.mp3"}, {"pt": "eu estudo", "fr": "j’étudie", "phon": "éou istoudou", "normal": "audio/0117-eu-estudo-f08d2837.mp3"}, {"pt": "você estuda", "fr": "tu étudies / vous étudiez (sing.)", "phon": "vosé istouda", "normal": "audio/0118-voce-estuda-0f1a73e5.mp3"}, {"pt": "posso ir ao banheiro?", "fr": "je peux aller aux toilettes ?", "phon": "posso ir aou banyèrrou", "normal": "audio/0119-posso-ir-ao-banheiro-406ecef7.mp3"}, {"pt": "repete, por favor", "fr": "répète, s’il te plaît", "phon": "hépetchi, pour favor", "normal": "audio/0120-repete-por-favor-c7488b52.mp3"}];
 function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; }
 function makeQuiz(POOL, limit){ const items=[...POOL]; shuffle(items); if(limit&&limit>0){ items.length=Math.min(limit,items.length);} return items; }
 function buildChoices(pool, answer, n=4){

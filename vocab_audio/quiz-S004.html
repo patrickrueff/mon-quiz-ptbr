@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8" />
-  <title>Quiz — Chiffres 11-20 — L004</title>
+  <title>Quiz — Les jours &amp; les mois</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>:root{
   --bg:#0b0f14;--card:#121821;--text:#eef3fb;--muted:#b8c0cc;--accent:#5aa0ff;--accent2:#8ad1ff;--border:#1e2632
@@ -47,7 +47,7 @@ button:hover,a.btn:hover{border-color:var(--accent)} button:active,a.btn:active{
 <body>
   <div class="container">
     <div class="row" style="justify-content:space-between;align-items:baseline">
-      <h1>Quiz — Chiffres 11-20 — L004</h1>
+      <h1>Quiz — Les jours &amp; les mois</h1>
       <div class="row"><a class="btn" href="index.html">🏠 Accueil</a></div>
     </div>
     <p class="sub">Leçon : S004</p>
@@ -104,7 +104,7 @@ function toggleQuiz(){
   frs.forEach(el=>{ el.style.visibility = chk.checked ? 'hidden' : 'visible'; });
 }
 </script>
-  <script>const POOL = [{"pt": "onze", "fr": "onze", "phon": "onzé", "normal": "audio/0019-onze-9fd8fa2d.mp3"}, {"pt": "doze", "fr": "douze", "phon": "dozé", "normal": "audio/0020-doze-b4bd4cbd.mp3"}, {"pt": "treze", "fr": "treize", "phon": "trèzé", "normal": "audio/0021-treze-153619dd.mp3"}, {"pt": "quatorze", "fr": "quatorze", "phon": "catôrzi", "normal": "audio/0022-quatorze-ae9c35e7.mp3"}, {"pt": "quinze", "fr": "quinze", "phon": "kinzi", "normal": "audio/0023-quinze-6c00d38d.mp3"}, {"pt": "dezesseis", "fr": "seize", "phon": "dèzéssèïss", "normal": "audio/0024-dezesseis-78423d69.mp3"}];
+  <script>const POOL = [{"pt": "segunda-feira", "fr": "lundi", "phon": "sègounda fêïra", "normal": "audio/0037-segunda-feira-f362171c.mp3"}, {"pt": "terça-feira", "fr": "mardi", "phon": "tersa fêïra", "normal": "audio/0038-terca-feira-5e0e7781.mp3"}, {"pt": "quarta-feira", "fr": "mercredi", "phon": "kouarta fêïra", "normal": "audio/0039-quarta-feira-60b1473c.mp3"}, {"pt": "quinta-feira", "fr": "jeudi", "phon": "kinta fêïra", "normal": "audio/0040-quinta-feira-48f8d2fa.mp3"}, {"pt": "sexta-feira", "fr": "vendredi", "phon": "seïchta fêïra", "normal": "audio/0041-sexta-feira-b5a183f5.mp3"}, {"pt": "sábado", "fr": "samedi", "phon": "sabado", "normal": "audio/0042-sabado-1e73aa8e.mp3"}, {"pt": "domingo", "fr": "dimanche", "phon": "domingu", "normal": "audio/0043-domingo-da416310.mp3"}, {"pt": "janeiro", "fr": "janvier", "phon": "janèïrou", "normal": "audio/0044-janeiro-3fbb4496.mp3"}, {"pt": "fevereiro", "fr": "février", "phon": "féverèïrou", "normal": "audio/0045-fevereiro-f804fc02.mp3"}, {"pt": "março", "fr": "mars", "phon": "marssou", "normal": "audio/0046-marco-f9943b23.mp3"}, {"pt": "eu vou", "fr": "je vais", "phon": "éou vou", "normal": "audio/0047-eu-vou-073bca2e.mp3"}, {"pt": "você vai", "fr": "tu vas / vous allez (sing.)", "phon": "vosé vaï", "normal": "audio/0048-voce-vai-c02ee935.mp3"}];
 function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; }
 function makeQuiz(POOL, limit){ const items=[...POOL]; shuffle(items); if(limit&&limit>0){ items.length=Math.min(limit,items.length);} return items; }
 function buildChoices(pool, answer, n=4){

@@ -1,24 +1,42 @@
 {
   "id": "S005",
-  "title": "Jours de la semaine — L005",
+  "title": "Les couleurs",
   "words": [
     {
-      "id": "segunda-feira-f362171c"
+      "id": "vermelho-79f2b39a"
     },
     {
-      "id": "terca-feira-5e0e7781"
+      "id": "azul-1768d39c"
     },
     {
-      "id": "quarta-feira-60b1473c"
+      "id": "amarelo-985037bf"
     },
     {
-      "id": "quinta-feira-48f8d2fa"
+      "id": "verde-2030abee"
     },
     {
-      "id": "sexta-feira-b5a183f5"
+      "id": "preto-eb60d10d"
     },
     {
-      "id": "sabado-1e73aa8e"
+      "id": "branco-e6c28d71"
+    },
+    {
+      "id": "rosa-5efc86ca"
+    },
+    {
+      "id": "laranja-4571e3d8"
+    },
+    {
+      "id": "cinza-32a05be7"
+    },
+    {
+      "id": "eu-gosto-ae5ebea4"
+    },
+    {
+      "id": "voce-gosta-d2ca052e"
+    },
+    {
+      "id": "minha-cor-favorita-e-azul-a3f24d22"
     }
   ]
 }

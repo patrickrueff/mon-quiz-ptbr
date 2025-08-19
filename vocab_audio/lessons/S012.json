@@ -1,24 +1,42 @@
 {
   "id": "S012",
-  "title": "Maison & pièces — L012",
+  "title": "Prendre le bus",
   "words": [
     {
-      "id": "casa-81bce1f3"
+      "id": "ponto-de-onibus-4856b261"
     },
     {
-      "id": "apartamento-af51e888"
+      "id": "passagem-7244d365"
     },
     {
-      "id": "sala-9a2505d5"
+      "id": "cartao-f7b7dadf"
     },
     {
-      "id": "quarto-ad25d1cf"
+      "id": "linha-41df2a92"
     },
     {
-      "id": "cozinha-d4ca9c86"
+      "id": "sentido-4a823f39"
     },
     {
-      "id": "banheiro-ab24c5bf"
+      "id": "baldeacao-1c9fdd58"
+    },
+    {
+      "id": "horario-e15014f1"
+    },
+    {
+      "id": "lotado-d29d70c6"
+    },
+    {
+      "id": "eu-estou-esperando-o-onibus-4448e078"
+    },
+    {
+      "id": "eu-pago-61725e43"
+    },
+    {
+      "id": "voce-paga-ec8e7dc2"
+    },
+    {
+      "id": "o-onibus-vai-para-o-centro-3fbee265"
     }
   ]
 }

@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8" />
-  <title>Quiz — Salutations &amp; Bases — L001</title>
+  <title>Quiz — Salutations &amp; présentations</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>:root{
   --bg:#0b0f14;--card:#121821;--text:#eef3fb;--muted:#b8c0cc;--accent:#5aa0ff;--accent2:#8ad1ff;--border:#1e2632
@@ -47,7 +47,7 @@ button:hover,a.btn:hover{border-color:var(--accent)} button:active,a.btn:active{
 <body>
   <div class="container">
     <div class="row" style="justify-content:space-between;align-items:baseline">
-      <h1>Quiz — Salutations &amp; Bases — L001</h1>
+      <h1>Quiz — Salutations &amp; présentations</h1>
       <div class="row"><a class="btn" href="index.html">🏠 Accueil</a></div>
     </div>
     <p class="sub">Leçon : S001</p>
@@ -104,7 +104,7 @@ function toggleQuiz(){
   frs.forEach(el=>{ el.style.visibility = chk.checked ? 'hidden' : 'visible'; });
 }
 </script>
-  <script>const POOL = [{"pt": "Olá", "fr": "Bonjour / Salut", "phon": "ola", "normal": "audio/0001-ola-528e3850.mp3"}, {"pt": "Oi", "fr": "Salut (informel)", "phon": "oï", "normal": "audio/0002-oi-3c89984c.mp3"}, {"pt": "Bom dia", "fr": "Bonjour (matin)", "phon": "bohm djia", "normal": "audio/0003-bom-dia-8f97792d.mp3"}, {"pt": "Boa tarde", "fr": "Bon après-midi", "phon": "boa tardj", "normal": "audio/0004-boa-tarde-6278b644.mp3"}, {"pt": "Boa noite", "fr": "Bonsoir / Bonne nuit", "phon": "boa noïtchi", "normal": "audio/0005-boa-noite-06124de2.mp3"}, {"pt": "Tchau", "fr": "Au revoir", "phon": "tcha-ou", "normal": "audio/0006-tchau-a1228837.mp3"}];
+  <script>const POOL = [{"pt": "oi", "fr": "salut", "phon": "oï", "normal": "audio/0001-oi-ef67e086.mp3"}, {"pt": "bom dia", "fr": "bonjour (matin)", "phon": "bõ dji-a", "normal": "audio/0002-bom-dia-65463ee6.mp3"}, {"pt": "boa tarde", "fr": "bonjour (après-midi)", "phon": "bo-a tardj", "normal": "audio/0003-boa-tarde-f0a89eea.mp3"}, {"pt": "boa noite", "fr": "bonsoir / bonne nuit", "phon": "bo-a noï-tchi", "normal": "audio/0004-boa-noite-acc42079.mp3"}, {"pt": "como vai?", "fr": "comment ça va ?", "phon": "komo vaï", "normal": "audio/0005-como-vai-0909412f.mp3"}, {"pt": "tudo bem?", "fr": "ça va ?", "phon": "toudou bèṅ", "normal": "audio/0006-tudo-bem-b11d18dd.mp3"}, {"pt": "meu nome é…", "fr": "je m’appelle…", "phon": "méou nomé é", "normal": "audio/0007-meu-nome-e-1dda55b7.mp3"}, {"pt": "eu sou", "fr": "je suis", "phon": "éou so", "normal": "audio/0008-eu-sou-a8f404f6.mp3"}, {"pt": "você é", "fr": "tu es / vous êtes (sing.)", "phon": "vosé é", "normal": "audio/0009-voce-e-987b1559.mp3"}, {"pt": "prazer", "fr": "enchanté", "phon": "prazèr", "normal": "audio/0010-prazer-9e1874c6.mp3"}, {"pt": "de onde você é?", "fr": "tu viens d’où ?", "phon": "djé ondji vosé é", "normal": "audio/0011-de-onde-voce-e-acd62f48.mp3"}, {"pt": "muito obrigado", "fr": "merci beaucoup (homme)", "phon": "mouïto obrigadou", "normal": "audio/0012-muito-obrigado-4f77f39b.mp3"}];
 function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; }
 function makeQuiz(POOL, limit){ const items=[...POOL]; shuffle(items); if(limit&&limit>0){ items.length=Math.min(limit,items.length);} return items; }
 function buildChoices(pool, answer, n=4){

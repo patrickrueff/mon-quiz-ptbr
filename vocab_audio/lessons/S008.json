@@ -1,24 +1,42 @@
 {
   "id": "S008",
-  "title": "Couleurs (1) — L008",
+  "title": "Les aliments de base",
   "words": [
     {
-      "id": "vermelho-79f2b39a"
+      "id": "pao-3464c04f"
     },
     {
-      "id": "azul-1768d39c"
+      "id": "arroz-fa9db510"
     },
     {
-      "id": "amarelo-985037bf"
+      "id": "feijao-182821d3"
     },
     {
-      "id": "verde-2030abee"
+      "id": "frango-07dd38db"
     },
     {
-      "id": "preto-eb60d10d"
+      "id": "carne-8ecc854e"
     },
     {
-      "id": "branco-e6c28d71"
+      "id": "peixe-45620bd6"
+    },
+    {
+      "id": "salada-e7c54bfd"
+    },
+    {
+      "id": "fruta-1ea8c03f"
+    },
+    {
+      "id": "legumes-b4da5edf"
+    },
+    {
+      "id": "eu-como-b297a8d4"
+    },
+    {
+      "id": "voce-come-ae4addbc"
+    },
+    {
+      "id": "eu-quero-um-prato-de-arroz-e-feijao-1ac2bd2d"
     }
   ]
 }

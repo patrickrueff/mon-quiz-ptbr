@@ -1,1346 +1,218 @@
 [
   {
     "id": "S001",
-    "title": "Salutations & Bases — L001",
+    "title": "Salutations & présentations",
     "words": [
-      "Olá",
-      "Oi",
-      "Bom dia",
-      "Boa tarde",
-      "Boa noite",
-      "Tchau"
+      "oi",
+      "bom dia",
+      "boa tarde",
+      "boa noite",
+      "como vai?",
+      "tudo bem?",
+      "meu nome é…",
+      "eu sou",
+      "você é",
+      "prazer",
+      "de onde você é?",
+      "muito obrigado"
     ]
   },
   {
     "id": "S002",
-    "title": "Infos personnelles — L002",
+    "title": "La famille",
     "words": [
-      "Eu me chamo...",
-      "Meu nome é...",
-      "De onde você é?",
-      "Eu sou da França",
-      "Quantos anos você tem?",
-      "Eu tenho 30 anos"
+      "mãe",
+      "pai",
+      "irmão",
+      "irmã",
+      "filho",
+      "filha",
+      "marido",
+      "esposa",
+      "meu filho tem oito anos",
+      "eu tenho",
+      "você tem",
+      "nossa família é grande"
     ]
   },
   {
     "id": "S003",
-    "title": "Chiffres 0-10 — L003",
+    "title": "Les nombres & l’âge",
     "words": [
-      "zero",
-      "um",
-      "dois",
-      "três",
-      "quatro",
-      "cinco"
+      "um, dois, três",
+      "quatro, cinco, seis",
+      "sete, oito, nove",
+      "dez",
+      "quantos anos você tem?",
+      "eu tenho vinte anos",
+      "primeiro",
+      "segundo",
+      "terceiro",
+      "eu quero",
+      "você quer",
+      "eu tenho dois irmãos"
     ]
   },
   {
     "id": "S004",
-    "title": "Chiffres 11-20 — L004",
+    "title": "Les jours & les mois",
     "words": [
-      "onze",
-      "doze",
-      "treze",
-      "quatorze",
-      "quinze",
-      "dezesseis"
+      "segunda-feira",
+      "terça-feira",
+      "quarta-feira",
+      "quinta-feira",
+      "sexta-feira",
+      "sábado",
+      "domingo",
+      "janeiro",
+      "fevereiro",
+      "março",
+      "eu vou",
+      "você vai"
     ]
   },
   {
     "id": "S005",
-    "title": "Jours de la semaine — L005",
+    "title": "Les couleurs",
     "words": [
-      "segunda-feira",
-      "terça-feira",
-      "quarta-feira",
-      "quinta-feira",
-      "sexta-feira",
-      "sábado"
+      "vermelho",
+      "azul",
+      "amarelo",
+      "verde",
+      "preto",
+      "branco",
+      "rosa",
+      "laranja",
+      "cinza",
+      "eu gosto",
+      "você gosta",
+      "minha cor favorita é azul"
     ]
   },
   {
     "id": "S006",
-    "title": "Mois (1) — L006",
+    "title": "La maison & les pièces",
     "words": [
-      "janeiro",
-      "fevereiro",
-      "março",
-      "abril",
-      "maio",
-      "junho"
+      "casa",
+      "quarto",
+      "sala",
+      "cozinha",
+      "banheiro",
+      "janela",
+      "porta",
+      "cama",
+      "mesa",
+      "eu moro aqui",
+      "eu preciso",
+      "você precisa"
     ]
   },
   {
     "id": "S007",
-    "title": "Mois (2) — L007",
+    "title": "Les objets du quotidien",
     "words": [
-      "julho",
-      "agosto",
-      "setembro",
-      "outubro",
-      "novembro",
-      "dezembro"
+      "celular",
+      "computador",
+      "carteira",
+      "óculos",
+      "chave",
+      "bolsa",
+      "relógio",
+      "mochila",
+      "carregador",
+      "eu trago",
+      "você traz",
+      "onde está meu celular?"
     ]
   },
   {
     "id": "S008",
-    "title": "Couleurs (1) — L008",
+    "title": "Les aliments de base",
     "words": [
-      "vermelho",
-      "azul",
-      "amarelo",
-      "verde",
-      "preto",
-      "branco"
+      "pão",
+      "arroz",
+      "feijão",
+      "frango",
+      "carne",
+      "peixe",
+      "salada",
+      "fruta",
+      "legumes",
+      "eu como",
+      "você come",
+      "eu quero um prato de arroz e feijão"
     ]
   },
   {
     "id": "S009",
-    "title": "Couleurs (2) — L009",
+    "title": "Boissons & cafés",
     "words": [
-      "cinza",
-      "rosa",
-      "roxo",
-      "marrom",
-      "bege",
-      "laranja"
+      "água",
+      "café",
+      "chá",
+      "suco",
+      "leite",
+      "cerveja",
+      "vinho",
+      "sem açúcar",
+      "com gelo",
+      "eu bebo",
+      "você bebe",
+      "um café, por favor"
     ]
   },
   {
     "id": "S010",
-    "title": "Famille (1) — L010",
+    "title": "En classe",
     "words": [
-      "mãe",
-      "pai",
-      "filho",
-      "filha",
-      "irmão",
-      "irmã"
+      "professor / professora",
+      "aluno / aluna",
+      "caderno",
+      "lápis",
+      "caneta",
+      "borracha",
+      "quadro",
+      "lição de casa",
+      "eu estudo",
+      "você estuda",
+      "posso ir ao banheiro?",
+      "repete, por favor"
     ]
   },
   {
     "id": "S011",
-    "title": "Famille (2) — L011",
+    "title": "Les moyens de transport",
     "words": [
-      "esposo",
-      "esposa",
-      "avô",
-      "avó",
-      "tio",
-      "tia"
+      "carro",
+      "ônibus",
+      "metrô",
+      "trem",
+      "avião",
+      "bicicleta",
+      "moto",
+      "a pé",
+      "eu vou de ônibus",
+      "eu pego o metrô",
+      "eu posso",
+      "você pode"
     ]
   },
   {
     "id": "S012",
-    "title": "Maison & pièces — L012",
-    "words": [
-      "casa",
-      "apartamento",
-      "sala",
-      "quarto",
-      "cozinha",
-      "banheiro"
-    ]
-  },
-  {
-    "id": "S013",
-    "title": "Meubles (1) — L013",
-    "words": [
-      "mesa",
-      "cadeira",
-      "cama",
-      "sofá",
-      "prato",
-      "copo"
-    ]
-  },
-  {
-    "id": "S014",
-    "title": "Cuisine & électro — L014",
-    "words": [
-      "geladeira",
-      "fogão",
-      "forno",
-      "micro-ondas",
-      "panela",
-      "colher"
-    ]
-  },
-  {
-    "id": "S015",
-    "title": "Nourriture (1) — L015",
-    "words": [
-      "pão",
-      "manteiga",
-      "queijo",
-      "leite",
-      "arroz",
-      "feijão"
-    ]
-  },
-  {
-    "id": "S016",
-    "title": "Fruits & légumes — L016",
-    "words": [
-      "fruta",
-      "maçã",
-      "banana",
-      "laranja (fruta)",
-      "uva",
-      "tomate"
-    ]
-  },
-  {
-    "id": "S017",
-    "title": "Boissons & condiments — L017",
-    "words": [
-      "café",
-      "chá",
-      "água",
-      "suco",
-      "sal",
-      "açúcar"
-    ]
-  },
-  {
-    "id": "S018",
-    "title": "Vêtements (1) — L018",
-    "words": [
-      "camisa",
-      "camiseta",
-      "calça",
-      "saia",
-      "vestido",
-      "casaco"
-    ]
-  },
-  {
-    "id": "S019",
-    "title": "Vêtements (2) — L019",
-    "words": [
-      "sapato",
-      "tênis",
-      "meia",
-      "boné",
-      "chapéu",
-      "cinto"
-    ]
-  },
-  {
-    "id": "S020",
-    "title": "Transports (1) — L020",
-    "words": [
-      "ônibus",
-      "metrô",
-      "trem",
-      "táxi",
-      "carro",
-      "a pé"
-    ]
-  },
-  {
-    "id": "S021",
-    "title": "Directions (mots) — L021",
-    "words": [
-      "aeroporto",
-      "estação",
-      "direita",
-      "esquerda",
-      "em frente",
-      "perto"
-    ]
-  },
-  {
-    "id": "S022",
-    "title": "Corps (1) — L022",
-    "words": [
-      "cabeça",
-      "olho",
-      "boca",
-      "dente",
-      "mão",
-      "braço"
-    ]
-  },
-  {
-    "id": "S023",
-    "title": "Corps (2) — L023",
-    "words": [
-      "perna",
-      "pé",
-      "estômago",
-      "dor",
-      "remédio",
-      "hospital"
-    ]
-  },
-  {
-    "id": "S024",
-    "title": "Météo & temps — L024",
-    "words": [
-      "tempo",
-      "calor",
-      "frio",
-      "chuva",
-      "sol",
-      "nublado"
-    ]
-  },
-  {
-    "id": "S025",
-    "title": "Travail (noms) — L025",
-    "words": [
-      "trabalho",
-      "emprego",
-      "empresa",
-      "colega",
-      "reunião",
-      "projeto"
-    ]
-  },
-  {
-    "id": "S026",
-    "title": "Étude & compétences — L026",
-    "words": [
-      "estudar",
-      "aprender",
-      "ensinar",
-      "ler",
-      "escrever",
-      "falar"
-    ]
-  },
-  {
-    "id": "S027",
-    "title": "Verbes usuels (1) — L027",
-    "words": [
-      "gostar de",
-      "querer",
-      "precisar de",
-      "comprar",
-      "vender",
-      "ir"
-    ]
-  },
-  {
-    "id": "S028",
-    "title": "Restaurant (phrases 1) — L028",
-    "words": [
-      "Eu gostaria de café",
-      "Eu gostaria de chá",
-      "Eu gostaria de água",
-      "Eu gostaria de suco",
-      "Eu gostaria de arroz",
-      "Eu gostaria de feijão"
-    ]
-  },
-  {
-    "id": "S029",
-    "title": "Directions (phrases) — L029",
-    "words": [
-      "Onde fica o aeroporto?",
-      "Onde fica a estação?",
-      "Onde fica o hotel?",
-      "Onde fica o restaurante?",
-      "Onde fica o hospital?",
-      "Onde fica o centro?"
-    ]
-  },
-  {
-    "id": "S030",
-    "title": "Quotidien (phrases 1) — L030",
-    "words": [
-      "Eu gosto de açúcar",
-      "Eu gosto de sal",
-      "Eu gosto de glúten",
-      "Eu gosto de lactose",
-      "Eu preciso de açúcar",
-      "Eu preciso de sal"
-    ]
-  },
-  {
-    "id": "S031",
-    "title": "Salutations & Bases — L031",
-    "words": [
-      "Por favor",
-      "Obrigado",
-      "Obrigada",
-      "Desculpa",
-      "Com licença",
-      "Tudo bem?"
-    ]
-  },
-  {
-    "id": "S032",
-    "title": "Infos personnelles — L032",
-    "words": [
-      "Onde você mora?",
-      "Eu moro em Paris",
-      "Eu me chamo...",
-      "Meu nome é...",
-      "De onde você é?",
-      "Eu sou da França"
-    ]
-  },
-  {
-    "id": "S033",
-    "title": "Chiffres 0-10 — L033",
-    "words": [
-      "seis",
-      "sete",
-      "oito",
-      "nove",
-      "dez",
-      "zero"
-    ]
-  },
-  {
-    "id": "S034",
-    "title": "Chiffres 11-20 — L034",
-    "words": [
-      "dezessete",
-      "dezoito",
-      "dezenove",
-      "vinte",
-      "onze",
-      "doze"
-    ]
-  },
-  {
-    "id": "S035",
-    "title": "Jours de la semaine — L035",
-    "words": [
-      "domingo",
-      "segunda-feira",
-      "terça-feira",
-      "quarta-feira",
-      "quinta-feira",
-      "sexta-feira"
-    ]
-  },
-  {
-    "id": "S036",
-    "title": "Mois (1) — L036",
-    "words": [
-      "janeiro",
-      "fevereiro",
-      "março",
-      "abril",
-      "maio",
-      "junho"
-    ]
-  },
-  {
-    "id": "S037",
-    "title": "Mois (2) — L037",
-    "words": [
-      "julho",
-      "agosto",
-      "setembro",
-      "outubro",
-      "novembro",
-      "dezembro"
-    ]
-  },
-  {
-    "id": "S038",
-    "title": "Couleurs (1) — L038",
-    "words": [
-      "vermelho",
-      "azul",
-      "amarelo",
-      "verde",
-      "preto",
-      "branco"
-    ]
-  },
-  {
-    "id": "S039",
-    "title": "Couleurs (2) — L039",
-    "words": [
-      "cinza",
-      "rosa",
-      "roxo",
-      "marrom",
-      "bege",
-      "laranja"
-    ]
-  },
-  {
-    "id": "S040",
-    "title": "Famille (1) — L040",
-    "words": [
-      "mãe",
-      "pai",
-      "filho",
-      "filha",
-      "irmão",
-      "irmã"
-    ]
-  },
-  {
-    "id": "S041",
-    "title": "Famille (2) — L041",
-    "words": [
-      "amigo",
-      "amiga",
-      "esposo",
-      "esposa",
-      "avô",
-      "avó"
-    ]
-  },
-  {
-    "id": "S042",
-    "title": "Maison & pièces — L042",
-    "words": [
-      "varanda",
-      "jardim",
-      "garagem",
-      "escritório",
-      "casa",
-      "apartamento"
-    ]
-  },
-  {
-    "id": "S043",
-    "title": "Meubles (1) — L043",
-    "words": [
-      "mesa",
-      "cadeira",
-      "cama",
-      "sofá",
-      "prato",
-      "copo"
-    ]
-  },
-  {
-    "id": "S044",
-    "title": "Cuisine & électro — L044",
-    "words": [
-      "garfo",
-      "faca",
-      "geladeira",
-      "fogão",
-      "forno",
-      "micro-ondas"
-    ]
-  },
-  {
-    "id": "S045",
-    "title": "Nourriture (1) — L045",
-    "words": [
-      "carne",
-      "frango",
-      "peixe",
-      "salada",
-      "pão",
-      "manteiga"
-    ]
-  },
-  {
-    "id": "S046",
-    "title": "Fruits & légumes — L046",
-    "words": [
-      "batata",
-      "cenoura",
-      "cebola",
-      "fruta",
-      "maçã",
-      "banana"
-    ]
-  },
-  {
-    "id": "S047",
-    "title": "Boissons & condiments — L047",
-    "words": [
-      "pimenta",
-      "óleo",
-      "azeite",
-      "café",
-      "chá",
-      "água"
-    ]
-  },
-  {
-    "id": "S048",
-    "title": "Vêtements (1) — L048",
-    "words": [
-      "camisa",
-      "camiseta",
-      "calça",
-      "saia",
-      "vestido",
-      "casaco"
-    ]
-  },
-  {
-    "id": "S049",
-    "title": "Vêtements (2) — L049",
-    "words": [
-      "tamanho",
-      "provador",
-      "barato",
-      "caro",
-      "sapato",
-      "tênis"
-    ]
-  },
-  {
-    "id": "S050",
-    "title": "Transports (1) — L050",
-    "words": [
-      "ônibus",
-      "metrô",
-      "trem",
-      "táxi",
-      "carro",
-      "a pé"
-    ]
-  },
-  {
-    "id": "S051",
-    "title": "Directions (mots) — L051",
-    "words": [
-      "longe",
-      "aeroporto",
-      "estação",
-      "direita",
-      "esquerda",
-      "em frente"
-    ]
-  },
-  {
-    "id": "S052",
-    "title": "Corps (1) — L052",
-    "words": [
-      "cabeça",
-      "olho",
-      "boca",
-      "dente",
-      "mão",
-      "braço"
-    ]
-  },
-  {
-    "id": "S053",
-    "title": "Corps (2) — L053",
-    "words": [
-      "farmácia",
-      "alergia",
-      "febre",
-      "gripe",
-      "perna",
-      "pé"
-    ]
-  },
-  {
-    "id": "S054",
-    "title": "Météo & temps — L054",
-    "words": [
-      "vento",
-      "neve",
-      "hoje",
-      "amanhã",
-      "ontem",
-      "tempo"
-    ]
-  },
-  {
-    "id": "S055",
-    "title": "Travail (noms) — L055",
-    "words": [
-      "trabalho",
-      "emprego",
-      "empresa",
-      "colega",
-      "reunião",
-      "projeto"
-    ]
-  },
-  {
-    "id": "S056",
-    "title": "Étude & compétences — L056",
-    "words": [
-      "ouvir",
-      "ver",
-      "estudar",
-      "aprender",
-      "ensinar",
-      "ler"
-    ]
-  },
-  {
-    "id": "S057",
-    "title": "Verbes usuels (1) — L057",
-    "words": [
-      "vir",
-      "chegar",
-      "sair",
-      "abrir",
-      "fechar",
-      "gostar de"
-    ]
-  },
-  {
-    "id": "S058",
-    "title": "Restaurant (phrases 1) — L058",
-    "words": [
-      "Eu gostaria de carne",
-      "Eu gostaria de frango",
-      "Eu gostaria de peixe",
-      "Eu gostaria de salada",
-      "Eu quero café",
-      "Eu quero chá"
-    ]
-  },
-  {
-    "id": "S059",
-    "title": "Directions (phrases) — L059",
-    "words": [
-      "É perto",
-      "É longe",
-      "Vire à direita",
-      "Vire à esquerda",
-      "Siga em frente",
-      "Onde fica o aeroporto?"
-    ]
-  },
-  {
-    "id": "S060",
-    "title": "Quotidien (phrases 1) — L060",
-    "words": [
-      "Eu preciso de glúten",
-      "Eu preciso de lactose",
-      "Eu trabalho em o aeroporto",
-      "Eu trabalho em a estação",
-      "Eu trabalho em o hotel",
-      "Eu trabalho em o restaurante"
-    ]
-  },
-  {
-    "id": "S061",
-    "title": "Salutations & Bases — L061",
-    "words": [
-      "Tudo bem",
-      "Prazer",
-      "Olá",
-      "Oi",
-      "Bom dia",
-      "Boa tarde"
-    ]
-  },
-  {
-    "id": "S062",
-    "title": "Infos personnelles — L062",
-    "words": [
-      "Quantos anos você tem?",
-      "Eu tenho 30 anos",
-      "Onde você mora?",
-      "Eu moro em Paris",
-      "Eu me chamo...",
-      "Meu nome é..."
-    ]
-  },
-  {
-    "id": "S063",
-    "title": "Chiffres 0-10 — L063",
-    "words": [
-      "um",
-      "dois",
-      "três",
-      "quatro",
-      "cinco",
-      "seis"
-    ]
-  },
-  {
-    "id": "S064",
-    "title": "Chiffres 11-20 — L064",
-    "words": [
-      "treze",
-      "quatorze",
-      "quinze",
-      "dezesseis",
-      "dezessete",
-      "dezoito"
-    ]
-  },
-  {
-    "id": "S065",
-    "title": "Jours de la semaine — L065",
-    "words": [
-      "sábado",
-      "domingo",
-      "segunda-feira",
-      "terça-feira",
-      "quarta-feira",
-      "quinta-feira"
-    ]
-  },
-  {
-    "id": "S066",
-    "title": "Mois (1) — L066",
-    "words": [
-      "janeiro",
-      "fevereiro",
-      "março",
-      "abril",
-      "maio",
-      "junho"
-    ]
-  },
-  {
-    "id": "S067",
-    "title": "Mois (2) — L067",
-    "words": [
-      "julho",
-      "agosto",
-      "setembro",
-      "outubro",
-      "novembro",
-      "dezembro"
-    ]
-  },
-  {
-    "id": "S068",
-    "title": "Couleurs (1) — L068",
-    "words": [
-      "vermelho",
-      "azul",
-      "amarelo",
-      "verde",
-      "preto",
-      "branco"
-    ]
-  },
-  {
-    "id": "S069",
-    "title": "Couleurs (2) — L069",
-    "words": [
-      "cinza",
-      "rosa",
-      "roxo",
-      "marrom",
-      "bege",
-      "laranja"
-    ]
-  },
-  {
-    "id": "S070",
-    "title": "Famille (1) — L070",
-    "words": [
-      "mãe",
-      "pai",
-      "filho",
-      "filha",
-      "irmão",
-      "irmã"
-    ]
-  },
-  {
-    "id": "S071",
-    "title": "Famille (2) — L071",
-    "words": [
-      "tio",
-      "tia",
-      "amigo",
-      "amiga",
-      "esposo",
-      "esposa"
-    ]
-  },
-  {
-    "id": "S072",
-    "title": "Maison & pièces — L072",
-    "words": [
-      "sala",
-      "quarto",
-      "cozinha",
-      "banheiro",
-      "varanda",
-      "jardim"
-    ]
-  },
-  {
-    "id": "S073",
-    "title": "Meubles (1) — L073",
-    "words": [
-      "mesa",
-      "cadeira",
-      "cama",
-      "sofá",
-      "prato",
-      "copo"
-    ]
-  },
-  {
-    "id": "S074",
-    "title": "Cuisine & électro — L074",
-    "words": [
-      "panela",
-      "colher",
-      "garfo",
-      "faca",
-      "geladeira",
-      "fogão"
-    ]
-  },
-  {
-    "id": "S075",
-    "title": "Nourriture (1) — L075",
-    "words": [
-      "queijo",
-      "leite",
-      "arroz",
-      "feijão",
-      "carne",
-      "frango"
-    ]
-  },
-  {
-    "id": "S076",
-    "title": "Fruits & légumes — L076",
-    "words": [
-      "laranja (fruta)",
-      "uva",
-      "tomate",
-      "batata",
-      "cenoura",
-      "cebola"
-    ]
-  },
-  {
-    "id": "S077",
-    "title": "Boissons & condiments — L077",
-    "words": [
-      "suco",
-      "sal",
-      "açúcar",
-      "pimenta",
-      "óleo",
-      "azeite"
-    ]
-  },
-  {
-    "id": "S078",
-    "title": "Vêtements (1) — L078",
-    "words": [
-      "camisa",
-      "camiseta",
-      "calça",
-      "saia",
-      "vestido",
-      "casaco"
-    ]
-  },
-  {
-    "id": "S079",
-    "title": "Vêtements (2) — L079",
-    "words": [
-      "meia",
-      "boné",
-      "chapéu",
-      "cinto",
-      "tamanho",
-      "provador"
-    ]
-  },
-  {
-    "id": "S080",
-    "title": "Transports (1) — L080",
-    "words": [
-      "ônibus",
-      "metrô",
-      "trem",
-      "táxi",
-      "carro",
-      "a pé"
-    ]
-  },
-  {
-    "id": "S081",
-    "title": "Directions (mots) — L081",
-    "words": [
-      "perto",
-      "longe",
-      "aeroporto",
-      "estação",
-      "direita",
-      "esquerda"
-    ]
-  },
-  {
-    "id": "S082",
-    "title": "Corps (1) — L082",
-    "words": [
-      "cabeça",
-      "olho",
-      "boca",
-      "dente",
-      "mão",
-      "braço"
-    ]
-  },
-  {
-    "id": "S083",
-    "title": "Corps (2) — L083",
-    "words": [
-      "estômago",
-      "dor",
-      "remédio",
-      "hospital",
-      "farmácia",
-      "alergia"
-    ]
-  },
-  {
-    "id": "S084",
-    "title": "Météo & temps — L084",
-    "words": [
-      "calor",
-      "frio",
-      "chuva",
-      "sol",
-      "nublado",
-      "vento"
-    ]
-  },
-  {
-    "id": "S085",
-    "title": "Travail (noms) — L085",
-    "words": [
-      "trabalho",
-      "emprego",
-      "empresa",
-      "colega",
-      "reunião",
-      "projeto"
-    ]
-  },
-  {
-    "id": "S086",
-    "title": "Étude & compétences — L086",
-    "words": [
-      "escrever",
-      "falar",
-      "ouvir",
-      "ver",
-      "estudar",
-      "aprender"
-    ]
-  },
-  {
-    "id": "S087",
-    "title": "Verbes usuels (1) — L087",
-    "words": [
-      "querer",
-      "precisar de",
-      "comprar",
-      "vender",
-      "ir",
-      "vir"
-    ]
-  },
-  {
-    "id": "S088",
-    "title": "Restaurant (phrases 1) — L088",
-    "words": [
-      "Eu quero água",
-      "Eu quero suco",
-      "Eu quero arroz",
-      "Eu quero feijão",
-      "Eu quero carne",
-      "Eu quero frango"
-    ]
-  },
-  {
-    "id": "S089",
-    "title": "Directions (phrases) — L089",
-    "words": [
-      "Onde fica a estação?",
-      "Onde fica o hotel?",
-      "Onde fica o restaurante?",
-      "Onde fica o hospital?",
-      "Onde fica o centro?",
-      "É perto"
-    ]
-  },
-  {
-    "id": "S090",
-    "title": "Quotidien (phrases 1) — L090",
-    "words": [
-      "Eu trabalho em o hospital",
-      "Eu trabalho em o centro",
-      "Eu estudo açúcar",
-      "Eu estudo sal",
-      "Eu estudo glúten",
-      "Eu estudo lactose"
-    ]
-  },
-  {
-    "id": "S091",
-    "title": "Salutations & Bases — L091",
-    "words": [
-      "Boa noite",
-      "Tchau",
-      "Por favor",
-      "Obrigado",
-      "Obrigada",
-      "Desculpa"
-    ]
-  },
-  {
-    "id": "S092",
-    "title": "Infos personnelles — L092",
-    "words": [
-      "De onde você é?",
-      "Eu sou da França",
-      "Quantos anos você tem?",
-      "Eu tenho 30 anos",
-      "Onde você mora?",
-      "Eu moro em Paris"
-    ]
-  },
-  {
-    "id": "S093",
-    "title": "Chiffres 0-10 — L093",
-    "words": [
-      "sete",
-      "oito",
-      "nove",
-      "dez",
-      "zero",
-      "um"
-    ]
-  },
-  {
-    "id": "S094",
-    "title": "Chiffres 11-20 — L094",
-    "words": [
-      "dezenove",
-      "vinte",
-      "onze",
-      "doze",
-      "treze",
-      "quatorze"
-    ]
-  },
-  {
-    "id": "S095",
-    "title": "Jours de la semaine — L095",
-    "words": [
-      "sexta-feira",
-      "sábado",
-      "domingo",
-      "segunda-feira",
-      "terça-feira",
-      "quarta-feira"
-    ]
-  },
-  {
-    "id": "S096",
-    "title": "Mois (1) — L096",
-    "words": [
-      "janeiro",
-      "fevereiro",
-      "março",
-      "abril",
-      "maio",
-      "junho"
-    ]
-  },
-  {
-    "id": "S097",
-    "title": "Mois (2) — L097",
-    "words": [
-      "julho",
-      "agosto",
-      "setembro",
-      "outubro",
-      "novembro",
-      "dezembro"
-    ]
-  },
-  {
-    "id": "S098",
-    "title": "Couleurs (1) — L098",
-    "words": [
-      "vermelho",
-      "azul",
-      "amarelo",
-      "verde",
-      "preto",
-      "branco"
-    ]
-  },
-  {
-    "id": "S099",
-    "title": "Couleurs (2) — L099",
-    "words": [
-      "cinza",
-      "rosa",
-      "roxo",
-      "marrom",
-      "bege",
-      "laranja"
-    ]
-  },
-  {
-    "id": "S100",
-    "title": "Famille (1) — L100",
-    "words": [
-      "mãe",
-      "pai",
-      "filho",
-      "filha",
-      "irmão",
-      "irmã"
-    ]
-  },
-  {
-    "id": "S101",
-    "title": "Famille (2) — L101",
-    "words": [
-      "avô",
-      "avó",
-      "tio",
-      "tia",
-      "amigo",
-      "amiga"
-    ]
-  },
-  {
-    "id": "S102",
-    "title": "Maison & pièces — L102",
-    "words": [
-      "garagem",
-      "escritório",
-      "casa",
-      "apartamento",
-      "sala",
-      "quarto"
-    ]
-  },
-  {
-    "id": "S103",
-    "title": "Meubles (1) — L103",
-    "words": [
-      "mesa",
-      "cadeira",
-      "cama",
-      "sofá",
-      "prato",
-      "copo"
-    ]
-  },
-  {
-    "id": "S104",
-    "title": "Cuisine & électro — L104",
-    "words": [
-      "forno",
-      "micro-ondas",
-      "panela",
-      "colher",
-      "garfo",
-      "faca"
-    ]
-  },
-  {
-    "id": "S105",
-    "title": "Nourriture (1) — L105",
-    "words": [
-      "peixe",
-      "salada",
-      "pão",
-      "manteiga",
-      "queijo",
-      "leite"
-    ]
-  },
-  {
-    "id": "S106",
-    "title": "Fruits & légumes — L106",
-    "words": [
-      "fruta",
-      "maçã",
-      "banana",
-      "laranja (fruta)",
-      "uva",
-      "tomate"
-    ]
-  },
-  {
-    "id": "S107",
-    "title": "Boissons & condiments — L107",
-    "words": [
-      "café",
-      "chá",
-      "água",
-      "suco",
-      "sal",
-      "açúcar"
-    ]
-  },
-  {
-    "id": "S108",
-    "title": "Vêtements (1) — L108",
-    "words": [
-      "camisa",
-      "camiseta",
-      "calça",
-      "saia",
-      "vestido",
-      "casaco"
-    ]
-  },
-  {
-    "id": "S109",
-    "title": "Vêtements (2) — L109",
-    "words": [
-      "barato",
-      "caro",
-      "sapato",
-      "tênis",
-      "meia",
-      "boné"
-    ]
-  },
-  {
-    "id": "S110",
-    "title": "Transports (1) — L110",
-    "words": [
-      "ônibus",
-      "metrô",
-      "trem",
-      "táxi",
-      "carro",
-      "a pé"
-    ]
-  },
-  {
-    "id": "S111",
-    "title": "Directions (mots) — L111",
-    "words": [
-      "em frente",
-      "perto",
-      "longe",
-      "aeroporto",
-      "estação",
-      "direita"
-    ]
-  },
-  {
-    "id": "S112",
-    "title": "Corps (1) — L112",
-    "words": [
-      "cabeça",
-      "olho",
-      "boca",
-      "dente",
-      "mão",
-      "braço"
+    "title": "Prendre le bus",
+    "words": [
+      "ponto de ônibus",
+      "passagem",
+      "cartão",
+      "linha",
+      "sentido",
+      "baldeação",
+      "horário",
+      "lotado",
+      "eu estou esperando o ônibus",
+      "eu pago",
+      "você paga",
+      "o ônibus vai para o centro?"
     ]
   }
 ]

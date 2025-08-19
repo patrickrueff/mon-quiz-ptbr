@@ -1,24 +1,42 @@
 {
   "id": "S007",
-  "title": "Mois (2) — L007",
+  "title": "Les objets du quotidien",
   "words": [
     {
-      "id": "julho-ae4e35ec"
+      "id": "celular-c99f0773"
     },
     {
-      "id": "agosto-5a3c84cb"
+      "id": "computador-bccdcb8b"
     },
     {
-      "id": "setembro-c4ed4198"
+      "id": "carteira-31ee30a2"
     },
     {
-      "id": "outubro-53ba38ce"
+      "id": "oculos-a8d6bdc5"
     },
     {
-      "id": "novembro-7f3147a9"
+      "id": "chave-dca6ea9a"
     },
     {
-      "id": "dezembro-71f217b1"
+      "id": "bolsa-8ae69eed"
+    },
+    {
+      "id": "relogio-3c1fcfac"
+    },
+    {
+      "id": "mochila-a02f4c78"
+    },
+    {
+      "id": "carregador-f16b82ad"
+    },
+    {
+      "id": "eu-trago-c801329c"
+    },
+    {
+      "id": "voce-traz-39312857"
+    },
+    {
+      "id": "onde-esta-meu-celular-210e0f89"
     }
   ]
 }

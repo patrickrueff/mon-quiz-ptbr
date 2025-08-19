@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8" />
-  <title>Quiz — Couleurs (2) — L009</title>
+  <title>Quiz — Boissons &amp; cafés</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>:root{
   --bg:#0b0f14;--card:#121821;--text:#eef3fb;--muted:#b8c0cc;--accent:#5aa0ff;--accent2:#8ad1ff;--border:#1e2632
@@ -47,7 +47,7 @@ button:hover,a.btn:hover{border-color:var(--accent)} button:active,a.btn:active{
 <body>
   <div class="container">
     <div class="row" style="justify-content:space-between;align-items:baseline">
-      <h1>Quiz — Couleurs (2) — L009</h1>
+      <h1>Quiz — Boissons &amp; cafés</h1>
       <div class="row"><a class="btn" href="index.html">🏠 Accueil</a></div>
     </div>
     <p class="sub">Leçon : S009</p>
@@ -104,7 +104,7 @@ function toggleQuiz(){
   frs.forEach(el=>{ el.style.visibility = chk.checked ? 'hidden' : 'visible'; });
 }
 </script>
-  <script>const POOL = [{"pt": "cinza", "fr": "gris", "phon": "cinza", "normal": "audio/0049-cinza-32a05be7.mp3"}, {"pt": "rosa", "fr": "rose", "phon": "roza", "normal": "audio/0050-rosa-5efc86ca.mp3"}, {"pt": "roxo", "fr": "violet", "phon": "rocho", "normal": "audio/0051-roxo-4bf83285.mp3"}, {"pt": "marrom", "fr": "marron", "phon": "marron", "normal": "audio/0052-marrom-b6e9af8a.mp3"}, {"pt": "bege", "fr": "beige", "phon": "bèjé", "normal": "audio/0053-bege-f630b0b9.mp3"}, {"pt": "laranja", "fr": "orange", "phon": "laranja", "normal": "audio/0054-laranja-4571e3d8.mp3"}];
+  <script>const POOL = [{"pt": "água", "fr": "eau", "phon": "agoua", "normal": "audio/0097-agua-513cba58.mp3"}, {"pt": "café", "fr": "café", "phon": "cafè", "normal": "audio/0098-cafe-f424452a.mp3"}, {"pt": "chá", "fr": "thé", "phon": "cha", "normal": "audio/0099-cha-a1f7a686.mp3"}, {"pt": "suco", "fr": "jus", "phon": "soukou", "normal": "audio/0100-suco-034af408.mp3"}, {"pt": "leite", "fr": "lait", "phon": "leïtchi", "normal": "audio/0101-leite-beb967c0.mp3"}, {"pt": "cerveja", "fr": "bière", "phon": "servè-ja", "normal": "audio/0102-cerveja-d7c0bc95.mp3"}, {"pt": "vinho", "fr": "vin", "phon": "vi-nyo", "normal": "audio/0103-vinho-798a84bb.mp3"}, {"pt": "sem açúcar", "fr": "sans sucre", "phon": "sèṅ azoukar", "normal": "audio/0104-sem-acucar-3eb694a3.mp3"}, {"pt": "com gelo", "fr": "avec des glaçons", "phon": "kong jélo", "normal": "audio/0105-com-gelo-bc0df6bb.mp3"}, {"pt": "eu bebo", "fr": "je bois", "phon": "éou bébou", "normal": "audio/0106-eu-bebo-8f162182.mp3"}, {"pt": "você bebe", "fr": "tu bois / vous buvez (sing.)", "phon": "vosé bébè", "normal": "audio/0107-voce-bebe-675aaca7.mp3"}, {"pt": "um café, por favor", "fr": "un café, s’il vous plaît", "phon": "oun cafè, pour favorr", "normal": "audio/0108-um-cafe-por-favor-036c2b9e.mp3"}];
 function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; }
 function makeQuiz(POOL, limit){ const items=[...POOL]; shuffle(items); if(limit&&limit>0){ items.length=Math.min(limit,items.length);} return items; }
 function buildChoices(pool, answer, n=4){

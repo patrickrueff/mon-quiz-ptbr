@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8" />
-  <title>Quiz — Famille (2) — L011</title>
+  <title>Quiz — Les moyens de transport</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>:root{
   --bg:#0b0f14;--card:#121821;--text:#eef3fb;--muted:#b8c0cc;--accent:#5aa0ff;--accent2:#8ad1ff;--border:#1e2632
@@ -47,7 +47,7 @@ button:hover,a.btn:hover{border-color:var(--accent)} button:active,a.btn:active{
 <body>
   <div class="container">
     <div class="row" style="justify-content:space-between;align-items:baseline">
-      <h1>Quiz — Famille (2) — L011</h1>
+      <h1>Quiz — Les moyens de transport</h1>
       <div class="row"><a class="btn" href="index.html">🏠 Accueil</a></div>
     </div>
     <p class="sub">Leçon : S011</p>
@@ -104,7 +104,7 @@ function toggleQuiz(){
   frs.forEach(el=>{ el.style.visibility = chk.checked ? 'hidden' : 'visible'; });
 }
 </script>
-  <script>const POOL = [{"pt": "esposo", "fr": "mari", "phon": "èspôzo", "normal": "audio/0061-esposo-04c75626.mp3"}, {"pt": "esposa", "fr": "femme (épouse)", "phon": "èspôza", "normal": "audio/0062-esposa-39dea479.mp3"}, {"pt": "avô", "fr": "grand-père", "phon": "avô (avô)", "normal": "audio/0063-avo-eaaed76b.mp3"}, {"pt": "avó", "fr": "grand-mère", "phon": "avó (avó)", "normal": "audio/0064-avo-8786e742.mp3"}, {"pt": "tio", "fr": "oncle", "phon": "tchi-ô", "normal": "audio/0065-tio-589f98f8.mp3"}, {"pt": "tia", "fr": "tante", "phon": "tchi-a", "normal": "audio/0066-tia-8a60f563.mp3"}];
+  <script>const POOL = [{"pt": "carro", "fr": "voiture", "phon": "carro", "normal": "audio/0121-carro-3959fc61.mp3"}, {"pt": "ônibus", "fr": "bus", "phon": "onibous", "normal": "audio/0122-onibus-5d9a02c3.mp3"}, {"pt": "metrô", "fr": "métro", "phon": "métrô", "normal": "audio/0123-metro-f3aca16b.mp3"}, {"pt": "trem", "fr": "train", "phon": "trèṅ", "normal": "audio/0124-trem-b727f035.mp3"}, {"pt": "avião", "fr": "avion", "phon": "aviãw", "normal": "audio/0125-aviao-01f28123.mp3"}, {"pt": "bicicleta", "fr": "vélo", "phon": "bissiclèta", "normal": "audio/0126-bicicleta-ae970b2f.mp3"}, {"pt": "moto", "fr": "moto", "phon": "moto", "normal": "audio/0127-moto-1f7f1c7a.mp3"}, {"pt": "a pé", "fr": "à pied", "phon": "a pè", "normal": "audio/0128-a-pe-35118c9c.mp3"}, {"pt": "eu vou de ônibus", "fr": "je vais en bus", "phon": "éou vou djé onibous", "normal": "audio/0129-eu-vou-de-onibus-cc1fb32b.mp3"}, {"pt": "eu pego o metrô", "fr": "je prends le métro", "phon": "éou pègou ou métrô", "normal": "audio/0130-eu-pego-o-metro-77715809.mp3"}, {"pt": "eu posso", "fr": "je peux", "phon": "éou posso", "normal": "audio/0131-eu-posso-e4d4fce3.mp3"}, {"pt": "você pode", "fr": "tu peux / vous pouvez (sing.)", "phon": "vosé pó-dji", "normal": "audio/0132-voce-pode-aa1454de.mp3"}];
 function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; }
 function makeQuiz(POOL, limit){ const items=[...POOL]; shuffle(items); if(limit&&limit>0){ items.length=Math.min(limit,items.length);} return items; }
 function buildChoices(pool, answer, n=4){

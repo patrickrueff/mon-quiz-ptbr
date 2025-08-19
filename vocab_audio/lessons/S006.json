@@ -1,24 +1,42 @@
 {
   "id": "S006",
-  "title": "Mois (1) — L006",
+  "title": "La maison & les pièces",
   "words": [
     {
-      "id": "janeiro-3fbb4496"
+      "id": "casa-81bce1f3"
     },
     {
-      "id": "fevereiro-f804fc02"
+      "id": "quarto-ad25d1cf"
     },
     {
-      "id": "marco-f9943b23"
+      "id": "sala-9a2505d5"
     },
     {
-      "id": "abril-2fae6710"
+      "id": "cozinha-d4ca9c86"
     },
     {
-      "id": "maio-20780f2f"
+      "id": "banheiro-ab24c5bf"
     },
     {
-      "id": "junho-879dbd60"
+      "id": "janela-e9215e0d"
+    },
+    {
+      "id": "porta-9fa417be"
+    },
+    {
+      "id": "cama-1bef95ab"
+    },
+    {
+      "id": "mesa-f04cc316"
+    },
+    {
+      "id": "eu-moro-aqui-b926fcf1"
+    },
+    {
+      "id": "eu-preciso-ad48069b"
+    },
+    {
+      "id": "voce-precisa-827a3885"
     }
   ]
 }

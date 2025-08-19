@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8" />
-  <title>Quiz — Mois (1) — L006</title>
+  <title>Quiz — La maison &amp; les pièces</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>:root{
   --bg:#0b0f14;--card:#121821;--text:#eef3fb;--muted:#b8c0cc;--accent:#5aa0ff;--accent2:#8ad1ff;--border:#1e2632
@@ -47,7 +47,7 @@ button:hover,a.btn:hover{border-color:var(--accent)} button:active,a.btn:active{
 <body>
   <div class="container">
     <div class="row" style="justify-content:space-between;align-items:baseline">
-      <h1>Quiz — Mois (1) — L006</h1>
+      <h1>Quiz — La maison &amp; les pièces</h1>
       <div class="row"><a class="btn" href="index.html">🏠 Accueil</a></div>
     </div>
     <p class="sub">Leçon : S006</p>
@@ -104,7 +104,7 @@ function toggleQuiz(){
   frs.forEach(el=>{ el.style.visibility = chk.checked ? 'hidden' : 'visible'; });
 }
 </script>
-  <script>const POOL = [{"pt": "janeiro", "fr": "janvier", "phon": "janèïro", "normal": "audio/0031-janeiro-3fbb4496.mp3"}, {"pt": "fevereiro", "fr": "février", "phon": "févrèïro", "normal": "audio/0032-fevereiro-f804fc02.mp3"}, {"pt": "março", "fr": "mars", "phon": "marssou", "normal": "audio/0033-marco-f9943b23.mp3"}, {"pt": "abril", "fr": "avril", "phon": "abril", "normal": "audio/0034-abril-2fae6710.mp3"}, {"pt": "maio", "fr": "mai", "phon": "maïo", "normal": "audio/0035-maio-20780f2f.mp3"}, {"pt": "junho", "fr": "juin", "phon": "jouño", "normal": "audio/0036-junho-879dbd60.mp3"}];
+  <script>const POOL = [{"pt": "casa", "fr": "maison", "phon": "caza", "normal": "audio/0061-casa-81bce1f3.mp3"}, {"pt": "quarto", "fr": "chambre", "phon": "kouarto", "normal": "audio/0062-quarto-ad25d1cf.mp3"}, {"pt": "sala", "fr": "salon", "phon": "sala", "normal": "audio/0063-sala-9a2505d5.mp3"}, {"pt": "cozinha", "fr": "cuisine", "phon": "kouzi-nya", "normal": "audio/0064-cozinha-d4ca9c86.mp3"}, {"pt": "banheiro", "fr": "salle de bain / toilettes", "phon": "banyèrrou", "normal": "audio/0065-banheiro-ab24c5bf.mp3"}, {"pt": "janela", "fr": "fenêtre", "phon": "janè-la", "normal": "audio/0066-janela-e9215e0d.mp3"}, {"pt": "porta", "fr": "porte", "phon": "porta", "normal": "audio/0067-porta-9fa417be.mp3"}, {"pt": "cama", "fr": "lit", "phon": "cama", "normal": "audio/0068-cama-1bef95ab.mp3"}, {"pt": "mesa", "fr": "table", "phon": "méza", "normal": "audio/0069-mesa-f04cc316.mp3"}, {"pt": "eu moro aqui", "fr": "j’habite ici", "phon": "éou moro aki", "normal": "audio/0070-eu-moro-aqui-b926fcf1.mp3"}, {"pt": "eu preciso", "fr": "j’ai besoin", "phon": "éou présizo", "normal": "audio/0071-eu-preciso-ad48069b.mp3"}, {"pt": "você precisa", "fr": "tu as besoin / vous avez besoin (sing.)", "phon": "vosé présiza", "normal": "audio/0072-voce-precisa-827a3885.mp3"}];
 function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; }
 function makeQuiz(POOL, limit){ const items=[...POOL]; shuffle(items); if(limit&&limit>0){ items.length=Math.min(limit,items.length);} return items; }
 function buildChoices(pool, answer, n=4){
