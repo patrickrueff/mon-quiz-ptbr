@@ -1,24 +1,42 @@
 {
   "id": "S042",
-  "title": "Maison & pièces — L042",
+  "title": "Donner son opinion",
   "words": [
     {
-      "id": "varanda-8c0a1c42"
+      "id": "opiniao-1024adfc"
     },
     {
-      "id": "jardim-14fff1ac"
+      "id": "talvez-63e7eb19"
     },
     {
-      "id": "garagem-d7f7f011"
+      "id": "acho-que-74e993d0"
     },
     {
-      "id": "escritorio-a52b9ed6"
+      "id": "concordo-75b7e94f"
     },
     {
-      "id": "casa-81bce1f3"
+      "id": "discordo-774a6aff"
     },
     {
-      "id": "apartamento-af51e888"
+      "id": "sim-813221ca"
+    },
+    {
+      "id": "nao-23f93a61"
+    },
+    {
+      "id": "pergunta-13957da7"
+    },
+    {
+      "id": "historia-1d89bb0f"
+    },
+    {
+      "id": "plataforma-fa09ef81"
+    },
+    {
+      "id": "eu-trabalho-ed1b7c90"
+    },
+    {
+      "id": "eu-vou-ajudar-e9b1cd9d"
     }
   ]
 }

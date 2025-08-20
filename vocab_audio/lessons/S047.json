@@ -1,24 +1,42 @@
 {
   "id": "S047",
-  "title": "Boissons & condiments — L047",
+  "title": "Parler de son futur proche",
   "words": [
     {
-      "id": "pimenta-2194c68b"
+      "id": "plataforma-fa09ef81"
     },
     {
-      "id": "oleo-7b3fb2ba"
+      "id": "bilhete-d98d49da"
     },
     {
-      "id": "azeite-77f3ba58"
+      "id": "portao-e2f49bdd"
     },
     {
-      "id": "cafe-f424452a"
+      "id": "embarque-79ffd84a"
     },
     {
-      "id": "cha-a1f7a686"
+      "id": "desembarque-84d1469d"
     },
     {
-      "id": "agua-513cba58"
+      "id": "check-in-94c0fbc3"
+    },
+    {
+      "id": "bagagem-252c434f"
+    },
+    {
+      "id": "documento-287ca5e5"
+    },
+    {
+      "id": "passaporte-f19e0e06"
+    },
+    {
+      "id": "voo-1f9ad01d"
+    },
+    {
+      "id": "eu-gosto-ae5ebea4"
+    },
+    {
+      "id": "eu-vou-estudar-773edbe2"
     }
   ]
 }

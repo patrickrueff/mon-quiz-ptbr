@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8" />
-  <title>Quiz — Salutations &amp; Bases — L061</title>
+  <title>Quiz — À la poste</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>:root{
   --bg:#0b0f14;--card:#121821;--text:#eef3fb;--muted:#b8c0cc;--accent:#5aa0ff;--accent2:#8ad1ff;--border:#1e2632
@@ -47,7 +47,7 @@ button:hover,a.btn:hover{border-color:var(--accent)} button:active,a.btn:active{
 <body>
   <div class="container">
     <div class="row" style="justify-content:space-between;align-items:baseline">
-      <h1>Quiz — Salutations &amp; Bases — L061</h1>
+      <h1>Quiz — À la poste</h1>
       <div class="row"><a class="btn" href="index.html">🏠 Accueil</a></div>
     </div>
     <p class="sub">Leçon : S061</p>
@@ -104,7 +104,7 @@ function toggleQuiz(){
   frs.forEach(el=>{ el.style.visibility = chk.checked ? 'hidden' : 'visible'; });
 }
 </script>
-  <script>const POOL = [{"pt": "Tudo bem", "fr": "Ça va", "phon": "toudou bẽï", "normal": "audio/0255-tudo-bem-734b6471.mp3"}, {"pt": "Prazer", "fr": "Enchanté(e)", "phon": "prazèr", "normal": "audio/0256-prazer-e32ecf63.mp3"}, {"pt": "Olá", "fr": "Bonjour / Salut", "phon": "ola", "normal": "audio/0001-ola-528e3850.mp3"}, {"pt": "Oi", "fr": "Salut (informel)", "phon": "oï", "normal": "audio/0002-oi-3c89984c.mp3"}, {"pt": "Bom dia", "fr": "Bonjour (matin)", "phon": "bohm djia", "normal": "audio/0003-bom-dia-8f97792d.mp3"}, {"pt": "Boa tarde", "fr": "Bon après-midi", "phon": "boa tardj", "normal": "audio/0004-boa-tarde-6278b644.mp3"}];
+  <script>const POOL = [{"pt": "documento", "fr": "document", "phon": "documentou", "normal": "audio/0058-documento-287ca5e5.mp3"}, {"pt": "agência", "fr": "agence", "phon": "agencia", "normal": "audio/0005-agencia-bb858ca3.mp3"}, {"pt": "fila", "fr": "file d’attente", "phon": "fila", "normal": "audio/0134-fila-47a5d765.mp3"}, {"pt": "selo", "fr": "timbre", "phon": "selou", "normal": "audio/0215-selo-a032abda.mp3"}, {"pt": "encomenda", "fr": "colis", "phon": "encomenda", "normal": "audio/0065-encomenda-3da1145f.mp3"}, {"pt": "endereço", "fr": "adresse", "phon": "enderessou", "normal": "audio/0066-endereco-ed0d4669.mp3"}, {"pt": "remetente", "fr": "expéditeur", "phon": "remetenté", "normal": "audio/0206-remetente-0a86d693.mp3"}, {"pt": "destinatário", "fr": "destinataire", "phon": "destchinatariou", "normal": "audio/0053-destinatario-aebaff7e.mp3"}, {"pt": "frete", "fr": "frais de port", "phon": "freté", "normal": "audio/0137-frete-0470df3a.mp3"}, {"pt": "prazo de entrega", "fr": "délai de livraison", "phon": "prazou dé entrega", "normal": "audio/0188-prazo-de-entrega-5ac9cfae.mp3"}, {"pt": "eu espero", "fr": "je attendre / espérer", "phon": "eu esperou", "normal": "audio/0078-eu-espero-0e90196e.mp3"}, {"pt": "eu vou estar", "fr": "je vais être (état)", "phon": "eu vou estar", "normal": "audio/0106-eu-vou-estar-37893598.mp3"}];
 function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; }
 function makeQuiz(POOL, limit){ const items=[...POOL]; shuffle(items); if(limit&&limit>0){ items.length=Math.min(limit,items.length);} return items; }
 function buildChoices(pool, answer, n=4){

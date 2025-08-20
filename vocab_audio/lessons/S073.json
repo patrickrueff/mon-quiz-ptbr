@@ -1,24 +1,42 @@
 {
   "id": "S073",
-  "title": "Meubles (1) — L073",
+  "title": "Décrire sa routine détaillée",
   "words": [
     {
-      "id": "mesa-f04cc316"
+      "id": "rotina-ba74c332"
     },
     {
-      "id": "cadeira-644a93ee"
+      "id": "hoje-b5364edb"
     },
     {
-      "id": "cama-1bef95ab"
+      "id": "amanha-8a87dcb0"
     },
     {
-      "id": "sofa-b6190998"
+      "id": "ontem-4a127553"
     },
     {
-      "id": "prato-460a2215"
+      "id": "agora-39a44d0c"
     },
     {
-      "id": "copo-8effcb86"
+      "id": "mais-tarde-268a3c92"
+    },
+    {
+      "id": "cedo-tarde-6929fabd"
+    },
+    {
+      "id": "plataforma-fa09ef81"
+    },
+    {
+      "id": "bilhete-d98d49da"
+    },
+    {
+      "id": "portao-e2f49bdd"
+    },
+    {
+      "id": "eu-faco-4c781ff8"
+    },
+    {
+      "id": "eu-vou-poder-868d8a2e"
     }
   ]
 }

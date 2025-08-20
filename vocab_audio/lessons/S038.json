@@ -1,24 +1,42 @@
 {
   "id": "S038",
-  "title": "Couleurs (1) — L038",
+  "title": "Faire des achats (prix, tailles)",
   "words": [
     {
-      "id": "vermelho-79f2b39a"
+      "id": "caixa-81dbefaf"
     },
     {
-      "id": "azul-1768d39c"
+      "id": "troco-48effd4a"
     },
     {
-      "id": "amarelo-985037bf"
+      "id": "nota-fiscal-1d3b069c"
     },
     {
-      "id": "verde-2030abee"
+      "id": "tamanho-581176c7"
     },
     {
-      "id": "preto-eb60d10d"
+      "id": "provador-13faa81e"
     },
     {
-      "id": "branco-e6c28d71"
+      "id": "preco-f110c71f"
+    },
+    {
+      "id": "desconto-cb911ab0"
+    },
+    {
+      "id": "sacolinha-476a0179"
+    },
+    {
+      "id": "quanto-custa-5a4ae7bb"
+    },
+    {
+      "id": "feira-53b766fa"
+    },
+    {
+      "id": "eu-abro-d73b9727"
+    },
+    {
+      "id": "eu-vou-pedir-3fe1d30a"
     }
   ]
 }

@@ -1,24 +1,42 @@
 {
   "id": "S043",
-  "title": "Meubles (1) — L043",
+  "title": "Accepter ou refuser",
   "words": [
     {
-      "id": "mesa-f04cc316"
+      "id": "concordo-75b7e94f"
     },
     {
-      "id": "cadeira-644a93ee"
+      "id": "discordo-774a6aff"
     },
     {
-      "id": "cama-1bef95ab"
+      "id": "sim-813221ca"
     },
     {
-      "id": "sofa-b6190998"
+      "id": "nao-23f93a61"
     },
     {
-      "id": "prato-460a2215"
+      "id": "aceito-eb6e1539"
     },
     {
-      "id": "copo-8effcb86"
+      "id": "recuso-018ae62e"
+    },
+    {
+      "id": "talvez-63e7eb19"
+    },
+    {
+      "id": "pergunta-13957da7"
+    },
+    {
+      "id": "historia-1d89bb0f"
+    },
+    {
+      "id": "opiniao-1024adfc"
+    },
+    {
+      "id": "eu-tenho-5a651b8c"
+    },
+    {
+      "id": "eu-vou-beber-35e32423"
     }
   ]
 }

@@ -1,167 +1,1382 @@
 {
   "version": 2,
-  "count": 144,
+  "count": 243,
   "words": [
     {
-      "id": "oi-ef67e086",
-      "pt": "oi",
-      "fr": "salut",
-      "phon": "oï",
+      "id": "aberto-fechado-d5843aef",
+      "pt": "aberto / fechado",
+      "fr": "ouvert / fermé",
+      "phon": "abertou / fechadou",
       "files": {
-        "normal": "audio/0001-oi-ef67e086.mp3"
+        "normal": "audio/0001-aberto-fechado-d5843aef.mp3"
       }
     },
     {
-      "id": "bom-dia-65463ee6",
-      "pt": "bom dia",
-      "fr": "bonjour (matin)",
-      "phon": "bõ dji-a",
+      "id": "aceito-eb6e1539",
+      "pt": "aceito",
+      "fr": "j’accepte",
+      "phon": "aceitou",
       "files": {
-        "normal": "audio/0002-bom-dia-65463ee6.mp3"
+        "normal": "audio/0002-aceito-eb6e1539.mp3"
       }
     },
     {
-      "id": "boa-tarde-f0a89eea",
-      "pt": "boa tarde",
-      "fr": "bonjour (après-midi)",
-      "phon": "bo-a tardj",
+      "id": "acho-que-74e993d0",
+      "pt": "acho que…",
+      "fr": "je pense que…",
+      "phon": "achou ké…",
       "files": {
-        "normal": "audio/0003-boa-tarde-f0a89eea.mp3"
+        "normal": "audio/0003-acho-que-74e993d0.mp3"
+      }
+    },
+    {
+      "id": "agora-39a44d0c",
+      "pt": "agora",
+      "fr": "maintenant",
+      "phon": "agora",
+      "files": {
+        "normal": "audio/0004-agora-39a44d0c.mp3"
+      }
+    },
+    {
+      "id": "agencia-bb858ca3",
+      "pt": "agência",
+      "fr": "agence",
+      "phon": "agencia",
+      "files": {
+        "normal": "audio/0005-agencia-bb858ca3.mp3"
+      }
+    },
+    {
+      "id": "alto-baixo-81086aae",
+      "pt": "alto / baixo",
+      "fr": "grand / petit (taille)",
+      "phon": "altou / baixou",
+      "files": {
+        "normal": "audio/0006-alto-baixo-81086aae.mp3"
+      }
+    },
+    {
+      "id": "amanha-8a87dcb0",
+      "pt": "amanhã",
+      "fr": "demain",
+      "phon": "amanyãn",
+      "files": {
+        "normal": "audio/0007-amanha-8a87dcb0.mp3"
+      }
+    },
+    {
+      "id": "ambulancia-45e6a068",
+      "pt": "ambulância",
+      "fr": "ambulance",
+      "phon": "ambulancia",
+      "files": {
+        "normal": "audio/0008-ambulancia-45e6a068.mp3"
+      }
+    },
+    {
+      "id": "amigo-amiga-45e6cd06",
+      "pt": "amigo / amiga",
+      "fr": "ami / amie",
+      "phon": "amigou / amiga",
+      "files": {
+        "normal": "audio/0009-amigo-amiga-45e6cd06.mp3"
+      }
+    },
+    {
+      "id": "aplicativo-065cf909",
+      "pt": "aplicativo",
+      "fr": "application (mobile)",
+      "phon": "aplicatchivou",
+      "files": {
+        "normal": "audio/0010-aplicativo-065cf909.mp3"
+      }
+    },
+    {
+      "id": "aplicativo-de-transporte-b59168e9",
+      "pt": "aplicativo de transporte",
+      "fr": "appli de transport",
+      "phon": "aplicatchivou dé transporté",
+      "files": {
+        "normal": "audio/0011-aplicativo-de-transporte-b59168e9.mp3"
+      }
+    },
+    {
+      "id": "areia-bea6abe8",
+      "pt": "areia",
+      "fr": "sable",
+      "phon": "areia",
+      "files": {
+        "normal": "audio/0012-areia-bea6abe8.mp3"
+      }
+    },
+    {
+      "id": "atraso-a98508fa",
+      "pt": "atraso",
+      "fr": "retard",
+      "phon": "atrasou",
+      "files": {
+        "normal": "audio/0013-atraso-a98508fa.mp3"
+      }
+    },
+    {
+      "id": "aviao-01f28123",
+      "pt": "avião",
+      "fr": "avion",
+      "phon": "aviãnw",
+      "files": {
+        "normal": "audio/0014-aviao-01f28123.mp3"
+      }
+    },
+    {
+      "id": "bagagem-252c434f",
+      "pt": "bagagem",
+      "fr": "bagage",
+      "phon": "bagajèm",
+      "files": {
+        "normal": "audio/0015-bagagem-252c434f.mp3"
+      }
+    },
+    {
+      "id": "balcao-4da59bf8",
+      "pt": "balcão",
+      "fr": "comptoir",
+      "phon": "balcãnw",
+      "files": {
+        "normal": "audio/0016-balcao-4da59bf8.mp3"
+      }
+    },
+    {
+      "id": "baldeacao-1c9fdd58",
+      "pt": "baldeação",
+      "fr": "correspondance",
+      "phon": "baldeassãnw",
+      "files": {
+        "normal": "audio/0017-baldeacao-1c9fdd58.mp3"
+      }
+    },
+    {
+      "id": "banca-1ed6f1a1",
+      "pt": "banca",
+      "fr": "étal",
+      "phon": "banca",
+      "files": {
+        "normal": "audio/0018-banca-1ed6f1a1.mp3"
+      }
+    },
+    {
+      "id": "barulhento-silencioso-500799bd",
+      "pt": "barulhento / silencioso",
+      "fr": "bruyant / silencieux",
+      "phon": "barulyentou / silenciosou",
+      "files": {
+        "normal": "audio/0019-barulhento-silencioso-500799bd.mp3"
+      }
+    },
+    {
+      "id": "bilhete-d98d49da",
+      "pt": "bilhete",
+      "fr": "billet",
+      "phon": "bilyeté",
+      "files": {
+        "normal": "audio/0020-bilhete-d98d49da.mp3"
       }
     },
     {
       "id": "boa-noite-acc42079",
       "pt": "boa noite",
       "fr": "bonsoir / bonne nuit",
-      "phon": "bo-a noï-tchi",
+      "phon": "boa noité",
       "files": {
-        "normal": "audio/0004-boa-noite-acc42079.mp3"
+        "normal": "audio/0021-boa-noite-acc42079.mp3"
+      }
+    },
+    {
+      "id": "boa-tarde-f0a89eea",
+      "pt": "boa tarde",
+      "fr": "bonjour (après-midi)",
+      "phon": "boa tardé",
+      "files": {
+        "normal": "audio/0022-boa-tarde-f0a89eea.mp3"
+      }
+    },
+    {
+      "id": "bom-dia-65463ee6",
+      "pt": "bom dia",
+      "fr": "bonjour (matin)",
+      "phon": "bom djïa",
+      "files": {
+        "normal": "audio/0023-bom-dia-65463ee6.mp3"
+      }
+    },
+    {
+      "id": "cabelo-2106c421",
+      "pt": "cabelo",
+      "fr": "cheveux",
+      "phon": "cabelou",
+      "files": {
+        "normal": "audio/0024-cabelo-2106c421.mp3"
+      }
+    },
+    {
+      "id": "cafe-da-manha-0ab95074",
+      "pt": "café da manhã",
+      "fr": "petit-déjeuner",
+      "phon": "cafè da manyãn",
+      "files": {
+        "normal": "audio/0025-cafe-da-manha-0ab95074.mp3"
+      }
+    },
+    {
+      "id": "caixa-81dbefaf",
+      "pt": "caixa",
+      "fr": "caisse / guichet",
+      "phon": "caixa",
+      "files": {
+        "normal": "audio/0026-caixa-81dbefaf.mp3"
+      }
+    },
+    {
+      "id": "cancelado-f5ef8596",
+      "pt": "cancelado",
+      "fr": "annulé",
+      "phon": "canceladou",
+      "files": {
+        "normal": "audio/0027-cancelado-f5ef8596.mp3"
+      }
+    },
+    {
+      "id": "capaz-incapaz-d8292e1e",
+      "pt": "capaz / incapaz",
+      "fr": "capable / incapable",
+      "phon": "capaz / incapaz",
+      "files": {
+        "normal": "audio/0028-capaz-incapaz-d8292e1e.mp3"
+      }
+    },
+    {
+      "id": "cardapio-f2d87309",
+      "pt": "cardápio",
+      "fr": "menu (carte)",
+      "phon": "cardapiou",
+      "files": {
+        "normal": "audio/0029-cardapio-f2d87309.mp3"
+      }
+    },
+    {
+      "id": "carrinho-45672334",
+      "pt": "carrinho",
+      "fr": "panier (e-commerce)",
+      "phon": "cahinyou",
+      "files": {
+        "normal": "audio/0030-carrinho-45672334.mp3"
+      }
+    },
+    {
+      "id": "cartao-de-credito-a7da0224",
+      "pt": "cartão de crédito",
+      "fr": "carte de crédit",
+      "phon": "cartãnw dé crèdjïtou",
+      "files": {
+        "normal": "audio/0031-cartao-de-credito-a7da0224.mp3"
+      }
+    },
+    {
+      "id": "cedo-tarde-6929fabd",
+      "pt": "cedo / tarde",
+      "fr": "tôt / tard",
+      "phon": "cedou / tardé",
+      "files": {
+        "normal": "audio/0032-cedo-tarde-6929fabd.mp3"
+      }
+    },
+    {
+      "id": "chave-do-quarto-d93c8f93",
+      "pt": "chave do quarto",
+      "fr": "clé de chambre",
+      "phon": "chavé dou kartou",
+      "files": {
+        "normal": "audio/0033-chave-do-quarto-d93c8f93.mp3"
+      }
+    },
+    {
+      "id": "check-in-94c0fbc3",
+      "pt": "check-in",
+      "fr": "enregistrement (check-in)",
+      "phon": "check-in",
+      "files": {
+        "normal": "audio/0034-check-in-94c0fbc3.mp3"
+      }
+    },
+    {
+      "id": "check-out-4142bde3",
+      "pt": "check-out",
+      "fr": "départ (check-out)",
+      "phon": "check-out",
+      "files": {
+        "normal": "audio/0035-check-out-4142bde3.mp3"
+      }
+    },
+    {
+      "id": "cinco-a097b33b",
+      "pt": "cinco",
+      "fr": "cinq",
+      "phon": "cincou",
+      "files": {
+        "normal": "audio/0036-cinco-a097b33b.mp3"
+      }
+    },
+    {
+      "id": "colega-bda39488",
+      "pt": "colega",
+      "fr": "collègue",
+      "phon": "colega",
+      "files": {
+        "normal": "audio/0037-colega-bda39488.mp3"
+      }
+    },
+    {
+      "id": "comentario-8001800f",
+      "pt": "comentário",
+      "fr": "commentaire",
+      "phon": "comentariou",
+      "files": {
+        "normal": "audio/0038-comentario-8001800f.mp3"
       }
     },
     {
       "id": "como-vai-0909412f",
       "pt": "como vai?",
       "fr": "comment ça va ?",
-      "phon": "komo vaï",
+      "phon": "comou vai?",
       "files": {
-        "normal": "audio/0005-como-vai-0909412f.mp3"
+        "normal": "audio/0039-como-vai-0909412f.mp3"
       }
     },
     {
-      "id": "tudo-bem-b11d18dd",
-      "pt": "tudo bem?",
-      "fr": "ça va ?",
-      "phon": "toudou bèṅ",
+      "id": "como-f1a75917",
+      "pt": "como?",
+      "fr": "comment ?",
+      "phon": "comou?",
       "files": {
-        "normal": "audio/0006-tudo-bem-b11d18dd.mp3"
+        "normal": "audio/0040-como-f1a75917.mp3"
       }
     },
     {
-      "id": "meu-nome-e-1dda55b7",
-      "pt": "meu nome é…",
-      "fr": "je m’appelle…",
-      "phon": "méou nomé é",
+      "id": "compartilhar-ecb66237",
+      "pt": "compartilhar",
+      "fr": "partager (réseau)",
+      "phon": "compartchilyar",
       "files": {
-        "normal": "audio/0007-meu-nome-e-1dda55b7.mp3"
+        "normal": "audio/0041-compartilhar-ecb66237.mp3"
       }
     },
     {
-      "id": "eu-sou-a8f404f6",
-      "pt": "eu sou",
-      "fr": "je suis",
-      "phon": "éou so",
+      "id": "concordo-75b7e94f",
+      "pt": "concordo",
+      "fr": "je suis d’accord",
+      "phon": "concordou",
       "files": {
-        "normal": "audio/0008-eu-sou-a8f404f6.mp3"
+        "normal": "audio/0042-concordo-75b7e94f.mp3"
       }
     },
     {
-      "id": "voce-e-987b1559",
-      "pt": "você é",
-      "fr": "tu es / vous êtes (sing.)",
-      "phon": "vosé é",
+      "id": "conselho-87823284",
+      "pt": "conselho",
+      "fr": "conseil",
+      "phon": "conselyou",
       "files": {
-        "normal": "audio/0009-voce-e-987b1559.mp3"
+        "normal": "audio/0043-conselho-87823284.mp3"
       }
     },
     {
-      "id": "prazer-9e1874c6",
-      "pt": "prazer",
-      "fr": "enchanté",
-      "phon": "prazèr",
+      "id": "conserto-3d168ee9",
+      "pt": "conserto",
+      "fr": "réparation",
+      "phon": "consertou",
       "files": {
-        "normal": "audio/0010-prazer-9e1874c6.mp3"
+        "normal": "audio/0044-conserto-3d168ee9.mp3"
+      }
+    },
+    {
+      "id": "conta-90656691",
+      "pt": "conta",
+      "fr": "addition / compte",
+      "phon": "conta",
+      "files": {
+        "normal": "audio/0045-conta-90656691.mp3"
+      }
+    },
+    {
+      "id": "crianca-e968cab5",
+      "pt": "criança",
+      "fr": "enfant",
+      "phon": "crianssa",
+      "files": {
+        "normal": "audio/0046-crianca-e968cab5.mp3"
+      }
+    },
+    {
+      "id": "curtir-6d214168",
+      "pt": "curtir",
+      "fr": "liker / apprécier",
+      "phon": "curtchir",
+      "files": {
+        "normal": "audio/0047-curtir-6d214168.mp3"
+      }
+    },
+    {
+      "id": "dados-moveis-a8c083d6",
+      "pt": "dados móveis",
+      "fr": "données mobiles",
+      "phon": "dados moveis",
+      "files": {
+        "normal": "audio/0048-dados-moveis-a8c083d6.mp3"
       }
     },
     {
       "id": "de-onde-voce-e-acd62f48",
       "pt": "de onde você é?",
       "fr": "tu viens d’où ?",
-      "phon": "djé ondji vosé é",
+      "phon": "dé ondé vocé è?",
       "files": {
-        "normal": "audio/0011-de-onde-voce-e-acd62f48.mp3"
+        "normal": "audio/0049-de-onde-voce-e-acd62f48.mp3"
       }
     },
     {
-      "id": "muito-obrigado-4f77f39b",
-      "pt": "muito obrigado",
-      "fr": "merci beaucoup (homme)",
-      "phon": "mouïto obrigadou",
+      "id": "deposito-aa79a071",
+      "pt": "depósito",
+      "fr": "dépôt",
+      "phon": "depositou",
       "files": {
-        "normal": "audio/0012-muito-obrigado-4f77f39b.mp3"
+        "normal": "audio/0050-deposito-aa79a071.mp3"
       }
     },
     {
-      "id": "mae-c936707e",
-      "pt": "mãe",
-      "fr": "maman",
-      "phon": "maɲ",
+      "id": "desconto-cb911ab0",
+      "pt": "desconto",
+      "fr": "réduction",
+      "phon": "descontou",
       "files": {
-        "normal": "audio/0013-mae-c936707e.mp3"
+        "normal": "audio/0051-desconto-cb911ab0.mp3"
       }
     },
     {
-      "id": "pai-7525a436",
-      "pt": "pai",
-      "fr": "papa",
-      "phon": "paï",
+      "id": "desembarque-84d1469d",
+      "pt": "desembarque",
+      "fr": "débarquement",
+      "phon": "desembarké",
       "files": {
-        "normal": "audio/0014-pai-7525a436.mp3"
+        "normal": "audio/0052-desembarque-84d1469d.mp3"
       }
     },
     {
-      "id": "irmao-1fa174dc",
-      "pt": "irmão",
-      "fr": "frère",
-      "phon": "irmañõ",
+      "id": "destinatario-aebaff7e",
+      "pt": "destinatário",
+      "fr": "destinataire",
+      "phon": "destchinatariou",
       "files": {
-        "normal": "audio/0015-irmao-1fa174dc.mp3"
+        "normal": "audio/0053-destinatario-aebaff7e.mp3"
       }
     },
     {
-      "id": "irma-2aec3dfc",
-      "pt": "irmã",
-      "fr": "soeur",
-      "phon": "irmañ",
+      "id": "dever-b1e99c23",
+      "pt": "dever",
+      "fr": "devoir (nom) / obligation",
+      "phon": "dever",
       "files": {
-        "normal": "audio/0016-irma-2aec3dfc.mp3"
+        "normal": "audio/0054-dever-b1e99c23.mp3"
       }
     },
     {
-      "id": "filho-b85520b6",
-      "pt": "filho",
-      "fr": "fils",
-      "phon": "fi-lyo",
+      "id": "dez-b5ab4a29",
+      "pt": "dez",
+      "fr": "dix",
+      "phon": "dez",
       "files": {
-        "normal": "audio/0017-filho-b85520b6.mp3"
+        "normal": "audio/0055-dez-b5ab4a29.mp3"
+      }
+    },
+    {
+      "id": "dinheiro-54975ba2",
+      "pt": "dinheiro",
+      "fr": "argent (liquide)",
+      "phon": "djïnyeirou",
+      "files": {
+        "normal": "audio/0056-dinheiro-54975ba2.mp3"
+      }
+    },
+    {
+      "id": "discordo-774a6aff",
+      "pt": "discordo",
+      "fr": "je ne suis pas d’accord",
+      "phon": "djïscordou",
+      "files": {
+        "normal": "audio/0057-discordo-774a6aff.mp3"
+      }
+    },
+    {
+      "id": "documento-287ca5e5",
+      "pt": "documento",
+      "fr": "document",
+      "phon": "documentou",
+      "files": {
+        "normal": "audio/0058-documento-287ca5e5.mp3"
+      }
+    },
+    {
+      "id": "dois-7b426791",
+      "pt": "dois",
+      "fr": "deux",
+      "phon": "dois",
+      "files": {
+        "normal": "audio/0059-dois-7b426791.mp3"
+      }
+    },
+    {
+      "id": "domingo-da416310",
+      "pt": "domingo",
+      "fr": "dimanche",
+      "phon": "domingou",
+      "files": {
+        "normal": "audio/0060-domingo-da416310.mp3"
+      }
+    },
+    {
+      "id": "dor-de-cabeca-cf919d9a",
+      "pt": "dor de cabeça",
+      "fr": "mal de tête",
+      "phon": "dor dé cabessa",
+      "files": {
+        "normal": "audio/0061-dor-de-cabeca-cf919d9a.mp3"
+      }
+    },
+    {
+      "id": "download-817248fb",
+      "pt": "download",
+      "fr": "télécharger",
+      "phon": "download",
+      "files": {
+        "normal": "audio/0062-download-817248fb.mp3"
+      }
+    },
+    {
+      "id": "embarque-79ffd84a",
+      "pt": "embarque",
+      "fr": "embarquement",
+      "phon": "embarké",
+      "files": {
+        "normal": "audio/0063-embarque-79ffd84a.mp3"
+      }
+    },
+    {
+      "id": "emergencia-e81e5bab",
+      "pt": "emergência",
+      "fr": "urgence",
+      "phon": "emergencia",
+      "files": {
+        "normal": "audio/0064-emergencia-e81e5bab.mp3"
+      }
+    },
+    {
+      "id": "encomenda-3da1145f",
+      "pt": "encomenda",
+      "fr": "colis",
+      "phon": "encomenda",
+      "files": {
+        "normal": "audio/0065-encomenda-3da1145f.mp3"
+      }
+    },
+    {
+      "id": "endereco-ed0d4669",
+      "pt": "endereço",
+      "fr": "adresse",
+      "phon": "enderessou",
+      "files": {
+        "normal": "audio/0066-endereco-ed0d4669.mp3"
+      }
+    },
+    {
+      "id": "entrada-a9df7a76",
+      "pt": "entrada",
+      "fr": "entrée (plat) / entrée (lieu)",
+      "phon": "entrada",
+      "files": {
+        "normal": "audio/0067-entrada-a9df7a76.mp3"
+      }
+    },
+    {
+      "id": "esposa-39dea479",
+      "pt": "esposa",
+      "fr": "épouse",
+      "phon": "esposa",
+      "files": {
+        "normal": "audio/0068-esposa-39dea479.mp3"
+      }
+    },
+    {
+      "id": "esquina-d29ae7b1",
+      "pt": "esquina",
+      "fr": "coin de rue",
+      "phon": "eskina",
+      "files": {
+        "normal": "audio/0069-esquina-d29ae7b1.mp3"
+      }
+    },
+    {
+      "id": "eu-abro-d73b9727",
+      "pt": "eu abro",
+      "fr": "je ouvrir",
+      "phon": "eu abrou",
+      "files": {
+        "normal": "audio/0070-eu-abro-d73b9727.mp3"
+      }
+    },
+    {
+      "id": "eu-ajudo-ea3331ca",
+      "pt": "eu ajudo",
+      "fr": "je aider",
+      "phon": "eu ajudou",
+      "files": {
+        "normal": "audio/0071-eu-ajudo-ea3331ca.mp3"
+      }
+    },
+    {
+      "id": "eu-bebo-8f162182",
+      "pt": "eu bebo",
+      "fr": "je boire",
+      "phon": "eu bebou",
+      "files": {
+        "normal": "audio/0072-eu-bebo-8f162182.mp3"
+      }
+    },
+    {
+      "id": "eu-chego-421346b6",
+      "pt": "eu chego",
+      "fr": "je arriver",
+      "phon": "eu chegou",
+      "files": {
+        "normal": "audio/0073-eu-chego-421346b6.mp3"
+      }
+    },
+    {
+      "id": "eu-como-b297a8d4",
+      "pt": "eu como",
+      "fr": "je manger",
+      "phon": "eu comou",
+      "files": {
+        "normal": "audio/0074-eu-como-b297a8d4.mp3"
+      }
+    },
+    {
+      "id": "eu-compro-ab15e612",
+      "pt": "eu compro",
+      "fr": "je acheter",
+      "phon": "eu comprou",
+      "files": {
+        "normal": "audio/0075-eu-compro-ab15e612.mp3"
+      }
+    },
+    {
+      "id": "eu-digo-1a5116e8",
+      "pt": "eu digo",
+      "fr": "je dire",
+      "phon": "eu djïgou",
+      "files": {
+        "normal": "audio/0076-eu-digo-1a5116e8.mp3"
+      }
+    },
+    {
+      "id": "eu-entro-24473eee",
+      "pt": "eu entro",
+      "fr": "je entrer",
+      "phon": "eu entrou",
+      "files": {
+        "normal": "audio/0077-eu-entro-24473eee.mp3"
+      }
+    },
+    {
+      "id": "eu-espero-0e90196e",
+      "pt": "eu espero",
+      "fr": "je attendre / espérer",
+      "phon": "eu esperou",
+      "files": {
+        "normal": "audio/0078-eu-espero-0e90196e.mp3"
+      }
+    },
+    {
+      "id": "eu-estou-d7acd4ed",
+      "pt": "eu estou",
+      "fr": "je être (état)",
+      "phon": "eu estou",
+      "files": {
+        "normal": "audio/0079-eu-estou-d7acd4ed.mp3"
+      }
+    },
+    {
+      "id": "eu-estudo-f08d2837",
+      "pt": "eu estudo",
+      "fr": "je étudier",
+      "phon": "eu estudou",
+      "files": {
+        "normal": "audio/0080-eu-estudo-f08d2837.mp3"
+      }
+    },
+    {
+      "id": "eu-falo-65e6e857",
+      "pt": "eu falo",
+      "fr": "je parler",
+      "phon": "eu falou",
+      "files": {
+        "normal": "audio/0081-eu-falo-65e6e857.mp3"
+      }
+    },
+    {
+      "id": "eu-faco-4c781ff8",
+      "pt": "eu faço",
+      "fr": "je faire",
+      "phon": "eu fassou",
+      "files": {
+        "normal": "audio/0082-eu-faco-4c781ff8.mp3"
+      }
+    },
+    {
+      "id": "eu-fecho-7c03c944",
+      "pt": "eu fecho",
+      "fr": "je fermer",
+      "phon": "eu fechou",
+      "files": {
+        "normal": "audio/0083-eu-fecho-7c03c944.mp3"
+      }
+    },
+    {
+      "id": "eu-fico-018fa287",
+      "pt": "eu fico",
+      "fr": "je rester / devenir",
+      "phon": "eu ficou",
+      "files": {
+        "normal": "audio/0084-eu-fico-018fa287.mp3"
+      }
+    },
+    {
+      "id": "eu-gosto-ae5ebea4",
+      "pt": "eu gosto",
+      "fr": "je aimer",
+      "phon": "eu gostou",
+      "files": {
+        "normal": "audio/0085-eu-gosto-ae5ebea4.mp3"
+      }
+    },
+    {
+      "id": "eu-ligo-cc59dc95",
+      "pt": "eu ligo",
+      "fr": "je appeler (téléph.) / allumer",
+      "phon": "eu ligou",
+      "files": {
+        "normal": "audio/0086-eu-ligo-cc59dc95.mp3"
+      }
+    },
+    {
+      "id": "eu-moro-0fb1ab65",
+      "pt": "eu moro",
+      "fr": "je habiter",
+      "phon": "eu morou",
+      "files": {
+        "normal": "audio/0087-eu-moro-0fb1ab65.mp3"
+      }
+    },
+    {
+      "id": "eu-peco-22a1b9b6",
+      "pt": "eu peço",
+      "fr": "je demander / commander",
+      "phon": "eu pessou",
+      "files": {
+        "normal": "audio/0088-eu-peco-22a1b9b6.mp3"
+      }
+    },
+    {
+      "id": "eu-posso-e4d4fce3",
+      "pt": "eu posso",
+      "fr": "je pouvoir",
+      "phon": "eu possou",
+      "files": {
+        "normal": "audio/0089-eu-posso-e4d4fce3.mp3"
+      }
+    },
+    {
+      "id": "eu-preciso-ad48069b",
+      "pt": "eu preciso",
+      "fr": "je avoir besoin",
+      "phon": "eu precisou",
+      "files": {
+        "normal": "audio/0090-eu-preciso-ad48069b.mp3"
+      }
+    },
+    {
+      "id": "eu-quero-8d99869f",
+      "pt": "eu quero",
+      "fr": "je vouloir",
+      "phon": "eu kerou",
+      "files": {
+        "normal": "audio/0091-eu-quero-8d99869f.mp3"
+      }
+    },
+    {
+      "id": "eu-saio-91ef1837",
+      "pt": "eu saio",
+      "fr": "je sortir",
+      "phon": "eu saiou",
+      "files": {
+        "normal": "audio/0092-eu-saio-91ef1837.mp3"
+      }
+    },
+    {
+      "id": "eu-sou-a8f404f6",
+      "pt": "eu sou",
+      "fr": "je être",
+      "phon": "eu sou",
+      "files": {
+        "normal": "audio/0093-eu-sou-a8f404f6.mp3"
+      }
+    },
+    {
+      "id": "eu-tenho-5a651b8c",
+      "pt": "eu tenho",
+      "fr": "je avoir",
+      "phon": "eu tenyou",
+      "files": {
+        "normal": "audio/0094-eu-tenho-5a651b8c.mp3"
+      }
+    },
+    {
+      "id": "eu-trabalho-ed1b7c90",
+      "pt": "eu trabalho",
+      "fr": "je travailler",
+      "phon": "eu trabalyou",
+      "files": {
+        "normal": "audio/0095-eu-trabalho-ed1b7c90.mp3"
+      }
+    },
+    {
+      "id": "eu-vejo-1da5dc0b",
+      "pt": "eu vejo",
+      "fr": "je voir",
+      "phon": "eu vejou",
+      "files": {
+        "normal": "audio/0096-eu-vejo-1da5dc0b.mp3"
+      }
+    },
+    {
+      "id": "eu-viajo-87a5ad8d",
+      "pt": "eu viajo",
+      "fr": "je voyager",
+      "phon": "eu viajou",
+      "files": {
+        "normal": "audio/0097-eu-viajo-87a5ad8d.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-073bca2e",
+      "pt": "eu vou",
+      "fr": "je aller",
+      "phon": "eu vou",
+      "files": {
+        "normal": "audio/0098-eu-vou-073bca2e.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-ajudar-e9b1cd9d",
+      "pt": "eu vou ajudar",
+      "fr": "je vais aider",
+      "phon": "eu vou ajudar",
+      "files": {
+        "normal": "audio/0099-eu-vou-ajudar-e9b1cd9d.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-beber-35e32423",
+      "pt": "eu vou beber",
+      "fr": "je vais boire",
+      "phon": "eu vou beber",
+      "files": {
+        "normal": "audio/0100-eu-vou-beber-35e32423.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-chamar-fe2aa9e8",
+      "pt": "eu vou chamar",
+      "fr": "je vais appeler",
+      "phon": "eu vou chamar",
+      "files": {
+        "normal": "audio/0101-eu-vou-chamar-fe2aa9e8.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-chegar-f177e20e",
+      "pt": "eu vou chegar",
+      "fr": "je vais arriver",
+      "phon": "eu vou chegar",
+      "files": {
+        "normal": "audio/0102-eu-vou-chegar-f177e20e.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-comer-817d4593",
+      "pt": "eu vou comer",
+      "fr": "je vais manger",
+      "phon": "eu vou comer",
+      "files": {
+        "normal": "audio/0103-eu-vou-comer-817d4593.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-comprar-52f078d6",
+      "pt": "eu vou comprar",
+      "fr": "je vais acheter",
+      "phon": "eu vou comprar",
+      "files": {
+        "normal": "audio/0104-eu-vou-comprar-52f078d6.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-entrar-b30e7bf7",
+      "pt": "eu vou entrar",
+      "fr": "je vais entrer",
+      "phon": "eu vou entrar",
+      "files": {
+        "normal": "audio/0105-eu-vou-entrar-b30e7bf7.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-estar-37893598",
+      "pt": "eu vou estar",
+      "fr": "je vais être (état)",
+      "phon": "eu vou estar",
+      "files": {
+        "normal": "audio/0106-eu-vou-estar-37893598.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-estudar-773edbe2",
+      "pt": "eu vou estudar",
+      "fr": "je vais étudier",
+      "phon": "eu vou estudar",
+      "files": {
+        "normal": "audio/0107-eu-vou-estudar-773edbe2.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-falar-252e091c",
+      "pt": "eu vou falar",
+      "fr": "je vais parler",
+      "phon": "eu vou falar",
+      "files": {
+        "normal": "audio/0108-eu-vou-falar-252e091c.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-fazer-be528aaa",
+      "pt": "eu vou fazer",
+      "fr": "je vais faire",
+      "phon": "eu vou fazer",
+      "files": {
+        "normal": "audio/0109-eu-vou-fazer-be528aaa.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-fechar-c6f8156c",
+      "pt": "eu vou fechar",
+      "fr": "je vais fermer",
+      "phon": "eu vou fechar",
+      "files": {
+        "normal": "audio/0110-eu-vou-fechar-c6f8156c.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-ficar-761ef41b",
+      "pt": "eu vou ficar",
+      "fr": "je vais rester / devenir",
+      "phon": "eu vou ficar",
+      "files": {
+        "normal": "audio/0111-eu-vou-ficar-761ef41b.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-gostar-49fa2852",
+      "pt": "eu vou gostar",
+      "fr": "je vais aimer",
+      "phon": "eu vou gostar",
+      "files": {
+        "normal": "audio/0112-eu-vou-gostar-49fa2852.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-ir-3100bb2b",
+      "pt": "eu vou ir",
+      "fr": "je vais aller",
+      "phon": "eu vou ir",
+      "files": {
+        "normal": "audio/0113-eu-vou-ir-3100bb2b.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-ligar-6d976459",
+      "pt": "eu vou ligar",
+      "fr": "je vais appeler (téléph.) / allumer",
+      "phon": "eu vou ligar",
+      "files": {
+        "normal": "audio/0114-eu-vou-ligar-6d976459.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-morar-afd16a2b",
+      "pt": "eu vou morar",
+      "fr": "je vais habiter",
+      "phon": "eu vou morar",
+      "files": {
+        "normal": "audio/0115-eu-vou-morar-afd16a2b.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-pagar-c992a494",
+      "pt": "eu vou pagar",
+      "fr": "je vais payer",
+      "phon": "eu vou pagar",
+      "files": {
+        "normal": "audio/0116-eu-vou-pagar-c992a494.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-pedir-3fe1d30a",
+      "pt": "eu vou pedir",
+      "fr": "je vais demander / commander",
+      "phon": "eu vou pedjïr",
+      "files": {
+        "normal": "audio/0117-eu-vou-pedir-3fe1d30a.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-pegar-4c06c8f5",
+      "pt": "eu vou pegar",
+      "fr": "je vais prendre (saisir)",
+      "phon": "eu vou pegar",
+      "files": {
+        "normal": "audio/0118-eu-vou-pegar-4c06c8f5.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-poder-868d8a2e",
+      "pt": "eu vou poder",
+      "fr": "je vais pouvoir",
+      "phon": "eu vou poder",
+      "files": {
+        "normal": "audio/0119-eu-vou-poder-868d8a2e.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-precisar-b7033d7c",
+      "pt": "eu vou precisar",
+      "fr": "je vais avoir besoin",
+      "phon": "eu vou precisar",
+      "files": {
+        "normal": "audio/0120-eu-vou-precisar-b7033d7c.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-sair-dead52d5",
+      "pt": "eu vou sair",
+      "fr": "je vais sortir",
+      "phon": "eu vou sair",
+      "files": {
+        "normal": "audio/0121-eu-vou-sair-dead52d5.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-ser-ef519643",
+      "pt": "eu vou ser",
+      "fr": "je vais être",
+      "phon": "eu vou ser",
+      "files": {
+        "normal": "audio/0122-eu-vou-ser-ef519643.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-ter-605f2550",
+      "pt": "eu vou ter",
+      "fr": "je vais avoir",
+      "phon": "eu vou ter",
+      "files": {
+        "normal": "audio/0123-eu-vou-ter-605f2550.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-trabalhar-8cf5ebeb",
+      "pt": "eu vou trabalhar",
+      "fr": "je vais travailler",
+      "phon": "eu vou trabalyar",
+      "files": {
+        "normal": "audio/0124-eu-vou-trabalhar-8cf5ebeb.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-trazer-b70d9c4f",
+      "pt": "eu vou trazer",
+      "fr": "je vais apporter",
+      "phon": "eu vou trazer",
+      "files": {
+        "normal": "audio/0125-eu-vou-trazer-b70d9c4f.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-ver-aae05fa2",
+      "pt": "eu vou ver",
+      "fr": "je vais voir",
+      "phon": "eu vou ver",
+      "files": {
+        "normal": "audio/0126-eu-vou-ver-aae05fa2.mp3"
+      }
+    },
+    {
+      "id": "eu-vou-viajar-23da8e34",
+      "pt": "eu vou viajar",
+      "fr": "je vais voyager",
+      "phon": "eu vou viajar",
+      "files": {
+        "normal": "audio/0127-eu-vou-viajar-23da8e34.mp3"
+      }
+    },
+    {
+      "id": "familia-f851ff6b",
+      "pt": "família",
+      "fr": "famille",
+      "phon": "familia",
+      "files": {
+        "normal": "audio/0128-familia-f851ff6b.mp3"
+      }
+    },
+    {
+      "id": "febre-8a5bba8c",
+      "pt": "febre",
+      "fr": "fièvre",
+      "phon": "febré",
+      "files": {
+        "normal": "audio/0129-febre-8a5bba8c.mp3"
+      }
+    },
+    {
+      "id": "feira-53b766fa",
+      "pt": "feira",
+      "fr": "marché (foire)",
+      "phon": "feira",
+      "files": {
+        "normal": "audio/0130-feira-53b766fa.mp3"
+      }
+    },
+    {
+      "id": "ferias-7ecc7aa7",
+      "pt": "ferias",
+      "fr": "vacances",
+      "phon": "ferias",
+      "files": {
+        "normal": "audio/0131-ferias-7ecc7aa7.mp3"
+      }
+    },
+    {
+      "id": "ferramenta-5918c97f",
+      "pt": "ferramenta",
+      "fr": "outil",
+      "phon": "fehamenta",
+      "files": {
+        "normal": "audio/0132-ferramenta-5918c97f.mp3"
+      }
+    },
+    {
+      "id": "fevereiro-f804fc02",
+      "pt": "fevereiro",
+      "fr": "février",
+      "phon": "fevereirou",
+      "files": {
+        "normal": "audio/0133-fevereiro-f804fc02.mp3"
+      }
+    },
+    {
+      "id": "fila-47a5d765",
+      "pt": "fila",
+      "fr": "file d’attente",
+      "phon": "fila",
+      "files": {
+        "normal": "audio/0134-fila-47a5d765.mp3"
       }
     },
     {
       "id": "filha-ecc0f8f2",
       "pt": "filha",
       "fr": "fille",
-      "phon": "fi-lya",
+      "phon": "filya",
       "files": {
-        "normal": "audio/0018-filha-ecc0f8f2.mp3"
+        "normal": "audio/0135-filha-ecc0f8f2.mp3"
+      }
+    },
+    {
+      "id": "filho-b85520b6",
+      "pt": "filho",
+      "fr": "fils",
+      "phon": "filyou",
+      "files": {
+        "normal": "audio/0136-filho-b85520b6.mp3"
+      }
+    },
+    {
+      "id": "frete-0470df3a",
+      "pt": "frete",
+      "fr": "frais de port",
+      "phon": "freté",
+      "files": {
+        "normal": "audio/0137-frete-0470df3a.mp3"
+      }
+    },
+    {
+      "id": "furto-446937b9",
+      "pt": "furto",
+      "fr": "vol",
+      "phon": "furtou",
+      "files": {
+        "normal": "audio/0138-furto-446937b9.mp3"
+      }
+    },
+    {
+      "id": "garcom-308b8a20",
+      "pt": "garçom",
+      "fr": "serveur",
+      "phon": "garssom",
+      "files": {
+        "normal": "audio/0139-garcom-308b8a20.mp3"
+      }
+    },
+    {
+      "id": "gosto-de-7dda4356",
+      "pt": "gosto de…",
+      "fr": "j’aime…",
+      "phon": "gostou dé…",
+      "files": {
+        "normal": "audio/0140-gosto-de-7dda4356.mp3"
+      }
+    },
+    {
+      "id": "guarda-sol-30d407ab",
+      "pt": "guarda-sol",
+      "fr": "parasol",
+      "phon": "guarda-sol",
+      "files": {
+        "normal": "audio/0141-guarda-sol-30d407ab.mp3"
+      }
+    },
+    {
+      "id": "historia-1d89bb0f",
+      "pt": "história",
+      "fr": "histoire",
+      "phon": "historia",
+      "files": {
+        "normal": "audio/0142-historia-1d89bb0f.mp3"
+      }
+    },
+    {
+      "id": "hoje-b5364edb",
+      "pt": "hoje",
+      "fr": "aujourd’hui",
+      "phon": "hojé",
+      "files": {
+        "normal": "audio/0143-hoje-b5364edb.mp3"
+      }
+    },
+    {
+      "id": "incendio-f84826e0",
+      "pt": "incêndio",
+      "fr": "incendie",
+      "phon": "incendjïou",
+      "files": {
+        "normal": "audio/0144-incendio-f84826e0.mp3"
+      }
+    },
+    {
+      "id": "irma-2aec3dfc",
+      "pt": "irmã",
+      "fr": "soeur",
+      "phon": "irmãn",
+      "files": {
+        "normal": "audio/0145-irma-2aec3dfc.mp3"
+      }
+    },
+    {
+      "id": "irmao-1fa174dc",
+      "pt": "irmão",
+      "fr": "frère",
+      "phon": "irmãnw",
+      "files": {
+        "normal": "audio/0146-irmao-1fa174dc.mp3"
+      }
+    },
+    {
+      "id": "janeiro-3fbb4496",
+      "pt": "janeiro",
+      "fr": "janvier",
+      "phon": "janeirou",
+      "files": {
+        "normal": "audio/0147-janeiro-3fbb4496.mp3"
+      }
+    },
+    {
+      "id": "lembranca-4fac1648",
+      "pt": "lembrança",
+      "fr": "souvenir",
+      "phon": "lembranssa",
+      "files": {
+        "normal": "audio/0148-lembranca-4fac1648.mp3"
+      }
+    },
+    {
+      "id": "ligacao-eca046c1",
+      "pt": "ligação",
+      "fr": "appel (téléphone)",
+      "phon": "ligassãnw",
+      "files": {
+        "normal": "audio/0149-ligacao-eca046c1.mp3"
+      }
+    },
+    {
+      "id": "login-2736fab2",
+      "pt": "login",
+      "fr": "connexion",
+      "phon": "lojin",
+      "files": {
+        "normal": "audio/0150-login-2736fab2.mp3"
+      }
+    },
+    {
+      "id": "lampada-e2af9f55",
+      "pt": "lâmpada",
+      "fr": "ampoule",
+      "phon": "lampada",
+      "files": {
+        "normal": "audio/0151-lampada-e2af9f55.mp3"
+      }
+    },
+    {
+      "id": "mais-tarde-268a3c92",
+      "pt": "mais tarde",
+      "fr": "plus tard",
+      "phon": "mais tardé",
+      "files": {
+        "normal": "audio/0152-mais-tarde-268a3c92.mp3"
+      }
+    },
+    {
+      "id": "mapa-4a472d01",
+      "pt": "mapa",
+      "fr": "plan / carte",
+      "phon": "mapa",
+      "files": {
+        "normal": "audio/0153-mapa-4a472d01.mp3"
       }
     },
     {
@@ -170,241 +1385,7 @@
       "fr": "mari",
       "phon": "maridou",
       "files": {
-        "normal": "audio/0019-marido-e4b88e75.mp3"
-      }
-    },
-    {
-      "id": "esposa-39dea479",
-      "pt": "esposa",
-      "fr": "épouse",
-      "phon": "éspôza",
-      "files": {
-        "normal": "audio/0020-esposa-39dea479.mp3"
-      }
-    },
-    {
-      "id": "meu-filho-tem-oito-anos-8a7d2cea",
-      "pt": "meu filho tem oito anos",
-      "fr": "mon fils a huit ans",
-      "phon": "méou fi-lyo tẽ oïto anous",
-      "files": {
-        "normal": "audio/0021-meu-filho-tem-oito-anos-8a7d2cea.mp3"
-      }
-    },
-    {
-      "id": "eu-tenho-5a651b8c",
-      "pt": "eu tenho",
-      "fr": "j’ai",
-      "phon": "éou tẽ-nyo",
-      "files": {
-        "normal": "audio/0022-eu-tenho-5a651b8c.mp3"
-      }
-    },
-    {
-      "id": "voce-tem-069f89ff",
-      "pt": "você tem",
-      "fr": "tu as / vous avez (sing.)",
-      "phon": "vosé tẽ",
-      "files": {
-        "normal": "audio/0023-voce-tem-069f89ff.mp3"
-      }
-    },
-    {
-      "id": "nossa-familia-e-grande-a6e0cde3",
-      "pt": "nossa família é grande",
-      "fr": "notre famille est grande",
-      "phon": "nossa famil-ya é grandji",
-      "files": {
-        "normal": "audio/0024-nossa-familia-e-grande-a6e0cde3.mp3"
-      }
-    },
-    {
-      "id": "um-dois-tres-4b427721",
-      "pt": "um, dois, três",
-      "fr": "un, deux, trois",
-      "phon": "oun, doïss, trêss",
-      "files": {
-        "normal": "audio/0025-um-dois-tres-4b427721.mp3"
-      }
-    },
-    {
-      "id": "quatro-cinco-seis-1a0e1330",
-      "pt": "quatro, cinco, seis",
-      "fr": "quatre, cinq, six",
-      "phon": "kouatrou, sinkou, seïs",
-      "files": {
-        "normal": "audio/0026-quatro-cinco-seis-1a0e1330.mp3"
-      }
-    },
-    {
-      "id": "sete-oito-nove-2eda37a3",
-      "pt": "sete, oito, nove",
-      "fr": "sept, huit, neuf",
-      "phon": "sè-tchi, oïto, novè",
-      "files": {
-        "normal": "audio/0027-sete-oito-nove-2eda37a3.mp3"
-      }
-    },
-    {
-      "id": "dez-b5ab4a29",
-      "pt": "dez",
-      "fr": "dix",
-      "phon": "dèss",
-      "files": {
-        "normal": "audio/0028-dez-b5ab4a29.mp3"
-      }
-    },
-    {
-      "id": "quantos-anos-voce-tem-c7c6c995",
-      "pt": "quantos anos você tem?",
-      "fr": "tu as quel âge ?",
-      "phon": "kouantos anous vosé tẽ",
-      "files": {
-        "normal": "audio/0029-quantos-anos-voce-tem-c7c6c995.mp3"
-      }
-    },
-    {
-      "id": "eu-tenho-vinte-anos-392909ee",
-      "pt": "eu tenho vinte anos",
-      "fr": "j’ai vingt ans",
-      "phon": "éou tẽ-nyo vintchi anous",
-      "files": {
-        "normal": "audio/0030-eu-tenho-vinte-anos-392909ee.mp3"
-      }
-    },
-    {
-      "id": "primeiro-26d0c603",
-      "pt": "primeiro",
-      "fr": "premier",
-      "phon": "primèïrou",
-      "files": {
-        "normal": "audio/0031-primeiro-26d0c603.mp3"
-      }
-    },
-    {
-      "id": "segundo-d899f3b9",
-      "pt": "segundo",
-      "fr": "deuxième",
-      "phon": "ségu-ndou",
-      "files": {
-        "normal": "audio/0032-segundo-d899f3b9.mp3"
-      }
-    },
-    {
-      "id": "terceiro-9e4dabac",
-      "pt": "terceiro",
-      "fr": "troisième",
-      "phon": "tersèïrou",
-      "files": {
-        "normal": "audio/0033-terceiro-9e4dabac.mp3"
-      }
-    },
-    {
-      "id": "eu-quero-8d99869f",
-      "pt": "eu quero",
-      "fr": "je veux",
-      "phon": "éou ké-rou",
-      "files": {
-        "normal": "audio/0034-eu-quero-8d99869f.mp3"
-      }
-    },
-    {
-      "id": "voce-quer-07754c85",
-      "pt": "você quer",
-      "fr": "tu veux / vous voulez (sing.)",
-      "phon": "vosé ké",
-      "files": {
-        "normal": "audio/0035-voce-quer-07754c85.mp3"
-      }
-    },
-    {
-      "id": "eu-tenho-dois-irmaos-0c0fbc92",
-      "pt": "eu tenho dois irmãos",
-      "fr": "j’ai deux frères",
-      "phon": "éou tẽ-nyo doïss irmãños",
-      "files": {
-        "normal": "audio/0036-eu-tenho-dois-irmaos-0c0fbc92.mp3"
-      }
-    },
-    {
-      "id": "segunda-feira-f362171c",
-      "pt": "segunda-feira",
-      "fr": "lundi",
-      "phon": "sègounda fêïra",
-      "files": {
-        "normal": "audio/0037-segunda-feira-f362171c.mp3"
-      }
-    },
-    {
-      "id": "terca-feira-5e0e7781",
-      "pt": "terça-feira",
-      "fr": "mardi",
-      "phon": "tersa fêïra",
-      "files": {
-        "normal": "audio/0038-terca-feira-5e0e7781.mp3"
-      }
-    },
-    {
-      "id": "quarta-feira-60b1473c",
-      "pt": "quarta-feira",
-      "fr": "mercredi",
-      "phon": "kouarta fêïra",
-      "files": {
-        "normal": "audio/0039-quarta-feira-60b1473c.mp3"
-      }
-    },
-    {
-      "id": "quinta-feira-48f8d2fa",
-      "pt": "quinta-feira",
-      "fr": "jeudi",
-      "phon": "kinta fêïra",
-      "files": {
-        "normal": "audio/0040-quinta-feira-48f8d2fa.mp3"
-      }
-    },
-    {
-      "id": "sexta-feira-b5a183f5",
-      "pt": "sexta-feira",
-      "fr": "vendredi",
-      "phon": "seïchta fêïra",
-      "files": {
-        "normal": "audio/0041-sexta-feira-b5a183f5.mp3"
-      }
-    },
-    {
-      "id": "sabado-1e73aa8e",
-      "pt": "sábado",
-      "fr": "samedi",
-      "phon": "sabado",
-      "files": {
-        "normal": "audio/0042-sabado-1e73aa8e.mp3"
-      }
-    },
-    {
-      "id": "domingo-da416310",
-      "pt": "domingo",
-      "fr": "dimanche",
-      "phon": "domingu",
-      "files": {
-        "normal": "audio/0043-domingo-da416310.mp3"
-      }
-    },
-    {
-      "id": "janeiro-3fbb4496",
-      "pt": "janeiro",
-      "fr": "janvier",
-      "phon": "janèïrou",
-      "files": {
-        "normal": "audio/0044-janeiro-3fbb4496.mp3"
-      }
-    },
-    {
-      "id": "fevereiro-f804fc02",
-      "pt": "fevereiro",
-      "fr": "février",
-      "phon": "féverèïrou",
-      "files": {
-        "normal": "audio/0045-fevereiro-f804fc02.mp3"
+        "normal": "audio/0154-marido-e4b88e75.mp3"
       }
     },
     {
@@ -413,889 +1394,799 @@
       "fr": "mars",
       "phon": "marssou",
       "files": {
-        "normal": "audio/0046-marco-f9943b23.mp3"
+        "normal": "audio/0155-marco-f9943b23.mp3"
       }
     },
     {
-      "id": "eu-vou-073bca2e",
-      "pt": "eu vou",
-      "fr": "je vais",
-      "phon": "éou vou",
+      "id": "mensagem-d3d357c1",
+      "pt": "mensagem",
+      "fr": "message",
+      "phon": "mensajèm",
       "files": {
-        "normal": "audio/0047-eu-vou-073bca2e.mp3"
-      }
-    },
-    {
-      "id": "voce-vai-c02ee935",
-      "pt": "você vai",
-      "fr": "tu vas / vous allez (sing.)",
-      "phon": "vosé vaï",
-      "files": {
-        "normal": "audio/0048-voce-vai-c02ee935.mp3"
-      }
-    },
-    {
-      "id": "vermelho-79f2b39a",
-      "pt": "vermelho",
-      "fr": "rouge",
-      "phon": "vermè-lyo",
-      "files": {
-        "normal": "audio/0049-vermelho-79f2b39a.mp3"
-      }
-    },
-    {
-      "id": "azul-1768d39c",
-      "pt": "azul",
-      "fr": "bleu",
-      "phon": "azoul",
-      "files": {
-        "normal": "audio/0050-azul-1768d39c.mp3"
-      }
-    },
-    {
-      "id": "amarelo-985037bf",
-      "pt": "amarelo",
-      "fr": "jaune",
-      "phon": "amarè-lou",
-      "files": {
-        "normal": "audio/0051-amarelo-985037bf.mp3"
-      }
-    },
-    {
-      "id": "verde-2030abee",
-      "pt": "verde",
-      "fr": "vert",
-      "phon": "verdji",
-      "files": {
-        "normal": "audio/0052-verde-2030abee.mp3"
-      }
-    },
-    {
-      "id": "preto-eb60d10d",
-      "pt": "preto",
-      "fr": "noir",
-      "phon": "prê-tou",
-      "files": {
-        "normal": "audio/0053-preto-eb60d10d.mp3"
-      }
-    },
-    {
-      "id": "branco-e6c28d71",
-      "pt": "branco",
-      "fr": "blanc",
-      "phon": "bran-cou",
-      "files": {
-        "normal": "audio/0054-branco-e6c28d71.mp3"
-      }
-    },
-    {
-      "id": "rosa-5efc86ca",
-      "pt": "rosa",
-      "fr": "rose",
-      "phon": "roza",
-      "files": {
-        "normal": "audio/0055-rosa-5efc86ca.mp3"
-      }
-    },
-    {
-      "id": "laranja-4571e3d8",
-      "pt": "laranja",
-      "fr": "orange",
-      "phon": "laranj-a",
-      "files": {
-        "normal": "audio/0056-laranja-4571e3d8.mp3"
-      }
-    },
-    {
-      "id": "cinza-32a05be7",
-      "pt": "cinza",
-      "fr": "gris",
-      "phon": "sîn-za",
-      "files": {
-        "normal": "audio/0057-cinza-32a05be7.mp3"
-      }
-    },
-    {
-      "id": "eu-gosto-ae5ebea4",
-      "pt": "eu gosto",
-      "fr": "j’aime",
-      "phon": "éou gostou",
-      "files": {
-        "normal": "audio/0058-eu-gosto-ae5ebea4.mp3"
-      }
-    },
-    {
-      "id": "voce-gosta-d2ca052e",
-      "pt": "você gosta",
-      "fr": "tu aimes / vous aimez (sing.)",
-      "phon": "vosé gôsta",
-      "files": {
-        "normal": "audio/0059-voce-gosta-d2ca052e.mp3"
-      }
-    },
-    {
-      "id": "minha-cor-favorita-e-azul-a3f24d22",
-      "pt": "minha cor favorita é azul",
-      "fr": "ma couleur préférée est le bleu",
-      "phon": "mi-nya corr favorîta é azoul",
-      "files": {
-        "normal": "audio/0060-minha-cor-favorita-e-azul-a3f24d22.mp3"
-      }
-    },
-    {
-      "id": "casa-81bce1f3",
-      "pt": "casa",
-      "fr": "maison",
-      "phon": "caza",
-      "files": {
-        "normal": "audio/0061-casa-81bce1f3.mp3"
-      }
-    },
-    {
-      "id": "quarto-ad25d1cf",
-      "pt": "quarto",
-      "fr": "chambre",
-      "phon": "kouarto",
-      "files": {
-        "normal": "audio/0062-quarto-ad25d1cf.mp3"
-      }
-    },
-    {
-      "id": "sala-9a2505d5",
-      "pt": "sala",
-      "fr": "salon",
-      "phon": "sala",
-      "files": {
-        "normal": "audio/0063-sala-9a2505d5.mp3"
-      }
-    },
-    {
-      "id": "cozinha-d4ca9c86",
-      "pt": "cozinha",
-      "fr": "cuisine",
-      "phon": "kouzi-nya",
-      "files": {
-        "normal": "audio/0064-cozinha-d4ca9c86.mp3"
-      }
-    },
-    {
-      "id": "banheiro-ab24c5bf",
-      "pt": "banheiro",
-      "fr": "salle de bain / toilettes",
-      "phon": "banyèrrou",
-      "files": {
-        "normal": "audio/0065-banheiro-ab24c5bf.mp3"
-      }
-    },
-    {
-      "id": "janela-e9215e0d",
-      "pt": "janela",
-      "fr": "fenêtre",
-      "phon": "janè-la",
-      "files": {
-        "normal": "audio/0066-janela-e9215e0d.mp3"
-      }
-    },
-    {
-      "id": "porta-9fa417be",
-      "pt": "porta",
-      "fr": "porte",
-      "phon": "porta",
-      "files": {
-        "normal": "audio/0067-porta-9fa417be.mp3"
-      }
-    },
-    {
-      "id": "cama-1bef95ab",
-      "pt": "cama",
-      "fr": "lit",
-      "phon": "cama",
-      "files": {
-        "normal": "audio/0068-cama-1bef95ab.mp3"
-      }
-    },
-    {
-      "id": "mesa-f04cc316",
-      "pt": "mesa",
-      "fr": "table",
-      "phon": "méza",
-      "files": {
-        "normal": "audio/0069-mesa-f04cc316.mp3"
-      }
-    },
-    {
-      "id": "eu-moro-aqui-b926fcf1",
-      "pt": "eu moro aqui",
-      "fr": "j’habite ici",
-      "phon": "éou moro aki",
-      "files": {
-        "normal": "audio/0070-eu-moro-aqui-b926fcf1.mp3"
-      }
-    },
-    {
-      "id": "eu-preciso-ad48069b",
-      "pt": "eu preciso",
-      "fr": "j’ai besoin",
-      "phon": "éou présizo",
-      "files": {
-        "normal": "audio/0071-eu-preciso-ad48069b.mp3"
-      }
-    },
-    {
-      "id": "voce-precisa-827a3885",
-      "pt": "você precisa",
-      "fr": "tu as besoin / vous avez besoin (sing.)",
-      "phon": "vosé présiza",
-      "files": {
-        "normal": "audio/0072-voce-precisa-827a3885.mp3"
-      }
-    },
-    {
-      "id": "celular-c99f0773",
-      "pt": "celular",
-      "fr": "téléphone portable",
-      "phon": "céloularr",
-      "files": {
-        "normal": "audio/0073-celular-c99f0773.mp3"
-      }
-    },
-    {
-      "id": "computador-bccdcb8b",
-      "pt": "computador",
-      "fr": "ordinateur",
-      "phon": "computa-dorr",
-      "files": {
-        "normal": "audio/0074-computador-bccdcb8b.mp3"
-      }
-    },
-    {
-      "id": "carteira-31ee30a2",
-      "pt": "carteira",
-      "fr": "portefeuille",
-      "phon": "cartèïra",
-      "files": {
-        "normal": "audio/0075-carteira-31ee30a2.mp3"
-      }
-    },
-    {
-      "id": "oculos-a8d6bdc5",
-      "pt": "óculos",
-      "fr": "lunettes",
-      "phon": "okoulous",
-      "files": {
-        "normal": "audio/0076-oculos-a8d6bdc5.mp3"
-      }
-    },
-    {
-      "id": "chave-dca6ea9a",
-      "pt": "chave",
-      "fr": "clé",
-      "phon": "chavi",
-      "files": {
-        "normal": "audio/0077-chave-dca6ea9a.mp3"
-      }
-    },
-    {
-      "id": "bolsa-8ae69eed",
-      "pt": "bolsa",
-      "fr": "sac",
-      "phon": "bolsa",
-      "files": {
-        "normal": "audio/0078-bolsa-8ae69eed.mp3"
-      }
-    },
-    {
-      "id": "relogio-3c1fcfac",
-      "pt": "relógio",
-      "fr": "montre",
-      "phon": "hélodjo",
-      "files": {
-        "normal": "audio/0079-relogio-3c1fcfac.mp3"
-      }
-    },
-    {
-      "id": "mochila-a02f4c78",
-      "pt": "mochila",
-      "fr": "sac à dos",
-      "phon": "mochila",
-      "files": {
-        "normal": "audio/0080-mochila-a02f4c78.mp3"
-      }
-    },
-    {
-      "id": "carregador-f16b82ad",
-      "pt": "carregador",
-      "fr": "chargeur",
-      "phon": "carregadorr",
-      "files": {
-        "normal": "audio/0081-carregador-f16b82ad.mp3"
-      }
-    },
-    {
-      "id": "eu-trago-c801329c",
-      "pt": "eu trago",
-      "fr": "j’apporte",
-      "phon": "éou trago",
-      "files": {
-        "normal": "audio/0082-eu-trago-c801329c.mp3"
-      }
-    },
-    {
-      "id": "voce-traz-39312857",
-      "pt": "você traz",
-      "fr": "tu apportes / vous apportez (sing.)",
-      "phon": "vosé traz",
-      "files": {
-        "normal": "audio/0083-voce-traz-39312857.mp3"
-      }
-    },
-    {
-      "id": "onde-esta-meu-celular-210e0f89",
-      "pt": "onde está meu celular?",
-      "fr": "où est mon téléphone ?",
-      "phon": "ondji éstá méou céloularr",
-      "files": {
-        "normal": "audio/0084-onde-esta-meu-celular-210e0f89.mp3"
-      }
-    },
-    {
-      "id": "pao-3464c04f",
-      "pt": "pão",
-      "fr": "pain",
-      "phon": "pãn",
-      "files": {
-        "normal": "audio/0085-pao-3464c04f.mp3"
-      }
-    },
-    {
-      "id": "arroz-fa9db510",
-      "pt": "arroz",
-      "fr": "riz",
-      "phon": "ar-hoss",
-      "files": {
-        "normal": "audio/0086-arroz-fa9db510.mp3"
-      }
-    },
-    {
-      "id": "feijao-182821d3",
-      "pt": "feijão",
-      "fr": "haricots (noirs)",
-      "phon": "feijãw",
-      "files": {
-        "normal": "audio/0087-feijao-182821d3.mp3"
-      }
-    },
-    {
-      "id": "frango-07dd38db",
-      "pt": "frango",
-      "fr": "poulet",
-      "phon": "frango",
-      "files": {
-        "normal": "audio/0088-frango-07dd38db.mp3"
-      }
-    },
-    {
-      "id": "carne-8ecc854e",
-      "pt": "carne",
-      "fr": "viande",
-      "phon": "carni",
-      "files": {
-        "normal": "audio/0089-carne-8ecc854e.mp3"
-      }
-    },
-    {
-      "id": "peixe-45620bd6",
-      "pt": "peixe",
-      "fr": "poisson",
-      "phon": "peïchi",
-      "files": {
-        "normal": "audio/0090-peixe-45620bd6.mp3"
-      }
-    },
-    {
-      "id": "salada-e7c54bfd",
-      "pt": "salada",
-      "fr": "salade",
-      "phon": "salada",
-      "files": {
-        "normal": "audio/0091-salada-e7c54bfd.mp3"
-      }
-    },
-    {
-      "id": "fruta-1ea8c03f",
-      "pt": "fruta",
-      "fr": "fruit",
-      "phon": "frouta",
-      "files": {
-        "normal": "audio/0092-fruta-1ea8c03f.mp3"
-      }
-    },
-    {
-      "id": "legumes-b4da5edf",
-      "pt": "legumes",
-      "fr": "légumes",
-      "phon": "légoumiss",
-      "files": {
-        "normal": "audio/0093-legumes-b4da5edf.mp3"
-      }
-    },
-    {
-      "id": "eu-como-b297a8d4",
-      "pt": "eu como",
-      "fr": "je mange",
-      "phon": "éou komou",
-      "files": {
-        "normal": "audio/0094-eu-como-b297a8d4.mp3"
-      }
-    },
-    {
-      "id": "voce-come-ae4addbc",
-      "pt": "você come",
-      "fr": "tu manges / vous mangez (sing.)",
-      "phon": "vosé komè",
-      "files": {
-        "normal": "audio/0095-voce-come-ae4addbc.mp3"
-      }
-    },
-    {
-      "id": "eu-quero-um-prato-de-arroz-e-feijao-1ac2bd2d",
-      "pt": "eu quero um prato de arroz e feijão",
-      "fr": "je veux un plat de riz et haricots",
-      "phon": "éou ké-rou oun prato djé ar-hoss i feijãw",
-      "files": {
-        "normal": "audio/0096-eu-quero-um-prato-de-arroz-e-feijao-1ac2bd2d.mp3"
-      }
-    },
-    {
-      "id": "agua-513cba58",
-      "pt": "água",
-      "fr": "eau",
-      "phon": "agoua",
-      "files": {
-        "normal": "audio/0097-agua-513cba58.mp3"
-      }
-    },
-    {
-      "id": "cafe-f424452a",
-      "pt": "café",
-      "fr": "café",
-      "phon": "cafè",
-      "files": {
-        "normal": "audio/0098-cafe-f424452a.mp3"
-      }
-    },
-    {
-      "id": "cha-a1f7a686",
-      "pt": "chá",
-      "fr": "thé",
-      "phon": "cha",
-      "files": {
-        "normal": "audio/0099-cha-a1f7a686.mp3"
-      }
-    },
-    {
-      "id": "suco-034af408",
-      "pt": "suco",
-      "fr": "jus",
-      "phon": "soukou",
-      "files": {
-        "normal": "audio/0100-suco-034af408.mp3"
-      }
-    },
-    {
-      "id": "leite-beb967c0",
-      "pt": "leite",
-      "fr": "lait",
-      "phon": "leïtchi",
-      "files": {
-        "normal": "audio/0101-leite-beb967c0.mp3"
-      }
-    },
-    {
-      "id": "cerveja-d7c0bc95",
-      "pt": "cerveja",
-      "fr": "bière",
-      "phon": "servè-ja",
-      "files": {
-        "normal": "audio/0102-cerveja-d7c0bc95.mp3"
-      }
-    },
-    {
-      "id": "vinho-798a84bb",
-      "pt": "vinho",
-      "fr": "vin",
-      "phon": "vi-nyo",
-      "files": {
-        "normal": "audio/0103-vinho-798a84bb.mp3"
-      }
-    },
-    {
-      "id": "sem-acucar-3eb694a3",
-      "pt": "sem açúcar",
-      "fr": "sans sucre",
-      "phon": "sèṅ azoukar",
-      "files": {
-        "normal": "audio/0104-sem-acucar-3eb694a3.mp3"
-      }
-    },
-    {
-      "id": "com-gelo-bc0df6bb",
-      "pt": "com gelo",
-      "fr": "avec des glaçons",
-      "phon": "kong jélo",
-      "files": {
-        "normal": "audio/0105-com-gelo-bc0df6bb.mp3"
-      }
-    },
-    {
-      "id": "eu-bebo-8f162182",
-      "pt": "eu bebo",
-      "fr": "je bois",
-      "phon": "éou bébou",
-      "files": {
-        "normal": "audio/0106-eu-bebo-8f162182.mp3"
-      }
-    },
-    {
-      "id": "voce-bebe-675aaca7",
-      "pt": "você bebe",
-      "fr": "tu bois / vous buvez (sing.)",
-      "phon": "vosé bébè",
-      "files": {
-        "normal": "audio/0107-voce-bebe-675aaca7.mp3"
-      }
-    },
-    {
-      "id": "um-cafe-por-favor-036c2b9e",
-      "pt": "um café, por favor",
-      "fr": "un café, s’il vous plaît",
-      "phon": "oun cafè, pour favorr",
-      "files": {
-        "normal": "audio/0108-um-cafe-por-favor-036c2b9e.mp3"
-      }
-    },
-    {
-      "id": "professor-professora-45c971c3",
-      "pt": "professor / professora",
-      "fr": "professeur / professeure",
-      "phon": "professorr / professora",
-      "files": {
-        "normal": "audio/0109-professor-professora-45c971c3.mp3"
-      }
-    },
-    {
-      "id": "aluno-aluna-603cd2c6",
-      "pt": "aluno / aluna",
-      "fr": "élève (m/f)",
-      "phon": "alounou / alouna",
-      "files": {
-        "normal": "audio/0110-aluno-aluna-603cd2c6.mp3"
-      }
-    },
-    {
-      "id": "caderno-ece98ae9",
-      "pt": "caderno",
-      "fr": "cahier",
-      "phon": "cadernou",
-      "files": {
-        "normal": "audio/0111-caderno-ece98ae9.mp3"
-      }
-    },
-    {
-      "id": "lapis-81d05f0e",
-      "pt": "lápis",
-      "fr": "crayon",
-      "phon": "lapiss",
-      "files": {
-        "normal": "audio/0112-lapis-81d05f0e.mp3"
-      }
-    },
-    {
-      "id": "caneta-56481346",
-      "pt": "caneta",
-      "fr": "stylo",
-      "phon": "canèta",
-      "files": {
-        "normal": "audio/0113-caneta-56481346.mp3"
-      }
-    },
-    {
-      "id": "borracha-cb9c0b7f",
-      "pt": "borracha",
-      "fr": "gomme",
-      "phon": "borracha",
-      "files": {
-        "normal": "audio/0114-borracha-cb9c0b7f.mp3"
-      }
-    },
-    {
-      "id": "quadro-d5d5d8e1",
-      "pt": "quadro",
-      "fr": "tableau (classe)",
-      "phon": "kouadro",
-      "files": {
-        "normal": "audio/0115-quadro-d5d5d8e1.mp3"
-      }
-    },
-    {
-      "id": "licao-de-casa-94c71658",
-      "pt": "lição de casa",
-      "fr": "devoirs",
-      "phon": "lissãw djé caza",
-      "files": {
-        "normal": "audio/0116-licao-de-casa-94c71658.mp3"
-      }
-    },
-    {
-      "id": "eu-estudo-f08d2837",
-      "pt": "eu estudo",
-      "fr": "j’étudie",
-      "phon": "éou istoudou",
-      "files": {
-        "normal": "audio/0117-eu-estudo-f08d2837.mp3"
-      }
-    },
-    {
-      "id": "voce-estuda-0f1a73e5",
-      "pt": "você estuda",
-      "fr": "tu étudies / vous étudiez (sing.)",
-      "phon": "vosé istouda",
-      "files": {
-        "normal": "audio/0118-voce-estuda-0f1a73e5.mp3"
-      }
-    },
-    {
-      "id": "posso-ir-ao-banheiro-406ecef7",
-      "pt": "posso ir ao banheiro?",
-      "fr": "je peux aller aux toilettes ?",
-      "phon": "posso ir aou banyèrrou",
-      "files": {
-        "normal": "audio/0119-posso-ir-ao-banheiro-406ecef7.mp3"
-      }
-    },
-    {
-      "id": "repete-por-favor-c7488b52",
-      "pt": "repete, por favor",
-      "fr": "répète, s’il te plaît",
-      "phon": "hépetchi, pour favor",
-      "files": {
-        "normal": "audio/0120-repete-por-favor-c7488b52.mp3"
-      }
-    },
-    {
-      "id": "carro-3959fc61",
-      "pt": "carro",
-      "fr": "voiture",
-      "phon": "carro",
-      "files": {
-        "normal": "audio/0121-carro-3959fc61.mp3"
-      }
-    },
-    {
-      "id": "onibus-5d9a02c3",
-      "pt": "ônibus",
-      "fr": "bus",
-      "phon": "onibous",
-      "files": {
-        "normal": "audio/0122-onibus-5d9a02c3.mp3"
+        "normal": "audio/0156-mensagem-d3d357c1.mp3"
       }
     },
     {
       "id": "metro-f3aca16b",
       "pt": "metrô",
       "fr": "métro",
-      "phon": "métrô",
+      "phon": "metrou",
       "files": {
-        "normal": "audio/0123-metro-f3aca16b.mp3"
+        "normal": "audio/0157-metro-f3aca16b.mp3"
+      }
+    },
+    {
+      "id": "meu-nome-e-1dda55b7",
+      "pt": "meu nome é…",
+      "fr": "je m’appelle…",
+      "phon": "meu nomé è…",
+      "files": {
+        "normal": "audio/0158-meu-nome-e-1dda55b7.mp3"
+      }
+    },
+    {
+      "id": "muito-obrigado-4f77f39b",
+      "pt": "muito obrigado",
+      "fr": "merci beaucoup (homme)",
+      "phon": "muitou obrigadou",
+      "files": {
+        "normal": "audio/0159-muito-obrigado-4f77f39b.mp3"
+      }
+    },
+    {
+      "id": "mae-c936707e",
+      "pt": "mãe",
+      "fr": "maman",
+      "phon": "mãnï",
+      "files": {
+        "normal": "audio/0160-mae-c936707e.mp3"
+      }
+    },
+    {
+      "id": "namorado-namorada-a9cb2ca3",
+      "pt": "namorado / namorada",
+      "fr": "petit ami / petite amie",
+      "phon": "namoradou / namorada",
+      "files": {
+        "normal": "audio/0161-namorado-namorada-a9cb2ca3.mp3"
+      }
+    },
+    {
+      "id": "nota-fiscal-1d3b069c",
+      "pt": "nota fiscal",
+      "fr": "facture / ticket de caisse",
+      "phon": "nota fiscal",
+      "files": {
+        "normal": "audio/0162-nota-fiscal-1d3b069c.mp3"
+      }
+    },
+    {
+      "id": "nove-7f52fd19",
+      "pt": "nove",
+      "fr": "neuf",
+      "phon": "nové",
+      "files": {
+        "normal": "audio/0163-nove-7f52fd19.mp3"
+      }
+    },
+    {
+      "id": "nao-23f93a61",
+      "pt": "não",
+      "fr": "non",
+      "phon": "nãnw",
+      "files": {
+        "normal": "audio/0164-nao-23f93a61.mp3"
+      }
+    },
+    {
+      "id": "nao-gosto-de-715aadb1",
+      "pt": "não gosto de…",
+      "fr": "je n’aime pas…",
+      "phon": "nãnw gostou dé…",
+      "files": {
+        "normal": "audio/0165-nao-gosto-de-715aadb1.mp3"
+      }
+    },
+    {
+      "id": "oi-ef67e086",
+      "pt": "oi",
+      "fr": "salut",
+      "phon": "oi",
+      "files": {
+        "normal": "audio/0166-oi-ef67e086.mp3"
+      }
+    },
+    {
+      "id": "oito-2a67c257",
+      "pt": "oito",
+      "fr": "huit",
+      "phon": "oitou",
+      "files": {
+        "normal": "audio/0167-oito-2a67c257.mp3"
+      }
+    },
+    {
+      "id": "olhos-b97aa341",
+      "pt": "olhos",
+      "fr": "yeux",
+      "phon": "olyos",
+      "files": {
+        "normal": "audio/0168-olhos-b97aa341.mp3"
+      }
+    },
+    {
+      "id": "onde-9d6c7e15",
+      "pt": "onde?",
+      "fr": "où ?",
+      "phon": "ondé?",
+      "files": {
+        "normal": "audio/0169-onde-9d6c7e15.mp3"
+      }
+    },
+    {
+      "id": "ontem-4a127553",
+      "pt": "ontem",
+      "fr": "hier",
+      "phon": "ontem",
+      "files": {
+        "normal": "audio/0170-ontem-4a127553.mp3"
+      }
+    },
+    {
+      "id": "opiniao-1024adfc",
+      "pt": "opinião",
+      "fr": "opinion",
+      "phon": "opiniãnw",
+      "files": {
+        "normal": "audio/0171-opiniao-1024adfc.mp3"
+      }
+    },
+    {
+      "id": "orcamento-746a8f42",
+      "pt": "orçamento",
+      "fr": "devis / budget",
+      "phon": "orssamentou",
+      "files": {
+        "normal": "audio/0172-orcamento-746a8f42.mp3"
+      }
+    },
+    {
+      "id": "pai-7525a436",
+      "pt": "pai",
+      "fr": "papa",
+      "phon": "pai",
+      "files": {
+        "normal": "audio/0173-pai-7525a436.mp3"
+      }
+    },
+    {
+      "id": "parada-459b3b15",
+      "pt": "parada",
+      "fr": "arrêt",
+      "phon": "parada",
+      "files": {
+        "normal": "audio/0174-parada-459b3b15.mp3"
+      }
+    },
+    {
+      "id": "parque-6aa440a4",
+      "pt": "parque",
+      "fr": "parc",
+      "phon": "parké",
+      "files": {
+        "normal": "audio/0175-parque-6aa440a4.mp3"
+      }
+    },
+    {
+      "id": "passaporte-f19e0e06",
+      "pt": "passaporte",
+      "fr": "passeport",
+      "phon": "passaporté",
+      "files": {
+        "normal": "audio/0176-passaporte-f19e0e06.mp3"
+      }
+    },
+    {
+      "id": "pergunta-13957da7",
+      "pt": "pergunta",
+      "fr": "question",
+      "phon": "pergunta",
+      "files": {
+        "normal": "audio/0177-pergunta-13957da7.mp3"
+      }
+    },
+    {
+      "id": "perto-longe-fd289bf0",
+      "pt": "perto / longe",
+      "fr": "près / loin",
+      "phon": "pertou / lonjè",
+      "files": {
+        "normal": "audio/0178-perto-longe-fd289bf0.mp3"
+      }
+    },
+    {
+      "id": "pix-998e7c5f",
+      "pt": "pix",
+      "fr": "virement instantané (PIX)",
+      "phon": "pix",
+      "files": {
+        "normal": "audio/0179-pix-998e7c5f.mp3"
+      }
+    },
+    {
+      "id": "plataforma-fa09ef81",
+      "pt": "plataforma",
+      "fr": "quai (plateforme)",
+      "phon": "plataforma",
+      "files": {
+        "normal": "audio/0180-plataforma-fa09ef81.mp3"
+      }
+    },
+    {
+      "id": "policia-667dddf8",
+      "pt": "polícia",
+      "fr": "police",
+      "phon": "policia",
+      "files": {
+        "normal": "audio/0181-policia-667dddf8.mp3"
+      }
+    },
+    {
+      "id": "por-que-1bd98289",
+      "pt": "por quê?",
+      "fr": "pourquoi ?",
+      "phon": "por ké?",
+      "files": {
+        "normal": "audio/0182-por-que-1bd98289.mp3"
+      }
+    },
+    {
+      "id": "portaria-487c090c",
+      "pt": "portaria",
+      "fr": "réception (immeuble/hôtel)",
+      "phon": "portaria",
+      "files": {
+        "normal": "audio/0183-portaria-487c090c.mp3"
+      }
+    },
+    {
+      "id": "portao-e2f49bdd",
+      "pt": "portão",
+      "fr": "porte d’embarquement",
+      "phon": "portãnw",
+      "files": {
+        "normal": "audio/0184-portao-e2f49bdd.mp3"
+      }
+    },
+    {
+      "id": "praia-2601f3bd",
+      "pt": "praia",
+      "fr": "plage",
+      "phon": "praia",
+      "files": {
+        "normal": "audio/0185-praia-2601f3bd.mp3"
+      }
+    },
+    {
+      "id": "prato-principal-ba64179b",
+      "pt": "prato principal",
+      "fr": "plat principal",
+      "phon": "pratou principal",
+      "files": {
+        "normal": "audio/0186-prato-principal-ba64179b.mp3"
+      }
+    },
+    {
+      "id": "prazer-9e1874c6",
+      "pt": "prazer",
+      "fr": "enchanté",
+      "phon": "prazer",
+      "files": {
+        "normal": "audio/0187-prazer-9e1874c6.mp3"
+      }
+    },
+    {
+      "id": "prazo-de-entrega-5ac9cfae",
+      "pt": "prazo de entrega",
+      "fr": "délai de livraison",
+      "phon": "prazou dé entrega",
+      "files": {
+        "normal": "audio/0188-prazo-de-entrega-5ac9cfae.mp3"
+      }
+    },
+    {
+      "id": "praca-a91a66c1",
+      "pt": "praça",
+      "fr": "place (espace urbain)",
+      "phon": "prassa",
+      "files": {
+        "normal": "audio/0189-praca-a91a66c1.mp3"
+      }
+    },
+    {
+      "id": "preciso-de-e566f638",
+      "pt": "preciso de…",
+      "fr": "j’ai besoin de…",
+      "phon": "precisou dé…",
+      "files": {
+        "normal": "audio/0190-preciso-de-e566f638.mp3"
+      }
+    },
+    {
+      "id": "preciso-trabalhar-855d0612",
+      "pt": "preciso trabalhar",
+      "fr": "je dois travailler / j’ai besoin de travailler",
+      "phon": "precisou trabalyar",
+      "files": {
+        "normal": "audio/0191-preciso-trabalhar-855d0612.mp3"
+      }
+    },
+    {
+      "id": "preco-f110c71f",
+      "pt": "preço",
+      "fr": "prix",
+      "phon": "pressou",
+      "files": {
+        "normal": "audio/0192-preco-f110c71f.mp3"
+      }
+    },
+    {
+      "id": "protetor-solar-f86bbb54",
+      "pt": "protetor solar",
+      "fr": "crème solaire",
+      "phon": "protetor solar",
+      "files": {
+        "normal": "audio/0193-protetor-solar-f86bbb54.mp3"
+      }
+    },
+    {
+      "id": "provador-13faa81e",
+      "pt": "provador",
+      "fr": "cabine d’essayage",
+      "phon": "provador",
+      "files": {
+        "normal": "audio/0194-provador-13faa81e.mp3"
+      }
+    },
+    {
+      "id": "quando-21a585df",
+      "pt": "quando?",
+      "fr": "quand ?",
+      "phon": "kandou?",
+      "files": {
+        "normal": "audio/0195-quando-21a585df.mp3"
+      }
+    },
+    {
+      "id": "quanto-custa-5a4ae7bb",
+      "pt": "quanto custa?",
+      "fr": "ça coûte combien ?",
+      "phon": "kantou custa?",
+      "files": {
+        "normal": "audio/0196-quanto-custa-5a4ae7bb.mp3"
+      }
+    },
+    {
+      "id": "quarta-feira-60b1473c",
+      "pt": "quarta-feira",
+      "fr": "mercredi",
+      "phon": "karta-feira",
+      "files": {
+        "normal": "audio/0197-quarta-feira-60b1473c.mp3"
+      }
+    },
+    {
+      "id": "quarto-ad25d1cf",
+      "pt": "quarto",
+      "fr": "chambre",
+      "phon": "kartou",
+      "files": {
+        "normal": "audio/0198-quarto-ad25d1cf.mp3"
+      }
+    },
+    {
+      "id": "quatro-a7943ca9",
+      "pt": "quatro",
+      "fr": "quatre",
+      "phon": "katrou",
+      "files": {
+        "normal": "audio/0199-quatro-a7943ca9.mp3"
+      }
+    },
+    {
+      "id": "quinta-feira-48f8d2fa",
+      "pt": "quinta-feira",
+      "fr": "jeudi",
+      "phon": "kinta-feira",
+      "files": {
+        "normal": "audio/0200-quinta-feira-48f8d2fa.mp3"
+      }
+    },
+    {
+      "id": "rastreamento-65dfeb2d",
+      "pt": "rastreamento",
+      "fr": "suivi (tracking)",
+      "phon": "rastreamentou",
+      "files": {
+        "normal": "audio/0201-rastreamento-65dfeb2d.mp3"
+      }
+    },
+    {
+      "id": "receita-e3e7b107",
+      "pt": "receita",
+      "fr": "ordonnance",
+      "phon": "receita",
+      "files": {
+        "normal": "audio/0202-receita-e3e7b107.mp3"
+      }
+    },
+    {
+      "id": "recuso-018ae62e",
+      "pt": "recuso",
+      "fr": "je refuse",
+      "phon": "recusou",
+      "files": {
+        "normal": "audio/0203-recuso-018ae62e.mp3"
+      }
+    },
+    {
+      "id": "rede-social-cd64a6ad",
+      "pt": "rede social",
+      "fr": "réseau social",
+      "phon": "redé social",
+      "files": {
+        "normal": "audio/0204-rede-social-cd64a6ad.mp3"
+      }
+    },
+    {
+      "id": "regra-b75728d8",
+      "pt": "regra",
+      "fr": "règle",
+      "phon": "regra",
+      "files": {
+        "normal": "audio/0205-regra-b75728d8.mp3"
+      }
+    },
+    {
+      "id": "remetente-0a86d693",
+      "pt": "remetente",
+      "fr": "expéditeur",
+      "phon": "remetenté",
+      "files": {
+        "normal": "audio/0206-remetente-0a86d693.mp3"
+      }
+    },
+    {
+      "id": "remedio-65bd3539",
+      "pt": "remédio",
+      "fr": "médicament",
+      "phon": "remèdjïou",
+      "files": {
+        "normal": "audio/0207-remedio-65bd3539.mp3"
+      }
+    },
+    {
+      "id": "reserva-ce2905f4",
+      "pt": "reserva",
+      "fr": "réservation",
+      "phon": "reserva",
+      "files": {
+        "normal": "audio/0208-reserva-ce2905f4.mp3"
+      }
+    },
+    {
+      "id": "rotina-ba74c332",
+      "pt": "rotina",
+      "fr": "routine",
+      "phon": "rotchina",
+      "files": {
+        "normal": "audio/0209-rotina-ba74c332.mp3"
+      }
+    },
+    {
+      "id": "sacolinha-476a0179",
+      "pt": "sacolinha",
+      "fr": "petit sac (plastique)",
+      "phon": "sacolinya",
+      "files": {
+        "normal": "audio/0210-sacolinha-476a0179.mp3"
+      }
+    },
+    {
+      "id": "sair-da-conta-3b792377",
+      "pt": "sair da conta",
+      "fr": "se déconnecter",
+      "phon": "sair da conta",
+      "files": {
+        "normal": "audio/0211-sair-da-conta-3b792377.mp3"
+      }
+    },
+    {
+      "id": "saque-325c2633",
+      "pt": "saque",
+      "fr": "retrait",
+      "phon": "saké",
+      "files": {
+        "normal": "audio/0212-saque-325c2633.mp3"
+      }
+    },
+    {
+      "id": "segunda-feira-f362171c",
+      "pt": "segunda-feira",
+      "fr": "lundi",
+      "phon": "segunda-feira",
+      "files": {
+        "normal": "audio/0213-segunda-feira-f362171c.mp3"
+      }
+    },
+    {
+      "id": "seis-ba157934",
+      "pt": "seis",
+      "fr": "six",
+      "phon": "seis",
+      "files": {
+        "normal": "audio/0214-seis-ba157934.mp3"
+      }
+    },
+    {
+      "id": "selo-a032abda",
+      "pt": "selo",
+      "fr": "timbre",
+      "phon": "selou",
+      "files": {
+        "normal": "audio/0215-selo-a032abda.mp3"
+      }
+    },
+    {
+      "id": "semaforo-fd6b66b5",
+      "pt": "semáforo",
+      "fr": "feu de circulation",
+      "phon": "semaforou",
+      "files": {
+        "normal": "audio/0216-semaforo-fd6b66b5.mp3"
+      }
+    },
+    {
+      "id": "senha-7751a23f",
+      "pt": "senha",
+      "fr": "mot de passe",
+      "phon": "senya",
+      "files": {
+        "normal": "audio/0217-senha-7751a23f.mp3"
+      }
+    },
+    {
+      "id": "sentido-centro-9beb74d6",
+      "pt": "sentido centro",
+      "fr": "direction centre-ville",
+      "phon": "sentchidou centrou",
+      "files": {
+        "normal": "audio/0218-sentido-centro-9beb74d6.mp3"
+      }
+    },
+    {
+      "id": "sete-0f961cd8",
+      "pt": "sete",
+      "fr": "sept",
+      "phon": "seté",
+      "files": {
+        "normal": "audio/0219-sete-0f961cd8.mp3"
+      }
+    },
+    {
+      "id": "sexta-feira-b5a183f5",
+      "pt": "sexta-feira",
+      "fr": "vendredi",
+      "phon": "sexta-feira",
+      "files": {
+        "normal": "audio/0220-sexta-feira-b5a183f5.mp3"
+      }
+    },
+    {
+      "id": "sim-813221ca",
+      "pt": "sim",
+      "fr": "oui",
+      "phon": "sim",
+      "files": {
+        "normal": "audio/0221-sim-813221ca.mp3"
+      }
+    },
+    {
+      "id": "simpatico-df112970",
+      "pt": "simpático",
+      "fr": "sympathique",
+      "phon": "simpatchicou",
+      "files": {
+        "normal": "audio/0222-simpatico-df112970.mp3"
+      }
+    },
+    {
+      "id": "sinal-58b5d7da",
+      "pt": "sinal",
+      "fr": "réseau (signal)",
+      "phon": "sinal",
+      "files": {
+        "normal": "audio/0223-sinal-58b5d7da.mp3"
+      }
+    },
+    {
+      "id": "site-c099a42a",
+      "pt": "site",
+      "fr": "site (web)",
+      "phon": "sité",
+      "files": {
+        "normal": "audio/0224-site-c099a42a.mp3"
+      }
+    },
+    {
+      "id": "sobremesa-bd30c994",
+      "pt": "sobremesa",
+      "fr": "dessert",
+      "phon": "sobremesa",
+      "files": {
+        "normal": "audio/0225-sobremesa-bd30c994.mp3"
+      }
+    },
+    {
+      "id": "suporte-259d3c91",
+      "pt": "suporte",
+      "fr": "support (aide)",
+      "phon": "suporté",
+      "files": {
+        "normal": "audio/0226-suporte-259d3c91.mp3"
+      }
+    },
+    {
+      "id": "sabado-1e73aa8e",
+      "pt": "sábado",
+      "fr": "samedi",
+      "phon": "sabadou",
+      "files": {
+        "normal": "audio/0227-sabado-1e73aa8e.mp3"
+      }
+    },
+    {
+      "id": "talvez-63e7eb19",
+      "pt": "talvez",
+      "fr": "peut-être",
+      "phon": "talvez",
+      "files": {
+        "normal": "audio/0228-talvez-63e7eb19.mp3"
+      }
+    },
+    {
+      "id": "tamanho-581176c7",
+      "pt": "tamanho",
+      "fr": "taille",
+      "phon": "tamanyou",
+      "files": {
+        "normal": "audio/0229-tamanho-581176c7.mp3"
+      }
+    },
+    {
+      "id": "taxi-4d82205a",
+      "pt": "taxi",
+      "fr": "taxi",
+      "phon": "taxi",
+      "files": {
+        "normal": "audio/0230-taxi-4d82205a.mp3"
+      }
+    },
+    {
+      "id": "terca-feira-5e0e7781",
+      "pt": "terça-feira",
+      "fr": "mardi",
+      "phon": "terssa-feira",
+      "files": {
+        "normal": "audio/0231-terca-feira-5e0e7781.mp3"
+      }
+    },
+    {
+      "id": "tomada-cebbbcd2",
+      "pt": "tomada",
+      "fr": "prise électrique",
+      "phon": "tomada",
+      "files": {
+        "normal": "audio/0232-tomada-cebbbcd2.mp3"
       }
     },
     {
       "id": "trem-b727f035",
       "pt": "trem",
       "fr": "train",
-      "phon": "trèṅ",
+      "phon": "trem",
       "files": {
-        "normal": "audio/0124-trem-b727f035.mp3"
+        "normal": "audio/0233-trem-b727f035.mp3"
       }
     },
     {
-      "id": "aviao-01f28123",
-      "pt": "avião",
-      "fr": "avion",
-      "phon": "aviãw",
+      "id": "troco-48effd4a",
+      "pt": "troco",
+      "fr": "monnaie rendue",
+      "phon": "trocou",
       "files": {
-        "normal": "audio/0125-aviao-01f28123.mp3"
+        "normal": "audio/0234-troco-48effd4a.mp3"
       }
     },
     {
-      "id": "bicicleta-ae970b2f",
-      "pt": "bicicleta",
-      "fr": "vélo",
-      "phon": "bissiclèta",
+      "id": "tres-a4316f31",
+      "pt": "três",
+      "fr": "trois",
+      "phon": "tres",
       "files": {
-        "normal": "audio/0126-bicicleta-ae970b2f.mp3"
+        "normal": "audio/0235-tres-a4316f31.mp3"
       }
     },
     {
-      "id": "moto-1f7f1c7a",
-      "pt": "moto",
-      "fr": "moto",
-      "phon": "moto",
+      "id": "tudo-bem-b11d18dd",
+      "pt": "tudo bem?",
+      "fr": "ça va ?",
+      "phon": "tudou bem?",
       "files": {
-        "normal": "audio/0127-moto-1f7f1c7a.mp3"
+        "normal": "audio/0236-tudo-bem-b11d18dd.mp3"
       }
     },
     {
-      "id": "a-pe-35118c9c",
-      "pt": "a pé",
-      "fr": "à pied",
-      "phon": "a pè",
+      "id": "um-ec92b743",
+      "pt": "um",
+      "fr": "un",
+      "phon": "um",
       "files": {
-        "normal": "audio/0128-a-pe-35118c9c.mp3"
+        "normal": "audio/0237-um-ec92b743.mp3"
       }
     },
     {
-      "id": "eu-vou-de-onibus-cc1fb32b",
-      "pt": "eu vou de ônibus",
-      "fr": "je vais en bus",
-      "phon": "éou vou djé onibous",
+      "id": "usuario-96dd3868",
+      "pt": "usuário",
+      "fr": "identifiant (utilisateur)",
+      "phon": "usuariou",
       "files": {
-        "normal": "audio/0129-eu-vou-de-onibus-cc1fb32b.mp3"
+        "normal": "audio/0238-usuario-96dd3868.mp3"
       }
     },
     {
-      "id": "eu-pego-o-metro-77715809",
-      "pt": "eu pego o metrô",
-      "fr": "je prends le métro",
-      "phon": "éou pègou ou métrô",
+      "id": "vazamento-49b55237",
+      "pt": "vazamento",
+      "fr": "fuite (eau)",
+      "phon": "vazamentou",
       "files": {
-        "normal": "audio/0130-eu-pego-o-metro-77715809.mp3"
+        "normal": "audio/0239-vazamento-49b55237.mp3"
       }
     },
     {
-      "id": "eu-posso-e4d4fce3",
-      "pt": "eu posso",
-      "fr": "je peux",
-      "phon": "éou posso",
+      "id": "vizinho-vizinha-411f70c6",
+      "pt": "vizinho / vizinha",
+      "fr": "voisin / voisine",
+      "phon": "vizinyou / vizinya",
       "files": {
-        "normal": "audio/0131-eu-posso-e4d4fce3.mp3"
+        "normal": "audio/0240-vizinho-vizinha-411f70c6.mp3"
       }
     },
     {
-      "id": "voce-pode-aa1454de",
-      "pt": "você pode",
-      "fr": "tu peux / vous pouvez (sing.)",
-      "phon": "vosé pó-dji",
+      "id": "voo-1f9ad01d",
+      "pt": "voo",
+      "fr": "vol (avion)",
+      "phon": "voou",
       "files": {
-        "normal": "audio/0132-voce-pode-aa1454de.mp3"
+        "normal": "audio/0241-voo-1f9ad01d.mp3"
       }
     },
     {
-      "id": "ponto-de-onibus-4856b261",
-      "pt": "ponto de ônibus",
-      "fr": "arrêt de bus",
-      "phon": "ponto djé onibous",
+      "id": "wi-fi-fcd50089",
+      "pt": "wi-fi",
+      "fr": "wifi",
+      "phon": "wi-fi",
       "files": {
-        "normal": "audio/0133-ponto-de-onibus-4856b261.mp3"
+        "normal": "audio/0242-wi-fi-fcd50089.mp3"
       }
     },
     {
-      "id": "passagem-7244d365",
-      "pt": "passagem",
-      "fr": "ticket (transport)",
-      "phon": "passajèṅ",
+      "id": "onibus-5d9a02c3",
+      "pt": "ônibus",
+      "fr": "bus",
+      "phon": "onibus",
       "files": {
-        "normal": "audio/0134-passagem-7244d365.mp3"
-      }
-    },
-    {
-      "id": "cartao-f7b7dadf",
-      "pt": "cartão",
-      "fr": "carte (transport)",
-      "phon": "cartãw",
-      "files": {
-        "normal": "audio/0135-cartao-f7b7dadf.mp3"
-      }
-    },
-    {
-      "id": "linha-41df2a92",
-      "pt": "linha",
-      "fr": "ligne",
-      "phon": "li-nya",
-      "files": {
-        "normal": "audio/0136-linha-41df2a92.mp3"
-      }
-    },
-    {
-      "id": "sentido-4a823f39",
-      "pt": "sentido",
-      "fr": "direction (sens)",
-      "phon": "sèntidou",
-      "files": {
-        "normal": "audio/0137-sentido-4a823f39.mp3"
-      }
-    },
-    {
-      "id": "baldeacao-1c9fdd58",
-      "pt": "baldeação",
-      "fr": "correspondance",
-      "phon": "baldéa-sãw",
-      "files": {
-        "normal": "audio/0138-baldeacao-1c9fdd58.mp3"
-      }
-    },
-    {
-      "id": "horario-e15014f1",
-      "pt": "horário",
-      "fr": "horaire",
-      "phon": "horarrio",
-      "files": {
-        "normal": "audio/0139-horario-e15014f1.mp3"
-      }
-    },
-    {
-      "id": "lotado-d29d70c6",
-      "pt": "lotado",
-      "fr": "bondé",
-      "phon": "lotadou",
-      "files": {
-        "normal": "audio/0140-lotado-d29d70c6.mp3"
-      }
-    },
-    {
-      "id": "eu-estou-esperando-o-onibus-4448e078",
-      "pt": "eu estou esperando o ônibus",
-      "fr": "j’attends le bus",
-      "phon": "éou éstou espérandou ou onibous",
-      "files": {
-        "normal": "audio/0141-eu-estou-esperando-o-onibus-4448e078.mp3"
-      }
-    },
-    {
-      "id": "eu-pago-61725e43",
-      "pt": "eu pago",
-      "fr": "je paie",
-      "phon": "éou pagou",
-      "files": {
-        "normal": "audio/0142-eu-pago-61725e43.mp3"
-      }
-    },
-    {
-      "id": "voce-paga-ec8e7dc2",
-      "pt": "você paga",
-      "fr": "tu paies / vous payez (sing.)",
-      "phon": "vosé paga",
-      "files": {
-        "normal": "audio/0143-voce-paga-ec8e7dc2.mp3"
-      }
-    },
-    {
-      "id": "o-onibus-vai-para-o-centro-3fbee265",
-      "pt": "o ônibus vai para o centro?",
-      "fr": "le bus va au centre ?",
-      "phon": "ou onibous vaï para ou sèntro",
-      "files": {
-        "normal": "audio/0144-o-onibus-vai-para-o-centro-3fbee265.mp3"
+        "normal": "audio/0243-onibus-5d9a02c3.mp3"
       }
     }
   ]

@@ -1,24 +1,42 @@
 {
   "id": "S056",
-  "title": "Étude & compétences — L056",
+  "title": "Aller au marché",
   "words": [
     {
-      "id": "ouvir-cc9785ea"
+      "id": "caixa-81dbefaf"
     },
     {
-      "id": "ver-5e0b8aa1"
+      "id": "preco-f110c71f"
     },
     {
-      "id": "estudar-47556859"
+      "id": "feira-53b766fa"
     },
     {
-      "id": "aprender-3fcde0df"
+      "id": "banca-1ed6f1a1"
     },
     {
-      "id": "ensinar-106687a9"
+      "id": "sacolinha-476a0179"
     },
     {
-      "id": "ler-40d748da"
+      "id": "balcao-4da59bf8"
+    },
+    {
+      "id": "quanto-custa-5a4ae7bb"
+    },
+    {
+      "id": "troco-48effd4a"
+    },
+    {
+      "id": "nota-fiscal-1d3b069c"
+    },
+    {
+      "id": "tamanho-581176c7"
+    },
+    {
+      "id": "eu-tenho-5a651b8c"
+    },
+    {
+      "id": "eu-vou-beber-35e32423"
     }
   ]
 }

@@ -1,24 +1,42 @@
 {
   "id": "S035",
-  "title": "Jours de la semaine — L035",
+  "title": "Aller quelque part",
   "words": [
     {
-      "id": "domingo-da416310"
+      "id": "endereco-ed0d4669"
     },
     {
-      "id": "segunda-feira-f362171c"
+      "id": "perto-longe-fd289bf0"
     },
     {
-      "id": "terca-feira-5e0e7781"
+      "id": "mapa-4a472d01"
     },
     {
-      "id": "quarta-feira-60b1473c"
+      "id": "esquina-d29ae7b1"
     },
     {
-      "id": "quinta-feira-48f8d2fa"
+      "id": "semaforo-fd6b66b5"
     },
     {
-      "id": "sexta-feira-b5a183f5"
+      "id": "entrada-a9df7a76"
+    },
+    {
+      "id": "aberto-fechado-d5843aef"
+    },
+    {
+      "id": "praca-a91a66c1"
+    },
+    {
+      "id": "parque-6aa440a4"
+    },
+    {
+      "id": "plataforma-fa09ef81"
+    },
+    {
+      "id": "eu-quero-8d99869f"
+    },
+    {
+      "id": "eu-vou-pagar-c992a494"
     }
   ]
 }

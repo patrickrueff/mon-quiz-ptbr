@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8" />
-  <title>Quiz — Transports (1) — L080</title>
+  <title>Quiz — Bilan : scènes de la vie quotidienne</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>:root{
   --bg:#0b0f14;--card:#121821;--text:#eef3fb;--muted:#b8c0cc;--accent:#5aa0ff;--accent2:#8ad1ff;--border:#1e2632
@@ -47,7 +47,7 @@ button:hover,a.btn:hover{border-color:var(--accent)} button:active,a.btn:active{
 <body>
   <div class="container">
     <div class="row" style="justify-content:space-between;align-items:baseline">
-      <h1>Quiz — Transports (1) — L080</h1>
+      <h1>Quiz — Bilan : scènes de la vie quotidienne</h1>
       <div class="row"><a class="btn" href="index.html">🏠 Accueil</a></div>
     </div>
     <p class="sub">Leçon : S080</p>
@@ -104,7 +104,7 @@ function toggleQuiz(){
   frs.forEach(el=>{ el.style.visibility = chk.checked ? 'hidden' : 'visible'; });
 }
 </script>
-  <script>const POOL = [{"pt": "ônibus", "fr": "bus", "phon": "ônibous", "normal": "audio/0115-onibus-5d9a02c3.mp3"}, {"pt": "metrô", "fr": "métro", "phon": "métrô", "normal": "audio/0116-metro-f3aca16b.mp3"}, {"pt": "trem", "fr": "train", "phon": "trẽï", "normal": "audio/0117-trem-b727f035.mp3"}, {"pt": "táxi", "fr": "taxi", "phon": "tacssi", "normal": "audio/0118-taxi-902ec012.mp3"}, {"pt": "carro", "fr": "voiture", "phon": "carro", "normal": "audio/0119-carro-3959fc61.mp3"}, {"pt": "a pé", "fr": "à pied", "phon": "a pé", "normal": "audio/0120-a-pe-35118c9c.mp3"}];
+  <script>const POOL = [{"pt": "talvez", "fr": "peut-être", "phon": "talvez", "normal": "audio/0228-talvez-63e7eb19.mp3"}, {"pt": "sim", "fr": "oui", "phon": "sim", "normal": "audio/0221-sim-813221ca.mp3"}, {"pt": "não", "fr": "non", "phon": "nãnw", "normal": "audio/0164-nao-23f93a61.mp3"}, {"pt": "pergunta", "fr": "question", "phon": "pergunta", "normal": "audio/0177-pergunta-13957da7.mp3"}, {"pt": "história", "fr": "histoire", "phon": "historia", "normal": "audio/0142-historia-1d89bb0f.mp3"}, {"pt": "hoje", "fr": "aujourd’hui", "phon": "hojé", "normal": "audio/0143-hoje-b5364edb.mp3"}, {"pt": "preciso de…", "fr": "j’ai besoin de…", "phon": "precisou dé…", "normal": "audio/0190-preciso-de-e566f638.mp3"}, {"pt": "plataforma", "fr": "quai (plateforme)", "phon": "plataforma", "normal": "audio/0180-plataforma-fa09ef81.mp3"}, {"pt": "bilhete", "fr": "billet", "phon": "bilyeté", "normal": "audio/0020-bilhete-d98d49da.mp3"}, {"pt": "portão", "fr": "porte d’embarquement", "phon": "portãnw", "normal": "audio/0184-portao-e2f49bdd.mp3"}, {"pt": "eu tenho", "fr": "je avoir", "phon": "eu tenyou", "normal": "audio/0094-eu-tenho-5a651b8c.mp3"}, {"pt": "eu vou beber", "fr": "je vais boire", "phon": "eu vou beber", "normal": "audio/0100-eu-vou-beber-35e32423.mp3"}];
 function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; }
 function makeQuiz(POOL, limit){ const items=[...POOL]; shuffle(items); if(limit&&limit>0){ items.length=Math.min(limit,items.length);} return items; }
 function buildChoices(pool, answer, n=4){

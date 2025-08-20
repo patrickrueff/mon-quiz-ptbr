@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8" />
-  <title>Quiz — Météo &amp; temps — L024</title>
+  <title>Quiz — La santé (expressions de base)</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>:root{
   --bg:#0b0f14;--card:#121821;--text:#eef3fb;--muted:#b8c0cc;--accent:#5aa0ff;--accent2:#8ad1ff;--border:#1e2632
@@ -47,7 +47,7 @@ button:hover,a.btn:hover{border-color:var(--accent)} button:active,a.btn:active{
 <body>
   <div class="container">
     <div class="row" style="justify-content:space-between;align-items:baseline">
-      <h1>Quiz — Météo &amp; temps — L024</h1>
+      <h1>Quiz — La santé (expressions de base)</h1>
       <div class="row"><a class="btn" href="index.html">🏠 Accueil</a></div>
     </div>
     <p class="sub">Leçon : S024</p>
@@ -104,7 +104,7 @@ function toggleQuiz(){
   frs.forEach(el=>{ el.style.visibility = chk.checked ? 'hidden' : 'visible'; });
 }
 </script>
-  <script>const POOL = [{"pt": "tempo", "fr": "temps (météo)", "phon": "tẽïmpou", "normal": "audio/0139-tempo-65e336e2.mp3"}, {"pt": "calor", "fr": "chaleur", "phon": "calôr", "normal": "audio/0140-calor-58216156.mp3"}, {"pt": "frio", "fr": "froid", "phon": "frrio", "normal": "audio/0141-frio-13e27737.mp3"}, {"pt": "chuva", "fr": "pluie", "phon": "chouva", "normal": "audio/0142-chuva-77ffa3e0.mp3"}, {"pt": "sol", "fr": "soleil", "phon": "sol", "normal": "audio/0143-sol-fbb93bb9.mp3"}, {"pt": "nublado", "fr": "nuageux", "phon": "noublado", "normal": "audio/0144-nublado-b5dc1388.mp3"}];
+  <script>const POOL = [{"pt": "dor de cabeça", "fr": "mal de tête", "phon": "dor dé cabessa", "normal": "audio/0061-dor-de-cabeca-cf919d9a.mp3"}, {"pt": "febre", "fr": "fièvre", "phon": "febré", "normal": "audio/0129-febre-8a5bba8c.mp3"}, {"pt": "receita", "fr": "ordonnance", "phon": "receita", "normal": "audio/0202-receita-e3e7b107.mp3"}, {"pt": "remédio", "fr": "médicament", "phon": "remèdjïou", "normal": "audio/0207-remedio-65bd3539.mp3"}, {"pt": "ambulância", "fr": "ambulance", "phon": "ambulancia", "normal": "audio/0008-ambulancia-45e6a068.mp3"}, {"pt": "protetor solar", "fr": "crème solaire", "phon": "protetor solar", "normal": "audio/0193-protetor-solar-f86bbb54.mp3"}, {"pt": "plataforma", "fr": "quai (plateforme)", "phon": "plataforma", "normal": "audio/0180-plataforma-fa09ef81.mp3"}, {"pt": "bilhete", "fr": "billet", "phon": "bilyeté", "normal": "audio/0020-bilhete-d98d49da.mp3"}, {"pt": "portão", "fr": "porte d’embarquement", "phon": "portãnw", "normal": "audio/0184-portao-e2f49bdd.mp3"}, {"pt": "embarque", "fr": "embarquement", "phon": "embarké", "normal": "audio/0063-embarque-79ffd84a.mp3"}, {"pt": "eu moro", "fr": "je habiter", "phon": "eu morou", "normal": "audio/0087-eu-moro-0fb1ab65.mp3"}, {"pt": "eu vou fazer", "fr": "je vais faire", "phon": "eu vou fazer", "normal": "audio/0109-eu-vou-fazer-be528aaa.mp3"}];
 function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; }
 function makeQuiz(POOL, limit){ const items=[...POOL]; shuffle(items); if(limit&&limit>0){ items.length=Math.min(limit,items.length);} return items; }
 function buildChoices(pool, answer, n=4){

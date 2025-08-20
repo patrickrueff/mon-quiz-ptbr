@@ -1,24 +1,42 @@
 {
   "id": "S049",
-  "title": "Vêtements (2) — L049",
+  "title": "Utiliser le téléphone portable",
   "words": [
     {
-      "id": "tamanho-581176c7"
+      "id": "ligacao-eca046c1"
     },
     {
-      "id": "provador-13faa81e"
+      "id": "sinal-58b5d7da"
     },
     {
-      "id": "barato-33e8c86f"
+      "id": "aplicativo-065cf909"
     },
     {
-      "id": "caro-732849d5"
+      "id": "wi-fi-fcd50089"
     },
     {
-      "id": "sapato-056bd783"
+      "id": "dados-moveis-a8c083d6"
     },
     {
-      "id": "tenis-773dd050"
+      "id": "senha-7751a23f"
+    },
+    {
+      "id": "usuario-96dd3868"
+    },
+    {
+      "id": "download-817248fb"
+    },
+    {
+      "id": "tomada-cebbbcd2"
+    },
+    {
+      "id": "login-2736fab2"
+    },
+    {
+      "id": "eu-chego-421346b6"
+    },
+    {
+      "id": "eu-vou-fechar-c6f8156c"
     }
   ]
 }

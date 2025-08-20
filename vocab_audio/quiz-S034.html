@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8" />
-  <title>Quiz — Chiffres 11-20 — L034</title>
+  <title>Quiz — Parler de sa journée</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>:root{
   --bg:#0b0f14;--card:#121821;--text:#eef3fb;--muted:#b8c0cc;--accent:#5aa0ff;--accent2:#8ad1ff;--border:#1e2632
@@ -47,7 +47,7 @@ button:hover,a.btn:hover{border-color:var(--accent)} button:active,a.btn:active{
 <body>
   <div class="container">
     <div class="row" style="justify-content:space-between;align-items:baseline">
-      <h1>Quiz — Chiffres 11-20 — L034</h1>
+      <h1>Quiz — Parler de sa journée</h1>
       <div class="row"><a class="btn" href="index.html">🏠 Accueil</a></div>
     </div>
     <p class="sub">Leçon : S034</p>
@@ -104,7 +104,7 @@ function toggleQuiz(){
   frs.forEach(el=>{ el.style.visibility = chk.checked ? 'hidden' : 'visible'; });
 }
 </script>
-  <script>const POOL = [{"pt": "dezessete", "fr": "dix-sept", "phon": "dèzéssètchi", "normal": "audio/0194-dezessete-2f452a74.mp3"}, {"pt": "dezoito", "fr": "dix-huit", "phon": "dèzoïto", "normal": "audio/0195-dezoito-c5d18ab4.mp3"}, {"pt": "dezenove", "fr": "dix-neuf", "phon": "dèzenové", "normal": "audio/0196-dezenove-c0fd8b9e.mp3"}, {"pt": "vinte", "fr": "vingt", "phon": "vinté", "normal": "audio/0197-vinte-d6b8c826.mp3"}, {"pt": "onze", "fr": "onze", "phon": "onzé", "normal": "audio/0019-onze-9fd8fa2d.mp3"}, {"pt": "doze", "fr": "douze", "phon": "dozé", "normal": "audio/0020-doze-b4bd4cbd.mp3"}];
+  <script>const POOL = [{"pt": "hoje", "fr": "aujourd’hui", "phon": "hojé", "normal": "audio/0143-hoje-b5364edb.mp3"}, {"pt": "plataforma", "fr": "quai (plateforme)", "phon": "plataforma", "normal": "audio/0180-plataforma-fa09ef81.mp3"}, {"pt": "bilhete", "fr": "billet", "phon": "bilyeté", "normal": "audio/0020-bilhete-d98d49da.mp3"}, {"pt": "portão", "fr": "porte d’embarquement", "phon": "portãnw", "normal": "audio/0184-portao-e2f49bdd.mp3"}, {"pt": "embarque", "fr": "embarquement", "phon": "embarké", "normal": "audio/0063-embarque-79ffd84a.mp3"}, {"pt": "desembarque", "fr": "débarquement", "phon": "desembarké", "normal": "audio/0052-desembarque-84d1469d.mp3"}, {"pt": "check-in", "fr": "enregistrement (check-in)", "phon": "check-in", "normal": "audio/0034-check-in-94c0fbc3.mp3"}, {"pt": "bagagem", "fr": "bagage", "phon": "bagajèm", "normal": "audio/0015-bagagem-252c434f.mp3"}, {"pt": "documento", "fr": "document", "phon": "documentou", "normal": "audio/0058-documento-287ca5e5.mp3"}, {"pt": "passaporte", "fr": "passeport", "phon": "passaporté", "normal": "audio/0176-passaporte-f19e0e06.mp3"}, {"pt": "eu vejo", "fr": "je voir", "phon": "eu vejou", "normal": "audio/0096-eu-vejo-1da5dc0b.mp3"}, {"pt": "eu vou ter", "fr": "je vais avoir", "phon": "eu vou ter", "normal": "audio/0123-eu-vou-ter-605f2550.mp3"}];
 function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; }
 function makeQuiz(POOL, limit){ const items=[...POOL]; shuffle(items); if(limit&&limit>0){ items.length=Math.min(limit,items.length);} return items; }
 function buildChoices(pool, answer, n=4){

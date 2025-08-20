@@ -1,24 +1,42 @@
 {
   "id": "S018",
-  "title": "Vêtements (1) — L018",
+  "title": "Faire les courses",
   "words": [
     {
-      "id": "camisa-90db2a49"
+      "id": "caixa-81dbefaf"
     },
     {
-      "id": "camiseta-a269b5db"
+      "id": "preco-f110c71f"
     },
     {
-      "id": "calca-f78c303c"
+      "id": "feira-53b766fa"
     },
     {
-      "id": "saia-9c8f19d9"
+      "id": "banca-1ed6f1a1"
     },
     {
-      "id": "vestido-f50e2745"
+      "id": "sacolinha-476a0179"
     },
     {
-      "id": "casaco-60d277de"
+      "id": "balcao-4da59bf8"
+    },
+    {
+      "id": "quanto-custa-5a4ae7bb"
+    },
+    {
+      "id": "troco-48effd4a"
+    },
+    {
+      "id": "nota-fiscal-1d3b069c"
+    },
+    {
+      "id": "tamanho-581176c7"
+    },
+    {
+      "id": "eu-tenho-5a651b8c"
+    },
+    {
+      "id": "eu-vou-beber-35e32423"
     }
   ]
 }

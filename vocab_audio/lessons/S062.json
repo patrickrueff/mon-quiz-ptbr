@@ -1,24 +1,42 @@
 {
   "id": "S062",
-  "title": "Infos personnelles — L062",
+  "title": "À la banque",
   "words": [
     {
-      "id": "quantos-anos-voce-tem-884cc3af"
+      "id": "documento-287ca5e5"
     },
     {
-      "id": "eu-tenho-30-anos-e547640c"
+      "id": "conta-90656691"
     },
     {
-      "id": "onde-voce-mora-83cb1363"
+      "id": "caixa-81dbefaf"
     },
     {
-      "id": "eu-moro-em-paris-8951938f"
+      "id": "nota-fiscal-1d3b069c"
     },
     {
-      "id": "eu-me-chamo-82d1f38a"
+      "id": "cartao-de-credito-a7da0224"
     },
     {
-      "id": "meu-nome-e-bbaa48dc"
+      "id": "dinheiro-54975ba2"
+    },
+    {
+      "id": "pix-998e7c5f"
+    },
+    {
+      "id": "deposito-aa79a071"
+    },
+    {
+      "id": "saque-325c2633"
+    },
+    {
+      "id": "agencia-bb858ca3"
+    },
+    {
+      "id": "eu-quero-8d99869f"
+    },
+    {
+      "id": "eu-vou-pagar-c992a494"
     }
   ]
 }

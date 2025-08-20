@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8" />
-  <title>Quiz — Directions (phrases) — L029</title>
+  <title>Quiz — Les loisirs</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>:root{
   --bg:#0b0f14;--card:#121821;--text:#eef3fb;--muted:#b8c0cc;--accent:#5aa0ff;--accent2:#8ad1ff;--border:#1e2632
@@ -47,7 +47,7 @@ button:hover,a.btn:hover{border-color:var(--accent)} button:active,a.btn:active{
 <body>
   <div class="container">
     <div class="row" style="justify-content:space-between;align-items:baseline">
-      <h1>Quiz — Directions (phrases) — L029</h1>
+      <h1>Quiz — Les loisirs</h1>
       <div class="row"><a class="btn" href="index.html">🏠 Accueil</a></div>
     </div>
     <p class="sub">Leçon : S029</p>
@@ -104,7 +104,7 @@ function toggleQuiz(){
   frs.forEach(el=>{ el.style.visibility = chk.checked ? 'hidden' : 'visible'; });
 }
 </script>
-  <script>const POOL = [{"pt": "Onde fica o aeroporto?", "fr": "Où se trouve Onde fica o aéroport", "phon": "onde fica o aéropôrto", "normal": "audio/0169-onde-fica-o-aeroporto-2c1b27e8.mp3"}, {"pt": "Onde fica a estação?", "fr": "Où se trouve Onde fica a gare / station", "phon": "onde fica a estass-ã-oun", "normal": "audio/0170-onde-fica-a-estacao-efe1839d.mp3"}, {"pt": "Onde fica o hotel?", "fr": "Où se trouve Onde fica o hotel", "phon": "onde fica o hotel", "normal": "audio/0171-onde-fica-o-hotel-5bd48d18.mp3"}, {"pt": "Onde fica o restaurante?", "fr": "Où se trouve Onde fica o restaurante", "phon": "onde fica o restaurante", "normal": "audio/0172-onde-fica-o-restaurante-1c2d5510.mp3"}, {"pt": "Onde fica o hospital?", "fr": "Où se trouve Onde fica o hôpital", "phon": "onde fica o ospital", "normal": "audio/0173-onde-fica-o-hospital-f74f7e54.mp3"}, {"pt": "Onde fica o centro?", "fr": "Où se trouve Onde fica o centro", "phon": "onde fica o centro", "normal": "audio/0174-onde-fica-o-centro-0816794e.mp3"}];
+  <script>const POOL = [{"pt": "plataforma", "fr": "quai (plateforme)", "phon": "plataforma", "normal": "audio/0180-plataforma-fa09ef81.mp3"}, {"pt": "bilhete", "fr": "billet", "phon": "bilyeté", "normal": "audio/0020-bilhete-d98d49da.mp3"}, {"pt": "portão", "fr": "porte d’embarquement", "phon": "portãnw", "normal": "audio/0184-portao-e2f49bdd.mp3"}, {"pt": "embarque", "fr": "embarquement", "phon": "embarké", "normal": "audio/0063-embarque-79ffd84a.mp3"}, {"pt": "desembarque", "fr": "débarquement", "phon": "desembarké", "normal": "audio/0052-desembarque-84d1469d.mp3"}, {"pt": "check-in", "fr": "enregistrement (check-in)", "phon": "check-in", "normal": "audio/0034-check-in-94c0fbc3.mp3"}, {"pt": "bagagem", "fr": "bagage", "phon": "bagajèm", "normal": "audio/0015-bagagem-252c434f.mp3"}, {"pt": "documento", "fr": "document", "phon": "documentou", "normal": "audio/0058-documento-287ca5e5.mp3"}, {"pt": "passaporte", "fr": "passeport", "phon": "passaporté", "normal": "audio/0176-passaporte-f19e0e06.mp3"}, {"pt": "voo", "fr": "vol (avion)", "phon": "voou", "normal": "audio/0241-voo-1f9ad01d.mp3"}, {"pt": "eu vejo", "fr": "je voir", "phon": "eu vejou", "normal": "audio/0096-eu-vejo-1da5dc0b.mp3"}, {"pt": "eu vou ter", "fr": "je vais avoir", "phon": "eu vou ter", "normal": "audio/0123-eu-vou-ter-605f2550.mp3"}];
 function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; }
 function makeQuiz(POOL, limit){ const items=[...POOL]; shuffle(items); if(limit&&limit>0){ items.length=Math.min(limit,items.length);} return items; }
 function buildChoices(pool, answer, n=4){

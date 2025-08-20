@@ -3,40 +3,40 @@
   "title": "Prendre le bus",
   "words": [
     {
-      "id": "ponto-de-onibus-4856b261"
+      "id": "bilhete-d98d49da"
     },
     {
-      "id": "passagem-7244d365"
-    },
-    {
-      "id": "cartao-f7b7dadf"
-    },
-    {
-      "id": "linha-41df2a92"
-    },
-    {
-      "id": "sentido-4a823f39"
+      "id": "onibus-5d9a02c3"
     },
     {
       "id": "baldeacao-1c9fdd58"
     },
     {
-      "id": "horario-e15014f1"
+      "id": "sentido-centro-9beb74d6"
     },
     {
-      "id": "lotado-d29d70c6"
+      "id": "parada-459b3b15"
     },
     {
-      "id": "eu-estou-esperando-o-onibus-4448e078"
+      "id": "metro-f3aca16b"
     },
     {
-      "id": "eu-pago-61725e43"
+      "id": "aplicativo-de-transporte-b59168e9"
     },
     {
-      "id": "voce-paga-ec8e7dc2"
+      "id": "semaforo-fd6b66b5"
     },
     {
-      "id": "o-onibus-vai-para-o-centro-3fbee265"
+      "id": "plataforma-fa09ef81"
+    },
+    {
+      "id": "atraso-a98508fa"
+    },
+    {
+      "id": "eu-posso-e4d4fce3"
+    },
+    {
+      "id": "eu-vou-comprar-52f078d6"
     }
   ]
 }

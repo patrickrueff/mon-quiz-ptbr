@@ -1,24 +1,42 @@
 {
   "id": "S079",
-  "title": "Vêtements (2) — L079",
+  "title": "Interagir dans une conversation courante",
   "words": [
     {
-      "id": "meia-fb289770"
+      "id": "talvez-63e7eb19"
     },
     {
-      "id": "bone-d2f447d5"
+      "id": "sim-813221ca"
     },
     {
-      "id": "chapeu-a2dd12f9"
+      "id": "nao-23f93a61"
     },
     {
-      "id": "cinto-fdfe92cf"
+      "id": "pergunta-13957da7"
     },
     {
-      "id": "tamanho-581176c7"
+      "id": "historia-1d89bb0f"
     },
     {
-      "id": "provador-13faa81e"
+      "id": "por-que-1bd98289"
+    },
+    {
+      "id": "como-f1a75917"
+    },
+    {
+      "id": "quando-21a585df"
+    },
+    {
+      "id": "onde-9d6c7e15"
+    },
+    {
+      "id": "opiniao-1024adfc"
+    },
+    {
+      "id": "eu-ajudo-ea3331ca"
+    },
+    {
+      "id": "eu-vou-trazer-b70d9c4f"
     }
   ]
 }

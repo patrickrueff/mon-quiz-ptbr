@@ -1,24 +1,42 @@
 {
   "id": "S026",
-  "title": "Étude & compétences — L026",
+  "title": "Les routines (verbes fréquents)",
   "words": [
     {
-      "id": "estudar-47556859"
+      "id": "rotina-ba74c332"
     },
     {
-      "id": "aprender-3fcde0df"
+      "id": "plataforma-fa09ef81"
     },
     {
-      "id": "ensinar-106687a9"
+      "id": "bilhete-d98d49da"
     },
     {
-      "id": "ler-40d748da"
+      "id": "portao-e2f49bdd"
     },
     {
-      "id": "escrever-db2017ed"
+      "id": "embarque-79ffd84a"
     },
     {
-      "id": "falar-713a1504"
+      "id": "desembarque-84d1469d"
+    },
+    {
+      "id": "check-in-94c0fbc3"
+    },
+    {
+      "id": "bagagem-252c434f"
+    },
+    {
+      "id": "documento-287ca5e5"
+    },
+    {
+      "id": "passaporte-f19e0e06"
+    },
+    {
+      "id": "eu-trabalho-ed1b7c90"
+    },
+    {
+      "id": "eu-vou-ajudar-e9b1cd9d"
     }
   ]
 }

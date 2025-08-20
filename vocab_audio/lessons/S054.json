@@ -1,24 +1,42 @@
 {
   "id": "S054",
-  "title": "Météo & temps — L054",
+  "title": "Réserver une table au restaurant",
   "words": [
     {
-      "id": "vento-59c478b4"
+      "id": "reserva-ce2905f4"
     },
     {
-      "id": "neve-394104b4"
+      "id": "cafe-da-manha-0ab95074"
     },
     {
-      "id": "hoje-b5364edb"
+      "id": "garcom-308b8a20"
     },
     {
-      "id": "amanha-8a87dcb0"
+      "id": "cardapio-f2d87309"
     },
     {
-      "id": "ontem-4a127553"
+      "id": "entrada-a9df7a76"
     },
     {
-      "id": "tempo-65e336e2"
+      "id": "prato-principal-ba64179b"
+    },
+    {
+      "id": "sobremesa-bd30c994"
+    },
+    {
+      "id": "conta-90656691"
+    },
+    {
+      "id": "caixa-81dbefaf"
+    },
+    {
+      "id": "preco-f110c71f"
+    },
+    {
+      "id": "eu-quero-8d99869f"
+    },
+    {
+      "id": "eu-vou-pagar-c992a494"
     }
   ]
 }

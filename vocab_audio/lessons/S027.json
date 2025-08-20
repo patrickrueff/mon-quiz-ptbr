@@ -1,24 +1,42 @@
 {
   "id": "S027",
-  "title": "Verbes usuels (1) — L027",
+  "title": "L’heure & la journée",
   "words": [
     {
-      "id": "gostar-de-3036f62d"
+      "id": "hoje-b5364edb"
     },
     {
-      "id": "querer-e4fc0cb8"
+      "id": "amanha-8a87dcb0"
     },
     {
-      "id": "precisar-de-57a31058"
+      "id": "ontem-4a127553"
     },
     {
-      "id": "comprar-a2039cb4"
+      "id": "agora-39a44d0c"
     },
     {
-      "id": "vender-9c25bd58"
+      "id": "mais-tarde-268a3c92"
     },
     {
-      "id": "ir-aa1553be"
+      "id": "cedo-tarde-6929fabd"
+    },
+    {
+      "id": "plataforma-fa09ef81"
+    },
+    {
+      "id": "bilhete-d98d49da"
+    },
+    {
+      "id": "portao-e2f49bdd"
+    },
+    {
+      "id": "embarque-79ffd84a"
+    },
+    {
+      "id": "eu-sou-a8f404f6"
+    },
+    {
+      "id": "eu-vou-falar-252e091c"
     }
   ]
 }

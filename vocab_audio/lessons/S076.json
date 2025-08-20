@@ -1,24 +1,42 @@
 {
   "id": "S076",
-  "title": "Fruits & légumes — L076",
+  "title": "Décrire une journée de vacances",
   "words": [
     {
-      "id": "laranja-fruta-c676317c"
+      "id": "parque-6aa440a4"
     },
     {
-      "id": "uva-2d2c2a14"
+      "id": "praia-2601f3bd"
     },
     {
-      "id": "tomate-13f20098"
+      "id": "ferias-7ecc7aa7"
     },
     {
-      "id": "batata-8467b174"
+      "id": "hoje-b5364edb"
     },
     {
-      "id": "cenoura-62358800"
+      "id": "plataforma-fa09ef81"
     },
     {
-      "id": "cebola-1247a068"
+      "id": "bilhete-d98d49da"
+    },
+    {
+      "id": "portao-e2f49bdd"
+    },
+    {
+      "id": "embarque-79ffd84a"
+    },
+    {
+      "id": "desembarque-84d1469d"
+    },
+    {
+      "id": "check-in-94c0fbc3"
+    },
+    {
+      "id": "eu-entro-24473eee"
+    },
+    {
+      "id": "eu-vou-ser-ef519643"
     }
   ]
 }

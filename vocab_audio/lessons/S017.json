@@ -1,24 +1,42 @@
 {
   "id": "S017",
-  "title": "Boissons & condiments — L017",
+  "title": "Le restaurant (commander)",
   "words": [
     {
-      "id": "cafe-f424452a"
+      "id": "reserva-ce2905f4"
     },
     {
-      "id": "cha-a1f7a686"
+      "id": "cafe-da-manha-0ab95074"
     },
     {
-      "id": "agua-513cba58"
+      "id": "garcom-308b8a20"
     },
     {
-      "id": "suco-034af408"
+      "id": "cardapio-f2d87309"
     },
     {
-      "id": "sal-caf8dae1"
+      "id": "entrada-a9df7a76"
     },
     {
-      "id": "acucar-ca7d10cb"
+      "id": "prato-principal-ba64179b"
+    },
+    {
+      "id": "sobremesa-bd30c994"
+    },
+    {
+      "id": "conta-90656691"
+    },
+    {
+      "id": "caixa-81dbefaf"
+    },
+    {
+      "id": "preco-f110c71f"
+    },
+    {
+      "id": "eu-quero-8d99869f"
+    },
+    {
+      "id": "eu-vou-pagar-c992a494"
     }
   ]
 }

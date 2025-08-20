@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8" />
-  <title>Quiz — Fruits &amp; légumes — L016</title>
+  <title>Quiz — L’hôtel (réserver)</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>:root{
   --bg:#0b0f14;--card:#121821;--text:#eef3fb;--muted:#b8c0cc;--accent:#5aa0ff;--accent2:#8ad1ff;--border:#1e2632
@@ -47,7 +47,7 @@ button:hover,a.btn:hover{border-color:var(--accent)} button:active,a.btn:active{
 <body>
   <div class="container">
     <div class="row" style="justify-content:space-between;align-items:baseline">
-      <h1>Quiz — Fruits &amp; légumes — L016</h1>
+      <h1>Quiz — L’hôtel (réserver)</h1>
       <div class="row"><a class="btn" href="index.html">🏠 Accueil</a></div>
     </div>
     <p class="sub">Leçon : S016</p>
@@ -104,7 +104,7 @@ function toggleQuiz(){
   frs.forEach(el=>{ el.style.visibility = chk.checked ? 'hidden' : 'visible'; });
 }
 </script>
-  <script>const POOL = [{"pt": "fruta", "fr": "fruit", "phon": "frouta", "normal": "audio/0091-fruta-1ea8c03f.mp3"}, {"pt": "maçã", "fr": "pomme", "phon": "mâssã", "normal": "audio/0092-maca-b0c51b47.mp3"}, {"pt": "banana", "fr": "banane", "phon": "banana", "normal": "audio/0093-banana-250e77f1.mp3"}, {"pt": "laranja (fruta)", "fr": "orange (fruit)", "phon": "laranja", "normal": "audio/0094-laranja-fruta-c676317c.mp3"}, {"pt": "uva", "fr": "raisin", "phon": "ouva", "normal": "audio/0095-uva-2d2c2a14.mp3"}, {"pt": "tomate", "fr": "tomate", "phon": "tomatchi", "normal": "audio/0096-tomate-13f20098.mp3"}];
+  <script>const POOL = [{"pt": "portaria", "fr": "réception (immeuble/hôtel)", "phon": "portaria", "normal": "audio/0183-portaria-487c090c.mp3"}, {"pt": "reserva", "fr": "réservation", "phon": "reserva", "normal": "audio/0208-reserva-ce2905f4.mp3"}, {"pt": "quarto", "fr": "chambre", "phon": "kartou", "normal": "audio/0198-quarto-ad25d1cf.mp3"}, {"pt": "café da manhã", "fr": "petit-déjeuner", "phon": "cafè da manyãn", "normal": "audio/0025-cafe-da-manha-0ab95074.mp3"}, {"pt": "chave do quarto", "fr": "clé de chambre", "phon": "chavé dou kartou", "normal": "audio/0033-chave-do-quarto-d93c8f93.mp3"}, {"pt": "check-out", "fr": "départ (check-out)", "phon": "check-out", "normal": "audio/0035-check-out-4142bde3.mp3"}, {"pt": "bagagem", "fr": "bagage", "phon": "bagajèm", "normal": "audio/0015-bagagem-252c434f.mp3"}, {"pt": "entrada", "fr": "entrée (plat) / entrée (lieu)", "phon": "entrada", "normal": "audio/0067-entrada-a9df7a76.mp3"}, {"pt": "perto / longe", "fr": "près / loin", "phon": "pertou / lonjè", "normal": "audio/0178-perto-longe-fd289bf0.mp3"}, {"pt": "aberto / fechado", "fr": "ouvert / fermé", "phon": "abertou / fechadou", "normal": "audio/0001-aberto-fechado-d5843aef.mp3"}, {"pt": "eu peço", "fr": "je demander / commander", "phon": "eu pessou", "normal": "audio/0088-eu-peco-22a1b9b6.mp3"}, {"pt": "eu vou gostar", "fr": "je vais aimer", "phon": "eu vou gostar", "normal": "audio/0112-eu-vou-gostar-49fa2852.mp3"}];
 function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; }
 function makeQuiz(POOL, limit){ const items=[...POOL]; shuffle(items); if(limit&&limit>0){ items.length=Math.min(limit,items.length);} return items; }
 function buildChoices(pool, answer, n=4){

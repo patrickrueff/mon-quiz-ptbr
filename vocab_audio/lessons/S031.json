@@ -1,24 +1,42 @@
 {
   "id": "S031",
-  "title": "Salutations & Bases — L031",
+  "title": "Poser une question simple",
   "words": [
     {
-      "id": "por-favor-f2dbb03a"
+      "id": "pergunta-13957da7"
     },
     {
-      "id": "obrigado-34cfc76f"
+      "id": "por-que-1bd98289"
     },
     {
-      "id": "obrigada-cbebca25"
+      "id": "como-f1a75917"
     },
     {
-      "id": "desculpa-abdb77ac"
+      "id": "quando-21a585df"
     },
     {
-      "id": "com-licenca-b5075943"
+      "id": "onde-9d6c7e15"
     },
     {
-      "id": "tudo-bem-03e5de8e"
+      "id": "plataforma-fa09ef81"
+    },
+    {
+      "id": "bilhete-d98d49da"
+    },
+    {
+      "id": "portao-e2f49bdd"
+    },
+    {
+      "id": "embarque-79ffd84a"
+    },
+    {
+      "id": "desembarque-84d1469d"
+    },
+    {
+      "id": "eu-posso-e4d4fce3"
+    },
+    {
+      "id": "eu-vou-comprar-52f078d6"
     }
   ]
 }

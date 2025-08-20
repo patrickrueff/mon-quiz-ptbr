@@ -25,12 +25,6 @@
         "id": "meu-nome-e-1dda55b7"
       },
       {
-        "id": "eu-sou-a8f404f6"
-      },
-      {
-        "id": "voce-e-987b1559"
-      },
-      {
         "id": "prazer-9e1874c6"
       },
       {
@@ -38,6 +32,12 @@
       },
       {
         "id": "muito-obrigado-4f77f39b"
+      },
+      {
+        "id": "eu-digo-1a5116e8"
+      },
+      {
+        "id": "eu-vou-ir-3100bb2b"
       }
     ]
   },
@@ -70,16 +70,16 @@
         "id": "esposa-39dea479"
       },
       {
-        "id": "meu-filho-tem-oito-anos-8a7d2cea"
+        "id": "familia-f851ff6b"
       },
       {
-        "id": "eu-tenho-5a651b8c"
+        "id": "crianca-e968cab5"
       },
       {
-        "id": "voce-tem-069f89ff"
+        "id": "eu-chego-421346b6"
       },
       {
-        "id": "nossa-familia-e-grande-a6e0cde3"
+        "id": "eu-vou-fechar-c6f8156c"
       }
     ]
   },
@@ -88,40 +88,40 @@
     "title": "Les nombres & l’âge",
     "words": [
       {
-        "id": "um-dois-tres-4b427721"
+        "id": "um-ec92b743"
       },
       {
-        "id": "quatro-cinco-seis-1a0e1330"
+        "id": "dois-7b426791"
       },
       {
-        "id": "sete-oito-nove-2eda37a3"
+        "id": "tres-a4316f31"
+      },
+      {
+        "id": "quatro-a7943ca9"
+      },
+      {
+        "id": "cinco-a097b33b"
+      },
+      {
+        "id": "seis-ba157934"
+      },
+      {
+        "id": "sete-0f961cd8"
+      },
+      {
+        "id": "oito-2a67c257"
+      },
+      {
+        "id": "nove-7f52fd19"
       },
       {
         "id": "dez-b5ab4a29"
       },
       {
-        "id": "quantos-anos-voce-tem-c7c6c995"
+        "id": "eu-estou-d7acd4ed"
       },
       {
-        "id": "eu-tenho-vinte-anos-392909ee"
-      },
-      {
-        "id": "primeiro-26d0c603"
-      },
-      {
-        "id": "segundo-d899f3b9"
-      },
-      {
-        "id": "terceiro-9e4dabac"
-      },
-      {
-        "id": "eu-quero-8d99869f"
-      },
-      {
-        "id": "voce-quer-07754c85"
-      },
-      {
-        "id": "eu-tenho-dois-irmaos-0c0fbc92"
+        "id": "eu-vou-comer-817d4593"
       }
     ]
   },
@@ -160,10 +160,10 @@
         "id": "marco-f9943b23"
       },
       {
-        "id": "eu-vou-073bca2e"
+        "id": "eu-gosto-ae5ebea4"
       },
       {
-        "id": "voce-vai-c02ee935"
+        "id": "eu-vou-estudar-773edbe2"
       }
     ]
   },
@@ -172,40 +172,40 @@
     "title": "Les couleurs",
     "words": [
       {
-        "id": "vermelho-79f2b39a"
+        "id": "plataforma-fa09ef81"
       },
       {
-        "id": "azul-1768d39c"
+        "id": "bilhete-d98d49da"
       },
       {
-        "id": "amarelo-985037bf"
+        "id": "portao-e2f49bdd"
       },
       {
-        "id": "verde-2030abee"
+        "id": "embarque-79ffd84a"
       },
       {
-        "id": "preto-eb60d10d"
+        "id": "desembarque-84d1469d"
       },
       {
-        "id": "branco-e6c28d71"
+        "id": "check-in-94c0fbc3"
       },
       {
-        "id": "rosa-5efc86ca"
+        "id": "bagagem-252c434f"
       },
       {
-        "id": "laranja-4571e3d8"
+        "id": "documento-287ca5e5"
       },
       {
-        "id": "cinza-32a05be7"
+        "id": "passaporte-f19e0e06"
       },
       {
-        "id": "eu-gosto-ae5ebea4"
+        "id": "voo-1f9ad01d"
       },
       {
-        "id": "voce-gosta-d2ca052e"
+        "id": "eu-moro-0fb1ab65"
       },
       {
-        "id": "minha-cor-favorita-e-azul-a3f24d22"
+        "id": "eu-vou-fazer-be528aaa"
       }
     ]
   },
@@ -214,40 +214,40 @@
     "title": "La maison & les pièces",
     "words": [
       {
-        "id": "casa-81bce1f3"
-      },
-      {
         "id": "quarto-ad25d1cf"
       },
       {
-        "id": "sala-9a2505d5"
+        "id": "plataforma-fa09ef81"
       },
       {
-        "id": "cozinha-d4ca9c86"
+        "id": "bilhete-d98d49da"
       },
       {
-        "id": "banheiro-ab24c5bf"
+        "id": "portao-e2f49bdd"
       },
       {
-        "id": "janela-e9215e0d"
+        "id": "embarque-79ffd84a"
       },
       {
-        "id": "porta-9fa417be"
+        "id": "desembarque-84d1469d"
       },
       {
-        "id": "cama-1bef95ab"
+        "id": "check-in-94c0fbc3"
       },
       {
-        "id": "mesa-f04cc316"
+        "id": "bagagem-252c434f"
       },
       {
-        "id": "eu-moro-aqui-b926fcf1"
+        "id": "documento-287ca5e5"
       },
       {
-        "id": "eu-preciso-ad48069b"
+        "id": "passaporte-f19e0e06"
       },
       {
-        "id": "voce-precisa-827a3885"
+        "id": "eu-falo-65e6e857"
+      },
+      {
+        "id": "eu-vou-pegar-4c06c8f5"
       }
     ]
   },
@@ -256,40 +256,40 @@
     "title": "Les objets du quotidien",
     "words": [
       {
-        "id": "celular-c99f0773"
+        "id": "plataforma-fa09ef81"
       },
       {
-        "id": "computador-bccdcb8b"
+        "id": "bilhete-d98d49da"
       },
       {
-        "id": "carteira-31ee30a2"
+        "id": "portao-e2f49bdd"
       },
       {
-        "id": "oculos-a8d6bdc5"
+        "id": "embarque-79ffd84a"
       },
       {
-        "id": "chave-dca6ea9a"
+        "id": "desembarque-84d1469d"
       },
       {
-        "id": "bolsa-8ae69eed"
+        "id": "check-in-94c0fbc3"
       },
       {
-        "id": "relogio-3c1fcfac"
+        "id": "bagagem-252c434f"
       },
       {
-        "id": "mochila-a02f4c78"
+        "id": "documento-287ca5e5"
       },
       {
-        "id": "carregador-f16b82ad"
+        "id": "passaporte-f19e0e06"
       },
       {
-        "id": "eu-trago-c801329c"
+        "id": "voo-1f9ad01d"
       },
       {
-        "id": "voce-traz-39312857"
+        "id": "eu-faco-4c781ff8"
       },
       {
-        "id": "onde-esta-meu-celular-210e0f89"
+        "id": "eu-vou-poder-868d8a2e"
       }
     ]
   },
@@ -298,40 +298,40 @@
     "title": "Les aliments de base",
     "words": [
       {
-        "id": "pao-3464c04f"
+        "id": "plataforma-fa09ef81"
       },
       {
-        "id": "arroz-fa9db510"
+        "id": "bilhete-d98d49da"
       },
       {
-        "id": "feijao-182821d3"
+        "id": "portao-e2f49bdd"
       },
       {
-        "id": "frango-07dd38db"
+        "id": "embarque-79ffd84a"
       },
       {
-        "id": "carne-8ecc854e"
+        "id": "desembarque-84d1469d"
       },
       {
-        "id": "peixe-45620bd6"
+        "id": "check-in-94c0fbc3"
       },
       {
-        "id": "salada-e7c54bfd"
+        "id": "bagagem-252c434f"
       },
       {
-        "id": "fruta-1ea8c03f"
+        "id": "documento-287ca5e5"
       },
       {
-        "id": "legumes-b4da5edf"
+        "id": "passaporte-f19e0e06"
       },
       {
-        "id": "eu-como-b297a8d4"
+        "id": "voo-1f9ad01d"
       },
       {
-        "id": "voce-come-ae4addbc"
+        "id": "eu-digo-1a5116e8"
       },
       {
-        "id": "eu-quero-um-prato-de-arroz-e-feijao-1ac2bd2d"
+        "id": "eu-vou-ir-3100bb2b"
       }
     ]
   },
@@ -340,40 +340,40 @@
     "title": "Boissons & cafés",
     "words": [
       {
-        "id": "agua-513cba58"
+        "id": "plataforma-fa09ef81"
       },
       {
-        "id": "cafe-f424452a"
+        "id": "bilhete-d98d49da"
       },
       {
-        "id": "cha-a1f7a686"
+        "id": "portao-e2f49bdd"
       },
       {
-        "id": "suco-034af408"
+        "id": "embarque-79ffd84a"
       },
       {
-        "id": "leite-beb967c0"
+        "id": "desembarque-84d1469d"
       },
       {
-        "id": "cerveja-d7c0bc95"
+        "id": "check-in-94c0fbc3"
       },
       {
-        "id": "vinho-798a84bb"
+        "id": "bagagem-252c434f"
       },
       {
-        "id": "sem-acucar-3eb694a3"
+        "id": "documento-287ca5e5"
       },
       {
-        "id": "com-gelo-bc0df6bb"
+        "id": "passaporte-f19e0e06"
       },
       {
-        "id": "eu-bebo-8f162182"
+        "id": "voo-1f9ad01d"
       },
       {
-        "id": "voce-bebe-675aaca7"
+        "id": "eu-peco-22a1b9b6"
       },
       {
-        "id": "um-cafe-por-favor-036c2b9e"
+        "id": "eu-vou-gostar-49fa2852"
       }
     ]
   },
@@ -382,40 +382,40 @@
     "title": "En classe",
     "words": [
       {
-        "id": "professor-professora-45c971c3"
+        "id": "plataforma-fa09ef81"
       },
       {
-        "id": "aluno-aluna-603cd2c6"
+        "id": "bilhete-d98d49da"
       },
       {
-        "id": "caderno-ece98ae9"
+        "id": "portao-e2f49bdd"
       },
       {
-        "id": "lapis-81d05f0e"
+        "id": "embarque-79ffd84a"
       },
       {
-        "id": "caneta-56481346"
+        "id": "desembarque-84d1469d"
       },
       {
-        "id": "borracha-cb9c0b7f"
+        "id": "check-in-94c0fbc3"
       },
       {
-        "id": "quadro-d5d5d8e1"
+        "id": "bagagem-252c434f"
       },
       {
-        "id": "licao-de-casa-94c71658"
+        "id": "documento-287ca5e5"
       },
       {
-        "id": "eu-estudo-f08d2837"
+        "id": "passaporte-f19e0e06"
       },
       {
-        "id": "voce-estuda-0f1a73e5"
+        "id": "voo-1f9ad01d"
       },
       {
-        "id": "posso-ir-ao-banheiro-406ecef7"
+        "id": "eu-saio-91ef1837"
       },
       {
-        "id": "repete-por-favor-c7488b52"
+        "id": "eu-vou-entrar-b30e7bf7"
       }
     ]
   },
@@ -424,7 +424,16 @@
     "title": "Les moyens de transport",
     "words": [
       {
-        "id": "carro-3959fc61"
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "atraso-a98508fa"
+      },
+      {
+        "id": "cancelado-f5ef8596"
       },
       {
         "id": "onibus-5d9a02c3"
@@ -439,25 +448,16 @@
         "id": "aviao-01f28123"
       },
       {
-        "id": "bicicleta-ae970b2f"
+        "id": "taxi-4d82205a"
       },
       {
-        "id": "moto-1f7f1c7a"
+        "id": "portao-e2f49bdd"
       },
       {
-        "id": "a-pe-35118c9c"
+        "id": "eu-trabalho-ed1b7c90"
       },
       {
-        "id": "eu-vou-de-onibus-cc1fb32b"
-      },
-      {
-        "id": "eu-pego-o-metro-77715809"
-      },
-      {
-        "id": "eu-posso-e4d4fce3"
-      },
-      {
-        "id": "voce-pode-aa1454de"
+        "id": "eu-vou-ajudar-e9b1cd9d"
       }
     ]
   },
@@ -466,40 +466,2896 @@
     "title": "Prendre le bus",
     "words": [
       {
-        "id": "ponto-de-onibus-4856b261"
+        "id": "bilhete-d98d49da"
       },
       {
-        "id": "passagem-7244d365"
-      },
-      {
-        "id": "cartao-f7b7dadf"
-      },
-      {
-        "id": "linha-41df2a92"
-      },
-      {
-        "id": "sentido-4a823f39"
+        "id": "onibus-5d9a02c3"
       },
       {
         "id": "baldeacao-1c9fdd58"
       },
       {
-        "id": "horario-e15014f1"
+        "id": "sentido-centro-9beb74d6"
       },
       {
-        "id": "lotado-d29d70c6"
+        "id": "parada-459b3b15"
       },
       {
-        "id": "eu-estou-esperando-o-onibus-4448e078"
+        "id": "metro-f3aca16b"
       },
       {
-        "id": "eu-pago-61725e43"
+        "id": "aplicativo-de-transporte-b59168e9"
       },
       {
-        "id": "voce-paga-ec8e7dc2"
+        "id": "semaforo-fd6b66b5"
       },
       {
-        "id": "o-onibus-vai-para-o-centro-3fbee265"
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "atraso-a98508fa"
+      },
+      {
+        "id": "eu-posso-e4d4fce3"
+      },
+      {
+        "id": "eu-vou-comprar-52f078d6"
+      }
+    ]
+  },
+  "S013": {
+    "id": "S013",
+    "title": "À la gare & au train",
+    "words": [
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "trem-b727f035"
+      },
+      {
+        "id": "atraso-a98508fa"
+      },
+      {
+        "id": "cancelado-f5ef8596"
+      },
+      {
+        "id": "onibus-5d9a02c3"
+      },
+      {
+        "id": "metro-f3aca16b"
+      },
+      {
+        "id": "aviao-01f28123"
+      },
+      {
+        "id": "taxi-4d82205a"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "eu-preciso-ad48069b"
+      },
+      {
+        "id": "eu-vou-trabalhar-8cf5ebeb"
+      }
+    ]
+  },
+  "S014": {
+    "id": "S014",
+    "title": "À l’aéroport (check-in simple)",
+    "words": [
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "desembarque-84d1469d"
+      },
+      {
+        "id": "check-in-94c0fbc3"
+      },
+      {
+        "id": "bagagem-252c434f"
+      },
+      {
+        "id": "documento-287ca5e5"
+      },
+      {
+        "id": "passaporte-f19e0e06"
+      },
+      {
+        "id": "voo-1f9ad01d"
+      },
+      {
+        "id": "aviao-01f28123"
+      },
+      {
+        "id": "eu-estudo-f08d2837"
+      },
+      {
+        "id": "eu-vou-morar-afd16a2b"
+      }
+    ]
+  },
+  "S015": {
+    "id": "S015",
+    "title": "Taxi & applis de transport",
+    "words": [
+      {
+        "id": "taxi-4d82205a"
+      },
+      {
+        "id": "aplicativo-de-transporte-b59168e9"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "desembarque-84d1469d"
+      },
+      {
+        "id": "check-in-94c0fbc3"
+      },
+      {
+        "id": "bagagem-252c434f"
+      },
+      {
+        "id": "documento-287ca5e5"
+      },
+      {
+        "id": "eu-ajudo-ea3331ca"
+      },
+      {
+        "id": "eu-vou-trazer-b70d9c4f"
+      }
+    ]
+  },
+  "S016": {
+    "id": "S016",
+    "title": "L’hôtel (réserver)",
+    "words": [
+      {
+        "id": "portaria-487c090c"
+      },
+      {
+        "id": "reserva-ce2905f4"
+      },
+      {
+        "id": "quarto-ad25d1cf"
+      },
+      {
+        "id": "cafe-da-manha-0ab95074"
+      },
+      {
+        "id": "chave-do-quarto-d93c8f93"
+      },
+      {
+        "id": "check-out-4142bde3"
+      },
+      {
+        "id": "bagagem-252c434f"
+      },
+      {
+        "id": "entrada-a9df7a76"
+      },
+      {
+        "id": "perto-longe-fd289bf0"
+      },
+      {
+        "id": "aberto-fechado-d5843aef"
+      },
+      {
+        "id": "eu-peco-22a1b9b6"
+      },
+      {
+        "id": "eu-vou-gostar-49fa2852"
+      }
+    ]
+  },
+  "S017": {
+    "id": "S017",
+    "title": "Le restaurant (commander)",
+    "words": [
+      {
+        "id": "reserva-ce2905f4"
+      },
+      {
+        "id": "cafe-da-manha-0ab95074"
+      },
+      {
+        "id": "garcom-308b8a20"
+      },
+      {
+        "id": "cardapio-f2d87309"
+      },
+      {
+        "id": "entrada-a9df7a76"
+      },
+      {
+        "id": "prato-principal-ba64179b"
+      },
+      {
+        "id": "sobremesa-bd30c994"
+      },
+      {
+        "id": "conta-90656691"
+      },
+      {
+        "id": "caixa-81dbefaf"
+      },
+      {
+        "id": "preco-f110c71f"
+      },
+      {
+        "id": "eu-quero-8d99869f"
+      },
+      {
+        "id": "eu-vou-pagar-c992a494"
+      }
+    ]
+  },
+  "S018": {
+    "id": "S018",
+    "title": "Faire les courses",
+    "words": [
+      {
+        "id": "caixa-81dbefaf"
+      },
+      {
+        "id": "preco-f110c71f"
+      },
+      {
+        "id": "feira-53b766fa"
+      },
+      {
+        "id": "banca-1ed6f1a1"
+      },
+      {
+        "id": "sacolinha-476a0179"
+      },
+      {
+        "id": "balcao-4da59bf8"
+      },
+      {
+        "id": "quanto-custa-5a4ae7bb"
+      },
+      {
+        "id": "troco-48effd4a"
+      },
+      {
+        "id": "nota-fiscal-1d3b069c"
+      },
+      {
+        "id": "tamanho-581176c7"
+      },
+      {
+        "id": "eu-tenho-5a651b8c"
+      },
+      {
+        "id": "eu-vou-beber-35e32423"
+      }
+    ]
+  },
+  "S019": {
+    "id": "S019",
+    "title": "Argent & paiement",
+    "words": [
+      {
+        "id": "conta-90656691"
+      },
+      {
+        "id": "troco-48effd4a"
+      },
+      {
+        "id": "cartao-de-credito-a7da0224"
+      },
+      {
+        "id": "dinheiro-54975ba2"
+      },
+      {
+        "id": "pix-998e7c5f"
+      },
+      {
+        "id": "orcamento-746a8f42"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "eu-gosto-ae5ebea4"
+      },
+      {
+        "id": "eu-vou-estudar-773edbe2"
+      }
+    ]
+  },
+  "S020": {
+    "id": "S020",
+    "title": "Demander son chemin",
+    "words": [
+      {
+        "id": "endereco-ed0d4669"
+      },
+      {
+        "id": "perto-longe-fd289bf0"
+      },
+      {
+        "id": "mapa-4a472d01"
+      },
+      {
+        "id": "esquina-d29ae7b1"
+      },
+      {
+        "id": "semaforo-fd6b66b5"
+      },
+      {
+        "id": "entrada-a9df7a76"
+      },
+      {
+        "id": "aberto-fechado-d5843aef"
+      },
+      {
+        "id": "praca-a91a66c1"
+      },
+      {
+        "id": "parque-6aa440a4"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "eu-quero-8d99869f"
+      },
+      {
+        "id": "eu-vou-pagar-c992a494"
+      }
+    ]
+  },
+  "S021": {
+    "id": "S021",
+    "title": "La météo",
+    "words": [
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "desembarque-84d1469d"
+      },
+      {
+        "id": "check-in-94c0fbc3"
+      },
+      {
+        "id": "bagagem-252c434f"
+      },
+      {
+        "id": "documento-287ca5e5"
+      },
+      {
+        "id": "passaporte-f19e0e06"
+      },
+      {
+        "id": "voo-1f9ad01d"
+      },
+      {
+        "id": "eu-como-b297a8d4"
+      },
+      {
+        "id": "eu-vou-chegar-f177e20e"
+      }
+    ]
+  },
+  "S022": {
+    "id": "S022",
+    "title": "Les vêtements",
+    "words": [
+      {
+        "id": "tamanho-581176c7"
+      },
+      {
+        "id": "provador-13faa81e"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "desembarque-84d1469d"
+      },
+      {
+        "id": "check-in-94c0fbc3"
+      },
+      {
+        "id": "bagagem-252c434f"
+      },
+      {
+        "id": "documento-287ca5e5"
+      },
+      {
+        "id": "eu-fecho-7c03c944"
+      },
+      {
+        "id": "eu-vou-ficar-761ef41b"
+      }
+    ]
+  },
+  "S023": {
+    "id": "S023",
+    "title": "Le corps humain",
+    "words": [
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "desembarque-84d1469d"
+      },
+      {
+        "id": "check-in-94c0fbc3"
+      },
+      {
+        "id": "bagagem-252c434f"
+      },
+      {
+        "id": "documento-287ca5e5"
+      },
+      {
+        "id": "passaporte-f19e0e06"
+      },
+      {
+        "id": "voo-1f9ad01d"
+      },
+      {
+        "id": "eu-preciso-ad48069b"
+      },
+      {
+        "id": "eu-vou-trabalhar-8cf5ebeb"
+      }
+    ]
+  },
+  "S024": {
+    "id": "S024",
+    "title": "La santé (expressions de base)",
+    "words": [
+      {
+        "id": "dor-de-cabeca-cf919d9a"
+      },
+      {
+        "id": "febre-8a5bba8c"
+      },
+      {
+        "id": "receita-e3e7b107"
+      },
+      {
+        "id": "remedio-65bd3539"
+      },
+      {
+        "id": "ambulancia-45e6a068"
+      },
+      {
+        "id": "protetor-solar-f86bbb54"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "eu-moro-0fb1ab65"
+      },
+      {
+        "id": "eu-vou-fazer-be528aaa"
+      }
+    ]
+  },
+  "S025": {
+    "id": "S025",
+    "title": "Les émotions",
+    "words": [
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "desembarque-84d1469d"
+      },
+      {
+        "id": "check-in-94c0fbc3"
+      },
+      {
+        "id": "bagagem-252c434f"
+      },
+      {
+        "id": "documento-287ca5e5"
+      },
+      {
+        "id": "passaporte-f19e0e06"
+      },
+      {
+        "id": "voo-1f9ad01d"
+      },
+      {
+        "id": "eu-ligo-cc59dc95"
+      },
+      {
+        "id": "eu-vou-ver-aae05fa2"
+      }
+    ]
+  },
+  "S026": {
+    "id": "S026",
+    "title": "Les routines (verbes fréquents)",
+    "words": [
+      {
+        "id": "rotina-ba74c332"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "desembarque-84d1469d"
+      },
+      {
+        "id": "check-in-94c0fbc3"
+      },
+      {
+        "id": "bagagem-252c434f"
+      },
+      {
+        "id": "documento-287ca5e5"
+      },
+      {
+        "id": "passaporte-f19e0e06"
+      },
+      {
+        "id": "eu-trabalho-ed1b7c90"
+      },
+      {
+        "id": "eu-vou-ajudar-e9b1cd9d"
+      }
+    ]
+  },
+  "S027": {
+    "id": "S027",
+    "title": "L’heure & la journée",
+    "words": [
+      {
+        "id": "hoje-b5364edb"
+      },
+      {
+        "id": "amanha-8a87dcb0"
+      },
+      {
+        "id": "ontem-4a127553"
+      },
+      {
+        "id": "agora-39a44d0c"
+      },
+      {
+        "id": "mais-tarde-268a3c92"
+      },
+      {
+        "id": "cedo-tarde-6929fabd"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "eu-sou-a8f404f6"
+      },
+      {
+        "id": "eu-vou-falar-252e091c"
+      }
+    ]
+  },
+  "S028": {
+    "id": "S028",
+    "title": "L’école & le travail simple",
+    "words": [
+      {
+        "id": "colega-bda39488"
+      },
+      {
+        "id": "preciso-trabalhar-855d0612"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "desembarque-84d1469d"
+      },
+      {
+        "id": "check-in-94c0fbc3"
+      },
+      {
+        "id": "bagagem-252c434f"
+      },
+      {
+        "id": "documento-287ca5e5"
+      },
+      {
+        "id": "eu-digo-1a5116e8"
+      },
+      {
+        "id": "eu-vou-ir-3100bb2b"
+      }
+    ]
+  },
+  "S029": {
+    "id": "S029",
+    "title": "Les loisirs",
+    "words": [
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "desembarque-84d1469d"
+      },
+      {
+        "id": "check-in-94c0fbc3"
+      },
+      {
+        "id": "bagagem-252c434f"
+      },
+      {
+        "id": "documento-287ca5e5"
+      },
+      {
+        "id": "passaporte-f19e0e06"
+      },
+      {
+        "id": "voo-1f9ad01d"
+      },
+      {
+        "id": "eu-vejo-1da5dc0b"
+      },
+      {
+        "id": "eu-vou-ter-605f2550"
+      }
+    ]
+  },
+  "S030": {
+    "id": "S030",
+    "title": "À la plage",
+    "words": [
+      {
+        "id": "praia-2601f3bd"
+      },
+      {
+        "id": "areia-bea6abe8"
+      },
+      {
+        "id": "guarda-sol-30d407ab"
+      },
+      {
+        "id": "protetor-solar-f86bbb54"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "desembarque-84d1469d"
+      },
+      {
+        "id": "check-in-94c0fbc3"
+      },
+      {
+        "id": "eu-viajo-87a5ad8d"
+      },
+      {
+        "id": "eu-vou-chamar-fe2aa9e8"
+      }
+    ]
+  },
+  "S031": {
+    "id": "S031",
+    "title": "Poser une question simple",
+    "words": [
+      {
+        "id": "pergunta-13957da7"
+      },
+      {
+        "id": "por-que-1bd98289"
+      },
+      {
+        "id": "como-f1a75917"
+      },
+      {
+        "id": "quando-21a585df"
+      },
+      {
+        "id": "onde-9d6c7e15"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "desembarque-84d1469d"
+      },
+      {
+        "id": "eu-posso-e4d4fce3"
+      },
+      {
+        "id": "eu-vou-comprar-52f078d6"
+      }
+    ]
+  },
+  "S032": {
+    "id": "S032",
+    "title": "Dire ce qu’on aime ou pas",
+    "words": [
+      {
+        "id": "curtir-6d214168"
+      },
+      {
+        "id": "gosto-de-7dda4356"
+      },
+      {
+        "id": "nao-gosto-de-715aadb1"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "desembarque-84d1469d"
+      },
+      {
+        "id": "check-in-94c0fbc3"
+      },
+      {
+        "id": "bagagem-252c434f"
+      },
+      {
+        "id": "eu-como-b297a8d4"
+      },
+      {
+        "id": "eu-vou-chegar-f177e20e"
+      }
+    ]
+  },
+  "S033": {
+    "id": "S033",
+    "title": "Exprimer un besoin",
+    "words": [
+      {
+        "id": "preciso-de-e566f638"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "desembarque-84d1469d"
+      },
+      {
+        "id": "check-in-94c0fbc3"
+      },
+      {
+        "id": "bagagem-252c434f"
+      },
+      {
+        "id": "documento-287ca5e5"
+      },
+      {
+        "id": "passaporte-f19e0e06"
+      },
+      {
+        "id": "eu-fecho-7c03c944"
+      },
+      {
+        "id": "eu-vou-ficar-761ef41b"
+      }
+    ]
+  },
+  "S034": {
+    "id": "S034",
+    "title": "Parler de sa journée",
+    "words": [
+      {
+        "id": "hoje-b5364edb"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "desembarque-84d1469d"
+      },
+      {
+        "id": "check-in-94c0fbc3"
+      },
+      {
+        "id": "bagagem-252c434f"
+      },
+      {
+        "id": "documento-287ca5e5"
+      },
+      {
+        "id": "passaporte-f19e0e06"
+      },
+      {
+        "id": "eu-vejo-1da5dc0b"
+      },
+      {
+        "id": "eu-vou-ter-605f2550"
+      }
+    ]
+  },
+  "S035": {
+    "id": "S035",
+    "title": "Aller quelque part",
+    "words": [
+      {
+        "id": "endereco-ed0d4669"
+      },
+      {
+        "id": "perto-longe-fd289bf0"
+      },
+      {
+        "id": "mapa-4a472d01"
+      },
+      {
+        "id": "esquina-d29ae7b1"
+      },
+      {
+        "id": "semaforo-fd6b66b5"
+      },
+      {
+        "id": "entrada-a9df7a76"
+      },
+      {
+        "id": "aberto-fechado-d5843aef"
+      },
+      {
+        "id": "praca-a91a66c1"
+      },
+      {
+        "id": "parque-6aa440a4"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "eu-quero-8d99869f"
+      },
+      {
+        "id": "eu-vou-pagar-c992a494"
+      }
+    ]
+  },
+  "S036": {
+    "id": "S036",
+    "title": "Inviter quelqu’un",
+    "words": [
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "desembarque-84d1469d"
+      },
+      {
+        "id": "check-in-94c0fbc3"
+      },
+      {
+        "id": "bagagem-252c434f"
+      },
+      {
+        "id": "documento-287ca5e5"
+      },
+      {
+        "id": "passaporte-f19e0e06"
+      },
+      {
+        "id": "voo-1f9ad01d"
+      },
+      {
+        "id": "eu-espero-0e90196e"
+      },
+      {
+        "id": "eu-vou-estar-37893598"
+      }
+    ]
+  },
+  "S037": {
+    "id": "S037",
+    "title": "Commander un repas complet",
+    "words": [
+      {
+        "id": "reserva-ce2905f4"
+      },
+      {
+        "id": "cafe-da-manha-0ab95074"
+      },
+      {
+        "id": "garcom-308b8a20"
+      },
+      {
+        "id": "cardapio-f2d87309"
+      },
+      {
+        "id": "entrada-a9df7a76"
+      },
+      {
+        "id": "prato-principal-ba64179b"
+      },
+      {
+        "id": "sobremesa-bd30c994"
+      },
+      {
+        "id": "conta-90656691"
+      },
+      {
+        "id": "caixa-81dbefaf"
+      },
+      {
+        "id": "preco-f110c71f"
+      },
+      {
+        "id": "eu-quero-8d99869f"
+      },
+      {
+        "id": "eu-vou-pagar-c992a494"
+      }
+    ]
+  },
+  "S038": {
+    "id": "S038",
+    "title": "Faire des achats (prix, tailles)",
+    "words": [
+      {
+        "id": "caixa-81dbefaf"
+      },
+      {
+        "id": "troco-48effd4a"
+      },
+      {
+        "id": "nota-fiscal-1d3b069c"
+      },
+      {
+        "id": "tamanho-581176c7"
+      },
+      {
+        "id": "provador-13faa81e"
+      },
+      {
+        "id": "preco-f110c71f"
+      },
+      {
+        "id": "desconto-cb911ab0"
+      },
+      {
+        "id": "sacolinha-476a0179"
+      },
+      {
+        "id": "quanto-custa-5a4ae7bb"
+      },
+      {
+        "id": "feira-53b766fa"
+      },
+      {
+        "id": "eu-abro-d73b9727"
+      },
+      {
+        "id": "eu-vou-pedir-3fe1d30a"
+      }
+    ]
+  },
+  "S039": {
+    "id": "S039",
+    "title": "À la pharmacie",
+    "words": [
+      {
+        "id": "receita-e3e7b107"
+      },
+      {
+        "id": "remedio-65bd3539"
+      },
+      {
+        "id": "balcao-4da59bf8"
+      },
+      {
+        "id": "dor-de-cabeca-cf919d9a"
+      },
+      {
+        "id": "febre-8a5bba8c"
+      },
+      {
+        "id": "ambulancia-45e6a068"
+      },
+      {
+        "id": "protetor-solar-f86bbb54"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "eu-estudo-f08d2837"
+      },
+      {
+        "id": "eu-vou-morar-afd16a2b"
+      }
+    ]
+  },
+  "S040": {
+    "id": "S040",
+    "title": "Les urgences simples",
+    "words": [
+      {
+        "id": "emergencia-e81e5bab"
+      },
+      {
+        "id": "ambulancia-45e6a068"
+      },
+      {
+        "id": "policia-667dddf8"
+      },
+      {
+        "id": "incendio-f84826e0"
+      },
+      {
+        "id": "furto-446937b9"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "desembarque-84d1469d"
+      },
+      {
+        "id": "eu-vou-073bca2e"
+      },
+      {
+        "id": "eu-vou-viajar-23da8e34"
+      }
+    ]
+  },
+  "S041": {
+    "id": "S041",
+    "title": "Les amis & les relations",
+    "words": [
+      {
+        "id": "amigo-amiga-45e6cd06"
+      },
+      {
+        "id": "namorado-namorada-a9cb2ca3"
+      },
+      {
+        "id": "vizinho-vizinha-411f70c6"
+      },
+      {
+        "id": "colega-bda39488"
+      },
+      {
+        "id": "talvez-63e7eb19"
+      },
+      {
+        "id": "sim-813221ca"
+      },
+      {
+        "id": "nao-23f93a61"
+      },
+      {
+        "id": "pergunta-13957da7"
+      },
+      {
+        "id": "historia-1d89bb0f"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "eu-vejo-1da5dc0b"
+      },
+      {
+        "id": "eu-vou-ter-605f2550"
+      }
+    ]
+  },
+  "S042": {
+    "id": "S042",
+    "title": "Donner son opinion",
+    "words": [
+      {
+        "id": "opiniao-1024adfc"
+      },
+      {
+        "id": "talvez-63e7eb19"
+      },
+      {
+        "id": "acho-que-74e993d0"
+      },
+      {
+        "id": "concordo-75b7e94f"
+      },
+      {
+        "id": "discordo-774a6aff"
+      },
+      {
+        "id": "sim-813221ca"
+      },
+      {
+        "id": "nao-23f93a61"
+      },
+      {
+        "id": "pergunta-13957da7"
+      },
+      {
+        "id": "historia-1d89bb0f"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "eu-trabalho-ed1b7c90"
+      },
+      {
+        "id": "eu-vou-ajudar-e9b1cd9d"
+      }
+    ]
+  },
+  "S043": {
+    "id": "S043",
+    "title": "Accepter ou refuser",
+    "words": [
+      {
+        "id": "concordo-75b7e94f"
+      },
+      {
+        "id": "discordo-774a6aff"
+      },
+      {
+        "id": "sim-813221ca"
+      },
+      {
+        "id": "nao-23f93a61"
+      },
+      {
+        "id": "aceito-eb6e1539"
+      },
+      {
+        "id": "recuso-018ae62e"
+      },
+      {
+        "id": "talvez-63e7eb19"
+      },
+      {
+        "id": "pergunta-13957da7"
+      },
+      {
+        "id": "historia-1d89bb0f"
+      },
+      {
+        "id": "opiniao-1024adfc"
+      },
+      {
+        "id": "eu-tenho-5a651b8c"
+      },
+      {
+        "id": "eu-vou-beber-35e32423"
+      }
+    ]
+  },
+  "S044": {
+    "id": "S044",
+    "title": "Décrire quelqu’un",
+    "words": [
+      {
+        "id": "alto-baixo-81086aae"
+      },
+      {
+        "id": "cabelo-2106c421"
+      },
+      {
+        "id": "olhos-b97aa341"
+      },
+      {
+        "id": "simpatico-df112970"
+      },
+      {
+        "id": "talvez-63e7eb19"
+      },
+      {
+        "id": "sim-813221ca"
+      },
+      {
+        "id": "nao-23f93a61"
+      },
+      {
+        "id": "pergunta-13957da7"
+      },
+      {
+        "id": "historia-1d89bb0f"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "eu-tenho-5a651b8c"
+      },
+      {
+        "id": "eu-vou-beber-35e32423"
+      }
+    ]
+  },
+  "S045": {
+    "id": "S045",
+    "title": "Décrire un lieu",
+    "words": [
+      {
+        "id": "barulhento-silencioso-500799bd"
+      },
+      {
+        "id": "entrada-a9df7a76"
+      },
+      {
+        "id": "perto-longe-fd289bf0"
+      },
+      {
+        "id": "aberto-fechado-d5843aef"
+      },
+      {
+        "id": "praca-a91a66c1"
+      },
+      {
+        "id": "parque-6aa440a4"
+      },
+      {
+        "id": "endereco-ed0d4669"
+      },
+      {
+        "id": "mapa-4a472d01"
+      },
+      {
+        "id": "esquina-d29ae7b1"
+      },
+      {
+        "id": "semaforo-fd6b66b5"
+      },
+      {
+        "id": "eu-viajo-87a5ad8d"
+      },
+      {
+        "id": "eu-vou-chamar-fe2aa9e8"
+      }
+    ]
+  },
+  "S046": {
+    "id": "S046",
+    "title": "Parler de ses goûts",
+    "words": [
+      {
+        "id": "curtir-6d214168"
+      },
+      {
+        "id": "gosto-de-7dda4356"
+      },
+      {
+        "id": "nao-gosto-de-715aadb1"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "desembarque-84d1469d"
+      },
+      {
+        "id": "check-in-94c0fbc3"
+      },
+      {
+        "id": "bagagem-252c434f"
+      },
+      {
+        "id": "eu-como-b297a8d4"
+      },
+      {
+        "id": "eu-vou-chegar-f177e20e"
+      }
+    ]
+  },
+  "S047": {
+    "id": "S047",
+    "title": "Parler de son futur proche",
+    "words": [
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "desembarque-84d1469d"
+      },
+      {
+        "id": "check-in-94c0fbc3"
+      },
+      {
+        "id": "bagagem-252c434f"
+      },
+      {
+        "id": "documento-287ca5e5"
+      },
+      {
+        "id": "passaporte-f19e0e06"
+      },
+      {
+        "id": "voo-1f9ad01d"
+      },
+      {
+        "id": "eu-gosto-ae5ebea4"
+      },
+      {
+        "id": "eu-vou-estudar-773edbe2"
+      }
+    ]
+  },
+  "S048": {
+    "id": "S048",
+    "title": "Faire un projet de sortie",
+    "words": [
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "desembarque-84d1469d"
+      },
+      {
+        "id": "check-in-94c0fbc3"
+      },
+      {
+        "id": "bagagem-252c434f"
+      },
+      {
+        "id": "documento-287ca5e5"
+      },
+      {
+        "id": "passaporte-f19e0e06"
+      },
+      {
+        "id": "voo-1f9ad01d"
+      },
+      {
+        "id": "eu-tenho-5a651b8c"
+      },
+      {
+        "id": "eu-vou-beber-35e32423"
+      }
+    ]
+  },
+  "S049": {
+    "id": "S049",
+    "title": "Utiliser le téléphone portable",
+    "words": [
+      {
+        "id": "ligacao-eca046c1"
+      },
+      {
+        "id": "sinal-58b5d7da"
+      },
+      {
+        "id": "aplicativo-065cf909"
+      },
+      {
+        "id": "wi-fi-fcd50089"
+      },
+      {
+        "id": "dados-moveis-a8c083d6"
+      },
+      {
+        "id": "senha-7751a23f"
+      },
+      {
+        "id": "usuario-96dd3868"
+      },
+      {
+        "id": "download-817248fb"
+      },
+      {
+        "id": "tomada-cebbbcd2"
+      },
+      {
+        "id": "login-2736fab2"
+      },
+      {
+        "id": "eu-chego-421346b6"
+      },
+      {
+        "id": "eu-vou-fechar-c6f8156c"
+      }
+    ]
+  },
+  "S050": {
+    "id": "S050",
+    "title": "Envoyer un message",
+    "words": [
+      {
+        "id": "mensagem-d3d357c1"
+      },
+      {
+        "id": "sinal-58b5d7da"
+      },
+      {
+        "id": "aplicativo-065cf909"
+      },
+      {
+        "id": "wi-fi-fcd50089"
+      },
+      {
+        "id": "dados-moveis-a8c083d6"
+      },
+      {
+        "id": "senha-7751a23f"
+      },
+      {
+        "id": "usuario-96dd3868"
+      },
+      {
+        "id": "site-c099a42a"
+      },
+      {
+        "id": "rede-social-cd64a6ad"
+      },
+      {
+        "id": "comentario-8001800f"
+      },
+      {
+        "id": "eu-fico-018fa287"
+      },
+      {
+        "id": "eu-vou-precisar-b7033d7c"
+      }
+    ]
+  },
+  "S051": {
+    "id": "S051",
+    "title": "Préparer un voyage",
+    "words": [
+      {
+        "id": "mapa-4a472d01"
+      },
+      {
+        "id": "bagagem-252c434f"
+      },
+      {
+        "id": "endereco-ed0d4669"
+      },
+      {
+        "id": "perto-longe-fd289bf0"
+      },
+      {
+        "id": "esquina-d29ae7b1"
+      },
+      {
+        "id": "semaforo-fd6b66b5"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "eu-falo-65e6e857"
+      },
+      {
+        "id": "eu-vou-pegar-4c06c8f5"
+      }
+    ]
+  },
+  "S052": {
+    "id": "S052",
+    "title": "À l’aéroport (contrôles)",
+    "words": [
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "desembarque-84d1469d"
+      },
+      {
+        "id": "check-in-94c0fbc3"
+      },
+      {
+        "id": "bagagem-252c434f"
+      },
+      {
+        "id": "documento-287ca5e5"
+      },
+      {
+        "id": "passaporte-f19e0e06"
+      },
+      {
+        "id": "voo-1f9ad01d"
+      },
+      {
+        "id": "aviao-01f28123"
+      },
+      {
+        "id": "eu-compro-ab15e612"
+      },
+      {
+        "id": "eu-vou-ligar-6d976459"
+      }
+    ]
+  },
+  "S053": {
+    "id": "S053",
+    "title": "Louer une chambre ou un appartement",
+    "words": [
+      {
+        "id": "entrada-a9df7a76"
+      },
+      {
+        "id": "perto-longe-fd289bf0"
+      },
+      {
+        "id": "aberto-fechado-d5843aef"
+      },
+      {
+        "id": "praca-a91a66c1"
+      },
+      {
+        "id": "parque-6aa440a4"
+      },
+      {
+        "id": "portaria-487c090c"
+      },
+      {
+        "id": "reserva-ce2905f4"
+      },
+      {
+        "id": "quarto-ad25d1cf"
+      },
+      {
+        "id": "cafe-da-manha-0ab95074"
+      },
+      {
+        "id": "chave-do-quarto-d93c8f93"
+      },
+      {
+        "id": "eu-ligo-cc59dc95"
+      },
+      {
+        "id": "eu-vou-ver-aae05fa2"
+      }
+    ]
+  },
+  "S054": {
+    "id": "S054",
+    "title": "Réserver une table au restaurant",
+    "words": [
+      {
+        "id": "reserva-ce2905f4"
+      },
+      {
+        "id": "cafe-da-manha-0ab95074"
+      },
+      {
+        "id": "garcom-308b8a20"
+      },
+      {
+        "id": "cardapio-f2d87309"
+      },
+      {
+        "id": "entrada-a9df7a76"
+      },
+      {
+        "id": "prato-principal-ba64179b"
+      },
+      {
+        "id": "sobremesa-bd30c994"
+      },
+      {
+        "id": "conta-90656691"
+      },
+      {
+        "id": "caixa-81dbefaf"
+      },
+      {
+        "id": "preco-f110c71f"
+      },
+      {
+        "id": "eu-quero-8d99869f"
+      },
+      {
+        "id": "eu-vou-pagar-c992a494"
+      }
+    ]
+  },
+  "S055": {
+    "id": "S055",
+    "title": "Commander un menu complet",
+    "words": [
+      {
+        "id": "reserva-ce2905f4"
+      },
+      {
+        "id": "cafe-da-manha-0ab95074"
+      },
+      {
+        "id": "garcom-308b8a20"
+      },
+      {
+        "id": "cardapio-f2d87309"
+      },
+      {
+        "id": "entrada-a9df7a76"
+      },
+      {
+        "id": "prato-principal-ba64179b"
+      },
+      {
+        "id": "sobremesa-bd30c994"
+      },
+      {
+        "id": "conta-90656691"
+      },
+      {
+        "id": "caixa-81dbefaf"
+      },
+      {
+        "id": "preco-f110c71f"
+      },
+      {
+        "id": "eu-quero-8d99869f"
+      },
+      {
+        "id": "eu-vou-pagar-c992a494"
+      }
+    ]
+  },
+  "S056": {
+    "id": "S056",
+    "title": "Aller au marché",
+    "words": [
+      {
+        "id": "caixa-81dbefaf"
+      },
+      {
+        "id": "preco-f110c71f"
+      },
+      {
+        "id": "feira-53b766fa"
+      },
+      {
+        "id": "banca-1ed6f1a1"
+      },
+      {
+        "id": "sacolinha-476a0179"
+      },
+      {
+        "id": "balcao-4da59bf8"
+      },
+      {
+        "id": "quanto-custa-5a4ae7bb"
+      },
+      {
+        "id": "troco-48effd4a"
+      },
+      {
+        "id": "nota-fiscal-1d3b069c"
+      },
+      {
+        "id": "tamanho-581176c7"
+      },
+      {
+        "id": "eu-tenho-5a651b8c"
+      },
+      {
+        "id": "eu-vou-beber-35e32423"
+      }
+    ]
+  },
+  "S057": {
+    "id": "S057",
+    "title": "Négocier un prix",
+    "words": [
+      {
+        "id": "preco-f110c71f"
+      },
+      {
+        "id": "desconto-cb911ab0"
+      },
+      {
+        "id": "quanto-custa-5a4ae7bb"
+      },
+      {
+        "id": "caixa-81dbefaf"
+      },
+      {
+        "id": "troco-48effd4a"
+      },
+      {
+        "id": "nota-fiscal-1d3b069c"
+      },
+      {
+        "id": "tamanho-581176c7"
+      },
+      {
+        "id": "provador-13faa81e"
+      },
+      {
+        "id": "sacolinha-476a0179"
+      },
+      {
+        "id": "feira-53b766fa"
+      },
+      {
+        "id": "eu-vou-073bca2e"
+      },
+      {
+        "id": "eu-vou-viajar-23da8e34"
+      }
+    ]
+  },
+  "S058": {
+    "id": "S058",
+    "title": "Transport urbain avancé (métro, applis)",
+    "words": [
+      {
+        "id": "metro-f3aca16b"
+      },
+      {
+        "id": "aplicativo-de-transporte-b59168e9"
+      },
+      {
+        "id": "baldeacao-1c9fdd58"
+      },
+      {
+        "id": "sentido-centro-9beb74d6"
+      },
+      {
+        "id": "parada-459b3b15"
+      },
+      {
+        "id": "semaforo-fd6b66b5"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "onibus-5d9a02c3"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "atraso-a98508fa"
+      },
+      {
+        "id": "eu-viajo-87a5ad8d"
+      },
+      {
+        "id": "eu-vou-chamar-fe2aa9e8"
+      }
+    ]
+  },
+  "S059": {
+    "id": "S059",
+    "title": "Activités de vacances",
+    "words": [
+      {
+        "id": "parque-6aa440a4"
+      },
+      {
+        "id": "praia-2601f3bd"
+      },
+      {
+        "id": "ferias-7ecc7aa7"
+      },
+      {
+        "id": "areia-bea6abe8"
+      },
+      {
+        "id": "guarda-sol-30d407ab"
+      },
+      {
+        "id": "protetor-solar-f86bbb54"
+      },
+      {
+        "id": "mapa-4a472d01"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "eu-compro-ab15e612"
+      },
+      {
+        "id": "eu-vou-ligar-6d976459"
+      }
+    ]
+  },
+  "S060": {
+    "id": "S060",
+    "title": "Petits problèmes en voyage",
+    "words": [
+      {
+        "id": "atraso-a98508fa"
+      },
+      {
+        "id": "cancelado-f5ef8596"
+      },
+      {
+        "id": "fila-47a5d765"
+      },
+      {
+        "id": "furto-446937b9"
+      },
+      {
+        "id": "vazamento-49b55237"
+      },
+      {
+        "id": "emergencia-e81e5bab"
+      },
+      {
+        "id": "ambulancia-45e6a068"
+      },
+      {
+        "id": "policia-667dddf8"
+      },
+      {
+        "id": "incendio-f84826e0"
+      },
+      {
+        "id": "bagagem-252c434f"
+      },
+      {
+        "id": "eu-como-b297a8d4"
+      },
+      {
+        "id": "eu-vou-chegar-f177e20e"
+      }
+    ]
+  },
+  "S061": {
+    "id": "S061",
+    "title": "À la poste",
+    "words": [
+      {
+        "id": "documento-287ca5e5"
+      },
+      {
+        "id": "agencia-bb858ca3"
+      },
+      {
+        "id": "fila-47a5d765"
+      },
+      {
+        "id": "selo-a032abda"
+      },
+      {
+        "id": "encomenda-3da1145f"
+      },
+      {
+        "id": "endereco-ed0d4669"
+      },
+      {
+        "id": "remetente-0a86d693"
+      },
+      {
+        "id": "destinatario-aebaff7e"
+      },
+      {
+        "id": "frete-0470df3a"
+      },
+      {
+        "id": "prazo-de-entrega-5ac9cfae"
+      },
+      {
+        "id": "eu-espero-0e90196e"
+      },
+      {
+        "id": "eu-vou-estar-37893598"
+      }
+    ]
+  },
+  "S062": {
+    "id": "S062",
+    "title": "À la banque",
+    "words": [
+      {
+        "id": "documento-287ca5e5"
+      },
+      {
+        "id": "conta-90656691"
+      },
+      {
+        "id": "caixa-81dbefaf"
+      },
+      {
+        "id": "nota-fiscal-1d3b069c"
+      },
+      {
+        "id": "cartao-de-credito-a7da0224"
+      },
+      {
+        "id": "dinheiro-54975ba2"
+      },
+      {
+        "id": "pix-998e7c5f"
+      },
+      {
+        "id": "deposito-aa79a071"
+      },
+      {
+        "id": "saque-325c2633"
+      },
+      {
+        "id": "agencia-bb858ca3"
+      },
+      {
+        "id": "eu-quero-8d99869f"
+      },
+      {
+        "id": "eu-vou-pagar-c992a494"
+      }
+    ]
+  },
+  "S063": {
+    "id": "S063",
+    "title": "Chez le médecin",
+    "words": [
+      {
+        "id": "dor-de-cabeca-cf919d9a"
+      },
+      {
+        "id": "febre-8a5bba8c"
+      },
+      {
+        "id": "receita-e3e7b107"
+      },
+      {
+        "id": "remedio-65bd3539"
+      },
+      {
+        "id": "ambulancia-45e6a068"
+      },
+      {
+        "id": "protetor-solar-f86bbb54"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "eu-entro-24473eee"
+      },
+      {
+        "id": "eu-vou-ser-ef519643"
+      }
+    ]
+  },
+  "S064": {
+    "id": "S064",
+    "title": "Chez le dentiste",
+    "words": [
+      {
+        "id": "dor-de-cabeca-cf919d9a"
+      },
+      {
+        "id": "febre-8a5bba8c"
+      },
+      {
+        "id": "receita-e3e7b107"
+      },
+      {
+        "id": "remedio-65bd3539"
+      },
+      {
+        "id": "ambulancia-45e6a068"
+      },
+      {
+        "id": "protetor-solar-f86bbb54"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "eu-saio-91ef1837"
+      },
+      {
+        "id": "eu-vou-entrar-b30e7bf7"
+      }
+    ]
+  },
+  "S065": {
+    "id": "S065",
+    "title": "Acheter des médicaments",
+    "words": [
+      {
+        "id": "receita-e3e7b107"
+      },
+      {
+        "id": "remedio-65bd3539"
+      },
+      {
+        "id": "balcao-4da59bf8"
+      },
+      {
+        "id": "dor-de-cabeca-cf919d9a"
+      },
+      {
+        "id": "febre-8a5bba8c"
+      },
+      {
+        "id": "ambulancia-45e6a068"
+      },
+      {
+        "id": "protetor-solar-f86bbb54"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "eu-estudo-f08d2837"
+      },
+      {
+        "id": "eu-vou-morar-afd16a2b"
+      }
+    ]
+  },
+  "S066": {
+    "id": "S066",
+    "title": "Petits travaux à la maison",
+    "words": [
+      {
+        "id": "aberto-fechado-d5843aef"
+      },
+      {
+        "id": "tomada-cebbbcd2"
+      },
+      {
+        "id": "lampada-e2af9f55"
+      },
+      {
+        "id": "ferramenta-5918c97f"
+      },
+      {
+        "id": "vazamento-49b55237"
+      },
+      {
+        "id": "conserto-3d168ee9"
+      },
+      {
+        "id": "orcamento-746a8f42"
+      },
+      {
+        "id": "quarto-ad25d1cf"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "eu-quero-8d99869f"
+      },
+      {
+        "id": "eu-vou-pagar-c992a494"
+      }
+    ]
+  },
+  "S067": {
+    "id": "S067",
+    "title": "Les courses en ligne",
+    "words": [
+      {
+        "id": "encomenda-3da1145f"
+      },
+      {
+        "id": "endereco-ed0d4669"
+      },
+      {
+        "id": "carrinho-45672334"
+      },
+      {
+        "id": "frete-0470df3a"
+      },
+      {
+        "id": "prazo-de-entrega-5ac9cfae"
+      },
+      {
+        "id": "rastreamento-65dfeb2d"
+      },
+      {
+        "id": "suporte-259d3c91"
+      },
+      {
+        "id": "caixa-81dbefaf"
+      },
+      {
+        "id": "troco-48effd4a"
+      },
+      {
+        "id": "nota-fiscal-1d3b069c"
+      },
+      {
+        "id": "eu-faco-4c781ff8"
+      },
+      {
+        "id": "eu-vou-poder-868d8a2e"
+      }
+    ]
+  },
+  "S068": {
+    "id": "S068",
+    "title": "Les technologies du quotidien",
+    "words": [
+      {
+        "id": "aplicativo-065cf909"
+      },
+      {
+        "id": "wi-fi-fcd50089"
+      },
+      {
+        "id": "dados-moveis-a8c083d6"
+      },
+      {
+        "id": "senha-7751a23f"
+      },
+      {
+        "id": "usuario-96dd3868"
+      },
+      {
+        "id": "download-817248fb"
+      },
+      {
+        "id": "tomada-cebbbcd2"
+      },
+      {
+        "id": "login-2736fab2"
+      },
+      {
+        "id": "sair-da-conta-3b792377"
+      },
+      {
+        "id": "suporte-259d3c91"
+      },
+      {
+        "id": "eu-vou-073bca2e"
+      },
+      {
+        "id": "eu-vou-viajar-23da8e34"
+      }
+    ]
+  },
+  "S069": {
+    "id": "S069",
+    "title": "Internet & réseaux sociaux",
+    "words": [
+      {
+        "id": "sinal-58b5d7da"
+      },
+      {
+        "id": "aplicativo-065cf909"
+      },
+      {
+        "id": "wi-fi-fcd50089"
+      },
+      {
+        "id": "dados-moveis-a8c083d6"
+      },
+      {
+        "id": "senha-7751a23f"
+      },
+      {
+        "id": "usuario-96dd3868"
+      },
+      {
+        "id": "site-c099a42a"
+      },
+      {
+        "id": "rede-social-cd64a6ad"
+      },
+      {
+        "id": "comentario-8001800f"
+      },
+      {
+        "id": "compartilhar-ecb66237"
+      },
+      {
+        "id": "eu-ajudo-ea3331ca"
+      },
+      {
+        "id": "eu-vou-trazer-b70d9c4f"
+      }
+    ]
+  },
+  "S070": {
+    "id": "S070",
+    "title": "Les transports interurbains",
+    "words": [
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "atraso-a98508fa"
+      },
+      {
+        "id": "cancelado-f5ef8596"
+      },
+      {
+        "id": "onibus-5d9a02c3"
+      },
+      {
+        "id": "metro-f3aca16b"
+      },
+      {
+        "id": "trem-b727f035"
+      },
+      {
+        "id": "aviao-01f28123"
+      },
+      {
+        "id": "taxi-4d82205a"
+      },
+      {
+        "id": "baldeacao-1c9fdd58"
+      },
+      {
+        "id": "eu-ligo-cc59dc95"
+      },
+      {
+        "id": "eu-vou-ver-aae05fa2"
+      }
+    ]
+  },
+  "S071": {
+    "id": "S071",
+    "title": "Raconter un souvenir (passé)",
+    "words": [
+      {
+        "id": "ontem-4a127553"
+      },
+      {
+        "id": "lembranca-4fac1648"
+      },
+      {
+        "id": "historia-1d89bb0f"
+      },
+      {
+        "id": "hoje-b5364edb"
+      },
+      {
+        "id": "talvez-63e7eb19"
+      },
+      {
+        "id": "sim-813221ca"
+      },
+      {
+        "id": "nao-23f93a61"
+      },
+      {
+        "id": "pergunta-13957da7"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "eu-compro-ab15e612"
+      },
+      {
+        "id": "eu-vou-ligar-6d976459"
+      }
+    ]
+  },
+  "S072": {
+    "id": "S072",
+    "title": "Parler d’un futur proche (plans)",
+    "words": [
+      {
+        "id": "amanha-8a87dcb0"
+      },
+      {
+        "id": "mais-tarde-268a3c92"
+      },
+      {
+        "id": "hoje-b5364edb"
+      },
+      {
+        "id": "ontem-4a127553"
+      },
+      {
+        "id": "agora-39a44d0c"
+      },
+      {
+        "id": "cedo-tarde-6929fabd"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "eu-bebo-8f162182"
+      },
+      {
+        "id": "eu-vou-sair-dead52d5"
+      }
+    ]
+  },
+  "S073": {
+    "id": "S073",
+    "title": "Décrire sa routine détaillée",
+    "words": [
+      {
+        "id": "rotina-ba74c332"
+      },
+      {
+        "id": "hoje-b5364edb"
+      },
+      {
+        "id": "amanha-8a87dcb0"
+      },
+      {
+        "id": "ontem-4a127553"
+      },
+      {
+        "id": "agora-39a44d0c"
+      },
+      {
+        "id": "mais-tarde-268a3c92"
+      },
+      {
+        "id": "cedo-tarde-6929fabd"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "eu-faco-4c781ff8"
+      },
+      {
+        "id": "eu-vou-poder-868d8a2e"
+      }
+    ]
+  },
+  "S074": {
+    "id": "S074",
+    "title": "Exprimer une obligation ou un besoin",
+    "words": [
+      {
+        "id": "dever-b1e99c23"
+      },
+      {
+        "id": "preciso-trabalhar-855d0612"
+      },
+      {
+        "id": "regra-b75728d8"
+      },
+      {
+        "id": "preciso-de-e566f638"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "desembarque-84d1469d"
+      },
+      {
+        "id": "check-in-94c0fbc3"
+      },
+      {
+        "id": "eu-ligo-cc59dc95"
+      },
+      {
+        "id": "eu-vou-ver-aae05fa2"
+      }
+    ]
+  },
+  "S075": {
+    "id": "S075",
+    "title": "Parler de ses envies et projets",
+    "words": [
+      {
+        "id": "curtir-6d214168"
+      },
+      {
+        "id": "gosto-de-7dda4356"
+      },
+      {
+        "id": "nao-gosto-de-715aadb1"
+      },
+      {
+        "id": "amanha-8a87dcb0"
+      },
+      {
+        "id": "mais-tarde-268a3c92"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "desembarque-84d1469d"
+      },
+      {
+        "id": "eu-vou-073bca2e"
+      },
+      {
+        "id": "eu-vou-viajar-23da8e34"
+      }
+    ]
+  },
+  "S076": {
+    "id": "S076",
+    "title": "Décrire une journée de vacances",
+    "words": [
+      {
+        "id": "parque-6aa440a4"
+      },
+      {
+        "id": "praia-2601f3bd"
+      },
+      {
+        "id": "ferias-7ecc7aa7"
+      },
+      {
+        "id": "hoje-b5364edb"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "desembarque-84d1469d"
+      },
+      {
+        "id": "check-in-94c0fbc3"
+      },
+      {
+        "id": "eu-entro-24473eee"
+      },
+      {
+        "id": "eu-vou-ser-ef519643"
+      }
+    ]
+  },
+  "S077": {
+    "id": "S077",
+    "title": "Demander et donner des conseils",
+    "words": [
+      {
+        "id": "conselho-87823284"
+      },
+      {
+        "id": "regra-b75728d8"
+      },
+      {
+        "id": "talvez-63e7eb19"
+      },
+      {
+        "id": "sim-813221ca"
+      },
+      {
+        "id": "nao-23f93a61"
+      },
+      {
+        "id": "pergunta-13957da7"
+      },
+      {
+        "id": "historia-1d89bb0f"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "eu-quero-8d99869f"
+      },
+      {
+        "id": "eu-vou-pagar-c992a494"
+      }
+    ]
+  },
+  "S078": {
+    "id": "S078",
+    "title": "Dire ce qu’on peut / ne peut pas faire",
+    "words": [
+      {
+        "id": "capaz-incapaz-d8292e1e"
+      },
+      {
+        "id": "talvez-63e7eb19"
+      },
+      {
+        "id": "sim-813221ca"
+      },
+      {
+        "id": "nao-23f93a61"
+      },
+      {
+        "id": "pergunta-13957da7"
+      },
+      {
+        "id": "historia-1d89bb0f"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "embarque-79ffd84a"
+      },
+      {
+        "id": "eu-fecho-7c03c944"
+      },
+      {
+        "id": "eu-vou-ficar-761ef41b"
+      }
+    ]
+  },
+  "S079": {
+    "id": "S079",
+    "title": "Interagir dans une conversation courante",
+    "words": [
+      {
+        "id": "talvez-63e7eb19"
+      },
+      {
+        "id": "sim-813221ca"
+      },
+      {
+        "id": "nao-23f93a61"
+      },
+      {
+        "id": "pergunta-13957da7"
+      },
+      {
+        "id": "historia-1d89bb0f"
+      },
+      {
+        "id": "por-que-1bd98289"
+      },
+      {
+        "id": "como-f1a75917"
+      },
+      {
+        "id": "quando-21a585df"
+      },
+      {
+        "id": "onde-9d6c7e15"
+      },
+      {
+        "id": "opiniao-1024adfc"
+      },
+      {
+        "id": "eu-ajudo-ea3331ca"
+      },
+      {
+        "id": "eu-vou-trazer-b70d9c4f"
+      }
+    ]
+  },
+  "S080": {
+    "id": "S080",
+    "title": "Bilan : scènes de la vie quotidienne",
+    "words": [
+      {
+        "id": "talvez-63e7eb19"
+      },
+      {
+        "id": "sim-813221ca"
+      },
+      {
+        "id": "nao-23f93a61"
+      },
+      {
+        "id": "pergunta-13957da7"
+      },
+      {
+        "id": "historia-1d89bb0f"
+      },
+      {
+        "id": "hoje-b5364edb"
+      },
+      {
+        "id": "preciso-de-e566f638"
+      },
+      {
+        "id": "plataforma-fa09ef81"
+      },
+      {
+        "id": "bilhete-d98d49da"
+      },
+      {
+        "id": "portao-e2f49bdd"
+      },
+      {
+        "id": "eu-tenho-5a651b8c"
+      },
+      {
+        "id": "eu-vou-beber-35e32423"
       }
     ]
   }

@@ -1,24 +1,42 @@
 {
   "id": "S067",
-  "title": "Mois (2) — L067",
+  "title": "Les courses en ligne",
   "words": [
     {
-      "id": "julho-ae4e35ec"
+      "id": "encomenda-3da1145f"
     },
     {
-      "id": "agosto-5a3c84cb"
+      "id": "endereco-ed0d4669"
     },
     {
-      "id": "setembro-c4ed4198"
+      "id": "carrinho-45672334"
     },
     {
-      "id": "outubro-53ba38ce"
+      "id": "frete-0470df3a"
     },
     {
-      "id": "novembro-7f3147a9"
+      "id": "prazo-de-entrega-5ac9cfae"
     },
     {
-      "id": "dezembro-71f217b1"
+      "id": "rastreamento-65dfeb2d"
+    },
+    {
+      "id": "suporte-259d3c91"
+    },
+    {
+      "id": "caixa-81dbefaf"
+    },
+    {
+      "id": "troco-48effd4a"
+    },
+    {
+      "id": "nota-fiscal-1d3b069c"
+    },
+    {
+      "id": "eu-faco-4c781ff8"
+    },
+    {
+      "id": "eu-vou-poder-868d8a2e"
     }
   ]
 }

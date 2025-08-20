@@ -1,24 +1,42 @@
 {
   "id": "S016",
-  "title": "Fruits & légumes — L016",
+  "title": "L’hôtel (réserver)",
   "words": [
     {
-      "id": "fruta-1ea8c03f"
+      "id": "portaria-487c090c"
     },
     {
-      "id": "maca-b0c51b47"
+      "id": "reserva-ce2905f4"
     },
     {
-      "id": "banana-250e77f1"
+      "id": "quarto-ad25d1cf"
     },
     {
-      "id": "laranja-fruta-c676317c"
+      "id": "cafe-da-manha-0ab95074"
     },
     {
-      "id": "uva-2d2c2a14"
+      "id": "chave-do-quarto-d93c8f93"
     },
     {
-      "id": "tomate-13f20098"
+      "id": "check-out-4142bde3"
+    },
+    {
+      "id": "bagagem-252c434f"
+    },
+    {
+      "id": "entrada-a9df7a76"
+    },
+    {
+      "id": "perto-longe-fd289bf0"
+    },
+    {
+      "id": "aberto-fechado-d5843aef"
+    },
+    {
+      "id": "eu-peco-22a1b9b6"
+    },
+    {
+      "id": "eu-vou-gostar-49fa2852"
     }
   ]
 }

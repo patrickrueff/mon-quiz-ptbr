@@ -1,24 +1,42 @@
 {
   "id": "S044",
-  "title": "Cuisine & électro — L044",
+  "title": "Décrire quelqu’un",
   "words": [
     {
-      "id": "garfo-7d3ac037"
+      "id": "alto-baixo-81086aae"
     },
     {
-      "id": "faca-6afc729d"
+      "id": "cabelo-2106c421"
     },
     {
-      "id": "geladeira-000689c8"
+      "id": "olhos-b97aa341"
     },
     {
-      "id": "fogao-7aa9a045"
+      "id": "simpatico-df112970"
     },
     {
-      "id": "forno-1912344a"
+      "id": "talvez-63e7eb19"
     },
     {
-      "id": "micro-ondas-4a22e6ad"
+      "id": "sim-813221ca"
+    },
+    {
+      "id": "nao-23f93a61"
+    },
+    {
+      "id": "pergunta-13957da7"
+    },
+    {
+      "id": "historia-1d89bb0f"
+    },
+    {
+      "id": "plataforma-fa09ef81"
+    },
+    {
+      "id": "eu-tenho-5a651b8c"
+    },
+    {
+      "id": "eu-vou-beber-35e32423"
     }
   ]
 }

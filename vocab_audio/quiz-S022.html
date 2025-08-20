@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8" />
-  <title>Quiz — Corps (1) — L022</title>
+  <title>Quiz — Les vêtements</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>:root{
   --bg:#0b0f14;--card:#121821;--text:#eef3fb;--muted:#b8c0cc;--accent:#5aa0ff;--accent2:#8ad1ff;--border:#1e2632
@@ -47,7 +47,7 @@ button:hover,a.btn:hover{border-color:var(--accent)} button:active,a.btn:active{
 <body>
   <div class="container">
     <div class="row" style="justify-content:space-between;align-items:baseline">
-      <h1>Quiz — Corps (1) — L022</h1>
+      <h1>Quiz — Les vêtements</h1>
       <div class="row"><a class="btn" href="index.html">🏠 Accueil</a></div>
     </div>
     <p class="sub">Leçon : S022</p>
@@ -104,7 +104,7 @@ function toggleQuiz(){
   frs.forEach(el=>{ el.style.visibility = chk.checked ? 'hidden' : 'visible'; });
 }
 </script>
-  <script>const POOL = [{"pt": "cabeça", "fr": "tête", "phon": "cabéssa", "normal": "audio/0127-cabeca-a172c0d6.mp3"}, {"pt": "olho", "fr": "œil", "phon": "olho", "normal": "audio/0128-olho-9d12fc46.mp3"}, {"pt": "boca", "fr": "bouche", "phon": "boca", "normal": "audio/0129-boca-42a50539.mp3"}, {"pt": "dente", "fr": "dent", "phon": "dènchi", "normal": "audio/0130-dente-6cca05c1.mp3"}, {"pt": "mão", "fr": "main", "phon": "mã-oun", "normal": "audio/0131-mao-e7a8963d.mp3"}, {"pt": "braço", "fr": "bras", "phon": "brasso", "normal": "audio/0132-braco-6fa6dd9e.mp3"}];
+  <script>const POOL = [{"pt": "tamanho", "fr": "taille", "phon": "tamanyou", "normal": "audio/0229-tamanho-581176c7.mp3"}, {"pt": "provador", "fr": "cabine d’essayage", "phon": "provador", "normal": "audio/0194-provador-13faa81e.mp3"}, {"pt": "plataforma", "fr": "quai (plateforme)", "phon": "plataforma", "normal": "audio/0180-plataforma-fa09ef81.mp3"}, {"pt": "bilhete", "fr": "billet", "phon": "bilyeté", "normal": "audio/0020-bilhete-d98d49da.mp3"}, {"pt": "portão", "fr": "porte d’embarquement", "phon": "portãnw", "normal": "audio/0184-portao-e2f49bdd.mp3"}, {"pt": "embarque", "fr": "embarquement", "phon": "embarké", "normal": "audio/0063-embarque-79ffd84a.mp3"}, {"pt": "desembarque", "fr": "débarquement", "phon": "desembarké", "normal": "audio/0052-desembarque-84d1469d.mp3"}, {"pt": "check-in", "fr": "enregistrement (check-in)", "phon": "check-in", "normal": "audio/0034-check-in-94c0fbc3.mp3"}, {"pt": "bagagem", "fr": "bagage", "phon": "bagajèm", "normal": "audio/0015-bagagem-252c434f.mp3"}, {"pt": "documento", "fr": "document", "phon": "documentou", "normal": "audio/0058-documento-287ca5e5.mp3"}, {"pt": "eu fecho", "fr": "je fermer", "phon": "eu fechou", "normal": "audio/0083-eu-fecho-7c03c944.mp3"}, {"pt": "eu vou ficar", "fr": "je vais rester / devenir", "phon": "eu vou ficar", "normal": "audio/0111-eu-vou-ficar-761ef41b.mp3"}];
 function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; }
 function makeQuiz(POOL, limit){ const items=[...POOL]; shuffle(items); if(limit&&limit>0){ items.length=Math.min(limit,items.length);} return items; }
 function buildChoices(pool, answer, n=4){

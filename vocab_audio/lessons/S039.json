@@ -1,24 +1,42 @@
 {
   "id": "S039",
-  "title": "Couleurs (2) — L039",
+  "title": "À la pharmacie",
   "words": [
     {
-      "id": "cinza-32a05be7"
+      "id": "receita-e3e7b107"
     },
     {
-      "id": "rosa-5efc86ca"
+      "id": "remedio-65bd3539"
     },
     {
-      "id": "roxo-4bf83285"
+      "id": "balcao-4da59bf8"
     },
     {
-      "id": "marrom-b6e9af8a"
+      "id": "dor-de-cabeca-cf919d9a"
     },
     {
-      "id": "bege-f630b0b9"
+      "id": "febre-8a5bba8c"
     },
     {
-      "id": "laranja-4571e3d8"
+      "id": "ambulancia-45e6a068"
+    },
+    {
+      "id": "protetor-solar-f86bbb54"
+    },
+    {
+      "id": "plataforma-fa09ef81"
+    },
+    {
+      "id": "bilhete-d98d49da"
+    },
+    {
+      "id": "portao-e2f49bdd"
+    },
+    {
+      "id": "eu-estudo-f08d2837"
+    },
+    {
+      "id": "eu-vou-morar-afd16a2b"
     }
   ]
 }

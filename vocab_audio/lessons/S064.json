@@ -1,24 +1,42 @@
 {
   "id": "S064",
-  "title": "Chiffres 11-20 — L064",
+  "title": "Chez le dentiste",
   "words": [
     {
-      "id": "treze-153619dd"
+      "id": "dor-de-cabeca-cf919d9a"
     },
     {
-      "id": "quatorze-ae9c35e7"
+      "id": "febre-8a5bba8c"
     },
     {
-      "id": "quinze-6c00d38d"
+      "id": "receita-e3e7b107"
     },
     {
-      "id": "dezesseis-78423d69"
+      "id": "remedio-65bd3539"
     },
     {
-      "id": "dezessete-2f452a74"
+      "id": "ambulancia-45e6a068"
     },
     {
-      "id": "dezoito-c5d18ab4"
+      "id": "protetor-solar-f86bbb54"
+    },
+    {
+      "id": "plataforma-fa09ef81"
+    },
+    {
+      "id": "bilhete-d98d49da"
+    },
+    {
+      "id": "portao-e2f49bdd"
+    },
+    {
+      "id": "embarque-79ffd84a"
+    },
+    {
+      "id": "eu-saio-91ef1837"
+    },
+    {
+      "id": "eu-vou-entrar-b30e7bf7"
     }
   ]
 }

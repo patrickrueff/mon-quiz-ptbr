@@ -1,24 +1,42 @@
 {
   "id": "S059",
-  "title": "Directions (phrases) — L059",
+  "title": "Activités de vacances",
   "words": [
     {
-      "id": "e-perto-3aa07ba3"
+      "id": "parque-6aa440a4"
     },
     {
-      "id": "e-longe-9a6fc484"
+      "id": "praia-2601f3bd"
     },
     {
-      "id": "vire-a-direita-3dcc29e7"
+      "id": "ferias-7ecc7aa7"
     },
     {
-      "id": "vire-a-esquerda-39407a21"
+      "id": "areia-bea6abe8"
     },
     {
-      "id": "siga-em-frente-70bdc31b"
+      "id": "guarda-sol-30d407ab"
     },
     {
-      "id": "onde-fica-o-aeroporto-2c1b27e8"
+      "id": "protetor-solar-f86bbb54"
+    },
+    {
+      "id": "mapa-4a472d01"
+    },
+    {
+      "id": "plataforma-fa09ef81"
+    },
+    {
+      "id": "bilhete-d98d49da"
+    },
+    {
+      "id": "portao-e2f49bdd"
+    },
+    {
+      "id": "eu-compro-ab15e612"
+    },
+    {
+      "id": "eu-vou-ligar-6d976459"
     }
   ]
 }

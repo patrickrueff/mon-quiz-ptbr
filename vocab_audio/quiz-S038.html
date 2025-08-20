@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8" />
-  <title>Quiz — Couleurs (1) — L038</title>
+  <title>Quiz — Faire des achats (prix, tailles)</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>:root{
   --bg:#0b0f14;--card:#121821;--text:#eef3fb;--muted:#b8c0cc;--accent:#5aa0ff;--accent2:#8ad1ff;--border:#1e2632
@@ -47,7 +47,7 @@ button:hover,a.btn:hover{border-color:var(--accent)} button:active,a.btn:active{
 <body>
   <div class="container">
     <div class="row" style="justify-content:space-between;align-items:baseline">
-      <h1>Quiz — Couleurs (1) — L038</h1>
+      <h1>Quiz — Faire des achats (prix, tailles)</h1>
       <div class="row"><a class="btn" href="index.html">🏠 Accueil</a></div>
     </div>
     <p class="sub">Leçon : S038</p>
@@ -104,7 +104,7 @@ function toggleQuiz(){
   frs.forEach(el=>{ el.style.visibility = chk.checked ? 'hidden' : 'visible'; });
 }
 </script>
-  <script>const POOL = [{"pt": "vermelho", "fr": "rouge", "phon": "vermè-lio", "normal": "audio/0043-vermelho-79f2b39a.mp3"}, {"pt": "azul", "fr": "bleu", "phon": "azoul", "normal": "audio/0044-azul-1768d39c.mp3"}, {"pt": "amarelo", "fr": "jaune", "phon": "amarè-lo", "normal": "audio/0045-amarelo-985037bf.mp3"}, {"pt": "verde", "fr": "vert", "phon": "vèrdi", "normal": "audio/0046-verde-2030abee.mp3"}, {"pt": "preto", "fr": "noir", "phon": "prétou", "normal": "audio/0047-preto-eb60d10d.mp3"}, {"pt": "branco", "fr": "blanc", "phon": "bran-co", "normal": "audio/0048-branco-e6c28d71.mp3"}];
+  <script>const POOL = [{"pt": "caixa", "fr": "caisse / guichet", "phon": "caixa", "normal": "audio/0026-caixa-81dbefaf.mp3"}, {"pt": "troco", "fr": "monnaie rendue", "phon": "trocou", "normal": "audio/0234-troco-48effd4a.mp3"}, {"pt": "nota fiscal", "fr": "facture / ticket de caisse", "phon": "nota fiscal", "normal": "audio/0162-nota-fiscal-1d3b069c.mp3"}, {"pt": "tamanho", "fr": "taille", "phon": "tamanyou", "normal": "audio/0229-tamanho-581176c7.mp3"}, {"pt": "provador", "fr": "cabine d’essayage", "phon": "provador", "normal": "audio/0194-provador-13faa81e.mp3"}, {"pt": "preço", "fr": "prix", "phon": "pressou", "normal": "audio/0192-preco-f110c71f.mp3"}, {"pt": "desconto", "fr": "réduction", "phon": "descontou", "normal": "audio/0051-desconto-cb911ab0.mp3"}, {"pt": "sacolinha", "fr": "petit sac (plastique)", "phon": "sacolinya", "normal": "audio/0210-sacolinha-476a0179.mp3"}, {"pt": "quanto custa?", "fr": "ça coûte combien ?", "phon": "kantou custa?", "normal": "audio/0196-quanto-custa-5a4ae7bb.mp3"}, {"pt": "feira", "fr": "marché (foire)", "phon": "feira", "normal": "audio/0130-feira-53b766fa.mp3"}, {"pt": "eu abro", "fr": "je ouvrir", "phon": "eu abrou", "normal": "audio/0070-eu-abro-d73b9727.mp3"}, {"pt": "eu vou pedir", "fr": "je vais demander / commander", "phon": "eu vou pedjïr", "normal": "audio/0117-eu-vou-pedir-3fe1d30a.mp3"}];
 function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; }
 function makeQuiz(POOL, limit){ const items=[...POOL]; shuffle(items); if(limit&&limit>0){ items.length=Math.min(limit,items.length);} return items; }
 function buildChoices(pool, answer, n=4){

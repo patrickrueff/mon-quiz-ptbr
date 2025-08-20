@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8" />
-  <title>Quiz — Quotidien (phrases 1) — L030</title>
+  <title>Quiz — À la plage</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>:root{
   --bg:#0b0f14;--card:#121821;--text:#eef3fb;--muted:#b8c0cc;--accent:#5aa0ff;--accent2:#8ad1ff;--border:#1e2632
@@ -47,7 +47,7 @@ button:hover,a.btn:hover{border-color:var(--accent)} button:active,a.btn:active{
 <body>
   <div class="container">
     <div class="row" style="justify-content:space-between;align-items:baseline">
-      <h1>Quiz — Quotidien (phrases 1) — L030</h1>
+      <h1>Quiz — À la plage</h1>
       <div class="row"><a class="btn" href="index.html">🏠 Accueil</a></div>
     </div>
     <p class="sub">Leçon : S030</p>
@@ -104,7 +104,7 @@ function toggleQuiz(){
   frs.forEach(el=>{ el.style.visibility = chk.checked ? 'hidden' : 'visible'; });
 }
 </script>
-  <script>const POOL = [{"pt": "Eu gosto de açúcar", "fr": "J'aime Eu gosto de sucre", "phon": "eu gosto de assoucar", "normal": "audio/0175-eu-gosto-de-acucar-1536adbf.mp3"}, {"pt": "Eu gosto de sal", "fr": "J'aime Eu gosto de sel", "phon": "eu gosto de sal", "normal": "audio/0176-eu-gosto-de-sal-d5cb4dec.mp3"}, {"pt": "Eu gosto de glúten", "fr": "J'aime Eu gosto de gluten", "phon": "eu gosto de gloutèn", "normal": "audio/0177-eu-gosto-de-gluten-da90dc4e.mp3"}, {"pt": "Eu gosto de lactose", "fr": "J'aime Eu gosto de lactose", "phon": "eu gosto de lactôzi", "normal": "audio/0178-eu-gosto-de-lactose-26d3d959.mp3"}, {"pt": "Eu preciso de açúcar", "fr": "J'ai besoin de Eu preciso de sucre", "phon": "eu preciso de assoucar", "normal": "audio/0179-eu-preciso-de-acucar-a7c4bd38.mp3"}, {"pt": "Eu preciso de sal", "fr": "J'ai besoin de Eu preciso de sel", "phon": "eu preciso de sal", "normal": "audio/0180-eu-preciso-de-sal-581f622a.mp3"}];
+  <script>const POOL = [{"pt": "praia", "fr": "plage", "phon": "praia", "normal": "audio/0185-praia-2601f3bd.mp3"}, {"pt": "areia", "fr": "sable", "phon": "areia", "normal": "audio/0012-areia-bea6abe8.mp3"}, {"pt": "guarda-sol", "fr": "parasol", "phon": "guarda-sol", "normal": "audio/0141-guarda-sol-30d407ab.mp3"}, {"pt": "protetor solar", "fr": "crème solaire", "phon": "protetor solar", "normal": "audio/0193-protetor-solar-f86bbb54.mp3"}, {"pt": "plataforma", "fr": "quai (plateforme)", "phon": "plataforma", "normal": "audio/0180-plataforma-fa09ef81.mp3"}, {"pt": "bilhete", "fr": "billet", "phon": "bilyeté", "normal": "audio/0020-bilhete-d98d49da.mp3"}, {"pt": "portão", "fr": "porte d’embarquement", "phon": "portãnw", "normal": "audio/0184-portao-e2f49bdd.mp3"}, {"pt": "embarque", "fr": "embarquement", "phon": "embarké", "normal": "audio/0063-embarque-79ffd84a.mp3"}, {"pt": "desembarque", "fr": "débarquement", "phon": "desembarké", "normal": "audio/0052-desembarque-84d1469d.mp3"}, {"pt": "check-in", "fr": "enregistrement (check-in)", "phon": "check-in", "normal": "audio/0034-check-in-94c0fbc3.mp3"}, {"pt": "eu viajo", "fr": "je voyager", "phon": "eu viajou", "normal": "audio/0097-eu-viajo-87a5ad8d.mp3"}, {"pt": "eu vou chamar", "fr": "je vais appeler", "phon": "eu vou chamar", "normal": "audio/0101-eu-vou-chamar-fe2aa9e8.mp3"}];
 function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; }
 function makeQuiz(POOL, limit){ const items=[...POOL]; shuffle(items); if(limit&&limit>0){ items.length=Math.min(limit,items.length);} return items; }
 function buildChoices(pool, answer, n=4){

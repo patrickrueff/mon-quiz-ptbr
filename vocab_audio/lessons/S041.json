@@ -1,24 +1,42 @@
 {
   "id": "S041",
-  "title": "Famille (2) — L041",
+  "title": "Les amis & les relations",
   "words": [
     {
-      "id": "amigo-01f07beb"
+      "id": "amigo-amiga-45e6cd06"
     },
     {
-      "id": "amiga-11c67d63"
+      "id": "namorado-namorada-a9cb2ca3"
     },
     {
-      "id": "esposo-04c75626"
+      "id": "vizinho-vizinha-411f70c6"
     },
     {
-      "id": "esposa-39dea479"
+      "id": "colega-bda39488"
     },
     {
-      "id": "avo-eaaed76b"
+      "id": "talvez-63e7eb19"
     },
     {
-      "id": "avo-8786e742"
+      "id": "sim-813221ca"
+    },
+    {
+      "id": "nao-23f93a61"
+    },
+    {
+      "id": "pergunta-13957da7"
+    },
+    {
+      "id": "historia-1d89bb0f"
+    },
+    {
+      "id": "plataforma-fa09ef81"
+    },
+    {
+      "id": "eu-vejo-1da5dc0b"
+    },
+    {
+      "id": "eu-vou-ter-605f2550"
     }
   ]
 }

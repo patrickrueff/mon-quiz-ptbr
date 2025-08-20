@@ -1,24 +1,42 @@
 {
   "id": "S028",
-  "title": "Restaurant (phrases 1) — L028",
+  "title": "L’école & le travail simple",
   "words": [
     {
-      "id": "eu-gostaria-de-cafe-4ce72d75"
+      "id": "colega-bda39488"
     },
     {
-      "id": "eu-gostaria-de-cha-fb3fc2ac"
+      "id": "preciso-trabalhar-855d0612"
     },
     {
-      "id": "eu-gostaria-de-agua-6efcb008"
+      "id": "plataforma-fa09ef81"
     },
     {
-      "id": "eu-gostaria-de-suco-0a3b1828"
+      "id": "bilhete-d98d49da"
     },
     {
-      "id": "eu-gostaria-de-arroz-1450d362"
+      "id": "portao-e2f49bdd"
     },
     {
-      "id": "eu-gostaria-de-feijao-9cef4617"
+      "id": "embarque-79ffd84a"
+    },
+    {
+      "id": "desembarque-84d1469d"
+    },
+    {
+      "id": "check-in-94c0fbc3"
+    },
+    {
+      "id": "bagagem-252c434f"
+    },
+    {
+      "id": "documento-287ca5e5"
+    },
+    {
+      "id": "eu-digo-1a5116e8"
+    },
+    {
+      "id": "eu-vou-ir-3100bb2b"
     }
   ]
 }

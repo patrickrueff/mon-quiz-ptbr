@@ -1,24 +1,42 @@
 {
   "id": "S065",
-  "title": "Jours de la semaine — L065",
+  "title": "Acheter des médicaments",
   "words": [
     {
-      "id": "sabado-1e73aa8e"
+      "id": "receita-e3e7b107"
     },
     {
-      "id": "domingo-da416310"
+      "id": "remedio-65bd3539"
     },
     {
-      "id": "segunda-feira-f362171c"
+      "id": "balcao-4da59bf8"
     },
     {
-      "id": "terca-feira-5e0e7781"
+      "id": "dor-de-cabeca-cf919d9a"
     },
     {
-      "id": "quarta-feira-60b1473c"
+      "id": "febre-8a5bba8c"
     },
     {
-      "id": "quinta-feira-48f8d2fa"
+      "id": "ambulancia-45e6a068"
+    },
+    {
+      "id": "protetor-solar-f86bbb54"
+    },
+    {
+      "id": "plataforma-fa09ef81"
+    },
+    {
+      "id": "bilhete-d98d49da"
+    },
+    {
+      "id": "portao-e2f49bdd"
+    },
+    {
+      "id": "eu-estudo-f08d2837"
+    },
+    {
+      "id": "eu-vou-morar-afd16a2b"
     }
   ]
 }

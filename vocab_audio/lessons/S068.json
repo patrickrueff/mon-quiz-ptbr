@@ -1,24 +1,42 @@
 {
   "id": "S068",
-  "title": "Couleurs (1) — L068",
+  "title": "Les technologies du quotidien",
   "words": [
     {
-      "id": "vermelho-79f2b39a"
+      "id": "aplicativo-065cf909"
     },
     {
-      "id": "azul-1768d39c"
+      "id": "wi-fi-fcd50089"
     },
     {
-      "id": "amarelo-985037bf"
+      "id": "dados-moveis-a8c083d6"
     },
     {
-      "id": "verde-2030abee"
+      "id": "senha-7751a23f"
     },
     {
-      "id": "preto-eb60d10d"
+      "id": "usuario-96dd3868"
     },
     {
-      "id": "branco-e6c28d71"
+      "id": "download-817248fb"
+    },
+    {
+      "id": "tomada-cebbbcd2"
+    },
+    {
+      "id": "login-2736fab2"
+    },
+    {
+      "id": "sair-da-conta-3b792377"
+    },
+    {
+      "id": "suporte-259d3c91"
+    },
+    {
+      "id": "eu-vou-073bca2e"
+    },
+    {
+      "id": "eu-vou-viajar-23da8e34"
     }
   ]
 }

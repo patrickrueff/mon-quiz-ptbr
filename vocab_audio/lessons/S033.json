@@ -1,24 +1,42 @@
 {
   "id": "S033",
-  "title": "Chiffres 0-10 — L033",
+  "title": "Exprimer un besoin",
   "words": [
     {
-      "id": "seis-ba157934"
+      "id": "preciso-de-e566f638"
     },
     {
-      "id": "sete-0f961cd8"
+      "id": "plataforma-fa09ef81"
     },
     {
-      "id": "oito-2a67c257"
+      "id": "bilhete-d98d49da"
     },
     {
-      "id": "nove-7f52fd19"
+      "id": "portao-e2f49bdd"
     },
     {
-      "id": "dez-b5ab4a29"
+      "id": "embarque-79ffd84a"
     },
     {
-      "id": "zero-aa8c4133"
+      "id": "desembarque-84d1469d"
+    },
+    {
+      "id": "check-in-94c0fbc3"
+    },
+    {
+      "id": "bagagem-252c434f"
+    },
+    {
+      "id": "documento-287ca5e5"
+    },
+    {
+      "id": "passaporte-f19e0e06"
+    },
+    {
+      "id": "eu-fecho-7c03c944"
+    },
+    {
+      "id": "eu-vou-ficar-761ef41b"
     }
   ]
 }

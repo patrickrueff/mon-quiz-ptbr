@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8" />
-  <title>Quiz — Famille (2) — L041</title>
+  <title>Quiz — Les amis &amp; les relations</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>:root{
   --bg:#0b0f14;--card:#121821;--text:#eef3fb;--muted:#b8c0cc;--accent:#5aa0ff;--accent2:#8ad1ff;--border:#1e2632
@@ -47,7 +47,7 @@ button:hover,a.btn:hover{border-color:var(--accent)} button:active,a.btn:active{
 <body>
   <div class="container">
     <div class="row" style="justify-content:space-between;align-items:baseline">
-      <h1>Quiz — Famille (2) — L041</h1>
+      <h1>Quiz — Les amis &amp; les relations</h1>
       <div class="row"><a class="btn" href="index.html">🏠 Accueil</a></div>
     </div>
     <p class="sub">Leçon : S041</p>
@@ -104,7 +104,7 @@ function toggleQuiz(){
   frs.forEach(el=>{ el.style.visibility = chk.checked ? 'hidden' : 'visible'; });
 }
 </script>
-  <script>const POOL = [{"pt": "amigo", "fr": "ami", "phon": "amigo", "normal": "audio/0199-amigo-01f07beb.mp3"}, {"pt": "amiga", "fr": "amie", "phon": "amiga", "normal": "audio/0200-amiga-11c67d63.mp3"}, {"pt": "esposo", "fr": "mari", "phon": "èspôzo", "normal": "audio/0061-esposo-04c75626.mp3"}, {"pt": "esposa", "fr": "femme (épouse)", "phon": "èspôza", "normal": "audio/0062-esposa-39dea479.mp3"}, {"pt": "avô", "fr": "grand-père", "phon": "avô (avô)", "normal": "audio/0063-avo-eaaed76b.mp3"}, {"pt": "avó", "fr": "grand-mère", "phon": "avó (avó)", "normal": "audio/0064-avo-8786e742.mp3"}];
+  <script>const POOL = [{"pt": "amigo / amiga", "fr": "ami / amie", "phon": "amigou / amiga", "normal": "audio/0009-amigo-amiga-45e6cd06.mp3"}, {"pt": "namorado / namorada", "fr": "petit ami / petite amie", "phon": "namoradou / namorada", "normal": "audio/0161-namorado-namorada-a9cb2ca3.mp3"}, {"pt": "vizinho / vizinha", "fr": "voisin / voisine", "phon": "vizinyou / vizinya", "normal": "audio/0240-vizinho-vizinha-411f70c6.mp3"}, {"pt": "colega", "fr": "collègue", "phon": "colega", "normal": "audio/0037-colega-bda39488.mp3"}, {"pt": "talvez", "fr": "peut-être", "phon": "talvez", "normal": "audio/0228-talvez-63e7eb19.mp3"}, {"pt": "sim", "fr": "oui", "phon": "sim", "normal": "audio/0221-sim-813221ca.mp3"}, {"pt": "não", "fr": "non", "phon": "nãnw", "normal": "audio/0164-nao-23f93a61.mp3"}, {"pt": "pergunta", "fr": "question", "phon": "pergunta", "normal": "audio/0177-pergunta-13957da7.mp3"}, {"pt": "história", "fr": "histoire", "phon": "historia", "normal": "audio/0142-historia-1d89bb0f.mp3"}, {"pt": "plataforma", "fr": "quai (plateforme)", "phon": "plataforma", "normal": "audio/0180-plataforma-fa09ef81.mp3"}, {"pt": "eu vejo", "fr": "je voir", "phon": "eu vejou", "normal": "audio/0096-eu-vejo-1da5dc0b.mp3"}, {"pt": "eu vou ter", "fr": "je vais avoir", "phon": "eu vou ter", "normal": "audio/0123-eu-vou-ter-605f2550.mp3"}];
 function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; }
 function makeQuiz(POOL, limit){ const items=[...POOL]; shuffle(items); if(limit&&limit>0){ items.length=Math.min(limit,items.length);} return items; }
 function buildChoices(pool, answer, n=4){

@@ -1,24 +1,42 @@
 {
   "id": "S048",
-  "title": "Vêtements (1) — L048",
+  "title": "Faire un projet de sortie",
   "words": [
     {
-      "id": "camisa-90db2a49"
+      "id": "plataforma-fa09ef81"
     },
     {
-      "id": "camiseta-a269b5db"
+      "id": "bilhete-d98d49da"
     },
     {
-      "id": "calca-f78c303c"
+      "id": "portao-e2f49bdd"
     },
     {
-      "id": "saia-9c8f19d9"
+      "id": "embarque-79ffd84a"
     },
     {
-      "id": "vestido-f50e2745"
+      "id": "desembarque-84d1469d"
     },
     {
-      "id": "casaco-60d277de"
+      "id": "check-in-94c0fbc3"
+    },
+    {
+      "id": "bagagem-252c434f"
+    },
+    {
+      "id": "documento-287ca5e5"
+    },
+    {
+      "id": "passaporte-f19e0e06"
+    },
+    {
+      "id": "voo-1f9ad01d"
+    },
+    {
+      "id": "eu-tenho-5a651b8c"
+    },
+    {
+      "id": "eu-vou-beber-35e32423"
     }
   ]
 }

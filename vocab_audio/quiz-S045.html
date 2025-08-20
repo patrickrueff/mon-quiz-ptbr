@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8" />
-  <title>Quiz — Nourriture (1) — L045</title>
+  <title>Quiz — Décrire un lieu</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>:root{
   --bg:#0b0f14;--card:#121821;--text:#eef3fb;--muted:#b8c0cc;--accent:#5aa0ff;--accent2:#8ad1ff;--border:#1e2632
@@ -47,7 +47,7 @@ button:hover,a.btn:hover{border-color:var(--accent)} button:active,a.btn:active{
 <body>
   <div class="container">
     <div class="row" style="justify-content:space-between;align-items:baseline">
-      <h1>Quiz — Nourriture (1) — L045</h1>
+      <h1>Quiz — Décrire un lieu</h1>
       <div class="row"><a class="btn" href="index.html">🏠 Accueil</a></div>
     </div>
     <p class="sub">Leçon : S045</p>
@@ -104,7 +104,7 @@ function toggleQuiz(){
   frs.forEach(el=>{ el.style.visibility = chk.checked ? 'hidden' : 'visible'; });
 }
 </script>
-  <script>const POOL = [{"pt": "carne", "fr": "viande", "phon": "carné", "normal": "audio/0207-carne-8ecc854e.mp3"}, {"pt": "frango", "fr": "poulet", "phon": "frango", "normal": "audio/0208-frango-07dd38db.mp3"}, {"pt": "peixe", "fr": "poisson", "phon": "péïché", "normal": "audio/0209-peixe-45620bd6.mp3"}, {"pt": "salada", "fr": "salade", "phon": "salada", "normal": "audio/0210-salada-e7c54bfd.mp3"}, {"pt": "pão", "fr": "pain", "phon": "pã-oun", "normal": "audio/0085-pao-3464c04f.mp3"}, {"pt": "manteiga", "fr": "beurre", "phon": "mantèïga", "normal": "audio/0086-manteiga-25d1fa69.mp3"}];
+  <script>const POOL = [{"pt": "barulhento / silencioso", "fr": "bruyant / silencieux", "phon": "barulyentou / silenciosou", "normal": "audio/0019-barulhento-silencioso-500799bd.mp3"}, {"pt": "entrada", "fr": "entrée (plat) / entrée (lieu)", "phon": "entrada", "normal": "audio/0067-entrada-a9df7a76.mp3"}, {"pt": "perto / longe", "fr": "près / loin", "phon": "pertou / lonjè", "normal": "audio/0178-perto-longe-fd289bf0.mp3"}, {"pt": "aberto / fechado", "fr": "ouvert / fermé", "phon": "abertou / fechadou", "normal": "audio/0001-aberto-fechado-d5843aef.mp3"}, {"pt": "praça", "fr": "place (espace urbain)", "phon": "prassa", "normal": "audio/0189-praca-a91a66c1.mp3"}, {"pt": "parque", "fr": "parc", "phon": "parké", "normal": "audio/0175-parque-6aa440a4.mp3"}, {"pt": "endereço", "fr": "adresse", "phon": "enderessou", "normal": "audio/0066-endereco-ed0d4669.mp3"}, {"pt": "mapa", "fr": "plan / carte", "phon": "mapa", "normal": "audio/0153-mapa-4a472d01.mp3"}, {"pt": "esquina", "fr": "coin de rue", "phon": "eskina", "normal": "audio/0069-esquina-d29ae7b1.mp3"}, {"pt": "semáforo", "fr": "feu de circulation", "phon": "semaforou", "normal": "audio/0216-semaforo-fd6b66b5.mp3"}, {"pt": "eu viajo", "fr": "je voyager", "phon": "eu viajou", "normal": "audio/0097-eu-viajo-87a5ad8d.mp3"}, {"pt": "eu vou chamar", "fr": "je vais appeler", "phon": "eu vou chamar", "normal": "audio/0101-eu-vou-chamar-fe2aa9e8.mp3"}];
 function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; }
 function makeQuiz(POOL, limit){ const items=[...POOL]; shuffle(items); if(limit&&limit>0){ items.length=Math.min(limit,items.length);} return items; }
 function buildChoices(pool, answer, n=4){

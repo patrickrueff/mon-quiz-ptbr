@@ -1,24 +1,42 @@
 {
   "id": "S022",
-  "title": "Corps (1) — L022",
+  "title": "Les vêtements",
   "words": [
     {
-      "id": "cabeca-a172c0d6"
+      "id": "tamanho-581176c7"
     },
     {
-      "id": "olho-9d12fc46"
+      "id": "provador-13faa81e"
     },
     {
-      "id": "boca-42a50539"
+      "id": "plataforma-fa09ef81"
     },
     {
-      "id": "dente-6cca05c1"
+      "id": "bilhete-d98d49da"
     },
     {
-      "id": "mao-e7a8963d"
+      "id": "portao-e2f49bdd"
     },
     {
-      "id": "braco-6fa6dd9e"
+      "id": "embarque-79ffd84a"
+    },
+    {
+      "id": "desembarque-84d1469d"
+    },
+    {
+      "id": "check-in-94c0fbc3"
+    },
+    {
+      "id": "bagagem-252c434f"
+    },
+    {
+      "id": "documento-287ca5e5"
+    },
+    {
+      "id": "eu-fecho-7c03c944"
+    },
+    {
+      "id": "eu-vou-ficar-761ef41b"
     }
   ]
 }

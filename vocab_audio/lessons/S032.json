@@ -1,24 +1,42 @@
 {
   "id": "S032",
-  "title": "Infos personnelles — L032",
+  "title": "Dire ce qu’on aime ou pas",
   "words": [
     {
-      "id": "onde-voce-mora-83cb1363"
+      "id": "curtir-6d214168"
     },
     {
-      "id": "eu-moro-em-paris-8951938f"
+      "id": "gosto-de-7dda4356"
     },
     {
-      "id": "eu-me-chamo-82d1f38a"
+      "id": "nao-gosto-de-715aadb1"
     },
     {
-      "id": "meu-nome-e-bbaa48dc"
+      "id": "plataforma-fa09ef81"
     },
     {
-      "id": "de-onde-voce-e-43fd44e3"
+      "id": "bilhete-d98d49da"
     },
     {
-      "id": "eu-sou-da-franca-5a4175a3"
+      "id": "portao-e2f49bdd"
+    },
+    {
+      "id": "embarque-79ffd84a"
+    },
+    {
+      "id": "desembarque-84d1469d"
+    },
+    {
+      "id": "check-in-94c0fbc3"
+    },
+    {
+      "id": "bagagem-252c434f"
+    },
+    {
+      "id": "eu-como-b297a8d4"
+    },
+    {
+      "id": "eu-vou-chegar-f177e20e"
     }
   ]
 }

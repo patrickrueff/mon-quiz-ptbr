@@ -1,24 +1,42 @@
 {
   "id": "S060",
-  "title": "Quotidien (phrases 1) — L060",
+  "title": "Petits problèmes en voyage",
   "words": [
     {
-      "id": "eu-preciso-de-gluten-d56171a9"
+      "id": "atraso-a98508fa"
     },
     {
-      "id": "eu-preciso-de-lactose-ba885651"
+      "id": "cancelado-f5ef8596"
     },
     {
-      "id": "eu-trabalho-em-o-aeroporto-6e77353a"
+      "id": "fila-47a5d765"
     },
     {
-      "id": "eu-trabalho-em-a-estacao-12d7afe9"
+      "id": "furto-446937b9"
     },
     {
-      "id": "eu-trabalho-em-o-hotel-543ca020"
+      "id": "vazamento-49b55237"
     },
     {
-      "id": "eu-trabalho-em-o-restaurante-fdab6da0"
+      "id": "emergencia-e81e5bab"
+    },
+    {
+      "id": "ambulancia-45e6a068"
+    },
+    {
+      "id": "policia-667dddf8"
+    },
+    {
+      "id": "incendio-f84826e0"
+    },
+    {
+      "id": "bagagem-252c434f"
+    },
+    {
+      "id": "eu-como-b297a8d4"
+    },
+    {
+      "id": "eu-vou-chegar-f177e20e"
     }
   ]
 }

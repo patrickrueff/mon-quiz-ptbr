@@ -1,24 +1,42 @@
 {
   "id": "S071",
-  "title": "Famille (2) — L071",
+  "title": "Raconter un souvenir (passé)",
   "words": [
     {
-      "id": "tio-589f98f8"
+      "id": "ontem-4a127553"
     },
     {
-      "id": "tia-8a60f563"
+      "id": "lembranca-4fac1648"
     },
     {
-      "id": "amigo-01f07beb"
+      "id": "historia-1d89bb0f"
     },
     {
-      "id": "amiga-11c67d63"
+      "id": "hoje-b5364edb"
     },
     {
-      "id": "esposo-04c75626"
+      "id": "talvez-63e7eb19"
     },
     {
-      "id": "esposa-39dea479"
+      "id": "sim-813221ca"
+    },
+    {
+      "id": "nao-23f93a61"
+    },
+    {
+      "id": "pergunta-13957da7"
+    },
+    {
+      "id": "plataforma-fa09ef81"
+    },
+    {
+      "id": "bilhete-d98d49da"
+    },
+    {
+      "id": "eu-compro-ab15e612"
+    },
+    {
+      "id": "eu-vou-ligar-6d976459"
     }
   ]
 }

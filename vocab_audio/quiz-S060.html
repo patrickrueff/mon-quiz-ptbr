@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8" />
-  <title>Quiz — Quotidien (phrases 1) — L060</title>
+  <title>Quiz — Petits problèmes en voyage</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>:root{
   --bg:#0b0f14;--card:#121821;--text:#eef3fb;--muted:#b8c0cc;--accent:#5aa0ff;--accent2:#8ad1ff;--border:#1e2632
@@ -47,7 +47,7 @@ button:hover,a.btn:hover{border-color:var(--accent)} button:active,a.btn:active{
 <body>
   <div class="container">
     <div class="row" style="justify-content:space-between;align-items:baseline">
-      <h1>Quiz — Quotidien (phrases 1) — L060</h1>
+      <h1>Quiz — Petits problèmes en voyage</h1>
       <div class="row"><a class="btn" href="index.html">🏠 Accueil</a></div>
     </div>
     <p class="sub">Leçon : S060</p>
@@ -104,7 +104,7 @@ function toggleQuiz(){
   frs.forEach(el=>{ el.style.visibility = chk.checked ? 'hidden' : 'visible'; });
 }
 </script>
-  <script>const POOL = [{"pt": "Eu preciso de glúten", "fr": "J'ai besoin de Eu preciso de gluten", "phon": "eu preciso de gloutèn", "normal": "audio/0249-eu-preciso-de-gluten-d56171a9.mp3"}, {"pt": "Eu preciso de lactose", "fr": "J'ai besoin de Eu preciso de lactose", "phon": "eu preciso de lactôzi", "normal": "audio/0250-eu-preciso-de-lactose-ba885651.mp3"}, {"pt": "Eu trabalho em o aeroporto", "fr": "Je travaille à Eu travail em o aéroport", "phon": "eu trabailo em o aéropôrto", "normal": "audio/0251-eu-trabalho-em-o-aeroporto-6e77353a.mp3"}, {"pt": "Eu trabalho em a estação", "fr": "Je travaille à Eu travail em a gare / station", "phon": "eu trabailo em a estass-ã-oun", "normal": "audio/0252-eu-trabalho-em-a-estacao-12d7afe9.mp3"}, {"pt": "Eu trabalho em o hotel", "fr": "Je travaille à Eu travail em o hotel", "phon": "eu trabailo em o hotel", "normal": "audio/0253-eu-trabalho-em-o-hotel-543ca020.mp3"}, {"pt": "Eu trabalho em o restaurante", "fr": "Je travaille à Eu travail em o restaurante", "phon": "eu trabailo em o restaurante", "normal": "audio/0254-eu-trabalho-em-o-restaurante-fdab6da0.mp3"}];
+  <script>const POOL = [{"pt": "atraso", "fr": "retard", "phon": "atrasou", "normal": "audio/0013-atraso-a98508fa.mp3"}, {"pt": "cancelado", "fr": "annulé", "phon": "canceladou", "normal": "audio/0027-cancelado-f5ef8596.mp3"}, {"pt": "fila", "fr": "file d’attente", "phon": "fila", "normal": "audio/0134-fila-47a5d765.mp3"}, {"pt": "furto", "fr": "vol", "phon": "furtou", "normal": "audio/0138-furto-446937b9.mp3"}, {"pt": "vazamento", "fr": "fuite (eau)", "phon": "vazamentou", "normal": "audio/0239-vazamento-49b55237.mp3"}, {"pt": "emergência", "fr": "urgence", "phon": "emergencia", "normal": "audio/0064-emergencia-e81e5bab.mp3"}, {"pt": "ambulância", "fr": "ambulance", "phon": "ambulancia", "normal": "audio/0008-ambulancia-45e6a068.mp3"}, {"pt": "polícia", "fr": "police", "phon": "policia", "normal": "audio/0181-policia-667dddf8.mp3"}, {"pt": "incêndio", "fr": "incendie", "phon": "incendjïou", "normal": "audio/0144-incendio-f84826e0.mp3"}, {"pt": "bagagem", "fr": "bagage", "phon": "bagajèm", "normal": "audio/0015-bagagem-252c434f.mp3"}, {"pt": "eu como", "fr": "je manger", "phon": "eu comou", "normal": "audio/0074-eu-como-b297a8d4.mp3"}, {"pt": "eu vou chegar", "fr": "je vais arriver", "phon": "eu vou chegar", "normal": "audio/0102-eu-vou-chegar-f177e20e.mp3"}];
 function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; }
 function makeQuiz(POOL, limit){ const items=[...POOL]; shuffle(items); if(limit&&limit>0){ items.length=Math.min(limit,items.length);} return items; }
 function buildChoices(pool, answer, n=4){
